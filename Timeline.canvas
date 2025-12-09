@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"90d67085b0ef49a1","type":"group","x":-880,"y":160,"width":760,"height":740,"label":"1901"},
 		{"id":"ea3e09b415026ee6","type":"group","x":-2020,"y":160,"width":740,"height":740,"label":"1851-1900"},
-		{"id":"555683b9ce1f1fc9","type":"file","file":"Coalização global arcana militar CAMG.md","x":-860,"y":200,"width":302,"height":94},
+		{"id":"555683b9ce1f1fc9","type":"file","file":"Coalização global arcana militar CAMG.md","x":-860,"y":200,"width":302,"height":89},
 		{"id":"c4f7660aeb9b98c0","type":"file","file":"A revoluçao da areia/A revolução da areia.md","x":-856,"y":326,"width":298,"height":120},
 		{"id":"8e16f7ff5fafc074","type":"text","text":"1911","x":-620,"y":421,"width":91,"height":50,"color":"4"},
 		{"id":"ad1e9a50c8e06f96","type":"file","file":"Pilar de mármore.md","x":-1997,"y":200,"width":298,"height":114},

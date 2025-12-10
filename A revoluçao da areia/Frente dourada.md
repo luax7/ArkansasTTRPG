@@ -5,9 +5,8 @@ A frente dourada e um movimento revolucionário no Egito. Buscando a liberação
 O movimento funciona com uma ideologia Anarquista, fundada na organização das vilas tribais ou urbanas já estabelecidas no Egito. Isso pois, depois de anos sendo controlados pela coroa e forças exteriores, o humor na região se tornou parte isolacionista e fortemente independente, sendo forçados a agir dentro do regime monarquista estabelecido.
 
 Sua força vem principalmente de praticas ritualísticas, que, com o inicio das ondas de mana do deserto, começaram a ganhar características arcanas, fortalecendo seus efeitos e consequências. Dessa forma, a frente dourada ganhou sua característica
-# Liberum Deserti
-A Liberum Deserti, libertação do deserto, se trata tanto do nome dado a rede das vilas do deserto, quanto do destino final da frente dourada.
 
+A Liberum Deserti, libertação do deserto, se trata tanto do nome dado a rede das vilas do deserto, quanto do destino final da frente dourada. com o estabelecimento da ordem, as vilas serão libertas, e todas serão completamente independentes, guiadas apenas pelo seu próprio julgamento.
 # Organização
  O grupo possui uma organização descentralizada, com as vilas individuais compartilhando informações e recursos com a intenção de subjugar a coroa.
 

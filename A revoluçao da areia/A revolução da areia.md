@@ -16,3 +16,7 @@ A proposta geral do RPG será basicamente uma luta entre os dois grupos, onde os
 
 Vamos mirar em 4 sessões de 3 horas cada, totalizando 12 horas de RPG 
 
+# Introdução 
+Os jogadores são pessoas que foram parar na cidade de Cairo em 1910 ou antes. Vivendo na capital egicipia, foi extremamente perceptível a exclusão e opressão sofrida por grupos minoritários como os beduínos ou coptas. Mesmo que não fossem atingidos diretamente. 
+
+Em 18 de 

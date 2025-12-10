@@ -19,4 +19,4 @@ Vamos mirar em 4 sessões de 3 horas cada, totalizando 12 horas de RPG
 # Introdução 
 Os jogadores são pessoas que foram parar na cidade de Cairo em 1910 ou antes. Vivendo na capital egicipia, foi extremamente perceptível a exclusão e opressão sofrida por grupos minoritários como os beduínos ou coptas. Mesmo que não fossem atingidos diretamente. 
 
-Em 18 de 
+Em 18 de outubro de 1911, um grande ato foi feito pela frente dourada, iniciando um conflito armado entre as forças da coroa, os novos oficiais e a força revolucionária. Dessa forma, novas políticas de monitoramento de borda e de quarentena militar foram estabelecidos , fazendo com que os civis de Cairo ficassem presos em uma cidade repleta de caos e conflitos. 

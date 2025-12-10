@@ -11,4 +11,8 @@ Os novos oficiais (Grupo real), que busca a manutenção dos sistemas públicos,
 
 A revolução da areia / [[Frente dourada]] (Grupo fictício), que busca implementar um modelo anarquista, extinguindo os sistemas públicos e estabelecendo ordens de monitoramento e enforcamento da lei partindo do próprio corpo civil, ao invés de um sistema centralizado. Buscando assim o estabelecimento da Liberum Deserti (Ordem de liberação do deserto). Essa ordem, devido ao seu menor poder de trabalho, utiliza do arcano, criando assim uma força muito mais mutada pela [[Sintropia arcana]] e mais diversificada.
 
-#
+# Proposta
+A proposta geral do RPG será basicamente uma luta entre os dois grupos, onde os players podem tomar diversas ações que ajudam um ou outro para fazerem diferença nessa luta.
+
+Vamos mirar em 4 sessões de 3 horas cada, totalizando 12 horas de RPG 
+

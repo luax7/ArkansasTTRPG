@@ -13,6 +13,11 @@ Esse ato é referente a uma perseguição de um agente da Frente Dourada que se 
 > Instintivamente, vocês olham pra fora da loja, procurando uma rota de fuga, ou melhor entendimento da situação, porém, uma névoa na tomou as vielas do mercado, com um cheiro de pólvora e sangue impregnado no ar, quase anunciando a violência que vitimiza o povo de Cairo
 ### Sequência 
 Nesse momento, vocês veem um homem grande saindo de uma das vielas, mancando, e com sangue manchando suas roupas.
-Ele tenta entrar na loja que vocês estão, mas colapsa logo antes de entrar, bem em seus pés 
+Ele tenta entrar na loja que vocês estão, mas colapsa logo antes de entrar, bem em seus pés.
 
-Esse ponto representa a decisão dos players da faccao que eles irão se alinhar nessa sessão, sendo ela a [[Frente dourada]], os novos oficiais ou ignorar essa entrada.
+Esse ponto representa a decisão dos players da facção que eles irão se alinhar nessa sessão, sendo ela a [[Frente dourada]], os novos oficiais ou ignorar essa entrada.
+
+Tambem é possível apenas pegar as cartas e ignorar o homem, nesse caso, os jogadores serão procurados pela Frente dourada posteriormente, para recuperar as informações. 
+
+## O revolucionário
+O homem se apresenta como

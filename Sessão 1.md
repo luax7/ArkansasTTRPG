@@ -7,6 +7,12 @@ As personagens se encontram, e enquanto compram seus mantimentos e ou cafés da 
 Esse ato é referente a uma perseguição de um agente da Frente Dourada que se escondeu em algum lugar do mercado.
 
 ### Narração
+
 > Vocês começam a escutar sons de tiros espaçados, gritos e tambores ( utilizados para comunicar ordens )
 >
-> Instintivamente, vocês olham pra fora da loja, procurando uma rota de fuga, ou melhor entendimento da situação, porém, uma névoa na tomou as vielas do mercado, com um cheiro de pólvora e sangue im
+> Instintivamente, vocês olham pra fora da loja, procurando uma rota de fuga, ou melhor entendimento da situação, porém, uma névoa na tomou as vielas do mercado, com um cheiro de pólvora e sangue impregnado no ar, quase anunciando a violência que vitimiza o povo de Cairo
+### Sequência 
+Nesse momento, vocês veem um homem grande saindo de uma das vielas, mancando, e com sangue manchando suas roupas.
+Ele tenta entrar na loja que vocês estão, mas colapsa logo antes de entrar, bem em seus pés 
+
+Esse ponto representa a decisão dos players da faccao que eles irão se alinhar nessa sessão, sendo ela a [[Frente dourada]], os novos oficiais ou ignorar essa entrada.

@@ -7,4 +7,6 @@ As personagens se encontram, e enquanto compram seus mantimentos e ou cafés da 
 Esse ato é referente a uma perseguição de um agente da Frente Dourada que se escondeu em algum lugar do mercado.
 
 ### Narração
- Vocês correm p
+> Vocês começam a escutar sons de tiros espaçados, gritos e tambores ( utilizados para comunicar ordens )
+>
+> Instintivamente, vocês olham pra fora da loja, procurando uma rota de fuga, ou melhor entendimento da situação, porém, uma névoa na tomou as vielas do mercado, com um cheiro de pólvora e sangue im

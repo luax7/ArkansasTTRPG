@@ -10,10 +10,11 @@ Sua força vem principalmente de praticas ritualísticas, que, com o inicio das 
 
 No entanto, os indivíduos que buscam participar das atividades recebem denominações especificas baseadas em suas capacidades físicas ou arcanas.
 
-
 | Nome              | Características                                                                                                                                                                                                                               | Função                                                                                          |
 | ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
 | Oráculos da areia | Devido a praticas antigas relacionadas a formas de clarividência, ou de prever características futuras do ambiente hostil, alguns indivíduos desenvolveram poderes oraculares, capazes de prever ações da coroa, como ataques ou mobilizaçoes | Informantes da revolução, servem como uma maneira segura de adquirir informação acerca da coroa |
+| Guardas das Dunas | Esses indivíduos foram modificados pela mana de formas que fortaleceu seu corpo. Seja através de rituais ou da própria [[Sintropia arcana]], seu corpo se tornou superior do que o de pessoas normais                                         | Servem como a força militar principal da frente dourada. compartilhados entre as vilas.         |
+| Xamanistas        | Indivíduos que detém conhecimento e capacidade arcana para controlar rituais ou outros processos relacionados ao arcano.                                                                                                                      | Servem como conjuradores ou curandeiros. Responsáveis pelo suporte magico da facção.            |
 
 
 # Personagens relevantes

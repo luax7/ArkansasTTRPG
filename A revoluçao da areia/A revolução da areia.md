@@ -15,4 +15,4 @@ Dessa forma, o pais ficou divido em 3 forças :
 	
 #
 
-[^1]: A Liberum Deserti e como e chamada o formato de organizações livres assim
+[^1]: A Liberum Deserti é como é chamada o modelo de organização dos grupos e tribos no território do Egito. 

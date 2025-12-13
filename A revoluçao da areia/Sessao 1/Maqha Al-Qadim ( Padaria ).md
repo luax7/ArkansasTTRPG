@@ -1,0 +1,4 @@
+O café ocupava a esquina de uma rua estreita do Cairo, onde o pó do deserto se misturava ao cheiro permanente de especiarias e carvão queimado. A fachada era simples, de paredes caiadas já amareladas pelo sol, com inscrições em árabe pintadas à mão anunciando chá, café e narguilé. Um toldo de tecido grosso, desbotado pelo tempo, projetava sombra sobre a calçada irregular, onde pequenas mesas de madeira escura se espalhavam de forma quase improvisada.
+
+### interior
+No interior, o ambiente era baixo e denso, tomado pela fumaça doce do tabaco aromatizado. Lâmpadas a óleo pendiam do teto, lançando uma luz amarelada que refletia em jarros de cobre e bandejas de latão apoiadas atrás do balcão. O chão de pedra estava gasto pelos anos de passos constantes, e tapetes finos, já puídos, delimitavam áreas onde os clientes se sentavam em bancos baixos ou almofadas encostadas às paredes.

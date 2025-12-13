@@ -12,7 +12,8 @@ Os novos oficiais ([Grupo real](https://pt.wikipedia.org/wiki/Movimento_dos_Ofic
 A revolução da areia / [[Frente dourada]] (Grupo fictício), que busca implementar um modelo anarquista, extinguindo os sistemas públicos e estabelecendo ordens de monitoramento e enforcamento da lei partindo do próprio corpo civil, ao invés de um sistema centralizado. Buscando assim o estabelecimento da Liberum Deserti (Ordem de liberação do deserto)[^1]. Essa ordem, devido ao seu menor poder de trabalho, utiliza do arcano, criando assim uma força muito mais mutada pela [[Sintropia arcana]] e mais diversificada.
 
 # Sistema de apoio
-Os jogadores, ao longo do jogo, irão se deparar com diversas situações onde cabe a eles decidir o futi
+Os jogadores, ao longo do jogo, irão se deparar com diversas situações onde cabe a eles decidir o futuro do cenario diretamente, assim como seu apoio por cada um dos grupos.
+Isso impactara no final do RPG, onde em linhas gerais, o grupo com mais eventos 
 
 
 [^1]: A Liberum Deserti é como é chamada o modelo de organização dos grupos e tribos no território do Egito defendido pela [[Frente dourada]]. 

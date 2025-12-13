@@ -1,5 +1,6 @@
-#definiçao
+
 # Descrição
+#definiçao
 Magiarcas são seres humanos que através das ondas arcanas produzidas pelo [[Pilar de mármore]]
 Esses humanos apresentaram muitas mudanças físicas e mentais após sua transformação, devido ao processo da [[Sintropia arcana]].
 

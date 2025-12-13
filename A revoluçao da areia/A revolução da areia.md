@@ -20,7 +20,8 @@ Isso impactara no final do RPG, onde em linhas gerais, o grupo com mais eventos 
 | Frente dourada  |               |           |
 | Novos oficias   |               |           |
 | Forças da coroa |               |           |
-# Organizaçao
+
+# Anotações 
 
 
 [^1]: A Liberum Deserti é como é chamada o modelo de organização dos grupos e tribos no território do Egito defendido pela [[Frente dourada]]. 

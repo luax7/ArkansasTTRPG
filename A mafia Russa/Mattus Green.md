@@ -3,7 +3,7 @@
 > – Ditado popular entre mineradores russos a respeito de Mattus.
 
 ---
-![[ChatGPT Image 30 de jul. de 2025, 00_08_07.png]]
+![[Mattus Green.png]]
 ### 📜 Origens
 
 - **Nascimento**: 1895, nos arredores de uma mina controlada por uma corporação russa.

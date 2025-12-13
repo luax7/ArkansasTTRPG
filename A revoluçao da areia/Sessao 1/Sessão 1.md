@@ -19,7 +19,3 @@ Esse ponto representa a decisão dos players da facção que eles irão se alinh
 
 Também é possível apenas pegar as cartas e ignorar o homem, nesse caso, os jogadores serão procurados pela Frente dourada posteriormente, para recuperar as informações. 
 ## Cena
-
-
-## O revolucionário
-O homem se apresenta como Al-Sarim, ele diz ser um batedor 

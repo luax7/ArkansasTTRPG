@@ -3,8 +3,7 @@ Campanha em **[[Historia base]]**
 
 # Contexto histórico
 
-Em 1911, o Egito e controlado por um regime monarquista parlamentar rodeada de uma concentração tremenda de terras e dinheiro em uma minúscula elite, chegando a 10% dos mais ricos controlarem 70% da terra do pais. Outra questão que assombrava o Egito era a questão 
-
+Em 1911, o Egito e controlado por um regime monarquista parlamentar rodeada de uma concentração tremenda de terras e dinheiro em uma minúscula elite, chegando a 10% dos mais ricos controlarem 70% da terra do pais. Outra questão que assombrava o Egito era a questão das influencias europeias, que a muito ocupavam os poderes políticos da nação, corroendo o território e seu povo.
 
 Dessa forma, dois grupos consolidaram-se como protagonistas na resistência e subversão do regime monárquico.
 

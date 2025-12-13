@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"7474d2c132707996","x":-140,"y":-260,"width":580,"height":300,"type":"group","label":"Cena mercado"},
-		{"id":"d9117b314e82abc0","x":-920,"y":-440,"width":385,"height":170,"type":"text","text":"Personagens começam apresentando sua casa, aparência , nome, e sao levados a uma padaria."}
-	],
-	"edges":[
-		{"id":"99622a25dc48c195","fromNode":"d9117b314e82abc0","fromSide":"right","toNode":"7474d2c132707996","toSide":"left","label":"Os jogadores descrevem a ida ao mercado"}
-	]
-}

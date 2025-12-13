@@ -11,8 +11,7 @@ Os novos oficiais (Grupo real), que busca a manutenção dos sistemas públicos,
 
 A revolução da areia / [[Frente dourada]] (Grupo fictício), que busca implementar um modelo anarquista, extinguindo os sistemas públicos e estabelecendo ordens de monitoramento e enforcamento da lei partindo do próprio corpo civil, ao invés de um sistema centralizado. Buscando assim o estabelecimento da Liberum Deserti (Ordem de liberação do deserto)[^1]. Essa ordem, devido ao seu menor poder de trabalho, utiliza do arcano, criando assim uma força muito mais mutada pela [[Sintropia arcana]] e mais diversificada.
 
-Dessa forma, o pais ficou divido em 3 forças :
-	
+Dessa forma, o pais ficou divido em 3 forças absurdamente violentas
 #
 
-[^1]: A Liberum Deserti é como é chamada o modelo de organização dos grupos e tribos no território do Egito. 
+[^1]: A Liberum Deserti é como é chamada o modelo de organização dos grupos e tribos no território do Egito defendido pela [[Frente dourada]]. 

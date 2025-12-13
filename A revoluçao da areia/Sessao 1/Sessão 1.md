@@ -17,7 +17,9 @@ Ele tenta entrar na loja que vocês estão, mas colapsa logo antes de entrar, be
 
 Esse ponto representa a decisão dos players da facção que eles irão se alinhar nessa sessão, sendo ela a [[Frente dourada]], os novos oficiais ou ignorar essa entrada.
 
-Tambem é possível apenas pegar as cartas e ignorar o homem, nesse caso, os jogadores serão procurados pela Frente dourada posteriormente, para recuperar as informações. 
+Também é possível apenas pegar as cartas e ignorar o homem, nesse caso, os jogadores serão procurados pela Frente dourada posteriormente, para recuperar as informações. 
+## Cena
+
 
 ## O revolucionário
 O homem se apresenta como Al-Sarim, ele diz ser um batedor 

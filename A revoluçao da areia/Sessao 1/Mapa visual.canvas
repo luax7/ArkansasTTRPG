@@ -1,20 +1,32 @@
 {
 	"nodes":[
 		{"id":"7474d2c132707996","type":"group","x":-140,"y":-180,"width":1940,"height":1060,"label":"Cena mercado"},
-		{"id":"34bdbbe74ca22cca","type":"file","file":"A revoluçao da areia/Sessao 1/Maqha Al-Qadim ( Padaria ).md","x":-120,"y":-140,"width":480,"height":100},
-		{"id":"f80f9d7b89138387","type":"text","text":"Uma invasão do mercado central e conduzida com a justificativa de investigar a associação dos vendedores com a frente dourada. Essa Invasão e conduzida principalmente pela coroa, mas novos oficiais estão presentes procurando informaçoes.","x":-120,"y":-20,"width":480,"height":140},
 		{"id":"d9117b314e82abc0","type":"text","text":"Personagens começam apresentando sua casa, aparência , nome, e sao levados a uma padaria.","x":-1140,"y":-175,"width":385,"height":170},
-		{"id":"31ec3fc170d7fcac","type":"file","file":"A revoluçao da areia/Sessao 1/O Revolucionario.md","x":-120,"y":160,"width":480,"height":160},
-		{"id":"b77df321c28a5974","type":"text","text":"+2 Pontos pra frente","x":288,"y":-309,"width":250,"height":60},
-		{"id":"c337be670275c39a","type":"text","text":"Pegar a carta e deixar ele","x":482,"y":210,"width":250,"height":60},
-		{"id":"951966cb1f98ae1b","type":"text","text":"Entregar o revolucionario","x":482,"y":60,"width":250,"height":60},
-		{"id":"293219639e9b2d10","type":"text","text":"Ajudar o revolucinario a sobreviver","x":482,"y":-80,"width":250,"height":60},
-		{"id":"118c6b4fdfa42ac4","type":"text","text":"+1 ponto novos oficiais","x":580,"y":-309,"width":250,"height":60},
-		{"id":"3ea4d730781362b9","type":"text","text":"+1 ponto frente, +1 novos oficiais","x":860,"y":-309,"width":250,"height":60},
+		{"id":"c337be670275c39a","type":"text","text":"Pegar a carta e deixar ele","x":482,"y":210,"width":250,"height":60,"color":"5"},
+		{"id":"951966cb1f98ae1b","type":"text","text":"Entregar o revolucionario","x":482,"y":60,"width":250,"height":60,"color":"5"},
+		{"id":"293219639e9b2d10","type":"text","text":"Ajudar o revolucinario a sobreviver","x":482,"y":-80,"width":250,"height":60,"color":"5"},
+		{"id":"118c6b4fdfa42ac4","type":"text","text":"+1 ponto novos oficiais","x":580,"y":-309,"width":250,"height":60,"color":"6"},
+		{"id":"3ea4d730781362b9","type":"text","text":"+1 ponto frente, +1 novos oficiais","x":860,"y":-309,"width":250,"height":60,"color":"6"},
 		{"id":"3334a8505dd90f22","type":"file","file":"Invasão do café ( Novos  oficiais ).md","x":1140,"y":-140,"width":380,"height":120,"color":"3"},
-		{"id":"1b064b52ab9ae718","type":"text","text":"Novos oficiais chamam o grupo para ajudalos como civis","x":814,"y":50,"width":264,"height":81,"color":"5"},
+		{"id":"1b064b52ab9ae718","type":"text","text":"Novos oficiais chamam o grupo para ajudalos como civis","x":814,"y":50,"width":264,"height":81},
 		{"id":"a007f6d5890a2a47","type":"text","text":"Continuaçao","x":1267,"y":61,"width":250,"height":60},
-		{"id":"3ddf573d21477149","type":"file","file":"Invasao do cafe (oficiais da coroa ).md","x":880,"y":500,"width":395,"height":132,"color":"3"}
+		{"id":"34bdbbe74ca22cca","type":"file","file":"A revoluçao da areia/Sessao 1/Maqha Al-Qadim ( Padaria ).md","x":-120,"y":-140,"width":480,"height":100,"color":"3"},
+		{"id":"f80f9d7b89138387","type":"text","text":"Uma invasão do mercado central e conduzida com a justificativa de investigar a associação dos vendedores com a frente dourada. Essa Invasão e conduzida principalmente pela coroa, mas novos oficiais estão presentes procurando informaçoes.","x":-120,"y":-20,"width":480,"height":140},
+		{"id":"31ec3fc170d7fcac","type":"file","file":"A revoluçao da areia/Sessao 1/O Revolucionario.md","x":-120,"y":160,"width":480,"height":160},
+		{"id":"b77df321c28a5974","type":"text","text":"+2 Pontos pra frente","x":288,"y":-309,"width":250,"height":60,"color":"6"},
+		{
+			"id":"3ddf573d21477149",
+			"type":"file",
+			"file":"Invasao do cafe (oficiais da coroa ).md",
+			"styleAttributes":{
+				"border":null
+			},
+			"x":880,
+			"y":500,
+			"width":395,
+			"height":132,
+			"color":"3"
+		}
 	],
 	"edges":[
 		{"id":"99622a25dc48c195","fromNode":"d9117b314e82abc0","fromSide":"right","toNode":"7474d2c132707996","toSide":"left","label":"Os jogadores descrevem a ida ao mercado"},
@@ -23,12 +35,55 @@
 		{"id":"cca01e7b3cc3cd66","fromNode":"31ec3fc170d7fcac","fromSide":"right","toNode":"293219639e9b2d10","toSide":"left"},
 		{"id":"97fc2f4931287a0d","fromNode":"31ec3fc170d7fcac","fromSide":"right","toNode":"951966cb1f98ae1b","toSide":"left"},
 		{"id":"cca3bc3f621abd3a","fromNode":"31ec3fc170d7fcac","fromSide":"right","toNode":"c337be670275c39a","toSide":"left"},
-		{"id":"5c8ec0fae4a46470","fromNode":"293219639e9b2d10","fromSide":"top","toNode":"b77df321c28a5974","toSide":"bottom"},
-		{"id":"6acdedd5f18fe378","fromNode":"951966cb1f98ae1b","fromSide":"top","toNode":"118c6b4fdfa42ac4","toSide":"bottom"},
-		{"id":"7764df1601f5dc0b","fromNode":"c337be670275c39a","fromSide":"top","toNode":"3ea4d730781362b9","toSide":"bottom"},
+		{
+			"id":"5c8ec0fae4a46470",
+			"toFloating":false,
+			"styleAttributes":{
+				"path":null,
+				"pathfindingMethod":"square"
+			},
+			"fromNode":"293219639e9b2d10",
+			"fromSide":"top",
+			"toNode":"b77df321c28a5974",
+			"toSide":"bottom"
+		},
+		{
+			"id":"6acdedd5f18fe378",
+			"toFloating":false,
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"fromNode":"951966cb1f98ae1b",
+			"fromSide":"top",
+			"toNode":"118c6b4fdfa42ac4",
+			"toSide":"bottom"
+		},
+		{
+			"id":"7764df1601f5dc0b",
+			"toFloating":false,
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"fromNode":"c337be670275c39a",
+			"fromSide":"top",
+			"toNode":"3ea4d730781362b9",
+			"toSide":"bottom"
+		},
 		{"id":"c9c8d8741a50e1ff","fromNode":"951966cb1f98ae1b","fromSide":"right","toNode":"1b064b52ab9ae718","toSide":"left"},
 		{"id":"d3071bd3560c8bde","fromNode":"293219639e9b2d10","fromSide":"right","toNode":"3334a8505dd90f22","toSide":"left"},
-		{"id":"98d07fb6cca3192f","fromNode":"c337be670275c39a","fromSide":"right","toNode":"3ddf573d21477149","toSide":"left"},
+		{
+			"id":"98d07fb6cca3192f",
+			"toFloating":false,
+			"styleAttributes":{
+				"arrow":"diamond",
+				"path":null
+			},
+			"fromNode":"c337be670275c39a",
+			"fromSide":"right",
+			"toNode":"3ddf573d21477149",
+			"toSide":"left"
+		},
 		{"id":"fac21b5adcd51394","fromNode":"1b064b52ab9ae718","fromSide":"right","toNode":"a007f6d5890a2a47","toSide":"left"}
-	]
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{},
+		"startNode":"70f835452b5bf60f"
+	}
 }

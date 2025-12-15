@@ -9,11 +9,12 @@
 		{"id":"c337be670275c39a","type":"text","text":"Pegar a carta e deixar ele","x":482,"y":210,"width":250,"height":60},
 		{"id":"951966cb1f98ae1b","type":"text","text":"Entregar o revolucionario","x":482,"y":60,"width":250,"height":60},
 		{"id":"293219639e9b2d10","type":"text","text":"Ajudar o revolucinario a sobreviver","x":482,"y":-80,"width":250,"height":60},
-		{"id":"3ea4d730781362b9","type":"text","text":"+1 ponto frente, +1 novos oficiais","x":860,"y":-309,"width":250,"height":60},
 		{"id":"118c6b4fdfa42ac4","type":"text","text":"+1 ponto novos oficiais","x":580,"y":-309,"width":250,"height":60},
-		{"id":"1b064b52ab9ae718","type":"text","text":"Novos oficiais chamam o grupo para ajudalos como civis","x":786,"y":50,"width":264,"height":81},
-		{"id":"938b3722eb9d5d97","type":"text","text":"Cena de investigação ( Agora com militares dos novos oficiais) + uma procuraçao da frente dourada","x":777,"y":175,"width":273,"height":130},
-		{"id":"3334a8505dd90f22","type":"file","file":"Invasão do café.md","x":1140,"y":-140,"width":380,"height":120}
+		{"id":"3ea4d730781362b9","type":"text","text":"+1 ponto frente, +1 novos oficiais","x":860,"y":-309,"width":250,"height":60},
+		{"id":"3334a8505dd90f22","type":"file","file":"Invasão do café ( Novos  oficiais ).md","x":1140,"y":-140,"width":380,"height":120,"color":"3"},
+		{"id":"1b064b52ab9ae718","type":"text","text":"Novos oficiais chamam o grupo para ajudalos como civis","x":814,"y":50,"width":264,"height":81,"color":"5"},
+		{"id":"a007f6d5890a2a47","type":"text","text":"Continuaçao","x":1267,"y":61,"width":250,"height":60},
+		{"id":"3ddf573d21477149","type":"file","file":"Invasao do cafe (oficiais da coroa ).md","x":880,"y":500,"width":395,"height":132,"color":"3"}
 	],
 	"edges":[
 		{"id":"99622a25dc48c195","fromNode":"d9117b314e82abc0","fromSide":"right","toNode":"7474d2c132707996","toSide":"left","label":"Os jogadores descrevem a ida ao mercado"},
@@ -26,7 +27,8 @@
 		{"id":"6acdedd5f18fe378","fromNode":"951966cb1f98ae1b","fromSide":"top","toNode":"118c6b4fdfa42ac4","toSide":"bottom"},
 		{"id":"7764df1601f5dc0b","fromNode":"c337be670275c39a","fromSide":"top","toNode":"3ea4d730781362b9","toSide":"bottom"},
 		{"id":"c9c8d8741a50e1ff","fromNode":"951966cb1f98ae1b","fromSide":"right","toNode":"1b064b52ab9ae718","toSide":"left"},
-		{"id":"b0d0f6c0291560f4","fromNode":"c337be670275c39a","fromSide":"right","toNode":"938b3722eb9d5d97","toSide":"left"},
-		{"id":"d3071bd3560c8bde","fromNode":"293219639e9b2d10","fromSide":"right","toNode":"3334a8505dd90f22","toSide":"left"}
+		{"id":"d3071bd3560c8bde","fromNode":"293219639e9b2d10","fromSide":"right","toNode":"3334a8505dd90f22","toSide":"left"},
+		{"id":"98d07fb6cca3192f","fromNode":"c337be670275c39a","fromSide":"right","toNode":"3ddf573d21477149","toSide":"left"},
+		{"id":"fac21b5adcd51394","fromNode":"1b064b52ab9ae718","fromSide":"right","toNode":"a007f6d5890a2a47","toSide":"left"}
 	]
 }

@@ -52,10 +52,21 @@
 			"type":"text",
 			"text":"Continuaçao",
 			"styleAttributes":{},
-			"x":1900,
+			"x":2020,
 			"y":-65,
 			"width":260,
 			"height":60
+		},
+		{
+			"id":"64e33fde61dbb8ea",
+			"type":"text",
+			"text":"+2 de caos do cenário",
+			"styleAttributes":{},
+			"x":2020,
+			"y":-309,
+			"width":260,
+			"height":60,
+			"color":"6"
 		}
 	],
 	"edges":[
@@ -161,6 +172,24 @@
 			"toSide":"left",
 			"color":"1",
 			"label":"Matar os guardas"
+		},
+		{
+			"id":"0c276153b65c75da",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"ac62e54629ca6928",
+			"fromSide":"top",
+			"toNode":"64e33fde61dbb8ea",
+			"toSide":"bottom"
+		},
+		{
+			"id":"cb3c5dfee95306f9",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"3334a8505dd90f22",
+			"fromSide":"right",
+			"toNode":"2f704360693b0211",
+			"toSide":"left"
 		}
 	],
 	"metadata":{

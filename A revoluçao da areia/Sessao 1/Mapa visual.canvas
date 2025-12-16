@@ -77,16 +77,6 @@
 			"color":"6"
 		},
 		{"id":"d9117b314e82abc0","type":"text","text":"Personagens começam apresentando sua casa, aparência , nome, e sao levados a uma padaria.","x":-4620,"y":-52,"width":385,"height":170},
-		{
-			"id":"8393ba719fc086bd",
-			"type":"text",
-			"text":"Os jogadores recebem uma carta passada por baixo da porta",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-4560,
-			"y":-340,
-			"width":260,
-			"height":140
-		},
 		{"id":"1b064b52ab9ae718","type":"text","text":"Novos oficiais chamam o grupo para ajudalos como civis","x":-2100,"y":43,"width":272,"height":105},
 		{
 			"id":"407ecd308d984a30",
@@ -98,6 +88,56 @@
 			"width":280,
 			"height":77,
 			"color":"1"
+		},
+		{
+			"id":"8393ba719fc086bd",
+			"type":"text",
+			"text":"Os jogadores recebem uma carta passada por baixo da porta",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-4557,
+			"y":-680,
+			"width":260,
+			"height":140
+		},
+		{
+			"id":"b0f088a17bf4d8fc",
+			"type":"text",
+			"text":"Personagens relacionados aos novos oficiais",
+			"styleAttributes":{},
+			"x":-5160,
+			"y":-660,
+			"width":260,
+			"height":100
+		},
+		{
+			"id":"c15b9f1e3834d1de",
+			"type":"text",
+			"text":"",
+			"styleAttributes":{},
+			"x":-5280,
+			"y":-560,
+			"width":600,
+			"height":360
+		},
+		{
+			"id":"1aabb2a4090251bf",
+			"type":"text",
+			"text":"Personagens relacionados a frente dourada",
+			"styleAttributes":{},
+			"x":-4115,
+			"y":-660,
+			"width":260,
+			"height":100
+		},
+		{
+			"id":"5a95a36c13e1f062",
+			"type":"text",
+			"text":"",
+			"styleAttributes":{},
+			"x":-4235,
+			"y":-560,
+			"width":600,
+			"height":360
 		}
 	],
 	"edges":[
@@ -257,6 +297,24 @@
 			"fromSide":"bottom",
 			"toNode":"d9117b314e82abc0",
 			"toSide":"top"
+		},
+		{
+			"id":"436be34bf1db9265",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"8393ba719fc086bd",
+			"fromSide":"left",
+			"toNode":"b0f088a17bf4d8fc",
+			"toSide":"right"
+		},
+		{
+			"id":"b38f3fcdb8c9e9cd",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"8393ba719fc086bd",
+			"fromSide":"right",
+			"toNode":"1aabb2a4090251bf",
+			"toSide":"left"
 		}
 	],
 	"metadata":{

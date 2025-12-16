@@ -25,25 +25,22 @@
 			"width":260,
 			"height":60
 		},
+		{"id":"951966cb1f98ae1b","type":"text","text":"Entregar o revolucionario","x":-2420,"y":65,"width":250,"height":60,"color":"5"},
+		{"id":"293219639e9b2d10","type":"text","text":"Ajudar o revolucinario a sobreviver","x":-2418,"y":-225,"width":250,"height":60,"color":"5"},
+		{"id":"3334a8505dd90f22","type":"file","file":"A revoluçao da areia/Sessao 1/Invasão do café ( Novos  oficiais ).md","x":-1763,"y":-255,"width":380,"height":120,"color":"3"},
+		{
+			"id":"330b9363599c73f0",
+			"type":"text",
+			"text":"Ser descoberto",
+			"styleAttributes":{},
+			"x":-980,
+			"y":65,
+			"width":260,
+			"height":60
+		},
 		{"id":"34bdbbe74ca22cca","type":"file","file":"A revoluçao da areia/Sessao 1/Maqha Al-Qadim ( Padaria ).md","x":-3020,"y":-285,"width":480,"height":100,"color":"3"},
 		{"id":"f80f9d7b89138387","type":"text","text":"Uma invasão do mercado central e conduzida com a justificativa de investigar a associação dos vendedores com a frente dourada. Essa Invasão e conduzida principalmente pela coroa, mas novos oficiais estão presentes procurando informaçoes.","x":-3020,"y":-165,"width":480,"height":140},
-		{"id":"951966cb1f98ae1b","type":"text","text":"Entregar o revolucionario","x":-2420,"y":65,"width":250,"height":60,"color":"5"},
-		{"id":"d9117b314e82abc0","type":"text","text":"Personagens começam apresentando sua casa, aparência , nome, e sao levados a uma padaria.","x":-4600,"y":-52,"width":385,"height":170},
-		{"id":"293219639e9b2d10","type":"text","text":"Ajudar o revolucinario a sobreviver","x":-2418,"y":-225,"width":250,"height":60,"color":"5"},
-		{
-			"id":"407ecd308d984a30",
-			"type":"text",
-			"text":"Isso abre espaço para traiçao mais profunda do movimento",
-			"styleAttributes":{},
-			"x":-2108,
-			"y":-95,
-			"width":280,
-			"height":85,
-			"color":"1"
-		},
-		{"id":"3334a8505dd90f22","type":"file","file":"A revoluçao da areia/Sessao 1/Invasão do café ( Novos  oficiais ).md","x":-1763,"y":-255,"width":380,"height":120,"color":"3"},
 		{"id":"31ec3fc170d7fcac","type":"file","file":"A revoluçao da areia/Sessao 1/O Revolucionario.md","x":-3020,"y":15,"width":480,"height":376},
-		{"id":"1b064b52ab9ae718","type":"text","text":"Novos oficiais chamam o grupo para ajudalos como civis","x":-2100,"y":55,"width":264,"height":81},
 		{
 			"id":"3ddf573d21477149",
 			"type":"file",
@@ -58,16 +55,6 @@
 			"color":"3"
 		},
 		{"id":"c337be670275c39a","type":"text","text":"Pegar a carta e deixar ele","x":-2418,"y":295,"width":250,"height":60,"color":"5"},
-		{
-			"id":"330b9363599c73f0",
-			"type":"text",
-			"text":"Ser descoberto",
-			"styleAttributes":{},
-			"x":-980,
-			"y":65,
-			"width":260,
-			"height":60
-		},
 		{
 			"id":"105360fab1f966ee",
 			"type":"text",
@@ -88,10 +75,33 @@
 			"width":260,
 			"height":60,
 			"color":"6"
+		},
+		{"id":"d9117b314e82abc0","type":"text","text":"Personagens começam apresentando sua casa, aparência , nome, e sao levados a uma padaria.","x":-4620,"y":-52,"width":385,"height":170},
+		{
+			"id":"8393ba719fc086bd",
+			"type":"text",
+			"text":"Os jogadores recebem uma carta passada por baixo da porta",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-4560,
+			"y":-340,
+			"width":260,
+			"height":140
+		},
+		{"id":"1b064b52ab9ae718","type":"text","text":"Novos oficiais chamam o grupo para ajudalos como civis","x":-2100,"y":43,"width":272,"height":105},
+		{
+			"id":"407ecd308d984a30",
+			"type":"text",
+			"text":"Isso abre espaço para traiçao mais profunda do movimento",
+			"styleAttributes":{"shape":"parallelogram"},
+			"x":-2104,
+			"y":-100,
+			"width":280,
+			"height":77,
+			"color":"1"
 		}
 	],
 	"edges":[
-		{"id":"99622a25dc48c195","fromNode":"d9117b314e82abc0","fromSide":"right","toNode":"7474d2c132707996","toSide":"left","label":"s jogadores decrevem a ida ao mercado"},
+		{"id":"99622a25dc48c195","fromNode":"d9117b314e82abc0","fromSide":"right","toNode":"7474d2c132707996","toSide":"left","label":"Os jogadores vao para o mercado"},
 		{"id":"d24d0579a22d4d39","fromNode":"34bdbbe74ca22cca","fromSide":"bottom","toNode":"f80f9d7b89138387","toSide":"top"},
 		{"id":"1321cf886af5b59e","fromNode":"f80f9d7b89138387","fromSide":"bottom","toNode":"31ec3fc170d7fcac","toSide":"top"},
 		{"id":"cca01e7b3cc3cd66","fromNode":"31ec3fc170d7fcac","fromSide":"right","toNode":"293219639e9b2d10","toSide":"left"},
@@ -155,7 +165,7 @@
 		},
 		{
 			"id":"74c73d7de6fd1e59",
-			"styleAttributes":{},
+			"styleAttributes":{"pathfindingMethod":"direct"},
 			"toFloating":false,
 			"fromNode":"1b064b52ab9ae718",
 			"fromSide":"top",
@@ -237,6 +247,15 @@
 			"fromNode":"105360fab1f966ee",
 			"fromSide":"bottom",
 			"toNode":"0d81a3097ec2656e",
+			"toSide":"top"
+		},
+		{
+			"id":"eeb20e55d65f1e98",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"8393ba719fc086bd",
+			"fromSide":"bottom",
+			"toNode":"d9117b314e82abc0",
 			"toSide":"top"
 		}
 	],

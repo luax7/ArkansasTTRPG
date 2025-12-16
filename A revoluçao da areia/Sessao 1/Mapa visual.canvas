@@ -183,13 +183,13 @@
 			"toSide":"bottom"
 		},
 		{
-			"id":"cb3c5dfee95306f9",
+			"id":"08fc9dd905e46824",
 			"styleAttributes":{},
 			"toFloating":false,
-			"fromNode":"3334a8505dd90f22",
-			"fromSide":"right",
-			"toNode":"2f704360693b0211",
-			"toSide":"left"
+			"fromNode":"3ea4d730781362b9",
+			"fromSide":"top",
+			"toNode":"dde53dc42445aa89",
+			"toSide":"bottom"
 		}
 	],
 	"metadata":{

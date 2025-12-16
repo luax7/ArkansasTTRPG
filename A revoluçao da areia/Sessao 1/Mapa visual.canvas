@@ -36,6 +36,26 @@
 			"width":280,
 			"height":85,
 			"color":"1"
+		},
+		{
+			"id":"06bed1c0d9abd117",
+			"type":"text",
+			"text":"Continuaçao",
+			"styleAttributes":{},
+			"x":1290,
+			"y":226,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"ac62e54629ca6928",
+			"type":"text",
+			"text":"Continuaçao",
+			"styleAttributes":{},
+			"x":1900,
+			"y":-65,
+			"width":260,
+			"height":60
 		}
 	],
 	"edges":[
@@ -109,6 +129,38 @@
 			"fromSide":"top",
 			"toNode":"407ecd308d984a30",
 			"toSide":"bottom"
+		},
+		{
+			"id":"41564738113a88db",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"1b064b52ab9ae718",
+			"fromSide":"right",
+			"toNode":"06bed1c0d9abd117",
+			"toSide":"left"
+		},
+		{
+			"id":"63a98de1a819709e",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"3334a8505dd90f22",
+			"fromSide":"right",
+			"toNode":"ac62e54629ca6928",
+			"toSide":"left",
+			"color":"1",
+			"label":"Matar os guardas"
+		},
+		{
+			"id":"8120ef5bb5370262",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"3ddf573d21477149",
+			"fromSide":"right",
+			"toNode":"ac62e54629ca6928",
+			"toSide":"left",
+			"color":"1",
+			"label":"Matar os guardas"
 		}
 	],
 	"metadata":{

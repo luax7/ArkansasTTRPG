@@ -5,7 +5,7 @@
 		{"id":"b77df321c28a5974","type":"text","text":"+2 Pontos pra frente","x":288,"y":-309,"width":250,"height":60,"color":"6"},
 		{"id":"34bdbbe74ca22cca","type":"file","file":"A revoluçao da areia/Sessao 1/Maqha Al-Qadim ( Padaria ).md","x":-20,"y":-125,"width":480,"height":100,"color":"3"},
 		{"id":"f80f9d7b89138387","type":"text","text":"Uma invasão do mercado central e conduzida com a justificativa de investigar a associação dos vendedores com a frente dourada. Essa Invasão e conduzida principalmente pela coroa, mas novos oficiais estão presentes procurando informaçoes.","x":-20,"y":-5,"width":480,"height":140},
-		{"id":"31ec3fc170d7fcac","type":"file","file":"A revoluçao da areia/Sessao 1/O Revolucionario.md","x":-20,"y":175,"width":480,"height":160},
+		{"id":"31ec3fc170d7fcac","type":"file","file":"A revoluçao da areia/Sessao 1/O Revolucionario.md","x":-20,"y":175,"width":480,"height":376},
 		{"id":"118c6b4fdfa42ac4","type":"text","text":"+1 ponto novos oficiais","x":580,"y":-309,"width":250,"height":60,"color":"6"},
 		{"id":"3ea4d730781362b9","type":"text","text":"+1 ponto frente, +1 novos oficiais","x":860,"y":-309,"width":250,"height":60,"color":"6"},
 		{"id":"293219639e9b2d10","type":"text","text":"Ajudar o revolucinario a sobreviver","x":582,"y":-65,"width":250,"height":60,"color":"5"},
@@ -259,7 +259,9 @@
 		},
 		{
 			"id":"b03578774268cdbe",
-			"styleAttributes":{},
+			"styleAttributes":{
+				"pathfindingMethod":null
+			},
 			"toFloating":false,
 			"fromFloating":false,
 			"fromNode":"3ddf573d21477149",

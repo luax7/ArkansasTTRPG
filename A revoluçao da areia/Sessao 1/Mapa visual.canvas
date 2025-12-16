@@ -1,13 +1,16 @@
 {
 	"nodes":[
-		{"id":"7474d2c132707996","type":"group","x":-140,"y":-180,"width":1940,"height":1060,"label":"Cena mercado"},
+		{"id":"7474d2c132707996","type":"group","x":-40,"y":-160,"width":1940,"height":1055,"label":"Cena mercado"},
 		{"id":"d9117b314e82abc0","type":"text","text":"Personagens começam apresentando sua casa, aparência , nome, e sao levados a uma padaria.","x":-1140,"y":-175,"width":385,"height":170},
-		{"id":"951966cb1f98ae1b","type":"text","text":"Entregar o revolucionario","x":482,"y":60,"width":250,"height":60,"color":"5"},
-		{"id":"293219639e9b2d10","type":"text","text":"Ajudar o revolucinario a sobreviver","x":482,"y":-80,"width":250,"height":60,"color":"5"},
+		{"id":"b77df321c28a5974","type":"text","text":"+2 Pontos pra frente","x":288,"y":-309,"width":250,"height":60,"color":"6"},
+		{"id":"34bdbbe74ca22cca","type":"file","file":"A revoluçao da areia/Sessao 1/Maqha Al-Qadim ( Padaria ).md","x":-20,"y":-125,"width":480,"height":100,"color":"3"},
+		{"id":"f80f9d7b89138387","type":"text","text":"Uma invasão do mercado central e conduzida com a justificativa de investigar a associação dos vendedores com a frente dourada. Essa Invasão e conduzida principalmente pela coroa, mas novos oficiais estão presentes procurando informaçoes.","x":-20,"y":-5,"width":480,"height":140},
+		{"id":"31ec3fc170d7fcac","type":"file","file":"A revoluçao da areia/Sessao 1/O Revolucionario.md","x":-20,"y":175,"width":480,"height":160},
+		{"id":"c337be670275c39a","type":"text","text":"Pegar a carta e deixar ele","x":582,"y":455,"width":250,"height":60,"color":"5"},
 		{"id":"118c6b4fdfa42ac4","type":"text","text":"+1 ponto novos oficiais","x":580,"y":-309,"width":250,"height":60,"color":"6"},
-		{"id":"34bdbbe74ca22cca","type":"file","file":"A revoluçao da areia/Sessao 1/Maqha Al-Qadim ( Padaria ).md","x":-120,"y":-140,"width":480,"height":100,"color":"3"},
-		{"id":"f80f9d7b89138387","type":"text","text":"Uma invasão do mercado central e conduzida com a justificativa de investigar a associação dos vendedores com a frente dourada. Essa Invasão e conduzida principalmente pela coroa, mas novos oficiais estão presentes procurando informaçoes.","x":-120,"y":-20,"width":480,"height":140},
-		{"id":"31ec3fc170d7fcac","type":"file","file":"A revoluçao da areia/Sessao 1/O Revolucionario.md","x":-120,"y":160,"width":480,"height":160},
+		{"id":"3ea4d730781362b9","type":"text","text":"+1 ponto frente, +1 novos oficiais","x":860,"y":-309,"width":250,"height":60,"color":"6"},
+		{"id":"293219639e9b2d10","type":"text","text":"Ajudar o revolucinario a sobreviver","x":582,"y":-65,"width":250,"height":60,"color":"5"},
+		{"id":"3334a8505dd90f22","type":"file","file":"A revoluçao da areia/Sessao 1/Invasão do café ( Novos  oficiais ).md","x":1237,"y":-95,"width":380,"height":120,"color":"3"},
 		{
 			"id":"3ddf573d21477149",
 			"type":"file",
@@ -15,18 +18,15 @@
 			"styleAttributes":{
 				"border":null
 			},
-			"x":880,
-			"y":500,
+			"x":1222,
+			"y":419,
 			"width":395,
 			"height":132,
 			"color":"3"
 		},
-		{"id":"3ea4d730781362b9","type":"text","text":"+1 ponto frente, +1 novos oficiais","x":860,"y":-309,"width":250,"height":60,"color":"6"},
-		{"id":"3334a8505dd90f22","type":"file","file":"A revoluçao da areia/Sessao 1/Invasão do café ( Novos  oficiais ).md","x":1140,"y":-140,"width":380,"height":120,"color":"3"},
-		{"id":"1b064b52ab9ae718","type":"text","text":"Novos oficiais chamam o grupo para ajudalos como civis","x":814,"y":50,"width":264,"height":81},
-		{"id":"a007f6d5890a2a47","type":"text","text":"Continuaçao","x":1267,"y":61,"width":250,"height":60},
-		{"id":"b77df321c28a5974","type":"text","text":"+2 Pontos pra frente","x":288,"y":-309,"width":250,"height":60,"color":"6"},
-		{"id":"c337be670275c39a","type":"text","text":"Pegar a carta e deixar ele","x":482,"y":440,"width":250,"height":60,"color":"5"}
+		{"id":"951966cb1f98ae1b","type":"text","text":"Entregar o revolucionario","x":580,"y":225,"width":250,"height":60,"color":"5"},
+		{"id":"1b064b52ab9ae718","type":"text","text":"Novos oficiais chamam o grupo para ajudalos como civis","x":914,"y":214,"width":264,"height":81},
+		{"id":"a007f6d5890a2a47","type":"text","text":"Continuaçao","x":1367,"y":225,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"99622a25dc48c195","fromNode":"d9117b314e82abc0","fromSide":"right","toNode":"7474d2c132707996","toSide":"left","label":"Os jogadores descrevem a ida ao mercado"},
@@ -42,6 +42,7 @@
 				"path":null,
 				"pathfindingMethod":"square"
 			},
+			"fromFloating":false,
 			"fromNode":"293219639e9b2d10",
 			"fromSide":"top",
 			"toNode":"b77df321c28a5974",
@@ -69,7 +70,8 @@
 		{
 			"id":"d3071bd3560c8bde",
 			"toFloating":false,
-			"styleAttributes":{"pathfindingMethod":"direct"},
+			"styleAttributes":{"pathfindingMethod":"direct","arrow":"thin-triangle"},
+			"fromFloating":false,
 			"fromNode":"293219639e9b2d10",
 			"fromSide":"right",
 			"toNode":"3334a8505dd90f22",

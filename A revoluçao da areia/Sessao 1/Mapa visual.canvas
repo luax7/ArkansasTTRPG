@@ -50,7 +50,7 @@
 		{
 			"id":"ac62e54629ca6928",
 			"type":"text",
-			"text":"Continuaçao",
+			"text":"Matar os guardas",
 			"styleAttributes":{},
 			"x":2020,
 			"y":-65,
@@ -64,6 +64,67 @@
 			"styleAttributes":{},
 			"x":2020,
 			"y":-309,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"105360fab1f966ee",
+			"type":"text",
+			"text":"Sair sem ser descoberto",
+			"styleAttributes":{},
+			"x":2020,
+			"y":455,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"330b9363599c73f0",
+			"type":"text",
+			"text":"Ser descoberto",
+			"styleAttributes":{},
+			"x":2020,
+			"y":225,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"62c181e1492425da",
+			"type":"text",
+			"text":"Continuaçao",
+			"styleAttributes":{},
+			"x":2340,
+			"y":225,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"f2650dc5ac404d7f",
+			"type":"text",
+			"text":"Continuaçao",
+			"styleAttributes":{},
+			"x":2340,
+			"y":455,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"6dd1201e3da4011d",
+			"type":"text",
+			"text":"Continuaçao",
+			"styleAttributes":{},
+			"x":2340,
+			"y":-65,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"0d81a3097ec2656e",
+			"type":"text",
+			"text":"-2 de caos do cenário",
+			"styleAttributes":{},
+			"x":2020,
+			"y":700,
 			"width":260,
 			"height":60,
 			"color":"6"
@@ -159,8 +220,7 @@
 			"fromSide":"right",
 			"toNode":"ac62e54629ca6928",
 			"toSide":"left",
-			"color":"1",
-			"label":"Matar os guardas"
+			"color":"1"
 		},
 		{
 			"id":"8120ef5bb5370262",
@@ -170,8 +230,7 @@
 			"fromSide":"right",
 			"toNode":"ac62e54629ca6928",
 			"toSide":"left",
-			"color":"1",
-			"label":"Matar os guardas"
+			"color":"1"
 		},
 		{
 			"id":"0c276153b65c75da",
@@ -183,13 +242,77 @@
 			"toSide":"bottom"
 		},
 		{
-			"id":"08fc9dd905e46824",
+			"id":"aef8da17379f9a2b",
 			"styleAttributes":{},
 			"toFloating":false,
-			"fromNode":"3ea4d730781362b9",
-			"fromSide":"top",
-			"toNode":"dde53dc42445aa89",
-			"toSide":"bottom"
+			"fromNode":"3ddf573d21477149",
+			"fromSide":"right",
+			"toNode":"105360fab1f966ee",
+			"toSide":"left"
+		},
+		{
+			"id":"3dd935bfb2173e2e",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"3334a8505dd90f22",
+			"fromSide":"right",
+			"toNode":"105360fab1f966ee",
+			"toSide":"left"
+		},
+		{
+			"id":"b03578774268cdbe",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"3ddf573d21477149",
+			"fromSide":"right",
+			"toNode":"330b9363599c73f0",
+			"toSide":"left"
+		},
+		{
+			"id":"c299e255bff83125",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"3334a8505dd90f22",
+			"fromSide":"right",
+			"toNode":"330b9363599c73f0",
+			"toSide":"left"
+		},
+		{
+			"id":"9f9a2b7c83de0b31",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"330b9363599c73f0",
+			"fromSide":"right",
+			"toNode":"62c181e1492425da",
+			"toSide":"left"
+		},
+		{
+			"id":"17cdb547fb020ae8",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"105360fab1f966ee",
+			"fromSide":"right",
+			"toNode":"f2650dc5ac404d7f",
+			"toSide":"left"
+		},
+		{
+			"id":"a5a21254259c9803",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"ac62e54629ca6928",
+			"fromSide":"right",
+			"toNode":"6dd1201e3da4011d",
+			"toSide":"left"
+		},
+		{
+			"id":"e0a6c5405c3c0817",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"105360fab1f966ee",
+			"fromSide":"bottom",
+			"toNode":"0d81a3097ec2656e",
+			"toSide":"top"
 		}
 	],
 	"metadata":{

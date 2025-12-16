@@ -25,7 +25,18 @@
 			"height":132,
 			"color":"3"
 		},
-		{"id":"1b064b52ab9ae718","type":"text","text":"Novos oficiais chamam o grupo para ajudalos como civis","x":900,"y":215,"width":264,"height":81}
+		{"id":"1b064b52ab9ae718","type":"text","text":"Novos oficiais chamam o grupo para ajudalos como civis","x":900,"y":215,"width":264,"height":81},
+		{
+			"id":"407ecd308d984a30",
+			"type":"text",
+			"text":"Isso abre espaço para traiçao mais profunda do movimento",
+			"styleAttributes":{},
+			"x":892,
+			"y":65,
+			"width":280,
+			"height":85,
+			"color":"1"
+		}
 	],
 	"edges":[
 		{"id":"99622a25dc48c195","fromNode":"d9117b314e82abc0","fromSide":"right","toNode":"7474d2c132707996","toSide":"left","label":"Os jogadores descrevem a ida ao mercado"},
@@ -88,6 +99,24 @@
 			"fromNode":"c337be670275c39a",
 			"fromSide":"right",
 			"toNode":"3ddf573d21477149",
+			"toSide":"left"
+		},
+		{
+			"id":"74c73d7de6fd1e59",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"1b064b52ab9ae718",
+			"fromSide":"top",
+			"toNode":"407ecd308d984a30",
+			"toSide":"bottom"
+		},
+		{
+			"id":"e24da40436e4d1ab",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"1b064b52ab9ae718",
+			"fromSide":"right",
+			"toNode":"7f4b75a3ef9324fd",
 			"toSide":"left"
 		}
 	],

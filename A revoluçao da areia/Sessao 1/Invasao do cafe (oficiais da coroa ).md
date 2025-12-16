@@ -1,3 +1,4 @@
+
 # 🛑 INVASÃO DO CAFÉ — OFICIAIS DA COROA
 
 ### Cena narrativa

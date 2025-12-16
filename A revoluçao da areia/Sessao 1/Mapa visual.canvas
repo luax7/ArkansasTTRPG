@@ -25,8 +25,7 @@
 			"height":132,
 			"color":"3"
 		},
-		{"id":"1b064b52ab9ae718","type":"text","text":"Novos oficiais chamam o grupo para ajudalos como civis","x":914,"y":214,"width":264,"height":81},
-		{"id":"a007f6d5890a2a47","type":"text","text":"Continuaçao","x":1367,"y":225,"width":250,"height":60}
+		{"id":"1b064b52ab9ae718","type":"text","text":"Novos oficiais chamam o grupo para ajudalos como civis","x":900,"y":215,"width":264,"height":81}
 	],
 	"edges":[
 		{"id":"99622a25dc48c195","fromNode":"d9117b314e82abc0","fromSide":"right","toNode":"7474d2c132707996","toSide":"left","label":"Os jogadores descrevem a ida ao mercado"},
@@ -90,8 +89,7 @@
 			"fromSide":"right",
 			"toNode":"3ddf573d21477149",
 			"toSide":"left"
-		},
-		{"id":"fac21b5adcd51394","fromNode":"1b064b52ab9ae718","fromSide":"right","toNode":"a007f6d5890a2a47","toSide":"left"}
+		}
 	],
 	"metadata":{
 		"version":"1.0-1.0",

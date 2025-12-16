@@ -4,7 +4,7 @@ Quando vocês resgatam o revolucionário e entram no café, o ar fica pesado. O 
 
 ==***Barulho de porta batendo***==
 
-em pouco tempo os guardas inumdam o cafe, sao 7 no total
+em pouco tempo os guardas entram no café, são 7 no total
 
 
 Os oficiais entram com pressa, eles tem uma desconfiança, mas não conseguem provar nada.

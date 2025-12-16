@@ -11,4 +11,4 @@ Três guardas usam lanças curtas e tem pequenas facas na cintura.
 Três guardas usam pequenas pistolas 
 E um cão de caça que fica junto ao primeiro guarda.
 
-Os oficiais entram com pressa, eles tem uma desconfiança, mas não conseguem provar nada. Eles vão investigar o café ate encontrarem algo suspeito. 
+Os oficiais entram com pressa, eles tem uma desconfiança, mas não conseguem provar nada. Eles vão investigar o café ate encontrarem algo suspeito.

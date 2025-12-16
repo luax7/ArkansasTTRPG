@@ -219,8 +219,7 @@
 			"fromNode":"3334a8505dd90f22",
 			"fromSide":"right",
 			"toNode":"ac62e54629ca6928",
-			"toSide":"left",
-			"color":"1"
+			"toSide":"left"
 		},
 		{
 			"id":"8120ef5bb5370262",
@@ -229,8 +228,7 @@
 			"fromNode":"3ddf573d21477149",
 			"fromSide":"right",
 			"toNode":"ac62e54629ca6928",
-			"toSide":"left",
-			"color":"1"
+			"toSide":"left"
 		},
 		{
 			"id":"0c276153b65c75da",

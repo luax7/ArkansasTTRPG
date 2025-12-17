@@ -11,6 +11,10 @@
 		{"id":"50472fdb34efb460","type":"text","text":"1878","x":-1770,"y":446,"width":91,"height":50,"color":"4"}
 	],
 	"edges":[
-		{"id":"d4b2e9cc9f229291","fromNode":"ea3e09b415026ee6","fromSide":"right","toNode":"90d67085b0ef49a1","toSide":"left"}
-	]
+		{"id":"d4b2e9cc9f229291","toFloating":false,"fromNode":"ea3e09b415026ee6","fromSide":"right","toNode":"90d67085b0ef49a1","toSide":"left"}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
 }

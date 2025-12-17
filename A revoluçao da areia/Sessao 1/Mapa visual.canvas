@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"7474d2c132707996","type":"group","x":-3060,"y":-320,"width":2820,"height":760,"label":"Cena mercado"},
+		{"id":"7474d2c132707996","type":"group","x":-3600,"y":-320,"width":3360,"height":760,"label":"Cena mercado"},
 		{
 			"id":"64e33fde61dbb8ea",
 			"type":"text",
@@ -76,7 +76,6 @@
 		},
 		{"id":"118c6b4fdfa42ac4","type":"text","text":"+1 ponto novos oficiais","x":-2420,"y":-469,"width":250,"height":60,"color":"6"},
 		{"id":"3ea4d730781362b9","type":"text","text":"+1 ponto frente, +1 novos oficiais","x":-2140,"y":-469,"width":250,"height":60,"color":"6"},
-		{"id":"951966cb1f98ae1b","type":"text","text":"Entregar o revolucionario","x":-2420,"y":65,"width":250,"height":60,"color":"5"},
 		{"id":"293219639e9b2d10","type":"text","text":"Ajudar o revolucinario a sobreviver","x":-2418,"y":-225,"width":250,"height":60,"color":"5"},
 		{
 			"id":"330b9363599c73f0",
@@ -88,7 +87,6 @@
 			"width":260,
 			"height":60
 		},
-		{"id":"34bdbbe74ca22cca","type":"file","file":"A revoluçao da areia/Sessao 1/Maqha Al-Qadim ( Padaria ).md","x":-3020,"y":-285,"width":480,"height":100,"color":"3"},
 		{
 			"id":"3ddf573d21477149",
 			"type":"file",
@@ -103,21 +101,7 @@
 			"color":"3"
 		},
 		{"id":"c337be670275c39a","type":"text","text":"Pegar a carta e deixar ele","x":-2418,"y":295,"width":250,"height":60,"color":"5"},
-		{"id":"1b064b52ab9ae718","type":"text","text":"Novos oficiais chamam o grupo para ajudalos como civis","x":-2100,"y":43,"width":272,"height":105},
-		{
-			"id":"407ecd308d984a30",
-			"type":"text",
-			"text":"Isso abre espaço para traiçao mais profunda do movimento",
-			"styleAttributes":{"shape":"parallelogram"},
-			"x":-2104,
-			"y":-100,
-			"width":280,
-			"height":77,
-			"color":"1"
-		},
 		{"id":"b77df321c28a5974","type":"text","text":"+2 Pontos pra frente","x":-2712,"y":-469,"width":250,"height":60,"color":"6"},
-		{"id":"f80f9d7b89138387","type":"text","text":"Uma invasão do mercado central e conduzida com a justificativa de investigar a associação dos vendedores com a frente dourada. Essa Invasão e conduzida principalmente pela coroa, mas novos oficiais estão presentes procurando informaçoes.","x":-3020,"y":-165,"width":480,"height":140},
-		{"id":"31ec3fc170d7fcac","type":"file","file":"A revoluçao da areia/Sessao 1/O Revolucionario.md","x":-3020,"y":15,"width":480,"height":376},
 		{
 			"id":"105360fab1f966ee",
 			"type":"text",
@@ -148,12 +132,38 @@
 			"y":-1120,
 			"width":440,
 			"height":280
-		}
+		},
+		{"id":"951966cb1f98ae1b","type":"text","text":"Entregar o revolucionario","x":-2418,"y":36,"width":250,"height":60,"color":"5"},
+		{"id":"1b064b52ab9ae718","type":"text","text":"Novos oficiais chamam o grupo para ajudalos como civis","x":-2096,"y":15,"width":272,"height":105},
+		{
+			"id":"407ecd308d984a30",
+			"type":"text",
+			"text":"Isso abre espaço para traiçao mais profunda do movimento",
+			"styleAttributes":{
+				"shape":null
+			},
+			"x":-2096,
+			"y":-102,
+			"width":280,
+			"height":77,
+			"color":"1"
+		},
+		{"id":"34bdbbe74ca22cca","type":"file","file":"A revoluçao da areia/Sessao 1/Maqha Al-Qadim ( Padaria ).md","x":-3580,"y":-300,"width":480,"height":100,"color":"3"},
+		{"id":"f80f9d7b89138387","type":"text","text":"Uma invasão do mercado central e conduzida com a justificativa de investigar a associação dos vendedores com a frente dourada. Essa Invasão e conduzida principalmente pela coroa, mas novos oficiais estão presentes procurando informaçoes.","x":-3580,"y":251,"width":480,"height":140},
+		{
+			"id":"346ef5e1f864f76c",
+			"type":"text",
+			"text":"",
+			"styleAttributes":{},
+			"x":-3580,
+			"y":-160,
+			"width":480,
+			"height":380
+		},
+		{"id":"31ec3fc170d7fcac","type":"file","file":"A revoluçao da areia/Sessao 1/O Revolucionario.md","x":-3020,"y":-120,"width":480,"height":376}
 	],
 	"edges":[
 		{"id":"99622a25dc48c195","fromNode":"d9117b314e82abc0","fromSide":"right","toNode":"7474d2c132707996","toSide":"left","label":"Os jogadores vao para o mercado"},
-		{"id":"d24d0579a22d4d39","fromNode":"34bdbbe74ca22cca","fromSide":"bottom","toNode":"f80f9d7b89138387","toSide":"top"},
-		{"id":"1321cf886af5b59e","fromNode":"f80f9d7b89138387","fromSide":"bottom","toNode":"31ec3fc170d7fcac","toSide":"top"},
 		{"id":"cca01e7b3cc3cd66","fromNode":"31ec3fc170d7fcac","fromSide":"right","toNode":"293219639e9b2d10","toSide":"left"},
 		{"id":"97fc2f4931287a0d","fromNode":"31ec3fc170d7fcac","fromSide":"right","toNode":"951966cb1f98ae1b","toSide":"left"},
 		{"id":"cca3bc3f621abd3a","fromNode":"31ec3fc170d7fcac","fromSide":"right","toNode":"c337be670275c39a","toSide":"left"},
@@ -338,6 +348,33 @@
 			"fromSide":"top",
 			"toNode":"2b4b65f73e0ca50c",
 			"toSide":"bottom"
+		},
+		{
+			"id":"95cd63936699ad41",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"f80f9d7b89138387",
+			"fromSide":"right",
+			"toNode":"31ec3fc170d7fcac",
+			"toSide":"left"
+		},
+		{
+			"id":"a664a5a476dd5ff3",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"346ef5e1f864f76c",
+			"fromSide":"bottom",
+			"toNode":"f80f9d7b89138387",
+			"toSide":"top"
+		},
+		{
+			"id":"825345a291dc74d1",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"34bdbbe74ca22cca",
+			"fromSide":"bottom",
+			"toNode":"346ef5e1f864f76c",
+			"toSide":"top"
 		}
 	],
 	"metadata":{

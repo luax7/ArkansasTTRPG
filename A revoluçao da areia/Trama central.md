@@ -100,7 +100,7 @@ A organização não se apresenta como facção jogável ou visível no início 
 
 #### Papel no Sistema
 
-- São fortalecidos atraves de uma alocaçao maior de recursos para o exercito comocomo solução técnica para o caos
+- São fortalecidos através de uma alocação maior de recursos para o exercito como um todo. 
     
 - Acreditam estar lutando pela queda da coroa e para a estabilização de um regime mais democrático e mais acessível
     

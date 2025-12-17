@@ -1,28 +1,6 @@
 {
 	"nodes":[
 		{"id":"7474d2c132707996","type":"group","x":-3600,"y":-320,"width":3360,"height":760,"label":"Cena mercado"},
-		{
-			"id":"64e33fde61dbb8ea",
-			"type":"text",
-			"text":"+2 de caos do cenário",
-			"styleAttributes":{},
-			"x":-980,
-			"y":-469,
-			"width":260,
-			"height":60,
-			"color":"6"
-		},
-		{
-			"id":"ac62e54629ca6928",
-			"type":"text",
-			"text":"Matar os guardas",
-			"styleAttributes":{},
-			"x":-980,
-			"y":-225,
-			"width":260,
-			"height":60
-		},
-		{"id":"3334a8505dd90f22","type":"file","file":"A revoluçao da areia/Sessao 1/Invasão do café ( Novos  oficiais ).md","x":-1763,"y":-255,"width":380,"height":120,"color":"3"},
 		{"id":"d9117b314e82abc0","type":"text","text":"Personagens começam apresentando sua casa, aparência , nome, e sao levados a uma padaria.","x":-4620,"y":-52,"width":385,"height":170},
 		{
 			"id":"8393ba719fc086bd",
@@ -76,17 +54,48 @@
 		},
 		{"id":"118c6b4fdfa42ac4","type":"text","text":"+1 ponto novos oficiais","x":-2420,"y":-469,"width":250,"height":60,"color":"6"},
 		{"id":"3ea4d730781362b9","type":"text","text":"+1 ponto frente, +1 novos oficiais","x":-2140,"y":-469,"width":250,"height":60,"color":"6"},
-		{"id":"293219639e9b2d10","type":"text","text":"Ajudar o revolucinario a sobreviver","x":-2418,"y":-225,"width":250,"height":60,"color":"5"},
+		{"id":"b77df321c28a5974","type":"text","text":"+2 Pontos pra frente","x":-2712,"y":-469,"width":250,"height":60,"color":"6"},
 		{
-			"id":"330b9363599c73f0",
+			"id":"2b4b65f73e0ca50c",
 			"type":"text",
-			"text":"Ser descoberto",
-			"styleAttributes":{},
-			"x":-980,
-			"y":65,
-			"width":260,
-			"height":60
+			"text":"Todos os jogadores são parcialmente afiliados a um dos lados. o grupo os chamou por isso. alem disso, o \"nivel 3\" nivel inicial dos players, e bem forte considerando a força media das pessaos",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-4647,
+			"y":-1120,
+			"width":440,
+			"height":280
 		},
+		{"id":"34bdbbe74ca22cca","type":"file","file":"A revoluçao da areia/Sessao 1/Maqha Al-Qadim ( Padaria ).md","x":-3580,"y":-300,"width":480,"height":100,"color":"3"},
+		{"id":"f80f9d7b89138387","type":"text","text":"Uma invasão do mercado central e conduzida com a justificativa de investigar a associação dos vendedores com a frente dourada. Essa Invasão e conduzida principalmente pela coroa, mas novos oficiais estão presentes procurando informaçoes.","x":-3580,"y":251,"width":480,"height":140},
+		{
+			"id":"346ef5e1f864f76c",
+			"type":"text",
+			"text":"No Maqha-Al-Qadim, a atmosfera e pesada. vocês ",
+			"styleAttributes":{},
+			"x":-3580,
+			"y":-160,
+			"width":480,
+			"height":380
+		},
+		{"id":"31ec3fc170d7fcac","type":"file","file":"A revoluçao da areia/Sessao 1/O Revolucionario.md","x":-3020,"y":-120,"width":480,"height":376},
+		{"id":"293219639e9b2d10","type":"text","text":"Ajudar o revolucinario a sobreviver","x":-2418,"y":-225,"width":250,"height":60,"color":"5"},
+		{"id":"c337be670275c39a","type":"text","text":"Pegar a carta e deixar ele","x":-2418,"y":295,"width":250,"height":60,"color":"5"},
+		{"id":"951966cb1f98ae1b","type":"text","text":"Entregar o revolucionario","x":-2418,"y":36,"width":250,"height":60,"color":"5"},
+		{"id":"1b064b52ab9ae718","type":"text","text":"Novos oficiais chamam o grupo para ajudalos como civis","x":-2092,"y":14,"width":272,"height":105},
+		{
+			"id":"407ecd308d984a30",
+			"type":"text",
+			"text":"Isso abre espaço para traiçao mais profunda do movimento",
+			"styleAttributes":{
+				"shape":null
+			},
+			"x":-2096,
+			"y":-100,
+			"width":280,
+			"height":77,
+			"color":"1"
+		},
+		{"id":"3334a8505dd90f22","type":"file","file":"A revoluçao da areia/Sessao 1/Invasão do café ( Novos  oficiais ).md","x":-1763,"y":-255,"width":380,"height":120,"color":"3"},
 		{
 			"id":"3ddf573d21477149",
 			"type":"file",
@@ -100,70 +109,98 @@
 			"height":132,
 			"color":"3"
 		},
-		{"id":"c337be670275c39a","type":"text","text":"Pegar a carta e deixar ele","x":-2418,"y":295,"width":250,"height":60,"color":"5"},
-		{"id":"b77df321c28a5974","type":"text","text":"+2 Pontos pra frente","x":-2712,"y":-469,"width":250,"height":60,"color":"6"},
-		{
-			"id":"105360fab1f966ee",
-			"type":"text",
-			"text":"Sair sem ser descoberto",
-			"styleAttributes":{},
-			"x":-980,
-			"y":295,
-			"width":260,
-			"height":60
-		},
 		{
 			"id":"0d81a3097ec2656e",
 			"type":"text",
 			"text":"-2 de caos do cenário",
 			"styleAttributes":{},
-			"x":-980,
-			"y":540,
+			"x":-1240,
+			"y":534,
 			"width":260,
 			"height":60,
 			"color":"6"
 		},
 		{
-			"id":"2b4b65f73e0ca50c",
+			"id":"64e33fde61dbb8ea",
 			"type":"text",
-			"text":"Todos os jogadores são parcialmente afiliados a um dos lados. o grupo os chamou por isso. alem disso, o \"nivel 3\" nivel inicial dos players, e bem forte considerando a força media das pessaos",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-4647,
-			"y":-1120,
-			"width":440,
-			"height":280
-		},
-		{"id":"951966cb1f98ae1b","type":"text","text":"Entregar o revolucionario","x":-2418,"y":36,"width":250,"height":60,"color":"5"},
-		{"id":"1b064b52ab9ae718","type":"text","text":"Novos oficiais chamam o grupo para ajudalos como civis","x":-2096,"y":15,"width":272,"height":105},
-		{
-			"id":"407ecd308d984a30",
-			"type":"text",
-			"text":"Isso abre espaço para traiçao mais profunda do movimento",
-			"styleAttributes":{
-				"shape":null
-			},
-			"x":-2096,
-			"y":-102,
-			"width":280,
-			"height":77,
-			"color":"1"
-		},
-		{"id":"34bdbbe74ca22cca","type":"file","file":"A revoluçao da areia/Sessao 1/Maqha Al-Qadim ( Padaria ).md","x":-3580,"y":-300,"width":480,"height":100,"color":"3"},
-		{"id":"f80f9d7b89138387","type":"text","text":"Uma invasão do mercado central e conduzida com a justificativa de investigar a associação dos vendedores com a frente dourada. Essa Invasão e conduzida principalmente pela coroa, mas novos oficiais estão presentes procurando informaçoes.","x":-3580,"y":251,"width":480,"height":140},
-		{
-			"id":"346ef5e1f864f76c",
-			"type":"text",
-			"text":"",
+			"text":"+2 de caos do cenário",
 			"styleAttributes":{},
-			"x":-3580,
-			"y":-160,
-			"width":480,
-			"height":380
+			"x":-1240,
+			"y":-475,
+			"width":260,
+			"height":60,
+			"color":"6"
 		},
-		{"id":"31ec3fc170d7fcac","type":"file","file":"A revoluçao da areia/Sessao 1/O Revolucionario.md","x":-3020,"y":-120,"width":480,"height":376}
+		{
+			"id":"ac62e54629ca6928",
+			"type":"text",
+			"text":"Matar os guardas",
+			"styleAttributes":{},
+			"x":-1240,
+			"y":-231,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"330b9363599c73f0",
+			"type":"text",
+			"text":"Ser descoberto",
+			"styleAttributes":{},
+			"x":-1240,
+			"y":59,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"105360fab1f966ee",
+			"type":"text",
+			"text":"Sair sem ser descoberto",
+			"styleAttributes":{},
+			"x":-1240,
+			"y":289,
+			"width":260,
+			"height":60
+		}
 	],
 	"edges":[
 		{"id":"99622a25dc48c195","fromNode":"d9117b314e82abc0","fromSide":"right","toNode":"7474d2c132707996","toSide":"left","label":"Os jogadores vao para o mercado"},
+		{
+			"id":"eeb20e55d65f1e98",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"8393ba719fc086bd",
+			"fromSide":"bottom",
+			"toNode":"d9117b314e82abc0",
+			"toSide":"top"
+		},
+		{
+			"id":"436be34bf1db9265",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"8393ba719fc086bd",
+			"fromSide":"left",
+			"toNode":"b0f088a17bf4d8fc",
+			"toSide":"right"
+		},
+		{
+			"id":"b38f3fcdb8c9e9cd",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"8393ba719fc086bd",
+			"fromSide":"right",
+			"toNode":"1aabb2a4090251bf",
+			"toSide":"left"
+		},
+		{
+			"id":"20fc78adb196fd4a",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"8393ba719fc086bd",
+			"fromSide":"top",
+			"toNode":"2b4b65f73e0ca50c",
+			"toSide":"bottom"
+		},
 		{"id":"cca01e7b3cc3cd66","fromNode":"31ec3fc170d7fcac","fromSide":"right","toNode":"293219639e9b2d10","toSide":"left"},
 		{"id":"97fc2f4931287a0d","fromNode":"31ec3fc170d7fcac","fromSide":"right","toNode":"951966cb1f98ae1b","toSide":"left"},
 		{"id":"cca3bc3f621abd3a","fromNode":"31ec3fc170d7fcac","fromSide":"right","toNode":"c337be670275c39a","toSide":"left"},
@@ -240,7 +277,8 @@
 			"fromNode":"3334a8505dd90f22",
 			"fromSide":"right",
 			"toNode":"ac62e54629ca6928",
-			"toSide":"left"
+			"toSide":"left",
+			"color":"4"
 		},
 		{
 			"id":"8120ef5bb5370262",
@@ -250,7 +288,8 @@
 			"fromNode":"3ddf573d21477149",
 			"fromSide":"right",
 			"toNode":"ac62e54629ca6928",
-			"toSide":"left"
+			"toSide":"left",
+			"color":"4"
 		},
 		{
 			"id":"0c276153b65c75da",
@@ -269,7 +308,8 @@
 			"fromNode":"3ddf573d21477149",
 			"fromSide":"right",
 			"toNode":"105360fab1f966ee",
-			"toSide":"left"
+			"toSide":"left",
+			"color":"6"
 		},
 		{
 			"id":"3dd935bfb2173e2e",
@@ -279,7 +319,8 @@
 			"fromNode":"3334a8505dd90f22",
 			"fromSide":"right",
 			"toNode":"105360fab1f966ee",
-			"toSide":"left"
+			"toSide":"left",
+			"color":"6"
 		},
 		{
 			"id":"b03578774268cdbe",
@@ -291,7 +332,8 @@
 			"fromNode":"3ddf573d21477149",
 			"fromSide":"right",
 			"toNode":"330b9363599c73f0",
-			"toSide":"left"
+			"toSide":"left",
+			"color":"1"
 		},
 		{
 			"id":"c299e255bff83125",
@@ -301,7 +343,8 @@
 			"fromNode":"3334a8505dd90f22",
 			"fromSide":"right",
 			"toNode":"330b9363599c73f0",
-			"toSide":"left"
+			"toSide":"left",
+			"color":"1"
 		},
 		{
 			"id":"e0a6c5405c3c0817",
@@ -311,43 +354,6 @@
 			"fromSide":"bottom",
 			"toNode":"0d81a3097ec2656e",
 			"toSide":"top"
-		},
-		{
-			"id":"eeb20e55d65f1e98",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromFloating":false,
-			"fromNode":"8393ba719fc086bd",
-			"fromSide":"bottom",
-			"toNode":"d9117b314e82abc0",
-			"toSide":"top"
-		},
-		{
-			"id":"436be34bf1db9265",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"8393ba719fc086bd",
-			"fromSide":"left",
-			"toNode":"b0f088a17bf4d8fc",
-			"toSide":"right"
-		},
-		{
-			"id":"b38f3fcdb8c9e9cd",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"8393ba719fc086bd",
-			"fromSide":"right",
-			"toNode":"1aabb2a4090251bf",
-			"toSide":"left"
-		},
-		{
-			"id":"20fc78adb196fd4a",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"8393ba719fc086bd",
-			"fromSide":"top",
-			"toNode":"2b4b65f73e0ca50c",
-			"toSide":"bottom"
 		},
 		{
 			"id":"95cd63936699ad41",

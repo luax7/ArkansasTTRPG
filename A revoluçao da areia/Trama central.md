@@ -100,7 +100,7 @@ A organização não se apresenta como facção jogável ou visível no início 
 
 #### Papel no Sistema
 
-- São fortalecidos como solução técnica para o caos
+- São fortalecidos atraves de uma alocaçao maior de recursos para o exercito comocomo solução técnica para o caos
     
 - Acreditam estar lutando pela queda da coroa e para a estabilização de um regime mais democrático e mais acessível
     
@@ -117,32 +117,6 @@ A organização não se apresenta como facção jogável ou visível no início 
     
 
 > O Exército nunca vence completamente, mas nunca perde — e por isso nunca pode ser desmontado.
-
----
-
-## O Ciclo de Retroalimentação
-
-1. A Frente Dourada executa ataques
-    
-2. A Coroa responde com repressão
-    
-3. O Exército recebe mais recursos
-    
-4. Recursos vazam por corrupção dirigida
-    
-5. A Frente se fortalece
-    
-6. O apoio popular cresce
-    
-7. O Exército se torna indispensável
-    
-8. A Coroa perde legitimidade
-    
-9. O colapso do regime se torna inevitável
-    
-
-🔁 O ciclo se repete até a queda da Coroa.
-
 ---
 
 ## O Papel dos Personagens Jogadores
@@ -170,62 +144,3 @@ Eles podem perceber:
 > Eles não descobrem _quem_ manda primeiro — descobrem _que existe algo acima_.
 
 ---
-
-## Desfecho: A Queda da Coroa
-
-### Se os Jogadores Não Intervierem
-
-- A Coroa é derrubada
-    
-- A Frente Dourada é dissolvida, absorvida ou exterminada
-    
-- Os Novos Oficiais assumem o poder em caráter provisório
-    
-- Um estado de exceção é instaurado
-    
-
-As elites da Organização Secreta emergem como:
-
-- Ministros
-    
-- Conselheiros
-    
-- Tecnocratas
-    
-- Financiadores da reconstrução
-    
-
-> O povo acredita que venceu. O sistema apenas mudou de forma.
-
----
-
-## Dilemas Morais Centrais
-
-- Expor a conspiração deslegitima a revolução
-    
-- Derrubar a Frente fortalece a Coroa
-    
-- Atacar o Exército transforma os jogadores em traidores
-    
-- Atacar o topo revela um inimigo invisível
-    
-
-Não há vitória limpa.  
-Apenas escolhas e consequências.
-
----
-
-## Temas Centrais
-
-- Manipulação estrutural do poder
-    
-- Revoluções capturadas por elites
-    
-- Violência como ferramenta de legitimação
-    
-- Liberdade percebida versus liberdade real
-    
-
----
-
-> _A jaula não desapareceu. Ela apenas ganhou novas grades._

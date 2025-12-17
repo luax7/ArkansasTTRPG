@@ -76,7 +76,7 @@ A organização não se apresenta como facção jogável ou visível no início 
 
 - Atua como estímulo constante ao conflito
     
-- Provoca a Coroa deliberadamente
+- Provoca a Coroa deliberadamente através de diversos meios. Geralmente suas ações começam através de incitadores (Que podem ser controlados pelos ricos do grupo secreto)
     
 - Mantém o ciclo de repressão ativo
     
@@ -113,7 +113,7 @@ A organização não se apresenta como facção jogável ou visível no início 
     
 - Parte desses recursos é desviada por corrupção induzida
     
-- Serve como rédea para a frente dourada. Quando ela esta forte demais, os novos oficiais agem, quando ela esta fraca, eles a reforçam
+- Serve como rédea para a frente dourada. Quando ela esta forte demais, os novos oficiais agem, quando ela esta fraca, eles a reforçam. essas ações são controladas pelo grupo através de oficiais de alta patente.
     
 
 > O Exército nunca vence completamente, mas nunca perde — e por isso nunca pode ser desmontado.

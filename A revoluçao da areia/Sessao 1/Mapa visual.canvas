@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"7474d2c132707996","type":"group","x":-3040,"y":-320,"width":2800,"height":760,"label":"Cena mercado"},
+		{"id":"7474d2c132707996","type":"group","x":-3060,"y":-320,"width":2820,"height":760,"label":"Cena mercado"},
 		{
 			"id":"64e33fde61dbb8ea",
 			"type":"text",
@@ -142,12 +142,12 @@
 		{
 			"id":"2b4b65f73e0ca50c",
 			"type":"text",
-			"text":"Todos os jogadores sao parcialmente afiliados a um dos",
-			"styleAttributes":{},
-			"x":-4560,
-			"y":-980,
-			"width":260,
-			"height":60
+			"text":"Todos os jogadores são parcialmente afiliados a um dos lados. o grupo os chamou por isso. alem disso, o \"nivel 3\" nivel inicial dos players, e bem forte considerando a força media das pessaos",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-4647,
+			"y":-1120,
+			"width":440,
+			"height":280
 		}
 	],
 	"edges":[
@@ -224,7 +224,7 @@
 		},
 		{
 			"id":"63a98de1a819709e",
-			"styleAttributes":{},
+			"styleAttributes":{"arrow":"thin-triangle"},
 			"toFloating":false,
 			"fromFloating":false,
 			"fromNode":"3334a8505dd90f22",
@@ -236,6 +236,7 @@
 			"id":"8120ef5bb5370262",
 			"styleAttributes":{},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"3ddf573d21477149",
 			"fromSide":"right",
 			"toNode":"ac62e54629ca6928",
@@ -253,7 +254,7 @@
 		},
 		{
 			"id":"aef8da17379f9a2b",
-			"styleAttributes":{},
+			"styleAttributes":{"arrow":"thin-triangle"},
 			"toFloating":false,
 			"fromNode":"3ddf573d21477149",
 			"fromSide":"right",
@@ -264,6 +265,7 @@
 			"id":"3dd935bfb2173e2e",
 			"styleAttributes":{},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"3334a8505dd90f22",
 			"fromSide":"right",
 			"toNode":"105360fab1f966ee",
@@ -285,6 +287,7 @@
 			"id":"c299e255bff83125",
 			"styleAttributes":{},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"3334a8505dd90f22",
 			"fromSide":"right",
 			"toNode":"330b9363599c73f0",

@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"7474d2c132707996","type":"group","x":-3600,"y":-540,"width":3360,"height":1180,"label":"Cena mercado"},
+		{"id":"7474d2c132707996","type":"group","x":-3600,"y":-540,"width":2720,"height":1180,"label":"Cena mercado"},
 		{"id":"c337be670275c39a","type":"text","text":"Pegar a carta e deixar ele","x":-2418,"y":295,"width":250,"height":60,"color":"5"},
 		{"id":"951966cb1f98ae1b","type":"text","text":"Entregar o revolucionario","x":-2418,"y":36,"width":250,"height":60,"color":"5"},
 		{"id":"1b064b52ab9ae718","type":"text","text":"Novos oficiais chamam o grupo para ajudalos como civis","x":-2092,"y":14,"width":272,"height":105},

@@ -172,8 +172,9 @@
 			"height":60,
 			"color":"6"
 		},
-		{"id":"59050a02ecac5a0f","type":"file","file":"Rota A.md","x":-600,"y":-380,"width":400,"height":400},
-		{"id":"a33dd7c95de7d40e","type":"file","file":"Rota B.md","x":-600,"y":99,"width":400,"height":400}
+		{"id":"59050a02ecac5a0f","type":"file","file":"A revoluçao da areia/Sessao 1/Rota A.md","x":-600,"y":-380,"width":400,"height":400},
+		{"id":"a33dd7c95de7d40e","type":"file","file":"A revoluçao da areia/Sessao 1/Rota B.md","x":-600,"y":99,"width":400,"height":400},
+		{"id":"93f95883ae9f0633","type":"file","file":"A revoluçao da areia/Sessao 1/Rota C.md","x":-600,"y":575,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"99622a25dc48c195","fromNode":"d9117b314e82abc0","fromSide":"right","toNode":"7474d2c132707996","toSide":"left","label":"Os jogadores vao para o mercado"},
@@ -423,6 +424,15 @@
 			"fromNode":"1b064b52ab9ae718",
 			"fromSide":"right",
 			"toNode":"a33dd7c95de7d40e",
+			"toSide":"left"
+		},
+		{
+			"id":"d8761bd95f4120b6",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"105360fab1f966ee",
+			"fromSide":"right",
+			"toNode":"93f95883ae9f0633",
 			"toSide":"left"
 		}
 	],

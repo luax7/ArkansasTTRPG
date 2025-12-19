@@ -437,8 +437,11 @@
 		},
 		{
 			"id":"25e89f7af9e9ed3b",
-			"styleAttributes":{},
+			"styleAttributes":{
+				"pathfindingMethod":null
+			},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"293219639e9b2d10",
 			"fromSide":"right",
 			"toNode":"8fb817324aa2699c",

@@ -62,37 +62,6 @@
 			"width":260,
 			"height":100
 		},
-		{"id":"951966cb1f98ae1b","type":"text","text":"Entregar o revolucionario","x":-2218,"y":256,"width":250,"height":60,"color":"5"},
-		{"id":"c337be670275c39a","type":"text","text":"Pegar a carta e deixar ele","x":-2218,"y":515,"width":250,"height":60,"color":"5"},
-		{
-			"id":"407ecd308d984a30",
-			"type":"text",
-			"text":"Isso abre espaço para traiçao mais profunda do movimento",
-			"styleAttributes":{
-				"shape":null
-			},
-			"x":-1896,
-			"y":120,
-			"width":280,
-			"height":77,
-			"color":"1"
-		},
-		{"id":"1b064b52ab9ae718","type":"text","text":"Novos oficiais chamam o grupo para ajudalos como civis","x":-1892,"y":234,"width":272,"height":105},
-		{"id":"293219639e9b2d10","type":"text","text":"Ajudar o revolucinario a sobreviver","x":-2218,"y":-5,"width":250,"height":60,"color":"5"},
-		{"id":"3334a8505dd90f22","type":"file","file":"A revoluçao da areia/Sessao 1/Invasão do café ( Novos  oficiais ).md","x":-1896,"y":-40,"width":380,"height":120,"color":"3"},
-		{
-			"id":"3ddf573d21477149",
-			"type":"file",
-			"file":"A revoluçao da areia/Sessao 1/Invasao do cafe (oficiais da coroa ).md",
-			"styleAttributes":{
-				"border":null
-			},
-			"x":-1892,
-			"y":479,
-			"width":395,
-			"height":132,
-			"color":"3"
-		},
 		{
 			"id":"64e33fde61dbb8ea",
 			"type":"text",
@@ -125,19 +94,6 @@
 			"width":260,
 			"height":60
 		},
-		{"id":"34bdbbe74ca22cca","type":"file","file":"A revoluçao da areia/Sessao 1/Maqha Al-Qadim ( Padaria ).md","x":-3380,"y":-80,"width":480,"height":100,"color":"3"},
-		{
-			"id":"346ef5e1f864f76c",
-			"type":"text",
-			"text":"",
-			"styleAttributes":{},
-			"x":-3380,
-			"y":60,
-			"width":480,
-			"height":380
-		},
-		{"id":"f80f9d7b89138387","type":"text","text":"Uma invasão do mercado central e conduzida com a justificativa de investigar a associação dos vendedores com a frente dourada. Essa Invasão e conduzida principalmente pela coroa, mas novos oficiais estão presentes procurando informaçoes.","x":-3380,"y":471,"width":480,"height":169},
-		{"id":"31ec3fc170d7fcac","type":"file","file":"A revoluçao da areia/Sessao 1/O Revolucionario.md","x":-2820,"y":100,"width":480,"height":376},
 		{
 			"id":"ac62e54629ca6928",
 			"type":"text",
@@ -148,9 +104,6 @@
 			"width":260,
 			"height":60
 		},
-		{"id":"b77df321c28a5974","type":"text","text":"+2 Pontos pra frente","x":-2512,"y":-249,"width":250,"height":60,"color":"6"},
-		{"id":"118c6b4fdfa42ac4","type":"text","text":"+1 ponto novos oficiais","x":-2220,"y":-249,"width":250,"height":60,"color":"6"},
-		{"id":"3ea4d730781362b9","type":"text","text":"+1 ponto frente, +1 novos oficiais","x":-1940,"y":-249,"width":250,"height":60,"color":"6"},
 		{
 			"id":"ccee9923044dab28",
 			"type":"text",
@@ -172,9 +125,83 @@
 			"height":60,
 			"color":"6"
 		},
-		{"id":"59050a02ecac5a0f","type":"file","file":"A revoluçao da areia/Sessao 1/Rota A.md","x":-600,"y":-380,"width":400,"height":400},
-		{"id":"a33dd7c95de7d40e","type":"file","file":"A revoluçao da areia/Sessao 1/Rota B.md","x":-600,"y":99,"width":400,"height":400},
-		{"id":"93f95883ae9f0633","type":"file","file":"A revoluçao da areia/Sessao 1/Rota C.md","x":-600,"y":575,"width":400,"height":400}
+		{"id":"3334a8505dd90f22","type":"file","file":"A revoluçao da areia/Sessao 1/Invasão do café ( Novos  oficiais ).md","x":-1896,"y":-40,"width":380,"height":120,"color":"3"},
+		{
+			"id":"3ddf573d21477149",
+			"type":"file",
+			"file":"A revoluçao da areia/Sessao 1/Invasao do cafe (oficiais da coroa ).md",
+			"styleAttributes":{
+				"border":null
+			},
+			"x":-1892,
+			"y":479,
+			"width":395,
+			"height":132,
+			"color":"3"
+		},
+		{
+			"id":"407ecd308d984a30",
+			"type":"text",
+			"text":"Isso abre espaço para traiçao mais profunda do movimento",
+			"styleAttributes":{
+				"shape":null
+			},
+			"x":-1896,
+			"y":120,
+			"width":280,
+			"height":77,
+			"color":"1"
+		},
+		{"id":"1b064b52ab9ae718","type":"text","text":"Novos oficiais chamam o grupo para ajudalos como civis","x":-1892,"y":234,"width":272,"height":105},
+		{"id":"3ea4d730781362b9","type":"text","text":"+1 ponto frente, +1 novos oficiais","x":-1940,"y":-249,"width":250,"height":60,"color":"6"},
+		{"id":"951966cb1f98ae1b","type":"text","text":"Entregar o revolucionario","x":-2218,"y":256,"width":250,"height":60,"color":"5"},
+		{"id":"c337be670275c39a","type":"text","text":"Pegar a carta e deixar ele","x":-2218,"y":515,"width":250,"height":60,"color":"5"},
+		{"id":"293219639e9b2d10","type":"text","text":"Ajudar o revolucinario a sobreviver","x":-2218,"y":-5,"width":250,"height":60,"color":"5"},
+		{"id":"118c6b4fdfa42ac4","type":"text","text":"+1 ponto novos oficiais","x":-2220,"y":-249,"width":250,"height":60,"color":"6"},
+		{
+			"id":"8fb817324aa2699c",
+			"type":"text",
+			"text":"### Rota A: O Caminho da Insurreição (Ajudar o Revolucionário)\n\nNesta rota, os jogadores decidem esconder ou tratar o homem da **Frente Dourada**.\n\n- **Foco:** Fuga furtiva e sobrevivência urbana.\n    \n- **Dinâmica:** Eles precisam realizar primeiros socorros improvisados enquanto os **Novos Oficiais** batem à porta.\n    \n- **Consequência:** Ganham +2 pontos com a Frente Dourada. O objetivo passa a ser levar o ferido até um esconderijo seguro no Distrito das Sombras, onde terão o primeiro contato direto com a **Sintropia Arcana** e as mutações dos rebeldes.\n    \n- **Conflito:** Descobrem que as armas da Frente são \"doadas\" por figuras que eles viram no mercado.",
+			"styleAttributes":{},
+			"x":-480,
+			"y":-270,
+			"width":1100,
+			"height":350
+		},
+		{"id":"b77df321c28a5974","type":"text","text":"+2 Pontos pra frente","x":-2512,"y":-249,"width":250,"height":60,"color":"6"},
+		{"id":"31ec3fc170d7fcac","type":"file","file":"A revoluçao da areia/Sessao 1/O Revolucionario.md","x":-2820,"y":100,"width":480,"height":376},
+		{"id":"34bdbbe74ca22cca","type":"file","file":"A revoluçao da areia/Sessao 1/Maqha Al-Qadim ( Padaria ).md","x":-3380,"y":-80,"width":480,"height":100,"color":"3"},
+		{
+			"id":"346ef5e1f864f76c",
+			"type":"text",
+			"text":"",
+			"styleAttributes":{},
+			"x":-3380,
+			"y":60,
+			"width":480,
+			"height":380
+		},
+		{"id":"f80f9d7b89138387","type":"text","text":"Uma invasão do mercado central e conduzida com a justificativa de investigar a associação dos vendedores com a frente dourada. Essa Invasão e conduzida principalmente pela coroa, mas novos oficiais estão presentes procurando informaçoes.","x":-3380,"y":471,"width":480,"height":169},
+		{
+			"id":"045a8ba4df317760",
+			"type":"text",
+			"text":"### Rota B: O Caminho da Ordem (Entregar o Revolucionário)\n\nOs jogadores decidem colaborar com os **Novos Oficiais**, entregando o homem ou as informações.\n\n- **Foco:** Investigação e \"trabalho sujo\" oficial.\n    \n- **Dinâmica:** O líder dos oficiais os recruta como \"colaboradores civis\". Eles acompanham o interrogatório (possivelmente violento) do rebelde.\n    \n- **Consequência:** Ganham +1 ponto com os Novos Oficiais. Eles recebem a missão de rastrear de onde o rebelde veio, agindo como batedores para o exército.\n    \n- **Conflito:** Eles notam que os oficiais recebem recursos crescentes e armas modernas demais, mas as ordens de seus superiores parecem deliberadamente confusas para manter o caos vivo.",
+			"styleAttributes":{},
+			"x":-480,
+			"y":80,
+			"width":1100,
+			"height":360
+		},
+		{
+			"id":"c2bfe75eb53a9d2c",
+			"type":"text",
+			"text":"### Rota C: O Caminho do Sobrevivente (Ignorar/Pegar apenas a Carta)\n\nOs jogadores decidem não se envolver com o homem ferido, pegam apenas a carta de Malek e fogem antes da invasão.\n\n- **Foco:** Mistério e paranoia.\n    \n- **Dinâmica:** O grupo se torna um \"alvo móvel\". A Frente Dourada os caçará para recuperar a mensagem que o homem trazia, e os Novos Oficiais os procurarão como testemunhas.\n    \n- **Consequência:** Ganham +1 ponto em ambas as facções (pelo potencial de utilidade), mas perdem a confiança imediata de ambas.\n    \n- **Conflito:** Eles passam a ser seguidos por figuras intocáveis presentes em ambos os lados, percebendo que há algo \"acima\" das facções controlando seus passos.",
+			"styleAttributes":{},
+			"x":-480,
+			"y":440,
+			"width":1100,
+			"height":385
+		}
 	],
 	"edges":[
 		{"id":"99622a25dc48c195","fromNode":"d9117b314e82abc0","fromSide":"right","toNode":"7474d2c132707996","toSide":"left","label":"Os jogadores vao para o mercado"},
@@ -215,7 +242,7 @@
 			"toNode":"2b4b65f73e0ca50c",
 			"toSide":"bottom"
 		},
-		{"id":"cca01e7b3cc3cd66","fromNode":"31ec3fc170d7fcac","fromSide":"right","toNode":"293219639e9b2d10","toSide":"left"},
+		{"id":"cca01e7b3cc3cd66","toFloating":false,"fromNode":"31ec3fc170d7fcac","fromSide":"right","toNode":"293219639e9b2d10","toSide":"left"},
 		{"id":"97fc2f4931287a0d","fromNode":"31ec3fc170d7fcac","fromSide":"right","toNode":"951966cb1f98ae1b","toSide":"left"},
 		{"id":"cca3bc3f621abd3a","fromNode":"31ec3fc170d7fcac","fromSide":"right","toNode":"c337be670275c39a","toSide":"left"},
 		{
@@ -391,49 +418,79 @@
 			"toSide":"top"
 		},
 		{
-			"id":"403bb86f03aa89a1",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"ac62e54629ca6928",
-			"fromSide":"right",
-			"toNode":"59050a02ecac5a0f",
-			"toSide":"left"
-		},
-		{
-			"id":"3855ad26c2534bea",
+			"id":"b12a777f64dca17f",
 			"styleAttributes":{},
 			"toFloating":false,
 			"fromNode":"ccee9923044dab28",
 			"fromSide":"right",
-			"toNode":"59050a02ecac5a0f",
+			"toNode":"8fb817324aa2699c",
 			"toSide":"left"
 		},
 		{
-			"id":"d222bc79632c5ff4",
+			"id":"b684d1281a2d5433",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"ac62e54629ca6928",
+			"fromSide":"right",
+			"toNode":"8fb817324aa2699c",
+			"toSide":"left"
+		},
+		{
+			"id":"25e89f7af9e9ed3b",
 			"styleAttributes":{},
 			"toFloating":false,
 			"fromNode":"293219639e9b2d10",
 			"fromSide":"right",
-			"toNode":"59050a02ecac5a0f",
-			"toSide":"left"
+			"toNode":"8fb817324aa2699c",
+			"toSide":"left",
+			"color":"1"
 		},
 		{
-			"id":"d863906679d1d9d5",
+			"id":"e9bdd26f8ec7d9b7",
 			"styleAttributes":{},
 			"toFloating":false,
 			"fromNode":"1b064b52ab9ae718",
 			"fromSide":"right",
-			"toNode":"a33dd7c95de7d40e",
-			"toSide":"left"
+			"toNode":"045a8ba4df317760",
+			"toSide":"left",
+			"color":"1"
 		},
 		{
-			"id":"d8761bd95f4120b6",
+			"id":"6eee5df95b5f4b74",
 			"styleAttributes":{},
 			"toFloating":false,
 			"fromNode":"105360fab1f966ee",
 			"fromSide":"right",
-			"toNode":"93f95883ae9f0633",
+			"toNode":"c2bfe75eb53a9d2c",
 			"toSide":"left"
+		},
+		{
+			"id":"3a6c84f8ff36acd5",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"ccee9923044dab28",
+			"fromSide":"right",
+			"toNode":"c2bfe75eb53a9d2c",
+			"toSide":"left"
+		},
+		{
+			"id":"c832da2d7be0f73b",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"ac62e54629ca6928",
+			"fromSide":"right",
+			"toNode":"c2bfe75eb53a9d2c",
+			"toSide":"left"
+		},
+		{
+			"id":"6182023eb03faf18",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"c337be670275c39a",
+			"fromSide":"right",
+			"toNode":"c2bfe75eb53a9d2c",
+			"toSide":"left",
+			"color":"1"
 		}
 	],
 	"metadata":{

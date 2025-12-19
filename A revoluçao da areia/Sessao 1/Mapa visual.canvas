@@ -148,19 +148,40 @@
 			"width":260,
 			"height":60
 		},
-		{
-			"id":"0235e7ad3d6bdb7b",
-			"type":"text",
-			"text":"Em ambos os casos, os jogadores se tornam livres,\n",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-1020,
-			"y":50,
-			"width":260,
-			"height":460
-		},
 		{"id":"b77df321c28a5974","type":"text","text":"+2 Pontos pra frente","x":-2512,"y":-249,"width":250,"height":60,"color":"6"},
 		{"id":"118c6b4fdfa42ac4","type":"text","text":"+1 ponto novos oficiais","x":-2220,"y":-249,"width":250,"height":60,"color":"6"},
-		{"id":"3ea4d730781362b9","type":"text","text":"+1 ponto frente, +1 novos oficiais","x":-1940,"y":-249,"width":250,"height":60,"color":"6"}
+		{"id":"3ea4d730781362b9","type":"text","text":"+1 ponto frente, +1 novos oficiais","x":-1940,"y":-249,"width":250,"height":60,"color":"6"},
+		{
+			"id":"05728978a9b1d80f",
+			"type":"text",
+			"text":"",
+			"styleAttributes":{},
+			"x":-960,
+			"y":-160,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"ccee9923044dab28",
+			"type":"text",
+			"text":"Fuga",
+			"styleAttributes":{},
+			"x":-1400,
+			"y":99,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"e426d1201a0191cd",
+			"type":"text",
+			"text":"-1 de caos de cenario",
+			"styleAttributes":{},
+			"x":-1090,
+			"y":740,
+			"width":260,
+			"height":60,
+			"color":"6"
+		}
 	],
 	"edges":[
 		{"id":"99622a25dc48c195","fromNode":"d9117b314e82abc0","fromSide":"right","toNode":"7474d2c132707996","toSide":"left","label":"Os jogadores vao para o mercado"},
@@ -359,22 +380,49 @@
 			"toSide":"top"
 		},
 		{
-			"id":"d95a342fb7d7b52f",
+			"id":"8116a62271d3679e",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"293219639e9b2d10",
+			"fromSide":"right",
+			"toNode":"05728978a9b1d80f",
+			"toSide":"left"
+		},
+		{
+			"id":"8e99086bf57023f0",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"3ddf573d21477149",
+			"fromSide":"right",
+			"toNode":"ccee9923044dab28",
+			"toSide":"left"
+		},
+		{
+			"id":"a7cb44e0dff4c4c9",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"ccee9923044dab28",
+			"fromSide":"right",
+			"toNode":"05728978a9b1d80f",
+			"toSide":"left"
+		},
+		{
+			"id":"15da9906fa4946ca",
 			"styleAttributes":{},
 			"toFloating":false,
 			"fromNode":"ac62e54629ca6928",
 			"fromSide":"right",
-			"toNode":"0235e7ad3d6bdb7b",
+			"toNode":"05728978a9b1d80f",
 			"toSide":"left"
 		},
 		{
-			"id":"2f7a8dc68816db50",
+			"id":"15891c7ada653a1c",
 			"styleAttributes":{},
 			"toFloating":false,
-			"fromNode":"105360fab1f966ee",
-			"fromSide":"right",
-			"toNode":"0235e7ad3d6bdb7b",
-			"toSide":"left"
+			"fromNode":"ccee9923044dab28",
+			"fromSide":"bottom",
+			"toNode":"e426d1201a0191cd",
+			"toSide":"top"
 		}
 	],
 	"metadata":{

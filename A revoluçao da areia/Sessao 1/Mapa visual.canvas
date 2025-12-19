@@ -158,16 +158,6 @@
 		{"id":"c337be670275c39a","type":"text","text":"Pegar a carta e deixar ele","x":-2218,"y":515,"width":250,"height":60,"color":"5"},
 		{"id":"293219639e9b2d10","type":"text","text":"Ajudar o revolucinario a sobreviver","x":-2218,"y":-5,"width":250,"height":60,"color":"5"},
 		{"id":"118c6b4fdfa42ac4","type":"text","text":"+1 ponto novos oficiais","x":-2220,"y":-249,"width":250,"height":60,"color":"6"},
-		{
-			"id":"8fb817324aa2699c",
-			"type":"text",
-			"text":"### Rota A: O Caminho da Insurreição (Ajudar o Revolucionário)\n\nNesta rota, os jogadores decidem esconder ou tratar o homem da **Frente Dourada**.\n\n- **Foco:** Fuga furtiva e sobrevivência urbana.\n    \n- **Dinâmica:** Eles precisam realizar primeiros socorros improvisados enquanto os **Novos Oficiais** batem à porta.\n    \n- **Consequência:** Ganham +2 pontos com a Frente Dourada. O objetivo passa a ser levar o ferido até um esconderijo seguro no Distrito das Sombras, onde terão o primeiro contato direto com a **Sintropia Arcana** e as mutações dos rebeldes.\n    \n- **Conflito:** Descobrem que as armas da Frente são \"doadas\" por figuras que eles viram no mercado.",
-			"styleAttributes":{},
-			"x":-480,
-			"y":-270,
-			"width":1100,
-			"height":350
-		},
 		{"id":"b77df321c28a5974","type":"text","text":"+2 Pontos pra frente","x":-2512,"y":-249,"width":250,"height":60,"color":"6"},
 		{"id":"31ec3fc170d7fcac","type":"file","file":"A revoluçao da areia/Sessao 1/O Revolucionario.md","x":-2820,"y":100,"width":480,"height":376},
 		{"id":"34bdbbe74ca22cca","type":"file","file":"A revoluçao da areia/Sessao 1/Maqha Al-Qadim ( Padaria ).md","x":-3380,"y":-80,"width":480,"height":100,"color":"3"},
@@ -183,12 +173,22 @@
 		},
 		{"id":"f80f9d7b89138387","type":"text","text":"Uma invasão do mercado central e conduzida com a justificativa de investigar a associação dos vendedores com a frente dourada. Essa Invasão e conduzida principalmente pela coroa, mas novos oficiais estão presentes procurando informaçoes.","x":-3380,"y":471,"width":480,"height":169},
 		{
+			"id":"8fb817324aa2699c",
+			"type":"text",
+			"text":"### Rota A: O Caminho da Insurreição (Ajudar o Revolucionário)\n\nNesta rota, os jogadores decidem esconder ou tratar o homem da **Frente Dourada**.\n\n- **Foco:** Fuga furtiva e sobrevivência urbana.\n    \n- **Dinâmica:** Eles precisam realizar primeiros socorros improvisados enquanto os **Novos Oficiais** batem à porta.\n    \n- **Consequência:** Ganham +2 pontos com a Frente Dourada. O objetivo passa a ser levar o ferido até um esconderijo seguro no Distrito das Sombras, onde terão o primeiro contato direto com a **Sintropia Arcana** e as mutações dos rebeldes.\n    \n- **Conflito:** Descobrem que as armas da Frente são \"doadas\" por figuras que eles viram no mercado.",
+			"styleAttributes":{},
+			"x":-480,
+			"y":-330,
+			"width":1100,
+			"height":350
+		},
+		{
 			"id":"045a8ba4df317760",
 			"type":"text",
 			"text":"### Rota B: O Caminho da Ordem (Entregar o Revolucionário)\n\nOs jogadores decidem colaborar com os **Novos Oficiais**, entregando o homem ou as informações.\n\n- **Foco:** Investigação e \"trabalho sujo\" oficial.\n    \n- **Dinâmica:** O líder dos oficiais os recruta como \"colaboradores civis\". Eles acompanham o interrogatório (possivelmente violento) do rebelde.\n    \n- **Consequência:** Ganham +1 ponto com os Novos Oficiais. Eles recebem a missão de rastrear de onde o rebelde veio, agindo como batedores para o exército.\n    \n- **Conflito:** Eles notam que os oficiais recebem recursos crescentes e armas modernas demais, mas as ordens de seus superiores parecem deliberadamente confusas para manter o caos vivo.",
 			"styleAttributes":{},
 			"x":-480,
-			"y":80,
+			"y":50,
 			"width":1100,
 			"height":360
 		},
@@ -198,7 +198,7 @@
 			"text":"### Rota C: O Caminho do Sobrevivente (Ignorar/Pegar apenas a Carta)\n\nOs jogadores decidem não se envolver com o homem ferido, pegam apenas a carta de Malek e fogem antes da invasão.\n\n- **Foco:** Mistério e paranoia.\n    \n- **Dinâmica:** O grupo se torna um \"alvo móvel\". A Frente Dourada os caçará para recuperar a mensagem que o homem trazia, e os Novos Oficiais os procurarão como testemunhas.\n    \n- **Consequência:** Ganham +1 ponto em ambas as facções (pelo potencial de utilidade), mas perdem a confiança imediata de ambas.\n    \n- **Conflito:** Eles passam a ser seguidos por figuras intocáveis presentes em ambos os lados, percebendo que há algo \"acima\" das facções controlando seus passos.",
 			"styleAttributes":{},
 			"x":-480,
-			"y":440,
+			"y":460,
 			"width":1100,
 			"height":385
 		}

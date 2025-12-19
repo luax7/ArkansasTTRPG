@@ -152,16 +152,6 @@
 		{"id":"118c6b4fdfa42ac4","type":"text","text":"+1 ponto novos oficiais","x":-2220,"y":-249,"width":250,"height":60,"color":"6"},
 		{"id":"3ea4d730781362b9","type":"text","text":"+1 ponto frente, +1 novos oficiais","x":-1940,"y":-249,"width":250,"height":60,"color":"6"},
 		{
-			"id":"05728978a9b1d80f",
-			"type":"text",
-			"text":"",
-			"styleAttributes":{},
-			"x":-960,
-			"y":-160,
-			"width":260,
-			"height":60
-		},
-		{
 			"id":"ccee9923044dab28",
 			"type":"text",
 			"text":"Fuga",
@@ -181,7 +171,9 @@
 			"width":260,
 			"height":60,
 			"color":"6"
-		}
+		},
+		{"id":"59050a02ecac5a0f","type":"file","file":"Rota A.md","x":-600,"y":-380,"width":400,"height":400},
+		{"id":"a33dd7c95de7d40e","type":"file","file":"Rota B.md","x":-600,"y":99,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"99622a25dc48c195","fromNode":"d9117b314e82abc0","fromSide":"right","toNode":"7474d2c132707996","toSide":"left","label":"Os jogadores vao para o mercado"},
@@ -380,39 +372,12 @@
 			"toSide":"top"
 		},
 		{
-			"id":"8116a62271d3679e",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"293219639e9b2d10",
-			"fromSide":"right",
-			"toNode":"05728978a9b1d80f",
-			"toSide":"left"
-		},
-		{
 			"id":"8e99086bf57023f0",
 			"styleAttributes":{},
 			"toFloating":false,
 			"fromNode":"3ddf573d21477149",
 			"fromSide":"right",
 			"toNode":"ccee9923044dab28",
-			"toSide":"left"
-		},
-		{
-			"id":"a7cb44e0dff4c4c9",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"ccee9923044dab28",
-			"fromSide":"right",
-			"toNode":"05728978a9b1d80f",
-			"toSide":"left"
-		},
-		{
-			"id":"15da9906fa4946ca",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"ac62e54629ca6928",
-			"fromSide":"right",
-			"toNode":"05728978a9b1d80f",
 			"toSide":"left"
 		},
 		{
@@ -423,6 +388,42 @@
 			"fromSide":"bottom",
 			"toNode":"e426d1201a0191cd",
 			"toSide":"top"
+		},
+		{
+			"id":"403bb86f03aa89a1",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"ac62e54629ca6928",
+			"fromSide":"right",
+			"toNode":"59050a02ecac5a0f",
+			"toSide":"left"
+		},
+		{
+			"id":"3855ad26c2534bea",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"ccee9923044dab28",
+			"fromSide":"right",
+			"toNode":"59050a02ecac5a0f",
+			"toSide":"left"
+		},
+		{
+			"id":"d222bc79632c5ff4",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"293219639e9b2d10",
+			"fromSide":"right",
+			"toNode":"59050a02ecac5a0f",
+			"toSide":"left"
+		},
+		{
+			"id":"d863906679d1d9d5",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"1b064b52ab9ae718",
+			"fromSide":"right",
+			"toNode":"a33dd7c95de7d40e",
+			"toSide":"left"
 		}
 	],
 	"metadata":{

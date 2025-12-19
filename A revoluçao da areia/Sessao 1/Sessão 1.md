@@ -2,7 +2,15 @@ Parte da campanha [[A revolução da areia]]
 # Pontos chave 
 ## Rotina e apresentação de personagem 
 Cada um dos personagens se apresenta de manhã e sua rotina, indo bem lentamente até o mercado, onde por ordem do destino eles se encontram 
+
+## Carta recebida por baixo da porta
+Os jogadores recebem cartas personalizadas por baixo da porta baseada em cada personagem. chamando os para uma padaria especifica chama Maqha Al-Qadim
+
 ## Mercado
+As personagens se encontram la, e veem um homem misterioso atras do balcão, pele negra, olhos dourados brilhantes, diversos piercings dourados, olhar sagaz e perfurante
+
+La, esse homem explica que ele os chamou por suas combinações muito importantes de habilidades, e explica que a revolução só será possível com a ajuda deles.
+
 As personagens se encontram, e enquanto compram seus mantimentos e ou cafés da manhã, começam a escutar tambores, e movimentos das forças da coroa.
 Esse ato é referente a uma perseguição de um agente da Frente Dourada que se escondeu em algum lugar do mercado.
 

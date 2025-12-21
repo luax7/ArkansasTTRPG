@@ -15,11 +15,11 @@ A revolução da areia / [[Frente dourada]] (Grupo fictício), que busca impleme
 Os jogadores, ao longo do jogo, irão se deparar com diversas situações onde cabe a eles decidir o futuro do cenário diretamente, assim como seu apoio por cada um dos grupos.
 Isso impactara no final do RPG, onde em linhas gerais, o grupo com mais eventos positivos causados pelos players "ganhara" a revolução.
 
-| Grupo           | Modificadores | Pontuação |
-| --------------- | ------------- | --------- |
-| Frente dourada  |               |           |
-| Novos oficias   |               |           |
-| Forças da coroa |               |           |
+| Grupo           | Anotações | Pontuação |
+| --------------- | --------- | --------- |
+| Frente dourada  | -         | 0         |
+| Novos oficias   | -         | 0         |
+| Forças da coroa | -         | 0         |
 
 # Anotações 
 

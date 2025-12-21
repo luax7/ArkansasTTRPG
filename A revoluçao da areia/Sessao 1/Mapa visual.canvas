@@ -204,6 +204,26 @@
 			"y":60,
 			"width":1100,
 			"height":360
+		},
+		{
+			"id":"84eb28130746d852",
+			"type":"text",
+			"text":"Carta Malek",
+			"styleAttributes":{},
+			"x":-3860,
+			"y":640,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"70d95fe0e1caa835",
+			"type":"text",
+			"text":"Levem o pacote selado que deixei sob a mesa 4 da padaria até o armazém 12 no Porto. Lá, vocês receberão sua liberdade e o ouro prometido. ",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-4047,
+			"y":700,
+			"width":634,
+			"height":480
 		}
 	],
 	"edges":[
@@ -526,6 +546,15 @@
 			"fromSide":"right",
 			"toNode":"5a0a66f8b019f977",
 			"toSide":"left"
+		},
+		{
+			"id":"466b5cffe00f96c8",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"346ef5e1f864f76c",
+			"fromSide":"bottom",
+			"toNode":"84eb28130746d852",
+			"toSide":"top"
 		}
 	],
 	"metadata":{

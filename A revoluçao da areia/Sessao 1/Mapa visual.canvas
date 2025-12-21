@@ -2,8 +2,8 @@
 	"nodes":[
 		{"id":"7474d2c132707996","type":"group","x":-3400,"y":-320,"width":2720,"height":1180,"label":"Cena mercado"},
 		{"id":"f781c0b301e63a35","type":"group","ratio":1.7777777777777777,"x":1020,"y":-720,"width":1529,"height":860,"color":"6","label":"Esconderijo"},
-		{"id":"96530a62bae326e9","type":"group","ratio":1.7777777777777777,"x":1020,"y":220,"width":1529,"height":860,"color":"6","label":"Interrogatorio"},
-		{"id":"5a0a66f8b019f977","type":"group","ratio":1.7777777777777777,"x":1020,"y":1160,"width":1529,"height":860,"label":"Al-Zilal"},
+		{"id":"96530a62bae326e9","type":"group","ratio":1.7777777777777777,"x":1020,"y":400,"width":1529,"height":860,"color":"6","label":"Interrogatorio"},
+		{"id":"5a0a66f8b019f977","type":"group","ratio":1.7777777777777777,"x":1020,"y":1520,"width":1529,"height":860,"color":"6","label":"Al-Zilal"},
 		{
 			"id":"5a95a36c13e1f062",
 			"type":"text",
@@ -500,8 +500,9 @@
 		},
 		{
 			"id":"fa9248e33a6af46d",
-			"styleAttributes":{},
+			"styleAttributes":{"arrow":"triangle-outline"},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"8fb817324aa2699c",
 			"fromSide":"right",
 			"toNode":"f781c0b301e63a35",
@@ -509,8 +510,9 @@
 		},
 		{
 			"id":"b6591f13c61af028",
-			"styleAttributes":{},
+			"styleAttributes":{"arrow":"triangle-outline"},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"045a8ba4df317760",
 			"fromSide":"right",
 			"toNode":"96530a62bae326e9",
@@ -518,7 +520,7 @@
 		},
 		{
 			"id":"99138c5cdad22303",
-			"styleAttributes":{},
+			"styleAttributes":{"arrow":"triangle-outline"},
 			"toFloating":false,
 			"fromNode":"c2bfe75eb53a9d2c",
 			"fromSide":"right",

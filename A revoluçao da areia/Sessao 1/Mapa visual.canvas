@@ -293,7 +293,17 @@
 			"color":"5"
 		},
 		{"id":"a92b9c40cc4dfa99","type":"file","file":"A revoluçao da areia/Sessao 1/Armazem 12.png","x":3860,"y":640,"width":400,"height":400},
-		{"id":"8be7aa86552bf1bb","type":"file","file":"A revoluçao da areia/Sessao 1/Armazem 12 BP.png","x":4300,"y":640,"width":400,"height":400}
+		{"id":"8be7aa86552bf1bb","type":"file","file":"A revoluçao da areia/Sessao 1/Armazem 12 BP.png","x":4300,"y":640,"width":400,"height":400},
+		{
+			"id":"9c4f6b681c4a7f21",
+			"type":"text",
+			"text":"",
+			"styleAttributes":{},
+			"x":3260,
+			"y":1020,
+			"width":520,
+			"height":220
+		}
 	],
 	"edges":[
 		{"id":"99622a25dc48c195","fromNode":"d9117b314e82abc0","fromSide":"right","toNode":"7474d2c132707996","toSide":"left","label":"Os jogadores vao para o mercado"},

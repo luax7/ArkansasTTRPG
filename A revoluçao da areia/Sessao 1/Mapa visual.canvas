@@ -1,10 +1,10 @@
 {
 	"nodes":[
 		{"id":"7474d2c132707996","type":"group","x":-3400,"y":-320,"width":2720,"height":1180,"label":"Cena mercado"},
+		{"id":"2741c0270b629579","type":"group","x":3120,"y":192,"width":1260,"height":2188,"color":"6","label":"Missao Malek"},
 		{"id":"f781c0b301e63a35","type":"group","ratio":1.7777777777777777,"x":1020,"y":-720,"width":1529,"height":860,"color":"6","label":"Esconderijo"},
 		{"id":"96530a62bae326e9","type":"group","ratio":1.7777777777777777,"x":1020,"y":400,"width":1529,"height":860,"color":"6","label":"Interrogatorio"},
 		{"id":"5a0a66f8b019f977","type":"group","ratio":1.7777777777777777,"x":1020,"y":1520,"width":1529,"height":860,"color":"6","label":"Al-Zilal"},
-		{"id":"0c286fc81fa34c48","type":"group","ratio":1.7777777777777777,"x":3280,"y":400,"width":1529,"height":860,"color":"6","label":"Missao Malek"},
 		{
 			"id":"5a95a36c13e1f062",
 			"type":"text",

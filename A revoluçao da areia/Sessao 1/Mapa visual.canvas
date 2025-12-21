@@ -206,24 +206,46 @@
 			"height":360
 		},
 		{
-			"id":"84eb28130746d852",
-			"type":"text",
-			"text":"Carta Malek",
-			"styleAttributes":{},
-			"x":-3860,
-			"y":640,
-			"width":260,
-			"height":60
-		},
-		{
 			"id":"70d95fe0e1caa835",
 			"type":"text",
 			"text":"Meus caros, o tempo é curto. No Armazém 12, no Distrito Industrial, há um pacote marcado com o selo de um escaravelho de ferro. Ele contém fundos para a nossa causa. Peguem-no e levem-no para o endereço anexo. Não abram, não hesitem. Se o fizerem, o Egito será grato. - M",
 			"styleAttributes":{"textAlign":"center"},
 			"x":-4047,
-			"y":700,
+			"y":670,
 			"width":634,
 			"height":480
+		},
+		{
+			"id":"84eb28130746d852",
+			"type":"text",
+			"text":"Carta Malek",
+			"styleAttributes":{"shape":"document"},
+			"x":-3860,
+			"y":640,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"236109a5fd1e8210",
+			"type":"text",
+			"text":"Meus caros, o tempo é curto. No Armazém 12, no Distrito Industrial, há um pacote marcado com o selo de um escaravelho de ferro. Ele contém fundos para a nossa causa. Peguem-no e levem-no para o endereço anexo. Não abram, não hesitem. Se o fizerem, o Egito será grato. - M",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-2897,
+			"y":1170,
+			"width":634,
+			"height":480
+		},
+		{
+			"id":"54cd4550af120c11",
+			"type":"text",
+			"text":"Carta revolucionario",
+			"styleAttributes":{"textAlign":"center","shape":"document"},
+			"x":-2710,
+			"y":1140,
+			"width":260,
+			"height":60,
+			"color":"4"
 		}
 	],
 	"edges":[
@@ -554,6 +576,15 @@
 			"fromNode":"346ef5e1f864f76c",
 			"fromSide":"bottom",
 			"toNode":"84eb28130746d852",
+			"toSide":"top"
+		},
+		{
+			"id":"9cb31c64198d59b6",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"31ec3fc170d7fcac",
+			"fromSide":"bottom",
+			"toNode":"54cd4550af120c11",
 			"toSide":"top"
 		}
 	],

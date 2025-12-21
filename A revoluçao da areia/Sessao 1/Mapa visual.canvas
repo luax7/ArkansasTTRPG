@@ -66,16 +66,113 @@
 			"height":100
 		},
 		{"id":"d9117b314e82abc0","type":"text","text":"Personagens começam apresentando sua casa, aparência , nome, e sao levados a uma padaria.","x":-4619,"y":166,"width":385,"height":170},
-		{"id":"34bdbbe74ca22cca","type":"file","file":"A revoluçao da areia/Sessao 1/Maqha Al-Qadim ( Padaria ).md","x":-3380,"y":-80,"width":480,"height":100,"color":"3"},
 		{
-			"id":"346ef5e1f864f76c",
+			"id":"84eb28130746d852",
+			"type":"text",
+			"text":"Carta Malek",
+			"styleAttributes":{"shape":"document"},
+			"x":-3860,
+			"y":640,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"a0009a389e78f973",
+			"type":"text",
+			"text":"Malek quer testar o grau de utilidade dos jogadores para os arquitetos de zênite. ele vai mandar os jogadores para um chamado deposito numero 12 da companhia Great Britain Storing Company, para recuperar uma carga, e levar para uma base da frente dourada no distrito das sombras.\n\nNa realidade essa carga e uma bomba, se os jogadores abrirem a caixa, coisa que o Malek pede para eles não realizarem, a bomba e desarmada, e a confiabilidade deles e testada como baixa. abrindo assim espaço para missões mais arriscadas, e de menor confiabilidade para os jogadores.",
+			"styleAttributes":{"textAlign":"center"},
+			"x":3260,
+			"y":250,
+			"width":1040,
+			"height":320,
+			"color":"5"
+		},
+		{
+			"id":"7cf0edab25b2f1a6",
+			"type":"text",
+			"text":"o armazém 12 e um antigo armazém para guardar artigos gerais e cargas comerciais. No contexto da missão, Malek comissionou guardas egípcios para protegerem a carga, para ter maior influencia sobre eles.",
+			"styleAttributes":{},
+			"x":3260,
+			"y":640,
+			"width":520,
+			"height":340,
+			"color":"5"
+		},
+		{
+			"id":"1833301b39a9cf8b",
+			"type":"text",
+			"text":"Armazem",
+			"styleAttributes":{"shape":"document"},
+			"x":3260,
+			"y":600,
+			"width":260,
+			"height":60,
+			"color":"5"
+		},
+		{
+			"id":"9c4f6b681c4a7f21",
 			"type":"text",
 			"text":"",
 			"styleAttributes":{},
-			"x":-3380,
+			"x":3260,
+			"y":1080,
+			"width":520,
+			"height":220
+		},
+		{
+			"id":"a70e8705048d8248",
+			"type":"text",
+			"text":"Premissa",
+			"styleAttributes":{"shape":"document","textAlign":"center"},
+			"x":3260,
+			"y":220,
+			"width":260,
+			"height":60,
+			"color":"5"
+		},
+		{"id":"8be7aa86552bf1bb","type":"file","file":"A revoluçao da areia/Sessao 1/Armazem 12 BP.png","x":3960,"y":720,"width":400,"height":400},
+		{"id":"a92b9c40cc4dfa99","type":"file","file":"A revoluçao da areia/Sessao 1/Armazem 12.png","x":3880,"y":640,"width":400,"height":400},
+		{
+			"id":"c2bfe75eb53a9d2c",
+			"type":"text",
+			"text":"### Rota C: O Caminho do Sobrevivente (Ignorar/Pegar apenas a Carta)\n\nOs jogadores decidem não se envolver com o homem ferido, pegam apenas a carta de Malek e fogem antes da invasão.\n\n- **Foco:** Mistério e paranoia.\n    \n- **Dinâmica:** O grupo se torna um \"alvo móvel\". A Frente Dourada os caçará para recuperar a mensagem que o homem trazia, e os Novos Oficiais os procurarão como testemunhas.\n    \n- **Consequência:** Ganham +1 ponto em ambas as facções (pelo potencial de utilidade), mas perdem a confiança imediata de ambas.\n    \n- **Conflito:** Eles passam a ser seguidos por figuras intocáveis presentes em ambos os lados, percebendo que há algo \"acima\" das facções controlando seus passos.",
+			"styleAttributes":{},
+			"x":-480,
+			"y":460,
+			"width":1100,
+			"height":385
+		},
+		{
+			"id":"8fb817324aa2699c",
+			"type":"text",
+			"text":"### Rota A: O Caminho da Insurreição (Ajudar o Revolucionário)\n\nNesta rota, os jogadores decidem esconder ou tratar o homem da **Frente Dourada**.\n\n- **Foco:** Fuga furtiva e sobrevivência urbana.\n    \n- **Dinâmica:** Eles precisam realizar primeiros socorros improvisados enquanto os **Novos Oficiais** batem à porta.\n    \n- **Consequência:** Ganham +2 pontos com a Frente Dourada. O objetivo passa a ser levar o ferido até um esconderijo seguro no Distrito das Sombras, onde terão o primeiro contato direto com a **Sintropia Arcana** e as mutações dos rebeldes.\n    \n- **Conflito:** Descobrem que as armas da Frente são \"doadas\" por figuras que eles viram no mercado.",
+			"styleAttributes":{},
+			"x":-480,
+			"y":-330,
+			"width":1100,
+			"height":350
+		},
+		{
+			"id":"045a8ba4df317760",
+			"type":"text",
+			"text":"### Rota B: O Caminho da Ordem (Entregar o Revolucionário)\n\nOs jogadores decidem colaborar com os **Novos Oficiais**, entregando o homem ou as informações.\n\n- **Foco:** Investigação e \"trabalho sujo\" oficial.\n    \n- **Dinâmica:** O líder dos oficiais os recruta como \"colaboradores civis\". Eles acompanham o interrogatório (possivelmente violento) do rebelde.\n    \n- **Consequência:** Ganham +1 ponto com os Novos Oficiais. Eles recebem a missão de rastrear de onde o rebelde veio, agindo como batedores para o exército.\n    \n- **Conflito:** Eles notam que os oficiais recebem recursos crescentes e armas modernas demais, mas as ordens de seus superiores parecem deliberadamente confusas para manter o caos vivo.",
+			"styleAttributes":{},
+			"x":-480,
 			"y":60,
-			"width":480,
-			"height":380
+			"width":1100,
+			"height":360
+		},
+		{
+			"id":"e426d1201a0191cd",
+			"type":"text",
+			"text":"-1 de caos de cenario",
+			"styleAttributes":{},
+			"x":-1090,
+			"y":740,
+			"width":260,
+			"height":60,
+			"color":"6"
 		},
 		{
 			"id":"0d81a3097ec2656e",
@@ -108,28 +205,6 @@
 			"width":260,
 			"height":60
 		},
-		{"id":"f80f9d7b89138387","type":"text","text":"Uma invasão do mercado central e conduzida com a justificativa de investigar a associação dos vendedores com a frente dourada. Essa Invasão e conduzida principalmente pela coroa, mas novos oficiais estão presentes procurando informaçoes.","x":-3380,"y":471,"width":480,"height":169},
-		{
-			"id":"70d95fe0e1caa835",
-			"type":"text",
-			"text":"Meus caros, o tempo é curto. No Armazém 12, no Distrito Industrial, há um pacote marcado com o selo de um escaravelho de ferro. Ele contém fundos para a nossa causa. Peguem-no e levem-no para o endereço anexo. Não abram, não hesitem. Se o fizerem, o Egito será grato. - M",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-4047,
-			"y":670,
-			"width":634,
-			"height":480
-		},
-		{
-			"id":"84eb28130746d852",
-			"type":"text",
-			"text":"Carta Malek",
-			"styleAttributes":{"shape":"document"},
-			"x":-3860,
-			"y":640,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
 		{
 			"id":"64e33fde61dbb8ea",
 			"type":"text",
@@ -142,15 +217,14 @@
 			"color":"6"
 		},
 		{
-			"id":"e426d1201a0191cd",
+			"id":"ac62e54629ca6928",
 			"type":"text",
-			"text":"-1 de caos de cenario",
+			"text":"Matar os guardas",
 			"styleAttributes":{},
-			"x":-1090,
-			"y":740,
+			"x":-1400,
+			"y":-10,
 			"width":260,
-			"height":60,
-			"color":"6"
+			"height":60
 		},
 		{
 			"id":"3ddf573d21477149",
@@ -166,49 +240,6 @@
 			"color":"3"
 		},
 		{"id":"1b064b52ab9ae718","type":"text","text":"Novos oficiais chamam o grupo para ajudalos como civis","x":-1892,"y":234,"width":272,"height":105},
-		{
-			"id":"c2bfe75eb53a9d2c",
-			"type":"text",
-			"text":"### Rota C: O Caminho do Sobrevivente (Ignorar/Pegar apenas a Carta)\n\nOs jogadores decidem não se envolver com o homem ferido, pegam apenas a carta de Malek e fogem antes da invasão.\n\n- **Foco:** Mistério e paranoia.\n    \n- **Dinâmica:** O grupo se torna um \"alvo móvel\". A Frente Dourada os caçará para recuperar a mensagem que o homem trazia, e os Novos Oficiais os procurarão como testemunhas.\n    \n- **Consequência:** Ganham +1 ponto em ambas as facções (pelo potencial de utilidade), mas perdem a confiança imediata de ambas.\n    \n- **Conflito:** Eles passam a ser seguidos por figuras intocáveis presentes em ambos os lados, percebendo que há algo \"acima\" das facções controlando seus passos.",
-			"styleAttributes":{},
-			"x":-480,
-			"y":460,
-			"width":1100,
-			"height":385
-		},
-		{
-			"id":"ac62e54629ca6928",
-			"type":"text",
-			"text":"Matar os guardas",
-			"styleAttributes":{},
-			"x":-1400,
-			"y":-10,
-			"width":260,
-			"height":60
-		},
-		{"id":"3ea4d730781362b9","type":"text","text":"+1 ponto frente, +1 novos oficiais","x":-1940,"y":-249,"width":250,"height":60,"color":"6"},
-		{"id":"951966cb1f98ae1b","type":"text","text":"Entregar o revolucionario","x":-2218,"y":256,"width":250,"height":60,"color":"5"},
-		{
-			"id":"8fb817324aa2699c",
-			"type":"text",
-			"text":"### Rota A: O Caminho da Insurreição (Ajudar o Revolucionário)\n\nNesta rota, os jogadores decidem esconder ou tratar o homem da **Frente Dourada**.\n\n- **Foco:** Fuga furtiva e sobrevivência urbana.\n    \n- **Dinâmica:** Eles precisam realizar primeiros socorros improvisados enquanto os **Novos Oficiais** batem à porta.\n    \n- **Consequência:** Ganham +2 pontos com a Frente Dourada. O objetivo passa a ser levar o ferido até um esconderijo seguro no Distrito das Sombras, onde terão o primeiro contato direto com a **Sintropia Arcana** e as mutações dos rebeldes.\n    \n- **Conflito:** Descobrem que as armas da Frente são \"doadas\" por figuras que eles viram no mercado.",
-			"styleAttributes":{},
-			"x":-480,
-			"y":-330,
-			"width":1100,
-			"height":350
-		},
-		{
-			"id":"045a8ba4df317760",
-			"type":"text",
-			"text":"### Rota B: O Caminho da Ordem (Entregar o Revolucionário)\n\nOs jogadores decidem colaborar com os **Novos Oficiais**, entregando o homem ou as informações.\n\n- **Foco:** Investigação e \"trabalho sujo\" oficial.\n    \n- **Dinâmica:** O líder dos oficiais os recruta como \"colaboradores civis\". Eles acompanham o interrogatório (possivelmente violento) do rebelde.\n    \n- **Consequência:** Ganham +1 ponto com os Novos Oficiais. Eles recebem a missão de rastrear de onde o rebelde veio, agindo como batedores para o exército.\n    \n- **Conflito:** Eles notam que os oficiais recebem recursos crescentes e armas modernas demais, mas as ordens de seus superiores parecem deliberadamente confusas para manter o caos vivo.",
-			"styleAttributes":{},
-			"x":-480,
-			"y":60,
-			"width":1100,
-			"height":360
-		},
-		{"id":"31ec3fc170d7fcac","type":"file","file":"A revoluçao da areia/Sessao 1/O Revolucionario.md","x":-2820,"y":100,"width":480,"height":376},
 		{"id":"3334a8505dd90f22","type":"file","file":"A revoluçao da areia/Sessao 1/Invasão do café ( Novos  oficiais ).md","x":-1896,"y":-40,"width":380,"height":120,"color":"3"},
 		{
 			"id":"407ecd308d984a30",
@@ -223,6 +254,29 @@
 			"height":77,
 			"color":"1"
 		},
+		{
+			"id":"3f3ca68577f601be",
+			"type":"text",
+			"text":"base de trafico de armas dos novos oficiais no distrito das sombras",
+			"styleAttributes":{},
+			"x":1040,
+			"y":1540,
+			"width":440,
+			"height":100
+		},
+		{
+			"id":"e78c22a9ed41b40f",
+			"type":"text",
+			"text":"premissa, os jogadores investigam a base, letalmente ou não. A base e parcialmente aberta para troca e trafico, então eles não precisam destruir a base direto",
+			"styleAttributes":{},
+			"x":1520,
+			"y":1540,
+			"width":640,
+			"height":100
+		},
+		{"id":"3ea4d730781362b9","type":"text","text":"+1 ponto frente, +1 novos oficiais","x":-1940,"y":-249,"width":250,"height":60,"color":"6"},
+		{"id":"951966cb1f98ae1b","type":"text","text":"Entregar o revolucionario","x":-2218,"y":256,"width":250,"height":60,"color":"5"},
+		{"id":"31ec3fc170d7fcac","type":"file","file":"A revoluçao da areia/Sessao 1/O Revolucionario.md","x":-2820,"y":100,"width":480,"height":376},
 		{"id":"c337be670275c39a","type":"text","text":"Pegar a carta e deixar ele","x":-2218,"y":515,"width":250,"height":60,"color":"5"},
 		{"id":"293219639e9b2d10","type":"text","text":"Ajudar o revolucinario a sobreviver","x":-2218,"y":-5,"width":250,"height":60,"color":"5"},
 		{"id":"118c6b4fdfa42ac4","type":"text","text":"+1 ponto novos oficiais","x":-2220,"y":-249,"width":250,"height":60,"color":"6"},
@@ -248,61 +302,37 @@
 			"height":60,
 			"color":"4"
 		},
+		{"id":"34bdbbe74ca22cca","type":"file","file":"A revoluçao da areia/Sessao 1/Maqha Al-Qadim ( Padaria ).md","x":-3380,"y":-80,"width":480,"height":100,"color":"3"},
 		{
-			"id":"a0009a389e78f973",
-			"type":"text",
-			"text":"Malek quer testar o grau de utilidade dos jogadores para os arquitetos de zênite. ele vai mandar os jogadores para um chamado deposito numero 12 da companhia Great Britain Storing Company, para recuperar uma carga, e levar para uma base da frente dourada no distrito das sombras.\n\nNa realidade essa carga e uma bomba, se os jogadores abrirem a caixa, coisa que o Malek pede para eles não realizarem, a bomba e desarmada, e a confiabilidade deles e testada como baixa. abrindo assim espaço para missões mais arriscadas, e de menor confiabilidade para os jogadores.",
-			"styleAttributes":{"textAlign":"center"},
-			"x":3260,
-			"y":250,
-			"width":1040,
-			"height":320,
-			"color":"5"
-		},
-		{
-			"id":"a70e8705048d8248",
-			"type":"text",
-			"text":"Premissa",
-			"styleAttributes":{"shape":"document","textAlign":"center"},
-			"x":3260,
-			"y":220,
-			"width":260,
-			"height":60,
-			"color":"5"
-		},
-		{
-			"id":"7cf0edab25b2f1a6",
-			"type":"text",
-			"text":"o armazém 12 e um antigo armazém para guardar artigos gerais e cargas comerciais. No contexto da missão, Malek comissionou guardas egípcios para protegerem a carga, para ter maior influencia sobre eles.",
-			"styleAttributes":{},
-			"x":3260,
-			"y":640,
-			"width":520,
-			"height":340,
-			"color":"5"
-		},
-		{
-			"id":"1833301b39a9cf8b",
-			"type":"text",
-			"text":"Armazem",
-			"styleAttributes":{"shape":"document"},
-			"x":3260,
-			"y":600,
-			"width":260,
-			"height":60,
-			"color":"5"
-		},
-		{"id":"a92b9c40cc4dfa99","type":"file","file":"A revoluçao da areia/Sessao 1/Armazem 12.png","x":3860,"y":640,"width":400,"height":400},
-		{"id":"8be7aa86552bf1bb","type":"file","file":"A revoluçao da areia/Sessao 1/Armazem 12 BP.png","x":4300,"y":640,"width":400,"height":400},
-		{
-			"id":"9c4f6b681c4a7f21",
+			"id":"346ef5e1f864f76c",
 			"type":"text",
 			"text":"",
 			"styleAttributes":{},
-			"x":3260,
-			"y":1020,
-			"width":520,
-			"height":220
+			"x":-3380,
+			"y":60,
+			"width":480,
+			"height":380
+		},
+		{"id":"f80f9d7b89138387","type":"text","text":"Uma invasão do mercado central e conduzida com a justificativa de investigar a associação dos vendedores com a frente dourada. Essa Invasão e conduzida principalmente pela coroa, mas novos oficiais estão presentes procurando informaçoes.","x":-3380,"y":471,"width":480,"height":169},
+		{
+			"id":"70d95fe0e1caa835",
+			"type":"text",
+			"text":"Meus caros, o tempo é curto. No Armazém 12, no Distrito Industrial, há um pacote marcado com o selo de um escaravelho de ferro. Ele contém fundos para a nossa causa. Peguem-no e levem-no para o endereço anexo. Não abram, não hesitem. Se o fizerem, o Egito será grato. - M",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-4047,
+			"y":670,
+			"width":634,
+			"height":480
+		},
+		{
+			"id":"9667f5042dd02f73",
+			"type":"text",
+			"text":"La, eles podem conseguir informaçao e documentos acerca do trafico de armas dos novos oficiais pra frente dourada.",
+			"styleAttributes":{},
+			"x":1040,
+			"y":1660,
+			"width":320,
+			"height":160
 		}
 	],
 	"edges":[

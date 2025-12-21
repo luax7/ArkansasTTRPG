@@ -65,18 +65,6 @@
 			"width":260,
 			"height":100
 		},
-		{"id":"d9117b314e82abc0","type":"text","text":"Personagens começam apresentando sua casa, aparência , nome, e sao levados a uma padaria.","x":-4619,"y":166,"width":385,"height":170},
-		{
-			"id":"84eb28130746d852",
-			"type":"text",
-			"text":"Carta Malek",
-			"styleAttributes":{"shape":"document"},
-			"x":-3860,
-			"y":640,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
 		{
 			"id":"a0009a389e78f973",
 			"type":"text",
@@ -284,7 +272,7 @@
 		{
 			"id":"236109a5fd1e8210",
 			"type":"text",
-			"text":"Manchada de sangue, ela diz: _\"Eles estão nos vendendo. Os Novos Oficiais têm uma base no **Al-Zilal (Distrito das Sombras)**. O capitão deles recebe ordens de um homem que não usa farda. Não confiem no ouro.\"_",
+			"text":"Manchada de sangue, ela diz: _\"Eles estão nos vendendo. Os Novos Oficiais têm uma base no **Al-Zilal (Distrito das Sombras)**. O capitão deles recebe ordens de um homem que não usa farda. Não confiem no ouro.\"_\n\nA carga que nos estávamos esperando vai passar por volta das 14:00, não percam ela. Pode ser nossa única chance",
 			"styleAttributes":{"textAlign":"center"},
 			"x":-2897,
 			"y":1170,
@@ -333,7 +321,19 @@
 			"y":1660,
 			"width":320,
 			"height":160
-		}
+		},
+		{
+			"id":"84eb28130746d852",
+			"type":"text",
+			"text":"Carta Malek",
+			"styleAttributes":{"shape":"document"},
+			"x":-3860,
+			"y":640,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{"id":"d9117b314e82abc0","type":"text","text":"Personagens começam apresentando sua casa, aparência , nome, e sao levados a uma padaria.","x":-4619,"y":166,"width":385,"height":170}
 	],
 	"edges":[
 		{"id":"99622a25dc48c195","fromNode":"d9117b314e82abc0","fromSide":"right","toNode":"7474d2c132707996","toSide":"left","label":"Os jogadores vao para o mercado"},

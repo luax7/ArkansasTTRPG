@@ -4,6 +4,7 @@
 		{"id":"f781c0b301e63a35","type":"group","ratio":1.7777777777777777,"x":1020,"y":-720,"width":1529,"height":860,"color":"6","label":"Esconderijo"},
 		{"id":"96530a62bae326e9","type":"group","ratio":1.7777777777777777,"x":1020,"y":400,"width":1529,"height":860,"color":"6","label":"Interrogatorio"},
 		{"id":"5a0a66f8b019f977","type":"group","ratio":1.7777777777777777,"x":1020,"y":1520,"width":1529,"height":860,"color":"6","label":"Al-Zilal"},
+		{"id":"0c286fc81fa34c48","type":"group","ratio":1.7777777777777777,"x":3280,"y":400,"width":1529,"height":860,"color":"6","label":"Missao Malek"},
 		{
 			"id":"5a95a36c13e1f062",
 			"type":"text",
@@ -229,7 +230,7 @@
 		{
 			"id":"236109a5fd1e8210",
 			"type":"text",
-			"text":"Meus caros, o tempo é curto. No Armazém 12, no Distrito Industrial, há um pacote marcado com o selo de um escaravelho de ferro. Ele contém fundos para a nossa causa. Peguem-no e levem-no para o endereço anexo. Não abram, não hesitem. Se o fizerem, o Egito será grato. - M",
+			"text":"Manchada de sangue, ela diz: _\"Eles estão nos vendendo. Os Novos Oficiais têm uma base no **Al-Zilal (Distrito das Sombras)**. O capitão deles recebe ordens de um homem que não usa farda. Não confiem no ouro.\"_",
 			"styleAttributes":{"textAlign":"center"},
 			"x":-2897,
 			"y":1170,

@@ -256,7 +256,8 @@
 			"x":3260,
 			"y":250,
 			"width":1040,
-			"height":320
+			"height":320,
+			"color":"5"
 		},
 		{
 			"id":"a70e8705048d8248",
@@ -270,24 +271,26 @@
 			"color":"5"
 		},
 		{
+			"id":"7cf0edab25b2f1a6",
+			"type":"text",
+			"text":"o armazém 12 e um antigo armazém para guardar artigos gerais e cargas comerciais. No contexto da missão, Malek comissionou guardas egípcios para protegerem a carga, para ter maior influencia.",
+			"styleAttributes":{},
+			"x":3260,
+			"y":640,
+			"width":520,
+			"height":340,
+			"color":"5"
+		},
+		{
 			"id":"1833301b39a9cf8b",
 			"type":"text",
 			"text":"Armazem",
-			"styleAttributes":{},
+			"styleAttributes":{"shape":"document"},
 			"x":3260,
 			"y":600,
 			"width":260,
-			"height":60
-		},
-		{
-			"id":"7cf0edab25b2f1a6",
-			"type":"text",
-			"text":"o armazem 12 e um antigo armazem de g",
-			"styleAttributes":{},
-			"x":3260,
-			"y":660,
-			"width":520,
-			"height":340
+			"height":60,
+			"color":"5"
 		}
 	],
 	"edges":[

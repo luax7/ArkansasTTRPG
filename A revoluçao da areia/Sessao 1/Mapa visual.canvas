@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"7474d2c132707996","type":"group","x":-3400,"y":-320,"width":2720,"height":1180,"label":"Cena mercado"},
-		{"id":"2741c0270b629579","type":"group","x":3120,"y":192,"width":1260,"height":2188,"color":"6","label":"Missao Malek"},
+		{"id":"2741c0270b629579","type":"group","x":3240,"y":192,"width":1080,"height":2188,"color":"6","label":"Missao Malek"},
 		{"id":"f781c0b301e63a35","type":"group","ratio":1.7777777777777777,"x":1020,"y":-720,"width":1529,"height":860,"color":"6","label":"Esconderijo"},
 		{"id":"96530a62bae326e9","type":"group","ratio":1.7777777777777777,"x":1020,"y":400,"width":1529,"height":860,"color":"6","label":"Interrogatorio"},
 		{"id":"5a0a66f8b019f977","type":"group","ratio":1.7777777777777777,"x":1020,"y":1520,"width":1529,"height":860,"color":"6","label":"Al-Zilal"},
@@ -251,10 +251,10 @@
 		{
 			"id":"a0009a389e78f973",
 			"type":"text",
-			"text":"Malek quer testar o grau de utilidade dos jogadores para os arquitetos de zênite. ele vai mandar os jogadores para um chamado deposito numero 12 da companhia Great Britain Storing Company, para recu",
-			"styleAttributes":{},
-			"x":3140,
-			"y":260,
+			"text":"Malek quer testar o grau de utilidade dos jogadores para os arquitetos de zênite. ele vai mandar os jogadores para um chamado deposito numero 12 da companhia Great Britain Storing Company, para recuperar uma carga, e levar para uma base da frente dourada no distrito das sombras.\n\nNa realidade essa carga e uma bomba, se os jogadores abrirem a caixa, coisa que o Malek pede para eles não realizarem, a bomba e desarmada, e a confiabilidade deles e testada como baixa. abrindo assim espaço para missões mais arriscadas, e de menor confiabilidade para os jogadores.",
+			"styleAttributes":{"textAlign":"center"},
+			"x":3260,
+			"y":250,
 			"width":1040,
 			"height":320
 		},
@@ -262,12 +262,32 @@
 			"id":"a70e8705048d8248",
 			"type":"text",
 			"text":"Premissa",
-			"styleAttributes":{"shape":"document"},
-			"x":3140,
-			"y":230,
+			"styleAttributes":{"shape":"document","textAlign":"center"},
+			"x":3260,
+			"y":220,
 			"width":260,
 			"height":60,
 			"color":"5"
+		},
+		{
+			"id":"1833301b39a9cf8b",
+			"type":"text",
+			"text":"Armazem",
+			"styleAttributes":{},
+			"x":3260,
+			"y":600,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"7cf0edab25b2f1a6",
+			"type":"text",
+			"text":"o armazem 12 e um antigo armazem de g",
+			"styleAttributes":{},
+			"x":3260,
+			"y":660,
+			"width":520,
+			"height":340
 		}
 	],
 	"edges":[

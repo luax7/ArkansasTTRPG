@@ -247,6 +247,27 @@
 			"width":260,
 			"height":60,
 			"color":"4"
+		},
+		{
+			"id":"a0009a389e78f973",
+			"type":"text",
+			"text":"Malek quer testar o grau de utilidade dos jogadores para os arquitetos de zênite. ele vai mandar os jogadores para um chamado deposito numero 12 da companhia Great Britain Storing Company, para recu",
+			"styleAttributes":{},
+			"x":3140,
+			"y":260,
+			"width":1040,
+			"height":320
+		},
+		{
+			"id":"a70e8705048d8248",
+			"type":"text",
+			"text":"Premissa",
+			"styleAttributes":{"shape":"document"},
+			"x":3140,
+			"y":230,
+			"width":260,
+			"height":60,
+			"color":"5"
 		}
 	],
 	"edges":[

@@ -46,6 +46,38 @@
 			"height":100
 		},
 		{
+			"id":"a70e8705048d8248",
+			"type":"text",
+			"text":"Premissa",
+			"styleAttributes":{"shape":"document","textAlign":"center"},
+			"x":3260,
+			"y":220,
+			"width":260,
+			"height":60,
+			"color":"5"
+		},
+		{"id":"d9117b314e82abc0","type":"text","text":"Personagens começam apresentando sua casa, aparência , nome, e sao levados a uma padaria.","x":-4619,"y":166,"width":385,"height":170},
+		{
+			"id":"5a95a36c13e1f062",
+			"type":"text",
+			"text":"**Companheiro,**\n\nHá momentos em que a revolução não precisa de discursos,  \nmas de mãos firmes.\n\nUma carga está se movendo hoje.  \nEla não carrega apenas armas ou suprimentos —  \ncarrega **o fôlego do inimigo**.\n\nSe chegar ao destino, vilas vão sangrar em silêncio  \ne a chama que mantemos acesa vai se apagar um pouco mais.\n\nNão destrua. **Intercepte. Observe.**  \nA reação importa mais que o resultado.\n\nVenha sozinho.  \nSem símbolos.  \nAntes do meio-dia.\n\n**Padaria Al-Nour.**\n\nA revolução não é um grito.  \nÉ um trabalho contínuo.\n\n— _Alguém que ainda acredita no povo_",
+			"styleAttributes":{},
+			"x":-4234,
+			"y":-740,
+			"width":595,
+			"height":590
+		},
+		{
+			"id":"1aabb2a4090251bf",
+			"type":"text",
+			"text":"Personagens relacionados a frente dourada",
+			"styleAttributes":{},
+			"x":-4114,
+			"y":-840,
+			"width":260,
+			"height":100
+		},
+		{
 			"id":"a0009a389e78f973",
 			"type":"text",
 			"text":"Malek quer testar o grau de utilidade dos jogadores para os arquitetos de zênite. ele vai mandar os jogadores para um chamado deposito numero 12 da companhia Great Britain Storing Company, para recuperar uma carga, e levar para uma base da frente dourada no distrito das sombras.\n\nNa realidade essa carga e uma bomba, se os jogadores abrirem a caixa, coisa que o Malek pede para eles não realizarem, a bomba e desarmada, e a confiabilidade deles e testada como baixa. abrindo assim espaço para missões mais arriscadas, e de menor confiabilidade para os jogadores.",
@@ -88,19 +120,9 @@
 			"width":520,
 			"height":220
 		},
-		{
-			"id":"a70e8705048d8248",
-			"type":"text",
-			"text":"Premissa",
-			"styleAttributes":{"shape":"document","textAlign":"center"},
-			"x":3260,
-			"y":220,
-			"width":260,
-			"height":60,
-			"color":"5"
-		},
 		{"id":"8be7aa86552bf1bb","type":"file","file":"A revoluçao da areia/Sessao 1/Armazem 12 BP.png","x":3960,"y":720,"width":400,"height":400},
 		{"id":"a92b9c40cc4dfa99","type":"file","file":"A revoluçao da areia/Sessao 1/Armazem 12.png","x":3880,"y":640,"width":400,"height":400},
+		{"id":"34bdbbe74ca22cca","type":"file","file":"A revoluçao da areia/Sessao 1/Maqha Al-Qadim ( Padaria ).md","x":-3380,"y":-80,"width":480,"height":100,"color":"3"},
 		{
 			"id":"c2bfe75eb53a9d2c",
 			"type":"text",
@@ -142,6 +164,21 @@
 			"height":60,
 			"color":"6"
 		},
+		{"id":"31ec3fc170d7fcac","type":"file","file":"A revoluçao da areia/Sessao 1/O Revolucionario.md","x":-2820,"y":100,"width":480,"height":376},
+		{"id":"293219639e9b2d10","type":"text","text":"Ajudar o revolucinario a sobreviver","x":-2218,"y":-5,"width":250,"height":60,"color":"5"},
+		{"id":"118c6b4fdfa42ac4","type":"text","text":"+1 ponto novos oficiais","x":-2220,"y":-249,"width":250,"height":60,"color":"6"},
+		{"id":"b77df321c28a5974","type":"text","text":"+2 Pontos pra frente","x":-2512,"y":-249,"width":250,"height":60,"color":"6"},
+		{
+			"id":"346ef5e1f864f76c",
+			"type":"text",
+			"text":"",
+			"styleAttributes":{},
+			"x":-3380,
+			"y":60,
+			"width":480,
+			"height":380
+		},
+		{"id":"f80f9d7b89138387","type":"text","text":"Uma invasão do mercado central e conduzida com a justificativa de investigar a associação dos vendedores com a frente dourada. Essa Invasão e conduzida principalmente pela coroa, mas novos oficiais estão presentes procurando informaçoes.","x":-3380,"y":471,"width":480,"height":169},
 		{
 			"id":"0d81a3097ec2656e",
 			"type":"text",
@@ -174,17 +211,6 @@
 			"height":60
 		},
 		{
-			"id":"64e33fde61dbb8ea",
-			"type":"text",
-			"text":"+2 de caos do cenário",
-			"styleAttributes":{},
-			"x":-1400,
-			"y":-249,
-			"width":260,
-			"height":60,
-			"color":"6"
-		},
-		{
 			"id":"ac62e54629ca6928",
 			"type":"text",
 			"text":"Matar os guardas",
@@ -208,6 +234,40 @@
 			"color":"3"
 		},
 		{"id":"1b064b52ab9ae718","type":"text","text":"Novos oficiais chamam o grupo para ajudalos como civis","x":-1892,"y":234,"width":272,"height":105},
+		{"id":"951966cb1f98ae1b","type":"text","text":"Entregar o revolucionario","x":-2218,"y":256,"width":250,"height":60,"color":"5"},
+		{"id":"c337be670275c39a","type":"text","text":"Pegar a carta e deixar ele","x":-2218,"y":515,"width":250,"height":60,"color":"5"},
+		{
+			"id":"236109a5fd1e8210",
+			"type":"text",
+			"text":"Manchada de sangue, ela diz: _\"Eles estão nos vendendo. Os Novos Oficiais têm uma base no **Al-Zilal (Distrito das Sombras)**. O capitão deles recebe ordens de um homem que não usa farda. Não confiem no ouro.\"_\n\nA carga que nos estávamos esperando vai passar por volta das 14:00, não percam ela. Pode ser nossa única chance",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-2897,
+			"y":1170,
+			"width":634,
+			"height":480
+		},
+		{
+			"id":"54cd4550af120c11",
+			"type":"text",
+			"text":"Carta revolucionario",
+			"styleAttributes":{"textAlign":"center","shape":"document"},
+			"x":-2710,
+			"y":1140,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"64e33fde61dbb8ea",
+			"type":"text",
+			"text":"+2 de caos do cenário",
+			"styleAttributes":{},
+			"x":-1400,
+			"y":-249,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
 		{"id":"3334a8505dd90f22","type":"file","file":"A revoluçao da areia/Sessao 1/Invasão do café ( Novos  oficiais ).md","x":-1896,"y":-40,"width":380,"height":120,"color":"3"},
 		{
 			"id":"407ecd308d984a30",
@@ -243,45 +303,6 @@
 			"height":100
 		},
 		{"id":"3ea4d730781362b9","type":"text","text":"+1 ponto frente, +1 novos oficiais","x":-1940,"y":-249,"width":250,"height":60,"color":"6"},
-		{"id":"951966cb1f98ae1b","type":"text","text":"Entregar o revolucionario","x":-2218,"y":256,"width":250,"height":60,"color":"5"},
-		{"id":"31ec3fc170d7fcac","type":"file","file":"A revoluçao da areia/Sessao 1/O Revolucionario.md","x":-2820,"y":100,"width":480,"height":376},
-		{"id":"c337be670275c39a","type":"text","text":"Pegar a carta e deixar ele","x":-2218,"y":515,"width":250,"height":60,"color":"5"},
-		{"id":"293219639e9b2d10","type":"text","text":"Ajudar o revolucinario a sobreviver","x":-2218,"y":-5,"width":250,"height":60,"color":"5"},
-		{"id":"118c6b4fdfa42ac4","type":"text","text":"+1 ponto novos oficiais","x":-2220,"y":-249,"width":250,"height":60,"color":"6"},
-		{"id":"b77df321c28a5974","type":"text","text":"+2 Pontos pra frente","x":-2512,"y":-249,"width":250,"height":60,"color":"6"},
-		{
-			"id":"236109a5fd1e8210",
-			"type":"text",
-			"text":"Manchada de sangue, ela diz: _\"Eles estão nos vendendo. Os Novos Oficiais têm uma base no **Al-Zilal (Distrito das Sombras)**. O capitão deles recebe ordens de um homem que não usa farda. Não confiem no ouro.\"_\n\nA carga que nos estávamos esperando vai passar por volta das 14:00, não percam ela. Pode ser nossa única chance",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-2897,
-			"y":1170,
-			"width":634,
-			"height":480
-		},
-		{
-			"id":"54cd4550af120c11",
-			"type":"text",
-			"text":"Carta revolucionario",
-			"styleAttributes":{"textAlign":"center","shape":"document"},
-			"x":-2710,
-			"y":1140,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{"id":"34bdbbe74ca22cca","type":"file","file":"A revoluçao da areia/Sessao 1/Maqha Al-Qadim ( Padaria ).md","x":-3380,"y":-80,"width":480,"height":100,"color":"3"},
-		{
-			"id":"346ef5e1f864f76c",
-			"type":"text",
-			"text":"",
-			"styleAttributes":{},
-			"x":-3380,
-			"y":60,
-			"width":480,
-			"height":380
-		},
-		{"id":"f80f9d7b89138387","type":"text","text":"Uma invasão do mercado central e conduzida com a justificativa de investigar a associação dos vendedores com a frente dourada. Essa Invasão e conduzida principalmente pela coroa, mas novos oficiais estão presentes procurando informaçoes.","x":-3380,"y":471,"width":480,"height":169},
 		{
 			"id":"70d95fe0e1caa835",
 			"type":"text",
@@ -313,27 +334,6 @@
 			"height":60,
 			"color":"4"
 		},
-		{"id":"d9117b314e82abc0","type":"text","text":"Personagens começam apresentando sua casa, aparência , nome, e sao levados a uma padaria.","x":-4619,"y":166,"width":385,"height":170},
-		{
-			"id":"5a95a36c13e1f062",
-			"type":"text",
-			"text":"**Companheiro,**\n\nHá momentos em que a revolução não precisa de discursos,  \nmas de mãos firmes.\n\nUma carga está se movendo hoje.  \nEla não carrega apenas armas ou suprimentos —  \ncarrega **o fôlego do inimigo**.\n\nSe chegar ao destino, vilas vão sangrar em silêncio  \ne a chama que mantemos acesa vai se apagar um pouco mais.\n\nNão destrua. **Intercepte. Observe.**  \nA reação importa mais que o resultado.\n\nVenha sozinho.  \nSem símbolos.  \nAntes do meio-dia.\n\n**Padaria Al-Nour.**\n\nA revolução não é um grito.  \nÉ um trabalho contínuo.\n\n— _Alguém que ainda acredita no povo_",
-			"styleAttributes":{},
-			"x":-4234,
-			"y":-740,
-			"width":595,
-			"height":590
-		},
-		{
-			"id":"1aabb2a4090251bf",
-			"type":"text",
-			"text":"Personagens relacionados a frente dourada",
-			"styleAttributes":{},
-			"x":-4114,
-			"y":-840,
-			"width":260,
-			"height":100
-		},
 		{
 			"id":"8db8ba31581ebe69",
 			"type":"text",
@@ -343,6 +343,16 @@
 			"y":1660,
 			"width":480,
 			"height":240
+		},
+		{
+			"id":"91b2a55676046c7b",
+			"type":"text",
+			"text":"Um oficial separadamente manda voces para investigarem a base suspeita dos novos oficiais",
+			"styleAttributes":{},
+			"x":1840,
+			"y":1300,
+			"width":260,
+			"height":160
 		}
 	],
 	"edges":[
@@ -682,6 +692,15 @@
 			"fromNode":"31ec3fc170d7fcac",
 			"fromSide":"bottom",
 			"toNode":"54cd4550af120c11",
+			"toSide":"top"
+		},
+		{
+			"id":"8c6434c9f6fc4563",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"96530a62bae326e9",
+			"fromSide":"bottom",
+			"toNode":"5a0a66f8b019f977",
 			"toSide":"top"
 		}
 	],

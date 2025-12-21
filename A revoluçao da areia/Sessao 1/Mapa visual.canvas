@@ -6,26 +6,6 @@
 		{"id":"96530a62bae326e9","type":"group","ratio":1.7777777777777777,"x":1020,"y":400,"width":1529,"height":860,"color":"6","label":"Interrogatorio"},
 		{"id":"5a0a66f8b019f977","type":"group","ratio":1.7777777777777777,"x":1020,"y":1520,"width":1529,"height":860,"color":"6","label":"Al-Zilal"},
 		{
-			"id":"5a95a36c13e1f062",
-			"type":"text",
-			"text":"**Companheiro,**\n\nHá momentos em que a revolução não precisa de discursos,  \nmas de mãos firmes.\n\nUma carga está se movendo hoje.  \nEla não carrega apenas armas ou suprimentos —  \ncarrega **o fôlego do inimigo**.\n\nSe chegar ao destino, vilas vão sangrar em silêncio  \ne a chama que mantemos acesa vai se apagar um pouco mais.\n\nNão destrua. **Intercepte. Observe.**  \nA reação importa mais que o resultado.\n\nVenha sozinho.  \nSem símbolos.  \nAntes do meio-dia.\n\n**Padaria Al-Nour.**\n\nA revolução não é um grito.  \nÉ um trabalho contínuo.\n\n— _Alguém que ainda acredita no povo_",
-			"styleAttributes":{},
-			"x":-4234,
-			"y":-740,
-			"width":595,
-			"height":590
-		},
-		{
-			"id":"1aabb2a4090251bf",
-			"type":"text",
-			"text":"Personagens relacionados a frente dourada",
-			"styleAttributes":{},
-			"x":-4114,
-			"y":-840,
-			"width":260,
-			"height":100
-		},
-		{
 			"id":"8393ba719fc086bd",
 			"type":"text",
 			"text":"Os jogadores recebem uma carta passada por baixo da porta",
@@ -333,7 +313,37 @@
 			"height":60,
 			"color":"4"
 		},
-		{"id":"d9117b314e82abc0","type":"text","text":"Personagens começam apresentando sua casa, aparência , nome, e sao levados a uma padaria.","x":-4619,"y":166,"width":385,"height":170}
+		{"id":"d9117b314e82abc0","type":"text","text":"Personagens começam apresentando sua casa, aparência , nome, e sao levados a uma padaria.","x":-4619,"y":166,"width":385,"height":170},
+		{
+			"id":"5a95a36c13e1f062",
+			"type":"text",
+			"text":"**Companheiro,**\n\nHá momentos em que a revolução não precisa de discursos,  \nmas de mãos firmes.\n\nUma carga está se movendo hoje.  \nEla não carrega apenas armas ou suprimentos —  \ncarrega **o fôlego do inimigo**.\n\nSe chegar ao destino, vilas vão sangrar em silêncio  \ne a chama que mantemos acesa vai se apagar um pouco mais.\n\nNão destrua. **Intercepte. Observe.**  \nA reação importa mais que o resultado.\n\nVenha sozinho.  \nSem símbolos.  \nAntes do meio-dia.\n\n**Padaria Al-Nour.**\n\nA revolução não é um grito.  \nÉ um trabalho contínuo.\n\n— _Alguém que ainda acredita no povo_",
+			"styleAttributes":{},
+			"x":-4234,
+			"y":-740,
+			"width":595,
+			"height":590
+		},
+		{
+			"id":"1aabb2a4090251bf",
+			"type":"text",
+			"text":"Personagens relacionados a frente dourada",
+			"styleAttributes":{},
+			"x":-4114,
+			"y":-840,
+			"width":260,
+			"height":100
+		},
+		{
+			"id":"8db8ba31581ebe69",
+			"type":"text",
+			"text":"uma carruagem negra vai passar nesse lugar as 14:00. eles podem intercepta-la para diminuir o poder da frente dourada e o dos novos oficiais.\n\nEssa carruagem vai conter mais bombas de sintropia, e um documento anunciando Ordens para vender as bombas apenas para guerrilheiros da frente",
+			"styleAttributes":{},
+			"x":1400,
+			"y":1660,
+			"width":480,
+			"height":240
+		}
 	],
 	"edges":[
 		{"id":"99622a25dc48c195","fromNode":"d9117b314e82abc0","fromSide":"right","toNode":"7474d2c132707996","toSide":"left","label":"Os jogadores vao para o mercado"},

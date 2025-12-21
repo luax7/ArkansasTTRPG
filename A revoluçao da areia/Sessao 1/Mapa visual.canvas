@@ -1,6 +1,7 @@
 {
 	"nodes":[
 		{"id":"7474d2c132707996","type":"group","x":-3400,"y":-320,"width":2720,"height":1180,"label":"Cena mercado"},
+		{"id":"f781c0b301e63a35","type":"group","ratio":1.7777777777777777,"x":1020,"y":-500,"width":1200,"height":675,"label":"New Slide"},
 		{
 			"id":"5a95a36c13e1f062",
 			"type":"text",
@@ -62,6 +63,17 @@
 			"width":260,
 			"height":100
 		},
+		{"id":"34bdbbe74ca22cca","type":"file","file":"A revoluçao da areia/Sessao 1/Maqha Al-Qadim ( Padaria ).md","x":-3380,"y":-80,"width":480,"height":100,"color":"3"},
+		{
+			"id":"346ef5e1f864f76c",
+			"type":"text",
+			"text":"",
+			"styleAttributes":{},
+			"x":-3380,
+			"y":60,
+			"width":480,
+			"height":380
+		},
 		{
 			"id":"64e33fde61dbb8ea",
 			"type":"text",
@@ -95,16 +107,6 @@
 			"height":60
 		},
 		{
-			"id":"ac62e54629ca6928",
-			"type":"text",
-			"text":"Matar os guardas",
-			"styleAttributes":{},
-			"x":-1400,
-			"y":-10,
-			"width":260,
-			"height":60
-		},
-		{
 			"id":"ccee9923044dab28",
 			"type":"text",
 			"text":"Fuga",
@@ -125,7 +127,6 @@
 			"height":60,
 			"color":"6"
 		},
-		{"id":"3334a8505dd90f22","type":"file","file":"A revoluçao da areia/Sessao 1/Invasão do café ( Novos  oficiais ).md","x":-1896,"y":-40,"width":380,"height":120,"color":"3"},
 		{
 			"id":"3ddf573d21477149",
 			"type":"file",
@@ -139,6 +140,30 @@
 			"height":132,
 			"color":"3"
 		},
+		{"id":"1b064b52ab9ae718","type":"text","text":"Novos oficiais chamam o grupo para ajudalos como civis","x":-1892,"y":234,"width":272,"height":105},
+		{"id":"31ec3fc170d7fcac","type":"file","file":"A revoluçao da areia/Sessao 1/O Revolucionario.md","x":-2820,"y":100,"width":480,"height":376},
+		{"id":"f80f9d7b89138387","type":"text","text":"Uma invasão do mercado central e conduzida com a justificativa de investigar a associação dos vendedores com a frente dourada. Essa Invasão e conduzida principalmente pela coroa, mas novos oficiais estão presentes procurando informaçoes.","x":-3380,"y":471,"width":480,"height":169},
+		{
+			"id":"c2bfe75eb53a9d2c",
+			"type":"text",
+			"text":"### Rota C: O Caminho do Sobrevivente (Ignorar/Pegar apenas a Carta)\n\nOs jogadores decidem não se envolver com o homem ferido, pegam apenas a carta de Malek e fogem antes da invasão.\n\n- **Foco:** Mistério e paranoia.\n    \n- **Dinâmica:** O grupo se torna um \"alvo móvel\". A Frente Dourada os caçará para recuperar a mensagem que o homem trazia, e os Novos Oficiais os procurarão como testemunhas.\n    \n- **Consequência:** Ganham +1 ponto em ambas as facções (pelo potencial de utilidade), mas perdem a confiança imediata de ambas.\n    \n- **Conflito:** Eles passam a ser seguidos por figuras intocáveis presentes em ambos os lados, percebendo que há algo \"acima\" das facções controlando seus passos.",
+			"styleAttributes":{},
+			"x":-480,
+			"y":460,
+			"width":1100,
+			"height":385
+		},
+		{
+			"id":"ac62e54629ca6928",
+			"type":"text",
+			"text":"Matar os guardas",
+			"styleAttributes":{},
+			"x":-1400,
+			"y":-10,
+			"width":260,
+			"height":60
+		},
+		{"id":"3334a8505dd90f22","type":"file","file":"A revoluçao da areia/Sessao 1/Invasão do café ( Novos  oficiais ).md","x":-1896,"y":-40,"width":380,"height":120,"color":"3"},
 		{
 			"id":"407ecd308d984a30",
 			"type":"text",
@@ -152,26 +177,12 @@
 			"height":77,
 			"color":"1"
 		},
-		{"id":"1b064b52ab9ae718","type":"text","text":"Novos oficiais chamam o grupo para ajudalos como civis","x":-1892,"y":234,"width":272,"height":105},
 		{"id":"3ea4d730781362b9","type":"text","text":"+1 ponto frente, +1 novos oficiais","x":-1940,"y":-249,"width":250,"height":60,"color":"6"},
 		{"id":"951966cb1f98ae1b","type":"text","text":"Entregar o revolucionario","x":-2218,"y":256,"width":250,"height":60,"color":"5"},
 		{"id":"c337be670275c39a","type":"text","text":"Pegar a carta e deixar ele","x":-2218,"y":515,"width":250,"height":60,"color":"5"},
 		{"id":"293219639e9b2d10","type":"text","text":"Ajudar o revolucinario a sobreviver","x":-2218,"y":-5,"width":250,"height":60,"color":"5"},
 		{"id":"118c6b4fdfa42ac4","type":"text","text":"+1 ponto novos oficiais","x":-2220,"y":-249,"width":250,"height":60,"color":"6"},
 		{"id":"b77df321c28a5974","type":"text","text":"+2 Pontos pra frente","x":-2512,"y":-249,"width":250,"height":60,"color":"6"},
-		{"id":"31ec3fc170d7fcac","type":"file","file":"A revoluçao da areia/Sessao 1/O Revolucionario.md","x":-2820,"y":100,"width":480,"height":376},
-		{"id":"34bdbbe74ca22cca","type":"file","file":"A revoluçao da areia/Sessao 1/Maqha Al-Qadim ( Padaria ).md","x":-3380,"y":-80,"width":480,"height":100,"color":"3"},
-		{
-			"id":"346ef5e1f864f76c",
-			"type":"text",
-			"text":"",
-			"styleAttributes":{},
-			"x":-3380,
-			"y":60,
-			"width":480,
-			"height":380
-		},
-		{"id":"f80f9d7b89138387","type":"text","text":"Uma invasão do mercado central e conduzida com a justificativa de investigar a associação dos vendedores com a frente dourada. Essa Invasão e conduzida principalmente pela coroa, mas novos oficiais estão presentes procurando informaçoes.","x":-3380,"y":471,"width":480,"height":169},
 		{
 			"id":"8fb817324aa2699c",
 			"type":"text",
@@ -191,16 +202,6 @@
 			"y":50,
 			"width":1100,
 			"height":360
-		},
-		{
-			"id":"c2bfe75eb53a9d2c",
-			"type":"text",
-			"text":"### Rota C: O Caminho do Sobrevivente (Ignorar/Pegar apenas a Carta)\n\nOs jogadores decidem não se envolver com o homem ferido, pegam apenas a carta de Malek e fogem antes da invasão.\n\n- **Foco:** Mistério e paranoia.\n    \n- **Dinâmica:** O grupo se torna um \"alvo móvel\". A Frente Dourada os caçará para recuperar a mensagem que o homem trazia, e os Novos Oficiais os procurarão como testemunhas.\n    \n- **Consequência:** Ganham +1 ponto em ambas as facções (pelo potencial de utilidade), mas perdem a confiança imediata de ambas.\n    \n- **Conflito:** Eles passam a ser seguidos por figuras intocáveis presentes em ambos os lados, percebendo que há algo \"acima\" das facções controlando seus passos.",
-			"styleAttributes":{},
-			"x":-480,
-			"y":460,
-			"width":1100,
-			"height":385
 		}
 	],
 	"edges":[
@@ -494,6 +495,15 @@
 			"toNode":"c2bfe75eb53a9d2c",
 			"toSide":"left",
 			"color":"1"
+		},
+		{
+			"id":"fa9248e33a6af46d",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"8fb817324aa2699c",
+			"fromSide":"right",
+			"toNode":"f781c0b301e63a35",
+			"toSide":"left"
 		}
 	],
 	"metadata":{

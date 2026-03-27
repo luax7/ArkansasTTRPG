@@ -82,28 +82,28 @@ O Sistema Sintrope se trata de um conjunto de sistematizações da magia para li
 Uma quebra sintrope acontece quando uma magia e conjurada sem sucesso com uma diferença de 4 ou mais. as quebras sintropes servem como risco tático para a conjuração da magia
 As quebras sintropes podem ocorrer dessas formas
 
-| Resultado (d20) | Descrição |
-| --------------- | --------- |
-| 1               |           |
-| 2               |           |
-| 3               |           |
-| 4               |           |
-| 5               |           |
-| 6               |           |
-| 7               |           |
-| 8               |           |
-| 9               |           |
-| 10              |           |
-| 11              |           |
-| 12              |           |
-| 13              |           |
-| 14              |           |
-| 15              |           |
-| 16              |           |
-| 17              |           |
-| 18              |           |
-| 19              |           |
-| 20              |           |
+| Resultado (d20) | Efeito           | Descrição |
+| --------------- | ---------------- | --------- |
+| 1               | Descarga nervosa |           |
+| 2               | Eco de Mana      |           |
+| 3               |                  |           |
+| 4               |                  |           |
+| 5               |                  |           |
+| 6               |                  |           |
+| 7               |                  |           |
+| 8               |                  |           |
+| 9               |                  |           |
+| 10              |                  |           |
+| 11              |                  |           |
+| 12              |                  |           |
+| 13              |                  |           |
+| 14              |                  |           |
+| 15              |                  |           |
+| 16              |                  |           |
+| 17              |                  |           |
+| 18              |                  |           |
+| 19              |                  |           |
+| 20              |                  |           |
 
 alternativamente, magias especiais podem ter quebras sintropes especiais
 ### Foco arcano
@@ -120,4 +120,7 @@ Esses efeitos são gerais. focos arcanos específicos podem ter efeitos específ
 ### Runas
 Runas são artefatos mágicos que armazenam efeitos ou feitiços.
 Em geral, runas ocupam duas categorias
-- Runa com
+- Runa consumível / recorrente
+	Runas que podem ser utilizadas uma ou mais vezes em troca de mana. podem ter tempo de recarga.
+- Runa condicionais
+	Runas que ativam automaticamente quando uma condição se satisfaz. Pode ser ativada uma ou mais vezes, sem custo. (Ex: Quando um ataque acerta o usuário)

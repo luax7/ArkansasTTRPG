@@ -106,4 +106,13 @@ As quebras sintropes podem ocorrer dessas formas
 | 20              |           |
 alternativamente, magias especiais podem ter quebras sintropes especiais
 
+### Foco arcano
+Equipamentos especiais capazes de canalizar mana para ajudar conjuradores. 
+
+| Foco   | Efeito                                     |
+| ------ | ------------------------------------------ |
+| Cajado | Ignora quebras sintrope                    |
+| Tomo   | Diminui dificuldade de conjuração de magia |
+| Orbe   | Diminui o custo da magia                   |
+Esses efeitos são gerais. focos arcanos especificos
 ### Runas

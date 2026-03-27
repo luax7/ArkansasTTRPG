@@ -115,5 +115,5 @@ Equipamentos especiais capazes de canalizar mana para ajudar conjuradores.
 | Tomo   | Diminui dificuldade de conjuração de magia |
 | Orbe   | Diminui o custo da magia                   |
 Esses efeitos são gerais. focos arcanos específicos podem ter efeitos específicos
-Efeitos detalhados 
+*Efeitos detalhados em [[Equipamentos]]* 
 ### Runas

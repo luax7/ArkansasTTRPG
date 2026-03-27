@@ -91,7 +91,8 @@ Nivel 2
 Nivel 3
 
 ```
-
+### Nythra 
+Nythra e uma entidade da sintropia, ela utiliza da expectativa de vida dos seus contratantes para causar mutações e caos. Apesar disso, nythra nao parece ter um humor maligno, mas apenas ser indiferente as emoçoes humanas
 [^1]: Feiticeiros são como normalmente são chamados Magiarcas que focam em feitiços de destruição em massa
 
 [^2]: Peregrinos das montanhas são um grupo pouco coeso de peregrinos que viajam pelo mundo buscando formas de espalhar a devoção de Velkar, além de se tornar mais fortes e resistentes

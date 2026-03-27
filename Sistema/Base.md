@@ -9,7 +9,7 @@ Essas rolagens são utilizadas para realizar ações contra o ambiente, cada aç
 | Indiferente | 4       |
 | Facil       | 6       |
 | Normal      | 8       |
-| Dificil     | 9       |
+| Dificil     | 10      |
 | Impossivel  | 12      |
 | Lendario    | 12+     |
 
@@ -33,6 +33,17 @@ No Inicio da sessão, o mestre deve rolar abertamente, 3d6 utilizando o dado mé
 O Mestre pode, em qualquer teste, utilizar um dado nêmesis para causar uma desvantagem ao jogador ou uma vantagem ao inimigo ou outro lado do conflito social
 
 Alternativamente, os *ataques lendários* — Ataques com efeitos especiais ou únicos — dos inimigos, utilizam dados nêmesis para serem executados. Assim forçando o mestre a dividir os dados nêmesis para atrapalhar a investigação e criar um embate mais desafiador e épico aos jogadores 
+
+
+| Dificuldade | Dificuldade | Desvantagem nemesis |
+| ----------- | ----------- | ------------------- |
+| Indiferente | 4           | -2                  |
+| Facil       | 6           | -4                  |
+| Normal      | 8           |                     |
+| Dificil     | 10          |                     |
+| Impossivel  | 12          |                     |
+| Lendario    | 12+         |                     |
+
 
 ### Nêmesis
 Quando o mestre utiliza um dado nêmesis, ele deve entregar o dado aos jogadores. Esse dado pode ser utilizado para conseguir vantagens dinâmicas em testes ou utilizar habilidades especiais de artefatos.

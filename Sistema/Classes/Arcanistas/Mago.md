@@ -57,10 +57,10 @@ id: XXa5JvkwzwklBQ8kXAGPj
 **Descarga concentrada:** Ao usar essa habilidade o personagem pode conjurar um ataque com o dano dobrado. Ao utilizar essa habilidade, o jogador nao pode conjurar magias ate o proximo turno. Essa deve ser a primeira açao do turno.
 ===
 **Tecelao do fluxo**
-**Foco absoluto:** Consegue focar simultaneamente em duas magias 
+**Foco absoluto:** Consegue concentrar simultaneamente em duas magias, quando a concentraçao tenta ser encerrada forçadamente, o usuario realizar um teste de sintonia DT Dificil ao inves de encerrar a concentraçao imediatamente
 ===
-Column 3
-
+**Condutor sintrope**
+Ao utiliza
 ```
 
 # Tabela de magia selvagem

@@ -127,7 +127,9 @@ A maioria das magias possui componentes somáticos, especificados na magia. Eles
 > [!NOTE] Bolsa de componentes
 > Quando equipado com uma bolsa de componentes, o conjurador pode, alternativamente, utilizar dinheiro diretamente para o Componente somático de material
 ### Concentração
-Certas magias, podem ser sustentadas sem custos através dos turnos utilizando a ação concentrar. essa concentraçao dura
+Certas magias, podem ser sustentadas sem custos através dos turnos utilizando a ação concentrar. essa concentração dura ate o turno seguinte, quando deve ser utilizada novamente.
+Ações de reação, sofrer dano ou se deslocar involuntariamente encerram a concentração imediatamente.
+Apenas uma magia de concentração pode estar ativa por vez.
 ### Quebra sintrope
 Uma quebra sintrope acontece quando o resultado de um teste de conjuração e menor do que a dificuldade da magia (especificada para cada magia)
 As quebras sintropes podem ocorrer dessas formas
@@ -137,7 +139,7 @@ As quebras sintropes podem ocorrer dessas formas
 | 1               | Descarga nervosa        | Sofre 1 de dano, e recebe -1 no proximo teste                                                                                 |
 | 2               | Eco de Mana             | O custo                                                                                                                       |
 | 3               | Distorção Sensorial     | Desvantagem nêmesis no próximo teste de percepção                                                                             |
-| 4               | Fluxo Reverso           | Metade da duraçao de qualquer efeito, e metade do dano e aplicado ao conjurador                                               |
+| 4               | Fluxo Reverso           | Metade da duração de qualquer efeito, e metade do dano e aplicado ao conjurador                                               |
 | 5               | Vazamento Arcano        | Aquece a área ao redor do conjurador, ateando fogo em objetos inflamáveis ao redor                                            |
 | 6               | Tremor Sintrope         | não pode usar vantagem dinâmica no próximo teste                                                                              |
 | 7               | Marca Arcana Temporária | +1 em magia, mas −1 social até desaparecer ate o final da próxima cena                                                        |

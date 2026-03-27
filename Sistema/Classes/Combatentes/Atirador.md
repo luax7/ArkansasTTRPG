@@ -44,3 +44,16 @@ Pode realizar ataques de oportunidade em inimigos se movimentando em direção a
 Utilizando 3PM, e possível utilizar uma reação para atirar em qualquer inimigo se movimentando a 3 metros ou mais do atirador
 ### Aumento de habilidade
 No quarto nível o personagem recebe 2 pontos para distribuir entre os atributos, e 3 pontos para distribuir entre pericias
+
+### Habilidade de arquétipo
+No quinto nível o atirador se especializa em um tipo de combate
+```columns
+id: 8aiEuUFAh9oDfr8kuc8vM
+===
+**Franco atirador
+Tiro debilitante**
+Utiliza 6PM para focae em um tiro encantado capaz de destruir partes interas do corpo de um alvo. Esse tiro tem +2 dados de dano, e reduz as açoes do alvo em 1(Minimo )
+===
+Column 2
+
+```

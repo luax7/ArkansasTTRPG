@@ -32,6 +32,8 @@ id: PeiPNQ5I7kkg5n6dcS9B_
 **Franco atirador**
 **Mira calma**
 Se o personagem nao se mover no turno, recebe uma vantagem dinamica para todos os testes de pontaria.
+**Ponto fraco**
+O franco atiraador consegue identificar pontos fracos apenas com experiencia 
 ===
 **Pistoleiro**
 **Reflexos velozes**

@@ -31,6 +31,10 @@ Além das magias conhecidas, o pactuário pode fazer contratos com entidades arc
 As habilidades aprendidas através dos contratos não 
 Para cada "contrato arcano"
 
+**Aumento de habilidade**
+No quarto nível o personagem recebe 2 pontos para distribuir entre os atributos, e 3 pontos para distribuir entre pericias
+
+
 # Entidades para contrato
 As entidades listadas a seguir são todas entidades de que de forma ou outra entraram em contato com a humanidade, e foram estudadas formas de utilizar de deu poder arcano para adquirir parte de sua capacidade arcana.
 ### Ignivar
@@ -184,6 +188,7 @@ Por 3 turnos:
 - +2 em todos atributos físicos  
 - Ataques fisicos causam mais um dado de dano  
 - Ignora penalidades de terreno difícil
+- Corpo instavel nao tem limite de uso
 
 ```
 ### Ortheon
@@ -193,14 +198,26 @@ Muitas vezes, Ortheon pede riquezas, equipamentos de guerreiros, ou a conduta de
 ```columns
 id: 1gJD3NT3h0Kq5-pCbXImM
 ===
-Nivel 1
+**Nivel 1
+Magias:**
+[[Marca do guerreiro]]
+[[Comando de avanço]]
 
+**Presença Marcial**  
+Aliados a até 3m recebem +1 em testes de ataque.
 ===
 Nivel 2
-
+**Domínio de Batalha**  
+Inimigos engajados com você recebem -2 em testes para atacar outros alvos.
 ===
 Nivel 3
-
+**General Arcano**  
+*Ação – 1 vez por cena*  
+  
+Por 3 turnos:  
+- Aliados recebem +2 ataque  
+- Aliados recebem +2 Defesa  
+- Você pode conceder 1 vantagem dinâmica por turno a um aliado
 ```
 
 [^1]: Feiticeiros são como normalmente são chamados Magiarcas que focam em feitiços de destruição em massa

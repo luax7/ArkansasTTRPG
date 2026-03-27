@@ -116,35 +116,6 @@ Uma magia, pode ter os seguintes alvos
 - Área
 	Uma área (Ditadas acima)
 
-### Modificadores
-Magias podem ter seu custo de mana aumentado com a intenção de aumentar seu dano, velocidade de conjuração, área e outras características, assim, tornando-a mais efetiva pra situação  
-Os modificadores devem ser declarados e seus pontos deduzidos antes do teste de acerto da magia
-
-**Modificadores de dano:**
-O custo do modificador de dano aumenta conforme o dado de dano da magia
-
-| Tipo de dado | Custo |
-| ------------ | ----- |
-| d4           | +1    |
-| d6           | +1    |
-| d8           | +2    |
-| d10          | +4    |
-| d12          | +8    |
-
-**Modificadores de velocidade:**
-
-| Modificador                                               | Custo         |
-| --------------------------------------------------------- | ------------- |
-| Conjuração instantânea                                    | +1 por minuto |
-| Reação (Pode ser utilizado apenas em magias instantaneas) | +3            |
-
-**Modificador de precisão:**
-
-| Modificador                 | Custo |
-| --------------------------- | ----- |
-| Evitar aliados(Apenas raio) | +2    |
-| Ignorar cobertura parcial   | +2    |
-
 ### Quebra sintrope
 Uma quebra sintrope acontece quando o resultado de um teste de conjuração e menor do que a dificuldade da magia (especificada para cada magia)
 As quebras sintropes podem ocorrer dessas formas

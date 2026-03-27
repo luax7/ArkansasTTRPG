@@ -23,6 +23,8 @@ No primeiro, terceiro e sexto nível, o personagem ganhar um talento da lista de
 No primeiro nível, o mago se torna capaz de conjurar feitiços simples para combate e fortalecimento.
 Atributo para conjuração : Sintonia
 
+**Habilidade de arquétipo**
+No segundo nível o mago ganha uma habilidade de um dos três arquétipos
 ```columns
 id: XMq-dfUsFy8O8E1KlKFYS
 ===
@@ -47,18 +49,18 @@ id: XMq-dfUsFy8O8E1KlKFYS
 | 3               | -                        |                                                                                              |
 | 4               | -                        |                                                                                              |
 | 5               | -                        |                                                                                              |
-| 6               | Pico de energia          | +1 Modificador sem custo                                                                     |
+| 6               | Pico de energia          | +1 Dado para a magia                                                                         |
 | 7               | Fluxo estavel            | A próxima quebra sintrope e ignorada                                                         |
 | 8               | Expansão Controlada      | Aumenta a área da magia sem custos                                                           |
 | 9               | Reforço Corporal         | +Sintonia PV temporários                                                                     |
 | 10              | Aceleração de Conjuração | Pode conjurar no próximo turno sem penalidades                                               |
 | 11              | Sintonia Elevada         | +2 no teste de conjuração atual                                                              |
-| 12              | Reversão Parcial         | Reversão Parcial                                                                             |
+| 12              | Reversão Parcial         | Recupera 4 pontos de mana                                                                    |
 | 13              | Pulso de Domínio         | inimigos na área recebem uma desvantagem nemesis no próximo teste                            |
 | 14              | Sobreposição de efeitos  | Adiciona o efeito de lentidão no feitiço, diminuindo o deslocamento dos inimigos pela metade |
 | 15              | Pico de destruiçao       | Aumenta do dano do feitiço em 1d6 + Sintonia                                                 |
 | 16              | Descaga Sintrope         | Envia uma onda de choque causando 1d6 de dano ao inimigo mais próximo                        |
-| 17              |                          |                                                                                              |
-| 18              |                          |                                                                                              |
-| 19              |                          |                                                                                              |
-| 20              |                          |                                                                                              |
+| 17              | Lufada arcana            | Ao conjurar, se desloca 3metros para alguma direçao desejada.                                |
+| 18              | Precisão Arcana          | a magia não afeta aliados                                                                    |
+| 19              | -                        | -                                                                                            |
+| 20              | -                        | -                                                                                            |

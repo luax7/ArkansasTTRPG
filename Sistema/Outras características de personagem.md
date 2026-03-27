@@ -27,7 +27,14 @@ O mestre pode narrar a cicatriz, ou ela pode ser escolhida aleatoriamente de uma
 | 13              | Nervos Expostos               | Ao sofrer dano, recebe -2 de desvantagem no próximo teste                                        |
 | 14              | Órgão manafórico danificado   | -1 e testes envolvendo Sintonia, falhas em conjurar consideram -2 para haver uma quebra sintrope |
 | 15              | Mãos destruidas               | -2 em testes de agilidade envolvendo a mão                                                       |
-| 16              |                               |                                                                                                  |
+| 16              | Ombro deslocado               | -1 em testes fisicos de vigor                                                                    |
+| 17              | Veias Impactadas              | -2 em testes de sobrevivencia                                                                    |
+| 18              | Estomago perfurado            | -2 em testes de vigor                                                                            |
+| 19              | Cerebro impactado             | -2 em testes de Intelecto                                                                        |
+| 20              | Nariz destruido               | -2 em testes de Presença                                                                         |
+
+### Testes de sobrevivencia
+Quando voce esta in
 # Defesa
 Defesa passiva contra ataques físicos. Qualquer ataque que tente acertar o personagem tem esse atributo como DT.
 Equipamentos, características de classe e talentos afetam esse atributo

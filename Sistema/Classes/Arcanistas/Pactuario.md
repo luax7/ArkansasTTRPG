@@ -45,13 +45,20 @@ id: TrwS3ThkYV05GL_xMjuo4
 [[Chama persistente]]
 
 **Marca das cinzas**
-Ao causar dano com magias marca o inimigo com uma marca das cinzas. Ao conjurar magia contra esse inimigo causa mais um dado de dano.
+Ao causar dano com magias marca o inimigo com uma marca das cinzas. Ao conjurar magia contra esse inimigo causa uma vantagem dinamica.
 ===
-Nivel 2
-
+*Nivel 2*
+**Explosao de cinzas**
+Ao causar dano com magias em um inimigo marcado, causa mais um dado de efeito
 ===
-Nivel 3
-
+*Nivel 3*
+**Forma Incandescente**  
+*Ação – 1 vez por cena*  
+  
+Por 2 turnos:  
+- +2 em testes de conjuração  
+- Suas magias ignoram cobertura até 2/4  
+- Sempre trata alvos como se estivessem marcados
 ```
 ### Rytsu
 Rytsu, a raposa do norte, tem seus poderes usados para furtividade,  em geral feiticeiros que utilizam das sombras como arma para abater seus inimigos

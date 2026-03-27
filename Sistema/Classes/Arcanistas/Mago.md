@@ -34,31 +34,31 @@ id: XMq-dfUsFy8O8E1KlKFYS
 **Proteçao dupla:** Conjurar feitiços que causam efeitos positivos a aliados ou defensivos geram pontos de vida temporarios igual ao modificador de sintonia
 ===
 **Condutor sintrope**
-**Magia selvagem:** A tabela de quebra sintrope e substituida pela tabela de magia selvagem disponivel no fim da classe. Os efeitos da tabela de magia selvagem podem ser utilizados uma vez por turno. Apos utilisar um efeito da tabela de magia selvagem, a proxima conjuraçao tem desvantagem -3.
+**Magia selvagem:** Ao conjurar uma magia, o mago pode gastar 2 pontos de mana para utilisar a tabela de magia selvagem. Esse efeito e limitado a uma vez por turno. ao utilisar essa habilidade, o proximo teste de conjuraçao recebe uma desvantagem de -2
 
 ```
 
 # Tabela de magia selvagem
 
-| Resultado (d20) | Magia selvagem           | Efeito                                                            |
-| --------------- | ------------------------ | ----------------------------------------------------------------- |
-| 1               | -                        |                                                                   |
-| 2               | -                        |                                                                   |
-| 3               | -                        |                                                                   |
-| 4               | -                        |                                                                   |
-| 5               | -                        |                                                                   |
-| 6               | Pico de energia          | +1 Modificador sem custo                                          |
-| 7               | Fluxo estavel            | A próxima quebra sintrope e ignorada                              |
-| 8               | Expansão Controlada      | Aumenta a área da magia sem custos                                |
-| 9               | Reforço Corporal         | +Sintonia PV temporários                                          |
-| 10              | Aceleração de Conjuração | Pode conjurar no próximo turno sem penalidades                    |
-| 11              | Sintonia Elevada         | +2 no teste de conjuração atual                                   |
-| 12              | Reversão Parcial         | Reversão Parcial                                                  |
-| 13              | Pulso de Domínio         | inimigos na área recebem uma desvantagem nemesis no próximo teste |
-| 14              | Sobreposição de efeitos  | Adiciona o efeito de lentidão                                     |
-| 15              |                          |                                                                   |
-| 16              |                          |                                                                   |
-| 17              |                          |                                                                   |
-| 18              |                          |                                                                   |
-| 19              |                          |                                                                   |
-| 20              |                          |                                                                   |
+| Resultado (d20) | Magia selvagem           | Efeito                                                                                       |
+| --------------- | ------------------------ | -------------------------------------------------------------------------------------------- |
+| 1               | -                        |                                                                                              |
+| 2               | -                        |                                                                                              |
+| 3               | -                        |                                                                                              |
+| 4               | -                        |                                                                                              |
+| 5               | -                        |                                                                                              |
+| 6               | Pico de energia          | +1 Modificador sem custo                                                                     |
+| 7               | Fluxo estavel            | A próxima quebra sintrope e ignorada                                                         |
+| 8               | Expansão Controlada      | Aumenta a área da magia sem custos                                                           |
+| 9               | Reforço Corporal         | +Sintonia PV temporários                                                                     |
+| 10              | Aceleração de Conjuração | Pode conjurar no próximo turno sem penalidades                                               |
+| 11              | Sintonia Elevada         | +2 no teste de conjuração atual                                                              |
+| 12              | Reversão Parcial         | Reversão Parcial                                                                             |
+| 13              | Pulso de Domínio         | inimigos na área recebem uma desvantagem nemesis no próximo teste                            |
+| 14              | Sobreposição de efeitos  | Adiciona o efeito de lentidão no feitiço, diminuindo o deslocamento dos inimigos pela metade |
+| 15              | Pico de destruiçao       | Aumenta do dano do feitiço em 1d6 + Sintonia                                                 |
+| 16              | Descaga Sintrope         | Envia uma onda de choque causando 1d6 de dano ao inimigo mais próximo                        |
+| 17              |                          |                                                                                              |
+| 18              |                          |                                                                                              |
+| 19              |                          |                                                                                              |
+| 20              |                          |                                                                                              |

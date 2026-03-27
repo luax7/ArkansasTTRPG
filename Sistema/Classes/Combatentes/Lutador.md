@@ -16,6 +16,8 @@ Lutadores compõem a principal linha de frente contra as ameaças para o grupo. 
 **Pericias:** Ataque físico
 
 ---
+### **Talento**
+No primeiro, terceiro e sexto nível, o personagem ganhar um talento da lista de [[Talentos]] disponíveis
 ### Combate marcial
 Com muita experiencia e talento, o lutador se acostumou aos costumes de batalha e se especializou. dessa forma, ele pode escolher duas manobras que ele pode executar de acordo com os requisitos
 ```columns
@@ -98,7 +100,7 @@ Enquanto estiver imobilizado:
 ===
 **Guardiao**
 **Postura Fortificada**  
-**Ação leve**  
+**Ação padrao**  
 **Custo:** 2 PM  
   
 Até o próximo turno:  
@@ -116,6 +118,10 @@ Ao causar dano:
 - Ganha PV temporário igual ao dano causado (máx: seu Vigor)  
 - Dura até o fim da cena
 ```
+### **Talento**
+No primeiro, terceiro e sexto nível, o personagem ganhar um talento da lista de [[Talentos]] disponíveis
 
+### Recuperação
+Uma vez por descanso curto
 
 [^1]: Disputas sao testes realizados entre dois personagens com intençao de um vencedor conseguir alguma vantagem tatica

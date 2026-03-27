@@ -36,10 +36,11 @@ Representa raciocínio lógico, conhecimento técnico, análise e capacidade de 
 
 - **Investigação** → encontrar e conectar pistas
 - **Medicina** → tratar ferimentos, diagnosticar condições
-- **Ciência/Acadêmico** → conhecimento geral (química, física, história, etc.)
+- **Ciência** → conhecimento cientifico
 - **Engenharia** → construir, consertar, sabotar máquinas
 - **Perícia Forense** → analisar cenas de crime, causas de morte
 - **Criptografia** → decifrar códigos, mensagens e padrões ocultos
+- **Historia** → Conhecimentos gerais sobre historia
 
 ## Presença
 Define carisma, influência social, leitura emocional e capacidade de manipular ou convencer outras pessoas e resistir a ataques sociais.

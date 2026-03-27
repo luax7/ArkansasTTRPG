@@ -62,6 +62,8 @@ Utiliza 6PM para focae em um tiro encantado capaz de destruir partes interas do 
 Tiroteio frenetico**
 Pode realizar mais uma açao de ataque por turno
 **Bala de prata**
-Caso o atirador tenha acertado dois tiros ou mais no mesmo inimigo no turno ele pode utilizar 4PM e uma açao para realizar um tiro brutalizante em direçao ao inimigo, esse tiro possui +1 dado de dano
+Caso o atirador tenha acertado dois tiros ou mais no mesmo inimigo no turno ele pode utilizar 4PM e uma leve(Ou completa) para realizar um tiro brutalizante em direçao ao inimigo, esse tiro possui +1 dado de dano (Tiros com ==reflexo velozes== contam para essa metrica)
 
 ```
+### Talento
+No sexto nível, recebe um talento da lista de [[Talentos]]

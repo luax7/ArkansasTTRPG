@@ -31,7 +31,7 @@ id: XMq-dfUsFy8O8E1KlKFYS
 
 ===
 **Tecelao do fluxo**
-
+Conjurar feitiços que causam efeitos positivos a aliados ou defensivos geram 
 ===
 Condutor sintrope
 

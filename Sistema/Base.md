@@ -80,16 +80,30 @@ Perder pontos vitoriana se torna possível quando o próprio personagem cria um 
 O Sistema Sintrope se trata de um conjunto de sistematizações da magia para lidar com a instabilidade do arcano.
 ### Quebra sintrope
 Uma quebra sintrope acontece quando uma magia e conjurada sem sucesso com uma diferença de 4 ou mais. as quebras sintropes servem como risco tático para a conjuração da magia
-As quebras sintropes podem ocorrer de 20 formas:
+As quebras sintropes podem ocorrer dessas formas
 
-| Resultado | Descrição |
-| --------- | --------- |
-| 1         |           |
-| 2         |           |
-| 3         |           |
-| 4         |           |
-| 5         |           |
-|           |           |
-
+| Resultado (d20) | Descrição |
+| --------------- | --------- |
+| 1               |           |
+| 2               |           |
+| 3               |           |
+| 4               |           |
+| 5               |           |
+| 6               |           |
+| 7               |           |
+| 8               |           |
+| 9               |           |
+| 10              |           |
+| 11              |           |
+| 12              |           |
+| 13              |           |
+| 14              |           |
+| 15              |           |
+| 16              |           |
+| 17              |           |
+| 18              |           |
+| 19              |           |
+| 20              |           |
+alternativamente, magias especiais podem ter quebras sintropes especiais
 
 ### Runas

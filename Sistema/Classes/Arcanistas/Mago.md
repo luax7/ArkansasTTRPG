@@ -60,9 +60,10 @@ id: XXa5JvkwzwklBQ8kXAGPj
 **Foco absoluto:** Consegue concentrar simultaneamente em duas magias, quando a concentraçao tenta ser encerrada forçadamente, o usuario realizar um teste de sintonia DT Dificil ao inves de encerrar a concentraçao imediatamente
 ===
 **Condutor sintrope**
-Ao utiliza
+**Canalisador do caos:** Ao utilizar a tabela de magia selvagem, consegue utilizar o feitiço missel magico como feitiço leve no inimigo mais proximo ou sobrecura no aliado mais proximo. Esses feitiços nao contam para o maximo de magias conhecidas. O limite por turno de uso da tabela de magia selvagem se torna 2.
 ```
-
+**Talento**
+No sexto nível, o personagem recebe um talento
 # Tabela de magia selvagem
 
 | Resultado (d20) | Magia selvagem           | Efeito                                                                                       |

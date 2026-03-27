@@ -91,13 +91,13 @@ As quebras sintropes podem ocorrer dessas formas
 | 5               | Vazamento Arcano        | Aquece a área ao redor do conjurador, ateando fogo em objetos inflamáveis ao redor |
 | 6               | Tremor Sintrope         | não pode usar vantagem dinâmica no próximo teste                                   |
 | 7               | Marca Arcana Temporária | +1 em magia, mas −1 social até desaparecer ate o final da próxima cena             |
-| 8               | Ruído Dimensional       | A magia ocorre normalmente. Todos os arcanistas na área percebem a magia           |
-| 9               | Desalinhamento Espacial | desloca-se alguns metros na direçao contraria do alvo involuntariamente            |
-| 10              |                         |                                                                                    |
-| 11              |                         |                                                                                    |
-| 12              |                         |                                                                                    |
-| 13              |                         |                                                                                    |
-| 14              |                         |                                                                                    |
+| 8               | Ruído Dimensional       | Todos os arcanistas na área percebem a magia                                       |
+| 9               | Desalinhamento Espacial | desloca-se 3 metros na direção contraria do alvo involuntariamente                 |
+| 10              | Sobrecarga do Foco      | Perde os efeitos do foco arcano ate o final do próximo turno                       |
+| 11              | Manifestação Parcial    | efeito ocorre, mas com duração e dano pela metade                                  |
+| 12              | Interferência Externa   | Outros conjuradores na cena recebem desvantagem nêmesis no próximo teste           |
+| 13              | Desalinhamento Espacial | desloca-se 3 metros na direção do alvo involuntariamente                           |
+| 14              | Cristalização Local     | -1 de agilidade                                                                    |
 | 15              |                         |                                                                                    |
 | 16              |                         |                                                                                    |
 | 17              |                         |                                                                                    |

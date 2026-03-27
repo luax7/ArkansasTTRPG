@@ -12,8 +12,8 @@ Pactuários frequentemente fazem contratos para receber magia em troca de riquez
 | 6     | Talento                 | 3                     | 4                 |
 **Pontos de vida iniciais 14 + Vigor**
 *Pontos de vida nos próximos níveis 2+Vigor*
-**Mana Inicial 8+Presença**
-*Pontos de vida nos próximos níveis 4+Presença*
+**Mana Inicial 8+Sintonia**
+*Pontos de vida nos próximos níveis 2+Sintonia*
 
 **Pericias:** Negociação
 
@@ -27,7 +27,7 @@ Atributo para conjuração : Presença
 No primeiro nível, o pactuário conhece
 
 ***Contrato arcano***
-Além das magias conhecidas, o pactuário pode fazer contratos com entidades arcanas para adquirir novas magias e habilidades. As entidades e suas habilidades sao detalhadas no fim do documento.
+Além das magias conhecidas, o pactuário pode fazer contratos com entidades arcanas para adquirir novas magias e habilidades. As entidades e suas habilidades são detalhadas no fim do documento.
 As habilidades aprendidas através dos contratos não 
 Para cada "contrato arcano"
 
@@ -54,7 +54,7 @@ Nivel 3
 
 ```
 ### Rytsu
-Rytsu, a raposa do norte, tem seus poderes usados para furtividade, em em geral feiticeiros que utilizam das sombras como arma para abater seus inimigos
+Rytsu, a raposa do norte, tem seus poderes usados para furtividade,  em geral feiticeiros que utilizam das sombras como arma para abater seus inimigos
 Rytsu normalmente pede riquezas em troca de seu poder mas e comum a oferenda de expectativa de vida, ou almas. 
 ```columns
 id: 05WijviZ4n2KNxLsE3YEp

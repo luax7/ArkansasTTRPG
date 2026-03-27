@@ -1,3 +1,14 @@
 views:
   - type: table
     name: Tabela
+    filters:
+      and:
+        - file.inFolder("Sistema/Magias")
+        - file.hasProperty("custo")
+    order:
+      - file.name
+      - custo
+      - Tipo
+      - Duração
+      - Componentes
+      - alcance

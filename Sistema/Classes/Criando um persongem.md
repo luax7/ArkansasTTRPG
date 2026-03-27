@@ -9,4 +9,6 @@ Para criar um personagem, primeiro e  necessário definir uma classe
 | [[Socialite]] | Agente técnico capaz de manipular outras pessoas e utilizar sua posição social para manifestar poderes arcanos |
 | [[Tecnico]]   | Acadêmico / Profissional capacitado para investigações e combates                                              |
 Segundo, distribuir os atributos assim como especificado em [[Atributos]]
-Em terceiro lugar, os talentos podem ser esolhi
+Os atributos secundários, são definidos na nota [[Outras características de personagem]]
+Em terceiro lugar, os talentos podem ser escolhidos da lista [[Talentos]] (Desenvolver os próprios talentos para começar o personagem enquanto o sistema avança)
+Arquétipos e contratos são escolhidos de acordo com as especificações da classe

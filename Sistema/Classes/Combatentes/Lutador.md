@@ -11,7 +11,7 @@ Lutadores compõem a principal linha de frente contra as ameaças para o grupo. 
 **Pontos de vida iniciais 16 + Vigor**
 *Pontos de vida nos próximos níveis 8+Vigor*
 **Mana Inicial 8+Vigor**
-*Pontos de vida nos próximos níveis 2+Sintonia*
+*Pontos de vida nos próximos níveis 2+Vigor*
 
 **Pericias:** Ataque físico
 
@@ -22,15 +22,17 @@ Com muita experiencia e talento, o lutador se acostumou aos costumes de batalha 
 id: kxqVtOnOqIbhtD0OYGJmH
 ===
 **Desarmar**
-Custo: 2PM, Uma açao
-Realiza uma manobra que desarma o inimigo baseado em uma disputa[^1]
+**Custo: 2PM, Uma açao**
+Realiza uma manobra que desarma o inimigo baseado em uma disputa de Ataque fisico contra o alvo
 ===
-Column 2
-
+**Investida**
+**Custo: 4PM, Uma açao**
+Realiza uma investida contra um inimigo, destruindo qualquer cobertura menor que completa e causando 1D6 + Vigor de dano
+*Precisa se locomover 3 metros antes de se tornar uma investida*
 ===
-Column 3
+**Guarda ativa**
 
 ```
 
 
-[^1]: Disputas sao testes realizados entre dois personagens com intençao de um vencedor 
+[^1]: Disputas sao testes realizados entre dois personagens com intençao de um vencedor conseguir alguma vantagem tatica

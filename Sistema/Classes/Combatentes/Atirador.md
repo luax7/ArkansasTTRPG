@@ -12,7 +12,7 @@ Os atiradores compõem uma grande parte dos grupos de exploração, porem, não 
 **Pontos de vida iniciais 12 + Vigor**
 *Pontos de vida nos próximos níveis 6+Vigor*
 **Mana Inicial 8+Agilidade**
-*Pontos de vida nos próximos níveis 2+Agilidade*
+*Pontos de vida nos próximos níveis 3+Agilidade*
 
 **Pericias**: Pontaria
 

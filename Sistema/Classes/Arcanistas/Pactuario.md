@@ -13,7 +13,7 @@ Pactuários frequentemente fazem contratos para receber magia em troca de riquez
 **Pontos de vida iniciais 10 + Vigor**
 *Pontos de vida nos próximos níveis 4+Vigor*
 **Mana Inicial 8+Sintonia**
-*Pontos de vida nos próximos níveis 3+Sintonia*
+*Pontos de vida nos próximos níveis 4+Sintonia*
 
 **Pericias:** Negociação
 

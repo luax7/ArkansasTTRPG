@@ -11,7 +11,7 @@ Magos são especialistas no arcano, capazes de tanta destruição quanto consert
 **Pontos de vida iniciais 8 + Vigor**
 *Pontos de vida nos próximos níveis 4+Vigor*
 **Mana Inicial 8+Sintonia**
-*Pontos de vida nos próximos níveis 4+Sintonia*
+*Pontos de vida nos próximos níveis 6+Sintonia*
 
 **Pericias**: Conjuração 
 

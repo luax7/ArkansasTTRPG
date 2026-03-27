@@ -36,8 +36,7 @@ id: XMq-dfUsFy8O8E1KlKFYS
 **Proteçao dupla:** Conjurar feitiços que causam efeitos positivos a aliados ou defensivos geram pontos de vida temporarios igual ao modificador de sintonia
 ===
 **Condutor sintrope**
-**Magia selvagem:** Ao conjurar uma magia, o mago pode gastar 2 pontos de mana para utilisar a tabela de magia selvagem. Esse efeito e limitado a uma vez por turno. ao utilisar essa habilidade, o proximo teste de conjuraçao recebe uma desvantagem de -2
-
+**Magia selvagem:** Ao conjurar uma magia, o mago pode gastar 2 pontos de mana para utilisar a tabela de magia selvagem. Esse efeito e limitado a uma vez por turno.
 ```
 **Talento**
 No primeiro, terceiro e sexto nível, o personagem ganhar um talento da lista de [[Talentos]] disponíveis
@@ -86,5 +85,5 @@ No sexto nível, o personagem recebe um talento
 | 16              | Descaga Sintrope         | Envia uma onda de choque causando 1d6 de dano ao inimigo mais próximo                        |
 | 17              | Lufada arcana            | Ao conjurar, se desloca 3metros para alguma direçao desejada.                                |
 | 18              | Precisão Arcana          | a magia não afeta aliados                                                                    |
-| 19              | -                        | -                                                                                            |
-| 20              | -                        | -                                                                                            |
+| 19              | Pico de energia          | +2 de efeito na magia                                                                        |
+| 20              | Lufada arcana            | Arremessa o alvo na direção contraria do conjurador                                          |

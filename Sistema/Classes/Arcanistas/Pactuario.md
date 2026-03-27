@@ -16,3 +16,11 @@ O pactuário foca em fazer contratos com entidades magicas para receber feitiço
 **Pericias:** Negociação
 
 ---
+**Talento**
+No primeiro, terceiro e sexto nível, o personagem ganhar um talento da lista de [[Talentos]] disponíveis
+
+**Conjuração** 
+No primeiro nível, o mago se torna capaz de conjurar feitiços simples para combate e fortalecimento.
+Atributo para conjuração : Presença
+
+# Entidades para contrato

@@ -24,15 +24,16 @@ No primeiro nível, recebe um talento da lista de [[Talentos]]
 O atirador naturalmente entende melhor a balística da sua arma, ganhando +2 de vantagem para todos os testes de pontaria.
 Gastando 3 PM, a vantagem e trocada por uma vantagem dinâmica e o ataque causa +1 dado de dano.
 
-### Habilidade de arquetipo
+### Habilidade de arquétipo
 No segundo nível o atirador se especializa em um tipo de combate
 ```columns
 id: PeiPNQ5I7kkg5n6dcS9B_
 ===
-Column 1
-
+**Franco atirador**
+**Mira calma**
+Se o personagem nao se mover no turno, recebe uma vantagem dinamica para todos os testes de pontaria.
 ===
-Column 2
+**Pistoleiro**
 
 ```
 

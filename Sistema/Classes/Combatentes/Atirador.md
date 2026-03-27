@@ -34,6 +34,13 @@ id: PeiPNQ5I7kkg5n6dcS9B_
 Se o personagem nao se mover no turno, recebe uma vantagem dinamica para todos os testes de pontaria.
 ===
 **Pistoleiro**
-
+**Reflexos velozes**
+No turno do persoagem, se um ataque utilizando pontaria tiver sucesso, pode utilizar uma açao leve para realizar outro disparo com uma desvantagem nemesis
 ```
-
+### Talento
+No terceiro nível, recebe um talento da lista de [[Talentos]]
+### Sentinela
+Pode realizar ataques de oportunidade em inimigos se movimentando em direção ao atirador.
+Utilizando 3PM, e possível utilizar uma reação para atirar em qualquer inimigo se movimentando a 3 metros ou mais do atirador
+### Aumento de habilidade
+No quarto nível o personagem recebe 2 pontos para distribuir entre os atributos, e 3 pontos para distribuir entre pericias

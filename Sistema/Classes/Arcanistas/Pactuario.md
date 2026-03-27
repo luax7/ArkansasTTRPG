@@ -1,5 +1,7 @@
 O pactuário foca em fazer contratos com entidades magicas para receber feitiços e habilidades especiais. pactuários funcionam como uma versão mais estável do mago, frequentemente funcionando também como uma classe física magica.
 
+Pactuários frequentemente fazem contratos para receber magia em troca de riquezas dos humanos como sua expectativa de vida, "alma", conduta em vida, riquezas, e ate mesmo objetos arcanos
+
 | Nivel | Habilidade adquirida    | Contratos disponíveis | Magias conhecidas |
 | ----- | ----------------------- | --------------------- | ----------------- |
 | 1     | Talento,Conjuração      | 1                     | 2                 |
@@ -28,9 +30,10 @@ No primeiro nível, o pactuário conhece
 Alem 
 
 # Entidades para contrato
-As e
+As entidades listadas a seguir são todas entidades de que de forma ou outra entraram em contato com a humanidade, e foram estudadas formas de utilizar de deu poder arcano para adquirir parte de sua capacidade arcana.
 ### Ignivar
-Ignivar e uma entidade focada em feitiços de destruição em massa
+Ignivar, apelidado de patrono dos feiticeiros[^1] e uma entidade maligna em geral, normalmente pedindo a alma do alvo de seus feitiços ou a própria expectativa de vida do conjurador. 
+Feiticeiros contratantes de ignivar frequentemente q
 ```columns
 id: TrwS3ThkYV05GL_xMjuo4
 ===
@@ -57,3 +60,5 @@ Nivel 2
 Nivel 3
 
 ```
+
+[^1]: Feiticeiros são como normalmente são chamados Magiarcas que focam em feitiços de destruição em massa

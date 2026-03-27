@@ -2,12 +2,12 @@ O pactuário foca em fazer contratos com entidades magicas para receber feitiço
 
 | Nivel | Habilidade adquirida    | Contratos disponíveis | Magias conhecidas |
 | ----- | ----------------------- | --------------------- | ----------------- |
-| 1     | Talento,Conjuração      | 1                     | 3                 |
-| 2     | Contrato arcano         | 1                     | 3                 |
-| 3     | Talento,Contrato arcano | 2                     | 4                 |
-| 4     | Aumento de habilidade   | 2                     | 4                 |
-| 5     | Contrato arcano         | 3                     | 5                 |
-| 6     | Talento                 | 3                     | 6                 |
+| 1     | Talento,Conjuração      | 1                     | 2                 |
+| 2     | Contrato arcano         | 1                     | 2                 |
+| 3     | Talento,Contrato arcano | 2                     | 3                 |
+| 4     | Aumento de habilidade   | 2                     | 3                 |
+| 5     | Contrato arcano         | 3                     | 4                 |
+| 6     | Talento                 | 3                     | 4                 |
 **Pontos de vida iniciais 14 + Vigor**
 *Pontos de vida nos próximos níveis 2+Vigor*
 **Mana Inicial 8+Presença**
@@ -22,6 +22,10 @@ No primeiro, terceiro e sexto nível, o personagem ganhar um talento da lista de
 **Conjuração** 
 No primeiro nível, o mago se torna capaz de conjurar feitiços simples para combate e fortalecimento.
 Atributo para conjuração : Presença
+No primeiro nível, o pactuário conhece
+
+***Contrato arcano***
+Alem 
 
 # Entidades para contrato
 ### Ignivar

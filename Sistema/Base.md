@@ -17,6 +17,7 @@ As rolagens somam com as características básicas do personagem como [[Atributo
 # Sistema Nêmesis
 O Sistema nêmesis se trata de uma serie de mecanismos para criar caos na historia através de vantagens e desvantagens mecânicas que o mestre atribui para as ameaças 
 # Sistema Vitoriana
-O Sistema vitoriana se trata de um sistema para situações de negociação ou conflitos sociais em alto e baixo nivel ( Baixo nivel sendo entre individuos , e alto) 
+O Sistema vitoriana se trata de um sistema para situações de negociação ou conflitos sociais em alto e baixo nível ( Baixo nível sendo entre indivíduos e alto entre organizações) 
 
 # Sistema Sintrope
+O Sistema Sintrope se trata

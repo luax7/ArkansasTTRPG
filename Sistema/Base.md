@@ -32,8 +32,9 @@ Alternativamente, os *ataques lendários* — Ataques com efeitos especiais ou �
 O Sistema vitoriana se trata de um sistema para situações de negociação ou conflitos sociais em alto e baixo nível ( Baixo nível sendo entre indivíduos e alto entre organizações) 
 
 ### O que e um conflito social
-
+Um conflito social se trata de qualquer interação entre um jogador e um personagem não jogável no qual o jogador antagoniza o personagem através de interrogações, barganhas ou qualquer atividade similar
 ### Pontos vitoriana
+No inicio de um conflito
 
 # Sistema Sintrope
 O Sistema Sintrope se trata de um conjunto de sistematizações da magia do mundo. Ou seja, uma forma logica de tratar das adaptações, simbologias magicas para facilitar a criação de novos elementos e o entendimento desses elementos para os jogadores 

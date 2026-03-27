@@ -155,13 +155,35 @@ Nythra e uma entidade da sintropia, ela utiliza da expectativa de vida dos seus 
 ```columns
 id: pZYeLvNvRSbbpExeqEt3P
 ===
-Nivel 1
+**Nivel 1**
+[[Pulso sintrope]]
+[[Mutaçao efemera]]
+
+**Corpo Instável**  
+Sempre que conjura magia, role um d10. adicione +1 no atributo segundo a tabela a seguir ate o fim do proximo turno. Essa caracteristica pode ser usada apenas uma vez por turno.
+
+|Resultado(d10)     | Atributo    |
+| --- | --- |
+|1-2|Vigor|
+|3-4|Agilidade|
+|5-6|Intelecto|
+|7-8|Presença|
+|9-10|Sintonia|
+
 
 ===
 Nivel 2
-
+**Ruptura Sintrope**  
+Quando ocorre quebra sintrope, você pode escolher entre dois resultados da tabela.
 ===
 Nivel 3
+**Forma Aberrante**  
+*Ação – 1 vez por cena*  
+  
+Por 3 turnos:  
+- +2 em todos atributos físicos  
+- Ataques fisicos causam mais um dado de dano  
+- Ignora penalidades de terreno difícil
 
 ```
 ### Ortheon

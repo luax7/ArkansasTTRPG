@@ -23,7 +23,7 @@ O personagem se movimenta uma quantidade de metros igual ao seu deslocamento
 O Personagem utiliza duas ações para se fugir de um combate sem correr risco de sofrer um ataque de oportunidade.
 
 **Esconder**
-O personagem se esconde atras de algum objeto em sua redondeza para adquirir vantagens táticas. Realizando um teste de ==furtividade== contra a percepção dos inimigos
+O personagem se esconde[^3] atras de algum objeto em sua redondeza para adquirir vantagens táticas. Realizando um teste de ==furtividade== contra a percepção dos inimigos
 
 **Tomar cobertura**
 O Personagem toma cobertura[^1] atras de algum objeto próximo para se defender. O nível de cobertura depende do objeto
@@ -38,6 +38,13 @@ Socorre uma criatura no campo de batalha realizando um teste de medicina[^2]
 **Agarrar**
 Com as duas mãos livres, o personagem tenta segurar um oponente, realizando um teste de força bruta contra o oponente. Ocupando ambas as mãos. Para o oponente se libertar, e necessário um teste de força bruta contra o teste inicial do personagem.
 Nesse estado, nenhum dos dois personagens podem realizar ações que demandam as mãos.
+
+**Sacar/Guardar Item**
+Alcança ou guarda algum item disponível no inventario.
+*Ação leve*
+
+**Derrubar**[^4]
+Derruba um oponente utilizando um teste de força bruta ou ataque físico.
 # Reações
 Reações são as formas que uma personagem pode reagir as ações sendo tomadas ao seu redor. Reações podem ser tomadas somente contra personagens nos quais o alvo esta engajado. Ou seja, ações de personagens invisíveis, ou escondidos não podem ser reagidas.
 Inicialmente, os personagens podem realizar duas reações por turno
@@ -66,3 +73,7 @@ Ao ser alvo de um ataque físico o bloqueia, recebendo metade do dano. aumentand
 	
 
 [^2]: Em combate, não e possível realizar grandes feitos médicos por restrições de tempo e foco. Assim, limitando a cura possível a 1d6 e utilizando um kit medico, 2d6. Essa quantidade pode ser alterada por profissões, talentos e classes
+
+[^3]: O Efeito de escondido e removido caso o inimigo tenha uma linha de visao direta do personagem, ou seja atacado.
+
+[^4]: Derrubado: Tem o deslocamento reduzido pela metade, desvantagens -4 para ataques.

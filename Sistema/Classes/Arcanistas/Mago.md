@@ -40,25 +40,25 @@ id: XMq-dfUsFy8O8E1KlKFYS
 
 # Tabela de magia selvagem
 
-| Resultado (d20) | Magia selvagem           | Efeito                                         |
-| --------------- | ------------------------ | ---------------------------------------------- |
-| 1               | -                        |                                                |
-| 2               | -                        |                                                |
-| 3               | -                        |                                                |
-| 4               | -                        |                                                |
-| 5               | -                        |                                                |
-| 6               | Pico de energia          | +1 Modificador sem custo                       |
-| 7               | Fluxo estavel            | A próxima quebra sintrope e ignorada           |
-| 8               | Expansão Controlada      | Aumenta a área da magia sem custos             |
-| 9               | Reforço Corporal         | +Sintonia PV temporários                       |
-| 10              | Aceleração de Conjuração | Pode conjurar no próximo turno sem penalidades |
-| 11              | Sintonia Elevada         | +2 no teste de conjuração atual                |
-| 12              |                          |                                                |
-| 13              |                          |                                                |
-| 14              |                          |                                                |
-| 15              |                          |                                                |
-| 16              |                          |                                                |
-| 17              |                          |                                                |
-| 18              |                          |                                                |
-| 19              |                          |                                                |
-| 20              |                          |                                                |
+| Resultado (d20) | Magia selvagem           | Efeito                                                            |
+| --------------- | ------------------------ | ----------------------------------------------------------------- |
+| 1               | -                        |                                                                   |
+| 2               | -                        |                                                                   |
+| 3               | -                        |                                                                   |
+| 4               | -                        |                                                                   |
+| 5               | -                        |                                                                   |
+| 6               | Pico de energia          | +1 Modificador sem custo                                          |
+| 7               | Fluxo estavel            | A próxima quebra sintrope e ignorada                              |
+| 8               | Expansão Controlada      | Aumenta a área da magia sem custos                                |
+| 9               | Reforço Corporal         | +Sintonia PV temporários                                          |
+| 10              | Aceleração de Conjuração | Pode conjurar no próximo turno sem penalidades                    |
+| 11              | Sintonia Elevada         | +2 no teste de conjuração atual                                   |
+| 12              | Reversão Parcial         | Reversão Parcial                                                  |
+| 13              | Pulso de Domínio         | inimigos na área recebem uma desvantagem nemesis no próximo teste |
+| 14              | Sobreposição de efeitos  | Adiciona o efeito de lentidão                                     |
+| 15              |                          |                                                                   |
+| 16              |                          |                                                                   |
+| 17              |                          |                                                                   |
+| 18              |                          |                                                                   |
+| 19              |                          |                                                                   |
+| 20              |                          |                                                                   |

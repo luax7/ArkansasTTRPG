@@ -146,7 +146,7 @@ O custo do modificador de dano aumenta conforme o dado de dano da magia
 | Ignorar cobertura parcial   | +2    |
 
 ### Quebra sintrope
-Uma quebra sintrope acontece quando o resultado de um teste de conjuração e menor do que a dificuldade da magia (especificada para )
+Uma quebra sintrope acontece quando o resultado de um teste de conjuração e menor do que a dificuldade da magia (especificada para cada magia)
 As quebras sintropes podem ocorrer dessas formas
 
 | Resultado (d20) | Efeito                  | Descrição                                                                                                                     |
@@ -176,11 +176,11 @@ alternativamente, magias especiais podem ter quebras sintropes especiais
 ### Foco arcano
 Equipamentos especiais capazes de canalizar mana para ajudar conjuradores. 
 
-| Foco   | Efeito                                     |
-| ------ | ------------------------------------------ |
-| Cajado | Ignora quebras sintrope                    |
-| Tomo   | Diminui dificuldade de conjuração de magia |
-| Orbe   | Diminui o custo da magia                   |
+| Foco   | Efeito                                  |
+| ------ | --------------------------------------- |
+| Cajado | Ignora quebras sintrope                 |
+| Tomo   | Pode ser utilizado com armas de uma mao |
+| Orbe   | Custo magico -1                         |
 
 > [!NOTE] Artefatos: Focos arcanos
 > Esses efeitos são gerais. focos arcanos específicos podem ter efeitos específicos

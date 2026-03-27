@@ -146,7 +146,7 @@ O custo do modificador de dano aumenta conforme o dado de dano da magia
 | Ignorar cobertura parcial   | +2    |
 
 ### Quebra sintrope
-Uma quebra sintrope acontece quando uma magia e conjurada sem sucesso com uma diferença de 4 ou mais. as quebras sintropes servem como risco tático para a conjuração da magia
+Uma quebra sintrope acontece quando o resultado de um teste de conjuração e menor do que a dificuldade da magia (especificada para )
 As quebras sintropes podem ocorrer dessas formas
 
 | Resultado (d20) | Efeito                  | Descrição                                                                                                                     |

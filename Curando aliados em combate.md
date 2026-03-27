@@ -1,0 +1,2 @@
+### Curando aliados em combate
+Em combate, não e possível realizar grandes feitos médicos por restrições de tempo e foco. Assim, limitando a cura possível a 1d6 e utilizando um kit medico, 2d6. Essa quantidade pode ser alterada por profissões, talentos e classes

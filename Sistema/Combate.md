@@ -9,28 +9,23 @@ A ordem de combate e decidida primeiramente por ações posteriores (Ex: embosca
 No inicio do turno de um personagem, ele possui um numero de ações (normalmente 3). essas ações permitem que o personagem interaja, ataque, movimente, entre outros.
 A quantidade de ações pode ser aumentada por talentos e habilidades de classe.
 Ações leves podem ser executadas sem custo uma vez por turno, após a primeira vez, elas custam uma ação normalmente.
-```columns
-id: X_8-naofVF-ogeRWJRhqS
-===
+
 **Atacar**
 O personagem desfere um golpe fisico contra um inimigo utilizando sua arma equipada utilizando um teste de ==ataque fisico== contra a defesa do oponente
-===
+
 **Conjurar magia**
 Utilizando as regras do Sistema sintrope, o personagem conjura uma magia utilizando seu atributo de conjuraçao (Normalmente sintonia).
-```
-```columns
-id: 12eW2kpeNA36P70rJ91Lt
-===
+
+
+
+
 **Movimentar**
 O personagem se movimenta uma quantidade de metros igual ao seu deslocamento
-===
+
 **Desengajar**
 O Personagem utiliza duas açoes para se fugir de um combate sem correr risco de sofrer um ataque de oportunidade.
 
-```
-```columns
-id: zsE5eRXwQU4OXrmOzVW5h
-===
+
 **Esconder**
 O personagem se esconde atras de algum objeto em sua redondeza para adquirir vantagens taticas. Realizando um teste de ==furtividade== contra a percepçao dos inimigos
 
@@ -93,5 +88,7 @@ Ao ser alvo de um ataque físico o bloqueia, aumentando sua defesa em +2 para o 
 
 # Outras regras de combate
 [[Cobertura]]
-### Curando aliados em combate
+[[Curando aliados em combate]]
+
+
 

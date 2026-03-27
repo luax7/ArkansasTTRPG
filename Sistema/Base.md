@@ -41,11 +41,14 @@ O Sistema vitoriana se trata de um sistema para situações de negociação ou c
 Um conflito social se trata de qualquer interação entre um jogador e um personagem não jogável no qual o jogador antagoniza o personagem através de interrogações, barganhas ou qualquer atividade similar
 ### Resistencia social
 Cada conflito possui uma resistência para ser resolvido. Por instancia, uma barganha de produto possui uma resistência muito menor do que convencer um capanga a entregar um grande vilão
-As dificuldades sao ditadas dessa forma:
+As dificuldades são ditadas dessa forma:
 
-| Dificuldade |     |
-| ----------- | --- |
-|             |     |
+| Dificuldade | PV    |
+| ----------- | ----- |
+| Fraco       | 6-7   |
+| Médio       | 8-9   |
+| Forte       | 10-11 |
+| Elite       | 12+   |
 
 ### Pontos vitoriana
 No inicio de um conflito social, o jogador recebe um total de pontos Vitoriana igual o seu atributo **Presença**.
@@ -55,6 +58,9 @@ Os pontos vitoriana podem ser utilizados para concluir o conflito através de te
 
 ### Adquirindo mais pontos vitoriana
 Para adquirir pontos vitoriana, em um conflito, basta o jogador criar situações que criem uma vantagem social, por instancia, argumentar sobre a baixa qualidade de um produto para o vendedor pode conceder pontos vitoriana baseado em uma rolagem de conhecimentos, ou proficiências 
+
+### Perdendo pontos vitoriana
+Perder pontos vitoriana se torna possível quando o próprio personagem cria um ponto valido que contraria o ponto do jogador, ou quando o jogador falha em uma rolagem para adquirir mais pontos vitoriana (Social Faux)
  
 # Sistema Sintrope
 O Sistema Sintrope se trata de um conjunto de sistematizações da magia do mundo. Ou seja, uma forma logica de tratar das adaptações, simbologias magicas para facilitar a criação de novos elementos e o entendimento desses elementos para os jogadores 

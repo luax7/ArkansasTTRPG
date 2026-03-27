@@ -54,8 +54,8 @@ Define carisma, influência social, leitura emocional e capacidade de manipular 
 Representa a conexão com a mana, sensibilidade ao arcano e capacidade de moldar o tecido dos pulsos arcanos, e o conhecimentos gerais sobre o arcano
 
 - **Conjuração** → lançar magia de forma direta
-- **Canalização** → utilizar artefatos magicos especific (especialmente pulsos)
+- **Canalização** → utilizar artefatos mágicos específicos (especialmente pulsos)
 - **Percepção Arcana** → detectar magia, distorções e entidades
-- **Rituais** → executar magia complexa ou prolongada
-- **Controle de Sintropia** → resistir ou estabilizar mutações
+- **Rituais** → Analisar magia complexa ou prolongada
+- **Controle de Sintropia** → Resistir a ataques psicológicos e efeitos de mutações especificas
 - **Conhecimento Arcano** → entender fenômenos mágicos

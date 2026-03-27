@@ -89,6 +89,15 @@ Perder pontos vitoriana se torna possível quando o próprio personagem cria um 
 # Sistema Sintrope
 O Sistema Sintrope se trata de um conjunto de sistematizações da magia para lidar com a instabilidade do arcano.
 ### Conjurando
+A ação de conjuração se da por um teste de Conjuração, com dificuldade especificada na magia.
+Uma magia pode ter essas áreas de efeito:
+
+| Area     | Pequeno | Medio | Grande | Enorme |
+| -------- | ------- | ----- | ------ | ------ |
+| Circulo  |         |       |        |        |
+| Cone     |         |       |        |        |
+| Quadrado |         |       |        |        |
+| Raio     |         |       |        |        |
 
 ### Quebra sintrope
 Uma quebra sintrope acontece quando uma magia e conjurada sem sucesso com uma diferença de 4 ou mais. as quebras sintropes servem como risco tático para a conjuração da magia

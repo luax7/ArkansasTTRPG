@@ -4,11 +4,11 @@ Pactuários frequentemente fazem contratos para receber magia em troca de riquez
 
 | Nivel | Habilidade adquirida    | Contratos disponíveis | Magias conhecidas |
 | ----- | ----------------------- | --------------------- | ----------------- |
-| 1     | Talento,Conjuração      | 1                     | 0                 |
-| 2     | Contrato arcano         | 1                     | 0                 |
+| 1     | Talento,Conjuração      | 1                     | 1                 |
+| 2     | Contrato arcano         | 1                     | 1                 |
 | 3     | Talento,Contrato arcano | 2                     | 2                 |
 | 4     | Aumento de habilidade   | 2                     | 3                 |
-| 5     | Contrato arcano         | 3                     | 4                 |
+| 5     | Contrato arcano         | 3                     | 3                 |
 | 6     | Talento                 | 3                     | 4                 |
 **Pontos de vida iniciais 14 + Vigor**
 *Pontos de vida nos próximos níveis 2+Vigor*
@@ -27,7 +27,9 @@ Atributo para conjuração : Presença
 No primeiro nível, o pactuário conhece
 
 ***Contrato arcano***
-Além das magias conhecidas, o pactuário pode fazer contratos com entidades arcanas para adquirir novas magias e habilidades
+Além das magias conhecidas, o pactuário pode fazer contratos com entidades arcanas para adquirir novas magias e habilidades. As entidades e suas habilidades sao detalhadas no fim do documento.
+As habilidades aprendidas através dos contratos não 
+Para cada "contrato arcano"
 
 # Entidades para contrato
 As entidades listadas a seguir são todas entidades de que de forma ou outra entraram em contato com a humanidade, e foram estudadas formas de utilizar de deu poder arcano para adquirir parte de sua capacidade arcana.

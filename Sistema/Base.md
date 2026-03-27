@@ -119,6 +119,23 @@ Uma magia, pode ter os seguintes alvos
 
 ### Modificadores
 Magias podem ter seu custo de mana aumentado com a intenção de aumentar seu dano, velocidade de conjuração, área e outras características, assim, tornando-a mais efetiva pra situação  
+
+**Modificadores de dano:**
+O custo do modificador de dano aumenta conforme o dado de dano da magia
+
+| Tipo de dado | Custo |
+| ------------ | ----- |
+| d4           | +1    |
+| d6           | +1    |
+| d8           | +2    |
+| d10          | +4    |
+| d12          | +8    |
+**Modificadores de velocidade:**
+
+| Tem |     |
+| --- | --- |
+|     |     |
+
 ### Quebra sintrope
 Uma quebra sintrope acontece quando uma magia e conjurada sem sucesso com uma diferença de 4 ou mais. as quebras sintropes servem como risco tático para a conjuração da magia
 As quebras sintropes podem ocorrer dessas formas

@@ -3,14 +3,14 @@ O **Socialite** é um manipulador de relações, emoções e narrativas. Enquant
 Ele é a única classe capaz de **reter Pontos Vitoriana após o fim de um conflito social**, convertendo prestígio em poder real.
 
 
-| Nivel | Habilidades              |
-| ----- | ------------------------ |
-| 1     | Talento, Negociador nato |
-| 2     | Habilidade de arquetipo  |
-| 3     | Talento, Ataque imbuido  |
-| 4     | Aumento de Habilidade    |
-| 5     | Habilidade de arquetipo  |
-| 6     | Talento                  |
+| Nivel | Habilidades                                 |
+| ----- | ------------------------------------------- |
+| 1     | Talento, Negociador nato                    |
+| 2     | Habilidade de arquetipo                     |
+| 3     | Talento, Ataque imbuído, Repressão violenta |
+| 4     | Aumento de Habilidade                       |
+| 5     | Habilidade de arquetipo                     |
+| 6     | Talento                                     |
 
 **Pontos de vida iniciais 10 + Vigor**
 *Pontos de vida nos próximos níveis 4+Vigor*
@@ -55,3 +55,14 @@ No segundo nível, o socialite se torna capaz de conjurar feitiços simples para
 Atributo para conjuração : Presença
 No primeiro nível, o socialite conhece duas magias de tipo Encantamento
 ```
+## Ataque Imbuído
+
+No terceiro nivel, Socialite aprende a converter influência em poder direto.
+Ao realizar um ataque, o socialite pode utilizar 3 PV, garantindo uma vantagem dinâmica no ataque ou garantindo +1 dado de dano
+
+### Repressão violenta
+No terceiro nível socialite utiliza de seus ataques para ganhar postura social entre os inimigos.
+Ao causar dano a um inimigo, o socialite recupera 1PV, se o ataque atingir mais de um inimigo, ele recupera 2PV.
+
+### Aumento de habilidade
+No quarto nível o personagem recebe 2 pontos para distribuir entre os atributos, e 3 pontos para distribuir entre pericias

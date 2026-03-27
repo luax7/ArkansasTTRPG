@@ -97,13 +97,12 @@ Nesse caso, um teste de conjuração deve ser realizado contra a defesa do alvo,
 
 
 Uma magia pode ter essas áreas de efeito:
+Circulo:
 
 | Area     | Pequeno | Medio | Grande | Gigante | Gargatuan |
 | -------- | ------- | ----- | ------ | ------- | --------- |
-| Circulo  |         |       |        |         |           |
-| Cone     |         |       |        |         |           |
-| Quadrado |         |       |        |         |           |
-| Raio     | -       | -     | -      | -       | -         |
+| Circulo  | 3       |       |        |         |           |
+
 Tamanho geral, magias podem ter tamanhos maiores ou menores que os tabelados
 
 Uma magia, pode ter os seguintes alvos
@@ -130,11 +129,20 @@ O custo do modificador de dano aumenta conforme o dado de dano da magia
 | d8           | +2    |
 | d10          | +4    |
 | d12          | +8    |
+
 **Modificadores de velocidade:**
 
-| Tem |     |
-| --- | --- |
-|     |     |
+| Modificador                                               | Custo         |
+| --------------------------------------------------------- | ------------- |
+| Conjuração instantânea                                    | +1 por minuto |
+| Reação (Pode ser utilizado apenas em magias instantaneas) | +3            |
+
+**Modificador de precisão:**
+
+| Modificador                 | Custo |
+| --------------------------- | ----- |
+| Evitar aliados(Apenas raio) | +2    |
+| Ignorar cobertura parcial   | +2    |
 
 ### Quebra sintrope
 Uma quebra sintrope acontece quando uma magia e conjurada sem sucesso com uma diferença de 4 ou mais. as quebras sintropes servem como risco tático para a conjuração da magia

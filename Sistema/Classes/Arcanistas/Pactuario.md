@@ -28,12 +28,28 @@ No primeiro nível, o pactuário conhece
 Alem 
 
 # Entidades para contrato
+As e
 ### Ignivar
+Ignivar e uma entidade focada em feitiços de destruição em massa
 ```columns
 id: TrwS3ThkYV05GL_xMjuo4
 ===
 Nivel 1
 Mago elemental: 
+===
+Nivel 2
+
+===
+Nivel 3
+
+```
+### Rytsu
+Rytsu e uma entidade focada em movimentação veloz e feitiços de controle de grupo
+```columns
+id: 05WijviZ4n2KNxLsE3YEp
+===
+Nivel 1
+
 ===
 Nivel 2
 

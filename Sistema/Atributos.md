@@ -20,7 +20,7 @@ Representa a capacidade física do personagem: resistência, força bruta, toler
 - **Resistência** → suportar dor, veneno, exaustão
 - **Intimidação Física** → ameaçar pela presença corporal
 - **Sobrevivência** → resistir ao ambiente (calor, fome, sede)
-- **Ataque físico** 
+- **Ataque físico** → Atacar diretamente uma criatura ou objeto
 
 ## Agilidade
 Define reflexos, coordenação motora, precisão e controle corporal fino.
@@ -42,7 +42,7 @@ Representa raciocínio lógico, conhecimento técnico, análise e capacidade de 
 - **Criptografia** → decifrar códigos, mensagens e padrões ocultos
 
 ## Presença
-Define carisma, influência social, leitura emocional e capacidade de manipular ou convencer outras pessoas.
+Define carisma, influência social, leitura emocional e capacidade de manipular ou convencer outras pessoas e resistir a ataques sociais.
 
 - **Persuasão** → convencer, negociar
 - **Enganação** → mentir, blefar, criar histórias
@@ -50,6 +50,7 @@ Define carisma, influência social, leitura emocional e capacidade de manipular 
 - **Empatia** → ler emoções e intenções
 - **Atuação** → interpretar papéis, disfarces sociais
 - **Interrogatório** → extrair informações de alguém
+- **Postura** → Resistir a ataques de intimidação e similares
 ## Sintonia
 Representa a conexão com a mana, sensibilidade ao arcano e capacidade de moldar o tecido dos pulsos arcanos, e o conhecimentos gerais sobre o arcano
 

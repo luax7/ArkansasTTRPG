@@ -97,13 +97,11 @@ Nesse caso, um teste de conjuração deve ser realizado contra a defesa do alvo,
 
 
 Uma magia pode ter essas áreas de efeito:
-Circulo:
-
-| Area     | Pequeno | Medio | Grande | Gigante | Gargatuan |
-| -------- | ------- | ----- | ------ | ------- | --------- |
-| Circulo  | 3       |       |        |         |           |
-
-Tamanho geral, magias podem ter tamanhos maiores ou menores que os tabelados
+- Circulo
+- Cone
+- Raio
+- Quadrado
+O tamanho exato das áreas e especificado em cada magia.
 
 Uma magia, pode ter os seguintes alvos
 

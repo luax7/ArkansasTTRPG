@@ -7,7 +7,8 @@ A ordem de combate e decidida primeiramente por ações posteriores (Ex: embosca
 
 # Ações
 No inicio do turno de um personagem, ele possui um numero de ações (normalmente 3) e uma ação leve. essas ações permitem que o personagem interaja, ataque, movimente, entre outros.
-A quantidade de ações pode ser aumentada por talentos e habilidades de classe
+A quantidade de ações pode ser aumentada por talentos e habilidades de classe.
+Açoes leves podem ser executadas sem custo uma vez por turno
 ```columns
 id: X_8-naofVF-ogeRWJRhqS
 ===
@@ -36,6 +37,7 @@ O personagem se esconde atras de algum objeto em sua redondeza para adquirir van
 ===
 **Tomar cobertura**
 O Personagem toma cobertura atras de algum objeto proximo para se defender. O nivel de cobertura depende do objeto
+*Açao leve*
 ```
 
 # Reações 
@@ -73,4 +75,9 @@ Ao ser alvo de um ataque físico o bloqueia, aumentando sua defesa em +2 para o 
 ```
 
 
+
+
+# Outras regras de combate
+[[Cobertura]]
+### Curando aliados em combate
 

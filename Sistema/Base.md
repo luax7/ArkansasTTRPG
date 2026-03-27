@@ -1,9 +1,8 @@
-A base fundamental do sistema Arkansas se trata de entender que o sistema não e feito para definir mecânicas pesadas para os jogadores, mas sim para criar uma base narrativa e investigativa para a mesa, dessa forma, e encorajado a adaptação do sistema para cada mesa e personagem individual 
+A base fundamental do sistema Arkansas se trata de entender que o sistema não é feito para definir mecânicas pesadas para os jogadores, mas sim para criar uma base narrativa e investigativa para a mesa. Dessa forma, é encorajado a adaptação do sistema para cada mesa e personagem individual 
 
 Arkansas funciona com base em 2D6. Essa decisão foi feita pra criar maior consistência nas rolagens ( Tendencia a rolagens medias ) 
 
 Essas rolagens são utilizadas para realizar ações contra o ambiente, cada ação tem sua dificuldade
-
 
 | Dificuldade | Rolagem |
 | ----------- | ------- |
@@ -42,10 +41,12 @@ O Sistema vitoriana se trata de um sistema para situações de negociação ou c
 Um conflito social se trata de qualquer interação entre um jogador e um personagem não jogável no qual o jogador antagoniza o personagem através de interrogações, barganhas ou qualquer atividade similar
 ### Pontos vitoriana
 No inicio de um conflito social, o jogador recebe um total de pontos Vitoriana igual o seu atributo **Presença**.
+Pontos vitoriana também são concedidos com base em [[Talentos]], características de classe e interações anteriores que criem vantagem social (Ex: Uma divida não paga)
+
 Os pontos vitoriana podem ser utilizados para concluir o conflito
 
 ### Adquirindo mais pontos vitoriana
-
+Para adquirir pontos vitoriana, em um conflito, basta o jogador criar situações que criem uma vantagem social, por instancia, argumentar sobre a baixa qualidade de um produto para o vendedor pode conc
  
 # Sistema Sintrope
 O Sistema Sintrope se trata de um conjunto de sistematizações da magia do mundo. Ou seja, uma forma logica de tratar das adaptações, simbologias magicas para facilitar a criação de novos elementos e o entendimento desses elementos para os jogadores 

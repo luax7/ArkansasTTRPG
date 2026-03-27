@@ -64,7 +64,4 @@ Perder pontos vitoriana se torna possível quando o próprio personagem cria um 
  
 # Sistema Sintrope
 O Sistema Sintrope se trata de um conjunto de sistematizações da magia do mundo. Ou seja, uma forma logica de tratar das adaptações, simbologias magicas para facilitar a criação de novos elementos e o entendimento desses elementos para os jogadores 
-
-### Magias
-
-### Runas
+### Conjuração

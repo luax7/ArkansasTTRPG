@@ -27,11 +27,12 @@ As desvantagens são expressas apenas em números fixos, diferentemente. Dessa f
 Um acerto critico ocorre quando o resultado de pelo menos dois D6 é 6
 Nesse caso, para testes de desafios comuns, e adicionado uma vantagem fixa de +6
 Adicionalmente, para testes de combate é considerado o dano máximo do ataque.
+O limiar do acerto critico pode ser alterado por armas, talentos ou habilidades de classe
 
 ### Falhas criticas
 Uma falha critica ocorre quando o resultado de dois D6 é 1. Falhas criticas não são consideradas quando existe uma vantagem dinâmica para o teste.
 Quando uma falha critica ocorre em um teste comum, o teste pode ser bloqueado permanentemente, ou podem haver danos ao personagem.
-Uma falha critica no combate, pode ser catastrófica. O personagem é desarmado de qualquer forma e recebe o 
+Uma falha critica no combate entrega o efeito "Falha catastrófica" ao personagem, que remove uma ação máxima para o personagem no fim do próximo turno
 # Sistema Nêmesis
 O Sistema nêmesis se trata de uma serie de mecanismos para criar caos na historia através de vantagens e desvantagens mecânicas que o mestre atribui para as ameaças.
 O Sistema nêmesis, se trata de um motor narrativo, e não uma forma do mestre de punir um ou mais jogadores, e deve ser tratado dessa forma.
@@ -87,6 +88,8 @@ Perder pontos vitoriana se torna possível quando o próprio personagem cria um 
  
 # Sistema Sintrope
 O Sistema Sintrope se trata de um conjunto de sistematizações da magia para lidar com a instabilidade do arcano.
+### Conjurando
+
 ### Quebra sintrope
 Uma quebra sintrope acontece quando uma magia e conjurada sem sucesso com uma diferença de 4 ou mais. as quebras sintropes servem como risco tático para a conjuração da magia
 As quebras sintropes podem ocorrer dessas formas

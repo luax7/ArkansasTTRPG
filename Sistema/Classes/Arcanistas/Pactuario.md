@@ -42,7 +42,10 @@ id: TrwS3ThkYV05GL_xMjuo4
 **Nivel 1**
 **Magias:**
 [[Brasa consumidora]]
+[[Chama persistente]]
 
+**Marca das cinzas**
+Ao causar dano com magias marca o inimigo com uma marca das cinzas. Ao conjurar magia contra esse inimigo causa mais um dado de dano.
 ===
 Nivel 2
 

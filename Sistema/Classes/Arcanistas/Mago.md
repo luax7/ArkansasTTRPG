@@ -4,7 +4,7 @@ Magos são especialistas no arcano, capazes de tanta destruição quanto consert
 | ----- | --------------------------- | ----------------- |
 | 1     | Talento, Conjuração         | 2                 |
 | 2     | Habilidade de arquetipo     | 3                 |
-| 3     | Talento, Habilidade de mago | 4                 |
+| 3     | Talento, Recuperar mana     | 4                 |
 | 4     | Aumento de habilidade       | 6                 |
 | 5     | Habilidade de arquetipo     | 6                 |
 | 6     | Habilidade de mago, Talento | 8                 |
@@ -39,7 +39,14 @@ id: XMq-dfUsFy8O8E1KlKFYS
 **Magia selvagem:** Ao conjurar uma magia, o mago pode gastar 2 pontos de mana para utilisar a tabela de magia selvagem. Esse efeito e limitado a uma vez por turno. ao utilisar essa habilidade, o proximo teste de conjuraçao recebe uma desvantagem de -2
 
 ```
+**Talento**
+No primeiro, terceiro e sexto nível, o personagem ganhar um talento da lista de [[Talentos]] disponíveis
 
+**Recuperar Mana**
+No terceiro nível o mago consegue se harmonizar com os pulsos de mana, e absorver 2d6 pontos de mana da atmosfera. essa característica pode ser utilizada uma vez por descanso curto.
+
+**Aumento de habilidade**
+No quarto nível o personagem recebe 2 pontos para distribuir entre os atributos, e 3 pontos para distribuir entre pericias
 # Tabela de magia selvagem
 
 | Resultado (d20) | Magia selvagem           | Efeito                                                                                       |

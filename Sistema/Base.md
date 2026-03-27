@@ -98,12 +98,12 @@ As quebras sintropes podem ocorrer dessas formas
 | 12              | Interferência Externa   | Outros conjuradores na cena recebem desvantagem nêmesis no próximo teste                                  |
 | 13              | Desalinhamento Espacial | desloca-se 3 metros na direção do alvo involuntariamente                                                  |
 | 14              | Cristalização Local     | -1 de agilidade ate o próximo turno, o terreno do conjurador se torna terreno difícil ate o final da cena |
-| 15              | Mutação Efêmera         | Ganha 1 de                                                                                                |
-| 16              |                         |                                                                                                           |
-| 17              |                         |                                                                                                           |
-| 18              |                         |                                                                                                           |
-| 19              |                         |                                                                                                           |
-| 20              |                         |                                                                                                           |
+| 15              | Mutação Efêmera         | Ganha 1 de vigor e perde 1 de presença ate o final da cena                                                |
+| 16              | Mutação Efêmera         | Ganha 1 de Agilidade e perde 1 de sintonia ate o final da cena                                            |
+| 17              | Ruptura de Forma        | área aumenta um nível ou um alvo, mas atinge aliados também                                               |
+| 18              | Sobrecarga Mental       | não pode usar pericias de intelecto por 1d4 turnos                                                        |
+| 19              | Refluxo arcano          | Não pode conjurar feitiços por 1d4 turnos                                                                 |
+| 20              | Evento Sintrope Crítico | mutação permanente leve                                                                                   |
 
 alternativamente, magias especiais podem ter quebras sintropes especiais
 ### Foco arcano

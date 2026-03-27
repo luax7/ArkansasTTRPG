@@ -20,6 +20,7 @@ Representa a capacidade física do personagem: resistência, força bruta, toler
 - **Resistência** → suportar dor, veneno, exaustão
 - **Intimidação Física** → ameaçar pela presença corporal
 - **Sobrevivência** → resistir ao ambiente (calor, fome, sede)
+- **Ataque físico** 
 
 ## Agilidade
 Define reflexos, coordenação motora, precisão e controle corporal fino.

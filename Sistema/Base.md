@@ -89,16 +89,30 @@ Perder pontos vitoriana se torna possível quando o próprio personagem cria um 
 # Sistema Sintrope
 O Sistema Sintrope se trata de um conjunto de sistematizações da magia para lidar com a instabilidade do arcano.
 ### Conjurando
-A ação de conjuração se da por um teste de Conjuração, com dificuldade especificada na magia.
+Um conjurador pode utilizar uma quantidade definida de mana para conjurar uma magia utilizando uma açao.
+Nesse caso
 Uma magia pode ter essas áreas de efeito:
 
-| Area     | Pequeno | Medio | Grande | Enorme |
-| -------- | ------- | ----- | ------ | ------ |
-| Circulo  |         |       |        |        |
-| Cone     |         |       |        |        |
-| Quadrado |         |       |        |        |
-| Raio     |         |       |        |        |
+| Area     | Pequeno | Medio | Grande | Gigante | Gargatuan |
+| -------- | ------- | ----- | ------ | ------- | --------- |
+| Circulo  |         |       |        |         |           |
+| Cone     |         |       |        |         |           |
+| Quadrado |         |       |        |         |           |
+| Raio     | -       | -     | -      | -       | -         |
+Uma magia, pode ter os seguintes alvos
 
+- Toque
+	Um toque direto entre o conjurador e alvo
+- Criatura
+	Uma criatura viva dentro do alcance da magia
+- Objeto
+	Um objeto especifico dentro do alcance da magia
+- Área
+	Uma área (Ditadas acima)
+
+
+### Modificadores
+Magias podem ter seu custo de mana aumentado 
 ### Quebra sintrope
 Uma quebra sintrope acontece quando uma magia e conjurada sem sucesso com uma diferença de 4 ou mais. as quebras sintropes servem como risco tático para a conjuração da magia
 As quebras sintropes podem ocorrer dessas formas

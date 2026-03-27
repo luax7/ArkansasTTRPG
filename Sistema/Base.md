@@ -115,6 +115,17 @@ Uma magia, pode ter os seguintes alvos
 	Um objeto especifico dentro do alcance da magia
 - Área
 	Uma área (Ditadas acima)
+### Componentes somáticos
+A maioria das magias possui componentes somáticos, especificados na magia. Eles podem se manifestar de 3 formas:
+- Material (M)
+	Itens específicos utilizados para a conjuração
+- Gesto(G)
+	Gestos com o corpo para ajudar nos cálculos mentais fisicamente, necessita pelo menos uma das mãos livres
+- Vocal
+	Uma fala padronizada ou individual do conjurador, o conjurador precisa poder falar pro componente ser possível
+
+> [!NOTE] Bolsa de componentes
+> Quando equipado com uma bolsa de componentes, o conjurador pode, alternativamente, utilizar dinheiro diretamente para o Componente somático de material
 
 ### Quebra sintrope
 Uma quebra sintrope acontece quando o resultado de um teste de conjuração e menor do que a dificuldade da magia (especificada para cada magia)

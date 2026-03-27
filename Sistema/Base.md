@@ -39,10 +39,10 @@ Alternativamente, os *ataques lendários* — Ataques com efeitos especiais ou �
 | ----------- | ----------- | ------------------- |
 | Indiferente | 4           | -2                  |
 | Facil       | 6           | -4                  |
-| Normal      | 8           |                     |
-| Dificil     | 10          |                     |
-| Impossivel  | 12          |                     |
-| Lendario    | 12+         |                     |
+| Normal      | 8           | -6                  |
+| Dificil     | 10          | -6                  |
+| Impossivel  | 12          | -6                  |
+| Lendario    | 12+         | -6                  |
 
 
 ### Nêmesis

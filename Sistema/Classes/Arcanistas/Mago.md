@@ -31,9 +31,10 @@ id: XMq-dfUsFy8O8E1KlKFYS
 
 ===
 **Tecelao do fluxo**
-Conjurar feitiços que causam efeitos positivos a aliados ou defensivos geram 
+**Proteçao dupla:** Conjurar feitiços que causam efeitos positivos a aliados ou defensivos geram pontos de vida temporarios igual ao modificador de sintonia
 ===
-Condutor sintrope
+**Condutor sintrope**
+**Magia selvagem:** A tabela de quebra sintrope e substituida pela tabela de magia selvagem disponivel no fim da classe. Os efeitos da tabela de magia selvagem podem ser utilizados uma vez por turno.
 
 ```
 

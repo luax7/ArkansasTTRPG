@@ -7,7 +7,7 @@ Magos são especialistas no arcano, capazes de tanta destruição quanto consert
 | 3     | Talento, Habilidade de mago | 4                 |
 | 4     | Aumento de habilidade       | 6                 |
 | 5     | Habilidade de arquetipo     | 6                 |
-| 6     | Habilidade de mago          | 8                 |
+| 6     | Habilidade de mago, Talento | 8                 |
 **Pontos de vida iniciais 14 + Vigor**
 *Pontos de vida nos próximos níveis 2+Vigor*
 **Mana Inicial 8+Sintonia**
@@ -17,7 +17,8 @@ Magos são especialistas no arcano, capazes de tanta destruição quanto consert
 
 ---
 **Talento**
-No primero, terceiro e sexto nivel, o personagem ganhar um talento da lista de [[Talentos]] disponiveis
+No primeiro, terceiro e sexto nível, o personagem ganhar um talento da lista de [[Talentos]] disponíveis
+
 **Conjuração** 
 No primeiro nível, o mago se torna capaz de conjurar feitiços simples para combate e fortalecimento.
 Atributo para conjuração : Sintonia

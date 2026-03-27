@@ -24,7 +24,9 @@ As vantagens são separadas em dois tipos:
 ### Desvantagem
 As desvantagens são expressas apenas em números fixos, diferentemente. Dessa forma, o numero mínimo de dados que podem ser rolados em um teste, se torna 2D6
 ### Acertos críticos
-Um acerto critico ocorre quando o resultado dos dois D6
+Um acerto critico ocorre quando o resultado de pelo menos dois D6 é 6
+Nesse caso, para testes de desafios comuns, e adicionado uma vantagem fixa de +6
+Similarmente,
 # Sistema Nêmesis
 O Sistema nêmesis se trata de uma serie de mecanismos para criar caos na historia através de vantagens e desvantagens mecânicas que o mestre atribui para as ameaças.
 O Sistema nêmesis, se trata de um motor narrativo, e não uma forma do mestre de punir um ou mais jogadores, e deve ser tratado dessa forma.

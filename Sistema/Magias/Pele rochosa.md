@@ -12,6 +12,10 @@ Dificuldade: Fácil, 6
 Caracteristicas:
   - Conjuraçao pesada
 Açao: Uma ação
+Componentes:
+  - G
+  - M
+  - V
 ---
 **Componentes**: Pó de rocha (10$) consumido
 ## Descrição

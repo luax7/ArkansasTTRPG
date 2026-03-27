@@ -39,7 +39,11 @@ id: ZWfQv0uOsUHjw9m162iyc
 O negociador se aprofunda na arte de convencer e persuadir outros
 
 **Psicanalise**
-Voce entende melhor a mente do oponente nas cenas de conflito social ( Ganha mais PV)
+Voce entende melhor a mente do oponent:
+- Sempre que o Socialite obtém sucesso em um teste de **Presença**:  
+    ganha **+1 PV adicional**
+- Se o sucesso for por **2 ou mais acima da dificuldade**:  
+    ganha **+2 PV ao invés de +1**
 
 **Golpe de reputaçao**
 Custo: 4 Pontos Vitoriana
@@ -57,7 +61,7 @@ No primeiro nível, o socialite conhece duas magias de tipo Encantamento
 ```
 ## Ataque Imbuído
 
-No terceiro nivel, Socialite aprende a converter influência em poder direto.
+No terceiro nível, Socialite aprende a converter influência em poder direto.
 Ao realizar um ataque, o socialite pode utilizar 3 PV, garantindo uma vantagem dinâmica no ataque ou garantindo +1 dado de dano
 
 ### Repressão violenta
@@ -67,7 +71,7 @@ Ao causar dano a um inimigo, o socialite recupera 1PV, se o ataque atingir mais 
 ### Aumento de habilidade
 No quarto nível o personagem recebe 2 pontos para distribuir entre os atributos, e 3 pontos para distribuir entre pericias
 
-### Habilidade de arquetipo
+### Habilidade de arquétipo
 ```columns
 id: lvl5-socialite-arquetipos
 ===
@@ -136,5 +140,5 @@ Sempre que o Socialite causar dano com magia de Encatamento ou ilusao:
 - −1 em testes  
 - Perde 1 reação
 
-Adicionalmente, ao gastar 4PM, o socialite pode causar d
+Adicionalmente, ao gastar 4PM, o socialite pode causar 2D8 De dano psicologico a qualquer inimigo afetado pela realidade imposta
 ```

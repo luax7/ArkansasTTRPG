@@ -9,6 +9,9 @@ Alvo: Uma localização
 Dificuldade: Fácil, 6
 Caracteristicas:
 Açao: Uma ação
+Componentes:
+  - M
+  - G
 ---
 **Componentes**: 20 Gramas de nitra (10$) consumido
 ## Descrição

@@ -4,6 +4,7 @@ Tipo: Evocação
 Componentes:
   - G
   - V
+  - M
 Duração: 1D4 turnos, Instantâneo
 alcance: 5 metros
 Alvo: Uma área

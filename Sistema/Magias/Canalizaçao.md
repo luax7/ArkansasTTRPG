@@ -11,6 +11,9 @@ Dificuldade: Fácil, 6
 Caracteristicas:
   - Conjuraçao pesada
 Açao: Uma ação
+Componentes:
+  - G
+  - V
 ---
 
 ## Descrição

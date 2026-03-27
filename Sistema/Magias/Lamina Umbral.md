@@ -14,6 +14,9 @@ Caracteristicas:
   - Linha 5 metros
   - Conjuraçao pesada
 Açao: Uma ação
+Componentes:
+  - G
+  - M
 ---
 **Componentes**: Uma lamina (Faca, espada ou similar) não consumido
 ## Descrição

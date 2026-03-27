@@ -89,8 +89,13 @@ Perder pontos vitoriana se torna possível quando o próprio personagem cria um 
 # Sistema Sintrope
 O Sistema Sintrope se trata de um conjunto de sistematizações da magia para lidar com a instabilidade do arcano.
 ### Conjurando
-Um conjurador pode utilizar uma quantidade definida de mana para conjurar uma magia utilizando uma açao.
-Nesse caso
+Um conjurador pode utilizar uma quantidade definida de mana para conjurar uma magia utilizando uma ação.
+Nesse caso, um teste de conjuração deve ser realizado contra a defesa do alvo, com sucesso, realizando a magia. 
+
+> [!NOTE] Características únicas
+> A magia pode ser selvagem. Muitas magias possuem dificuldades, efeitos, quebras e requisitos para conjuração únicos. Dessa forma, essas regras cobrem apenas o campo geral das magias
+
+
 Uma magia pode ter essas áreas de efeito:
 
 | Area     | Pequeno | Medio | Grande | Gigante | Gargatuan |
@@ -110,9 +115,8 @@ Uma magia, pode ter os seguintes alvos
 - Área
 	Uma área (Ditadas acima)
 
-
 ### Modificadores
-Magias podem ter seu custo de mana aumentado 
+Magias podem ter seu custo de mana aumentado com a intenção de aumentar seu dano, velocidade de conjuração, área e outras características, assim, tornando-a mais efetiva pra situação  
 ### Quebra sintrope
 Uma quebra sintrope acontece quando uma magia e conjurada sem sucesso com uma diferença de 4 ou mais. as quebras sintropes servem como risco tático para a conjuração da magia
 As quebras sintropes podem ocorrer dessas formas
@@ -150,7 +154,11 @@ Equipamentos especiais capazes de canalizar mana para ajudar conjuradores.
 | Tomo   | Diminui dificuldade de conjuração de magia |
 | Orbe   | Diminui o custo da magia                   |
 
-Esses efeitos são gerais. focos arcanos específicos podem ter efeitos específicos
+> [!NOTE] Artefatos: Focos arcanos
+> Esses efeitos são gerais. focos arcanos específicos podem ter efeitos específicos
+> Existem focos arcanos que podem ate mesmo con
+
+
 *Efeitos detalhados em [[Equipamentos]]* 
 ### Runas
 Runas são artefatos mágicos que armazenam efeitos ou feitiços.

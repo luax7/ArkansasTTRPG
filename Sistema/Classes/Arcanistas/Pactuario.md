@@ -33,7 +33,7 @@ Alem
 As entidades listadas a seguir são todas entidades de que de forma ou outra entraram em contato com a humanidade, e foram estudadas formas de utilizar de deu poder arcano para adquirir parte de sua capacidade arcana.
 ### Ignivar
 Ignivar, apelidado de patrono dos feiticeiros[^1] e uma entidade maligna em geral, normalmente pedindo a alma do alvo de seus feitiços ou a própria expectativa de vida do conjurador. 
-Feiticeiros contratantes de ignivar frequentemente q
+Feiticeiros contratantes de Ignivar frequentemente queixam de vozes, vultos e outras aparições perturbadoras em horas de conforto.
 ```columns
 id: TrwS3ThkYV05GL_xMjuo4
 ===
@@ -60,5 +60,23 @@ Nivel 2
 Nivel 3
 
 ```
+### Velkar
+Velkar e popularmente chamado de grande montanha, mostra um conhecimento vasto da sociedade humana e seus construtos, geralmente, oferece seus poderes em troca de devoção do conjurador em vida. Grande parte dos contratantes de Velkar são monges das montanhas, ou peregrinos da montanha[^2]
+```columns
+id: an5lTrzG9W5MHNjmfeC0D
+===
+Nivel 1
 
+===
+Nivel 2
+
+===
+Nivel 3
+
+```
+
+### Eidolon
+Eidolon e uma entidade conhecida por 
 [^1]: Feiticeiros são como normalmente são chamados Magiarcas que focam em feitiços de destruição em massa
+
+[^2]: Peregrinos das montanhas são um grupo pouco coeso de peregrinos que viajam pelo mundo buscando formas de espalhar a devoção de Velkar, além de se tornar mais fortes e resistentes

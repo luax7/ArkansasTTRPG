@@ -55,13 +55,66 @@ No segundo nível, o lutador se especializa em um estilo de luta, tomando uma fu
 id: BTvAYVZ9vpwXhkxYfFyY1
 ===
 **Duelista**
-
+**Ataque Provocante**  
+**Requisito:** Acertar um ataque corpo a corpo  
+**Custo:** 2 PM  
+  
+Ao acertar, o alvo deve realizar um teste de presença (DT padrão).  
+  
+Falha:  
+- O alvo fica **provocado** por você até o próximo turno  
+- Só pode te atacar ou sofrer −2 em qualquer outra ação  
+  
+---  
+  
+**Habilidade de Duelo**  
+Enquanto estiver engajado com apenas um inimigo:  
+  
+- Recebe +1 vantagem dinâmica em ataques  
+- +1 Defesa
 ===
 **Aniquilador**
-
+**Golpe de Impacto**  
+**Requisito:** Ataque corpo a corpo  
+**Custo:** 2 PM  
+  
+Ao acertar:  
+  
+- Causa +1 dado de dano  
+- Inimigos em até 1m do alvo devem passar em teste físico  
+- Falha: ficam **derrubados**  
+  
+---  
+  
+**Agarrão Brutal**  
+**Requisito:** Ataque corpo a corpo bem-sucedido  
+**Custo:** 2 PM  
+  
+O alvo fica **imobilizado**  
+  
+Enquanto estiver imobilizado:  
+- Sofre −2 em testes físicos  
+- Não pode se afastar
 ===
 **Guardiao**
-
+**Postura Fortificada**  
+**Ação leve**  
+**Custo:** 2 PM  
+  
+Até o próximo turno:  
+  
+- +3 Defesa  
+- Reduz todo dano recebido em 1  
+  
+---  
+  
+**Absorção Vital**  
+**Custo:** 2 PM (ao acertar ataque corpo a corpo)  
+  
+Ao causar dano:  
+  
+- Ganha PV temporário igual ao dano causado (máx: seu Vigor)  
+- Dura até o fim da cena
 ```
 
 

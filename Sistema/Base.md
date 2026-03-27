@@ -104,6 +104,8 @@ Uma magia pode ter essas áreas de efeito:
 | Cone     |         |       |        |         |           |
 | Quadrado |         |       |        |         |           |
 | Raio     | -       | -     | -      | -       | -         |
+Tamanho geral, magias podem ter tamanhos maiores ou menores que os tabelados
+
 Uma magia, pode ter os seguintes alvos
 
 - Toque
@@ -156,10 +158,9 @@ Equipamentos especiais capazes de canalizar mana para ajudar conjuradores.
 
 > [!NOTE] Artefatos: Focos arcanos
 > Esses efeitos são gerais. focos arcanos específicos podem ter efeitos específicos
-> Existem focos arcanos que podem ate mesmo con
+> Existem focos arcanos que podem ate mesmo conjurar feitiços em troca de um dado nemesis
+> *Efeitos detalhados em [[Equipamentos]]* 
 
-
-*Efeitos detalhados em [[Equipamentos]]* 
 ### Runas
 Runas são artefatos mágicos que armazenam efeitos ou feitiços.
 Em geral, runas ocupam duas categorias

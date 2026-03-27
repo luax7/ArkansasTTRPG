@@ -39,7 +39,9 @@ Feiticeiros contratantes de Ignivar frequentemente queixam de vozes, vultos e ou
 ```columns
 id: TrwS3ThkYV05GL_xMjuo4
 ===
-Nivel 1
+**Nivel 1**
+**Magias:**
+
 
 ===
 Nivel 2

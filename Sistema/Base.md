@@ -77,5 +77,6 @@ Para adquirir pontos vitoriana, em um conflito, basta o jogador criar situaçõe
 Perder pontos vitoriana se torna possível quando o próprio personagem cria um ponto valido que contraria o ponto do jogador, ou quando o jogador falha em uma rolagem para adquirir mais pontos vitoriana (Social Faux)
  
 # Sistema Sintrope
-O Sistema Sintrope se trata de um conjunto de sistematizações da magia do mundo. Ou seja, uma forma logica de tratar das adaptações, simbologias magicas para facilitar a criação de novos elementos e o entendimento desses elementos para os jogadores 
-### Conjuração
+O Sistema Sintrope se trata de um conjunto de sistematizações da magia para lidar com a instabilidade do arcano.
+### Quebra sintrope
+Uma quebra sintrope acontece quando uma magia e conjurada sem sucesso com uma diferença de 4 ou mais. as quebras sintropes servem como risco tático para a conjuração da magia

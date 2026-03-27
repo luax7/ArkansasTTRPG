@@ -126,7 +126,8 @@ A maioria das magias possui componentes somáticos, especificados na magia. Eles
 
 > [!NOTE] Bolsa de componentes
 > Quando equipado com uma bolsa de componentes, o conjurador pode, alternativamente, utilizar dinheiro diretamente para o Componente somático de material
-
+### Concentração
+Certas magias, podem ser sustentadas sem custos através dos turnos utilizando a ação concentrar. essa concentraçao dura
 ### Quebra sintrope
 Uma quebra sintrope acontece quando o resultado de um teste de conjuração e menor do que a dificuldade da magia (especificada para cada magia)
 As quebras sintropes podem ocorrer dessas formas

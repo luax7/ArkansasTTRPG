@@ -57,7 +57,7 @@ id: XXa5JvkwzwklBQ8kXAGPj
 **Descarga concentrada:** Ao usar essa habilidade o personagem pode conjurar um ataque com o dano dobrado. Ao utilizar essa habilidade, o jogador nao pode conjurar magias ate o proximo turno. Essa deve ser a primeira açao do turno.
 ===
 **Tecelao do fluxo**
-
+**Foco absoluto:** Consegue focar simultaneamente em duas magias 
 ===
 Column 3
 

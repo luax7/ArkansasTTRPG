@@ -47,7 +47,8 @@ Nivel 3
 
 ```
 ### Rytsu
-Rytsu e uma entidade focada em movimentação veloz e feitiços de controle de grupo
+Rytsu, a raposa do norte, tem seus poderes usados para furtividade, em em geral feiticeiros que utilizam das sombras como arma para abater seus inimigos
+Rytsu normalmente pede riquezas em troca de seu poder mas e comum a oferenda de expectativa de vida, ou almas. 
 ```columns
 id: 05WijviZ4n2KNxLsE3YEp
 ===
@@ -76,7 +77,21 @@ Nivel 3
 ```
 
 ### Eidolon
-Eidolon e uma entidade conhecida por 
+Eidolon e uma entidade conhecida como o escriba dos céus, seus poderes são focados em acumular magias, e outras ferramentas magicas capazes de melhorar o contato do conjurador com a magia. 
+Suas oferendas normalmente consistem em novos estudos da magia, além de riquezas e devoção ao caminho do escriba
+```columns
+id: 8MeEsufponT58J34wtMtZ
+===
+Nivel 1
+
+===
+Nivel 2
+
+===
+Nivel 3
+
+```
+
 [^1]: Feiticeiros são como normalmente são chamados Magiarcas que focam em feitiços de destruição em massa
 
 [^2]: Peregrinos das montanhas são um grupo pouco coeso de peregrinos que viajam pelo mundo buscando formas de espalhar a devoção de Velkar, além de se tornar mais fortes e resistentes

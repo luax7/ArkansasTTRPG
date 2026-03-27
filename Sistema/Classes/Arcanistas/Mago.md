@@ -47,6 +47,22 @@ No terceiro nível o mago consegue se harmonizar com os pulsos de mana, e absorv
 
 **Aumento de habilidade**
 No quarto nível o personagem recebe 2 pontos para distribuir entre os atributos, e 3 pontos para distribuir entre pericias
+
+**Habilidade de arquétipo**
+No quinto nível o mago recebe uma habilidade de arquétipo
+```columns
+id: XXa5JvkwzwklBQ8kXAGPj
+===
+**Canalizador da ruina**
+**Descarga concentrada:** Ao usar essa habilidade o personagem pode conjurar um ataque com o dano dobrado. Ao utilizar essa habilidade, o jogador nao pode conjurar magias ate o proximo turno. Essa deve ser a primeira açao do turno
+===
+Column 2
+
+===
+Column 3
+
+```
+
 # Tabela de magia selvagem
 
 | Resultado (d20) | Magia selvagem           | Efeito                                                                                       |

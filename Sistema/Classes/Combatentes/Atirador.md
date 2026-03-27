@@ -33,11 +33,13 @@ id: PeiPNQ5I7kkg5n6dcS9B_
 **Mira calma**
 Se o personagem nao se mover no turno, recebe uma vantagem dinamica para todos os testes de pontaria.
 **Ponto fraco**
-O franco atiraador consegue identificar pontos fracos apenas com experiencia 
+O franco atiraador consegue identificar pontos fracos apenas com experiencia, causando +1 dado de dano para ataques utilizando pontaria 
 ===
 **Pistoleiro**
 **Reflexos velozes**
 No turno do persoagem, se um ataque utilizando pontaria tiver sucesso, pode utilizar uma açao leve para realizar outro disparo com uma desvantagem nemesis
+**Silhueta baixa**
+Caso o jogador tenha se movido no turno, ao final do turno ele imediatamente recebe uma cobertura de 1/4
 ```
 ### Talento
 No terceiro nível, recebe um talento da lista de [[Talentos]]
@@ -59,5 +61,7 @@ Utiliza 6PM para focae em um tiro encantado capaz de destruir partes interas do 
 **Pistoleiro 
 Tiroteio frenetico**
 Pode realizar mais uma açao de ataque por turno
+**Bala de prata**
+Caso o atirador tenha acertado dois tiros ou mais no mesmo inimigo no turno ele pode utilizar 4PM e uma açao para realizar um tiro brutalizante em direçao ao inimigo, esse tiro possui +1 dado de dano
 
 ```

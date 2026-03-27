@@ -11,10 +11,10 @@ A quantidade de ações pode ser aumentada por talentos e habilidades de classe.
 Ações leves podem ser executadas sem custo uma vez por turno, após a primeira vez, elas custam uma ação normalmente.
 
 **Atacar**
-O personagem desfere um golpe fisico contra um inimigo utilizando sua arma equipada utilizando um teste de ==ataque fisico== contra a defesa do oponente
+O personagem desfere um golpe físico contra um inimigo utilizando sua arma equipada utilizando um teste de ==ataque físico== contra a defesa do oponente
 
 **Conjurar magia**
-Utilizando as regras do Sistema sintrope, o personagem conjura uma magia utilizando seu atributo de conjuraçao (Normalmente sintonia).
+Utilizando as regras do Sistema sintrope, o personagem conjura uma magia utilizando seu atributo de conjuração (Normalmente sintonia).
 
 **Movimentar**
 O personagem se movimenta uma quantidade de metros igual ao seu deslocamento
@@ -36,7 +36,7 @@ O personagem prepara uma ação com um gatilho definido. Caso o gatilho não sej
 Socorre uma criatura no campo de batalha realizando um teste de medicina[^2]
 
 **Agarrar**
-Com as duas mãos livres, o personagem tenta segurar um oponente, realizando um teste de força bruta contra o oponente. Ocupando ambas as mãos. Para o oponente se libertar, e necessário um teste de força bruta contra o teste inicial do personagem.
+Com as duas mãos livres, o personagem tenta segurar um oponente, realizando uma disputa[^5] de força bruta contra o oponente. Ocupando ambas as mãos. Para o oponente se libertar, e necessário um teste de força bruta contra o teste inicial do personagem.
 Nesse estado, nenhum dos dois personagens podem realizar ações que demandam as mãos.
 
 **Sacar/Guardar Item**
@@ -44,7 +44,7 @@ Alcança ou guarda algum item disponível no inventario.
 *Ação leve*
 
 **Derrubar**[^4]
-Derruba um oponente utilizando um teste de força bruta ou ataque físico.
+Derruba um oponente utilizando uma disputa[^5] de força bruta ou ataque físico.
 # Reações
 Reações são as formas que uma personagem pode reagir as ações sendo tomadas ao seu redor. Reações podem ser tomadas somente contra personagens nos quais o alvo esta engajado. Ou seja, ações de personagens invisíveis, ou escondidos não podem ser reagidas.
 Inicialmente, os personagens podem realizar duas reações por turno
@@ -77,3 +77,5 @@ Ao ser alvo de um ataque físico o bloqueia, recebendo metade do dano. aumentand
 [^3]: O Efeito de escondido e removido caso o inimigo tenha uma linha de visao direta do personagem, ou seja atacado.
 
 [^4]: Derrubado: Tem o deslocamento reduzido pela metade, desvantagens -4 para ataques.
+
+[^5]: Teste de dois personagens com um saindo vitorioso

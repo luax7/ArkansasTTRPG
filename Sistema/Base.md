@@ -15,9 +15,20 @@ Essas rolagens são utilizadas para realizar ações contra o ambiente, cada aç
 As rolagens somam com as características básicas do personagem como [[Atributos]], [Pericias](Atributos), [[Talentos]] e outras características de classe
 
 # Sistema Nêmesis
-O Sistema nêmesis se trata de uma serie de mecanismos para criar caos na historia através de vantagens e desvantagens mecânicas que o mestre atribui para as ameaças 
+O Sistema nêmesis se trata de uma serie de mecanismos para criar caos na historia através de vantagens e desvantagens mecânicas que o mestre atribui para as ameaças.
+O Sistema nêmesis, se trata de um motor narrativo, e não uma forma do mestre de punir os jogadores, e deve ser tratado dessa forma.
+### Dados nêmesis
+
 # Sistema Vitoriana
 O Sistema vitoriana se trata de um sistema para situações de negociação ou conflitos sociais em alto e baixo nível ( Baixo nível sendo entre indivíduos e alto entre organizações) 
 
+### O que e um conflito social
+
+### Pontos vitoriana
+
 # Sistema Sintrope
-O Sistema Sintrope se trata
+O Sistema Sintrope se trata de um conjunto de sistematizações da magia do mundo. Ou seja, uma forma logica de tratar das adaptações, simbologias magicas para facilitar a criação de novos elementos e o entendimento desses elementos para os jogadores 
+
+### Magias
+
+### Runas

@@ -4,9 +4,9 @@ Pactuários frequentemente fazem contratos para receber magia em troca de riquez
 
 | Nivel | Habilidade adquirida    | Contratos disponíveis | Magias conhecidas |
 | ----- | ----------------------- | --------------------- | ----------------- |
-| 1     | Talento,Conjuração      | 1                     | 2                 |
-| 2     | Contrato arcano         | 1                     | 2                 |
-| 3     | Talento,Contrato arcano | 2                     | 3                 |
+| 1     | Talento,Conjuração      | 1                     | 0                 |
+| 2     | Contrato arcano         | 1                     | 0                 |
+| 3     | Talento,Contrato arcano | 2                     | 2                 |
 | 4     | Aumento de habilidade   | 2                     | 3                 |
 | 5     | Contrato arcano         | 3                     | 4                 |
 | 6     | Talento                 | 3                     | 4                 |
@@ -27,7 +27,7 @@ Atributo para conjuração : Presença
 No primeiro nível, o pactuário conhece
 
 ***Contrato arcano***
-Alem 
+Além das magias conhecidas, o pactuário pode fazer contratos com entidades arcanas para adquirir novas magias e habilidades
 
 # Entidades para contrato
 As entidades listadas a seguir são todas entidades de que de forma ou outra entraram em contato com a humanidade, e foram estudadas formas de utilizar de deu poder arcano para adquirir parte de sua capacidade arcana.
@@ -38,7 +38,7 @@ Feiticeiros contratantes de Ignivar frequentemente queixam de vozes, vultos e ou
 id: TrwS3ThkYV05GL_xMjuo4
 ===
 Nivel 1
-Mago elemental: 
+
 ===
 Nivel 2
 
@@ -105,7 +105,22 @@ Nivel 2
 Nivel 3
 
 ```
+### Ortheon
+Ortheon e uma entidade guerreira, o foco de seus poderes e o controle da cena atraves de magias e habilidades de fortalecer o conjurador e seus aliados.
+Muitas vezes, Ortheon pede riquezas, equipamentos de guerreiros, ou a conduta de guerreiro de seus contratantes
 
+```columns
+id: 1gJD3NT3h0Kq5-pCbXImM
+===
+Nivel 1
+
+===
+Nivel 2
+
+===
+Nivel 3
+
+```
 
 [^1]: Feiticeiros são como normalmente são chamados Magiarcas que focam em feitiços de destruição em massa
 

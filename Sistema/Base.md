@@ -12,11 +12,16 @@ Essas rolagens são utilizadas para realizar ações contra o ambiente, cada aç
 | Impossivel  | 12      |
 | Lendario    | 12+     |
 
-As rolagens somam com as características básicas do personagem como [[Atributos]], [Pericias](Atributos), [[Talentos]] e outras características de classe
+As rolagens somam com as características básicas do personagem como [[Atributos]], [Pericias](Atributos.md), [[Talentos]] e outras características de classe
 
-### vantagens e desvantagens
-
-
+### Vantagem
+As vantagens são separadas em dois tipos:
+- Vantagem dinâmica
+	Ao receber uma vantagem dinâmica, o jogador adiciona um ou mais D6 ao próximo teste, sendo a quantidade especificada na fonte
+- Vantagem fixa
+	O Jogador recebe um adicional fixo para o próximo teste, sendo o adicional especificado na fonte da vantagem
+### Desvantagem
+As desvantagens são expressas apenas em números fixos, diferentemente. Dessa forma, o numero minimo de dados que podem ser rolados em um teste, se torna 2
 # Sistema Nêmesis
 O Sistema nêmesis se trata de uma serie de mecanismos para criar caos na historia através de vantagens e desvantagens mecânicas que o mestre atribui para as ameaças.
 O Sistema nêmesis, se trata de um motor narrativo, e não uma forma do mestre de punir um ou mais jogadores, e deve ser tratado dessa forma.

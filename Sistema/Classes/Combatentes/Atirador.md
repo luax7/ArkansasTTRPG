@@ -1,0 +1,1 @@
+Os atiradores compõem uma grande parte dos grupos de exploração, porem, não se pode considera-los ordinários. Com uma combinação de poder de fogo e experiencia, um bom a

@@ -15,6 +15,11 @@ Essas rolagens são utilizadas para realizar ações contra o ambiente, cada aç
 
 As rolagens somam com as características básicas do personagem como [[Atributos]], [Pericias](Atributos.md), [[Talentos]] e outras características de classe
 
+
+> [!NOTE] Criando personagens
+> Para começar a criação de um personagem, referir ao guia [[Criando um persongem]]
+
+
 ### Vantagem
 As vantagens são separadas em dois tipos:
 - Vantagem dinâmica

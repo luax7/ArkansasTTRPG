@@ -90,6 +90,7 @@ Perder pontos vitoriana se torna possível quando o próprio personagem cria um 
 
 # Sistema Sintrope
 O Sistema Sintrope se trata de um conjunto de sistematizações da magia para lidar com a instabilidade do arcano.
+Magias podem ser vistas em [[Magias.base]]
 ### Conjurando
 Um conjurador pode utilizar uma quantidade definida de mana para conjurar uma magia utilizando uma ação.
 Nesse caso, um teste de conjuração deve ser realizado contra a defesa do alvo, com sucesso, realizando a magia. 

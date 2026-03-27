@@ -37,6 +37,7 @@ O mestre pode narrar a cicatriz, ou ela pode ser escolhida aleatoriamente de uma
 Quando um personagem no estado morrendo se torna inconsciente ele realiza um teste de resistência **DT difícil**. Se o personagem falhar, ele morre no fim do seu próximo turno.
 # Defesa
 Defesa passiva contra ataques físicos. Qualquer ataque que tente acertar o personagem tem esse atributo como DT.
+A defesa inicial e definida como 7+Resistencia
 Equipamentos, características de classe e talentos afetam esse atributo
 
 # Iniciativa

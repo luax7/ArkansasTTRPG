@@ -45,6 +45,9 @@ Alcança ou guarda algum item disponível no inventario.
 
 **Derrubar**[^4]
 Derruba um oponente utilizando uma disputa[^5] de força bruta ou ataque físico.
+
+**Mirar** 
+O próximo ataque que utiliza pontaria ou destreza recebe uma vantagem dinâmica. o bônus da ação mirar dura ate o fim do próximo turno do personagem.
 # Reações
 Reações são as formas que uma personagem pode reagir as ações sendo tomadas ao seu redor. Reações podem ser tomadas somente contra personagens nos quais o alvo esta engajado. Ou seja, ações de personagens invisíveis, ou escondidos não podem ser reagidas.
 Inicialmente, os personagens podem realizar duas reações por turno

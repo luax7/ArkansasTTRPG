@@ -54,9 +54,9 @@ No quinto nível o mago recebe uma habilidade de arquétipo
 id: XXa5JvkwzwklBQ8kXAGPj
 ===
 **Canalizador da ruina**
-**Descarga concentrada:** Ao usar essa habilidade o personagem pode conjurar um ataque com o dano dobrado. Ao utilizar essa habilidade, o jogador nao pode conjurar magias ate o proximo turno. Essa deve ser a primeira açao do turno
+**Descarga concentrada:** Ao usar essa habilidade o personagem pode conjurar um ataque com o dano dobrado. Ao utilizar essa habilidade, o jogador nao pode conjurar magias ate o proximo turno. Essa deve ser a primeira açao do turno.
 ===
-Column 2
+**Tecelao do fluxo**
 
 ===
 Column 3

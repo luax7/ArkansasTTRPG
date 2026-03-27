@@ -29,7 +29,7 @@ Define reflexos, coordenação motora, precisão e controle corporal fino.
 - **Furtividade** → se esconder, mover sem ser visto
 - **Acrobacia** → esquiva, equilíbrio, movimentos complexos
 - **Reflexos** → reagir rapidamente a ameaças
-- **Prestidigitação** → movimentos finos (roubar, manipular objetos discretamente)
+- **Destreza** → movimentos finos (roubar, manipular objetos discretamente), utilizar armas especificas
 
 ## Intelecto
 Representa raciocínio lógico, conhecimento técnico, análise e capacidade de entender padrões.
@@ -39,7 +39,6 @@ Representa raciocínio lógico, conhecimento técnico, análise e capacidade de 
 - **Ciência** → conhecimento cientifico
 - **Engenharia** → construir, consertar, sabotar máquinas
 - **Perícia Forense** → analisar cenas de crime, causas de morte
-- **Criptografia** → decifrar códigos, mensagens e padrões ocultos
 - **Historia** → Conhecimentos gerais sobre historia
 
 ## Presença

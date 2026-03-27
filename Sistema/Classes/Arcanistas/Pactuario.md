@@ -66,13 +66,27 @@ Rytsu normalmente pede riquezas em troca de seu poder mas e comum a oferenda de 
 ```columns
 id: 05WijviZ4n2KNxLsE3YEp
 ===
-Nivel 1
+**Nivel 1
+Magias:**
+[[Lamina Umbral]]
+[[Passos nebulosos]]
+
+**Sombra Errante**  
+Você recebe +2 em testes de furtividade.  
+Pode se esconder como ação leve.
+===
+**Predador Invisível**  
+Ataques contra inimigos desprevenidos recebem:  
+- 1 vantagem dinâmica  
+- +1 Dado de efeito
 
 ===
-Nivel 2
-
-===
-Nivel 3
+**Dissolução Sombria**  
+*Reação*  
+  
+Ao ser alvo de ataque:  
+- Move 3m para um local com sombra  
+- Recebe +2 defesa contra esse ataque
 
 ```
 ### Velkar

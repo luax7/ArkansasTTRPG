@@ -22,3 +22,18 @@ No primeiro, terceiro e sexto nível, o personagem ganhar um talento da lista de
 **Conjuração** 
 No primeiro nível, o mago se torna capaz de conjurar feitiços simples para combate e fortalecimento.
 Atributo para conjuração : Sintonia
+
+```columns
+id: XMq-dfUsFy8O8E1KlKFYS
+===
+**Canalizador da ruina**
+**Magia melhorada** : Pode adicionar um modificador a conjuraçoes sem custo de magia adicional. O numero de modificadores aumenta conforme o mago progride
+
+===
+Tecelao do fluxo
+
+===
+Condutor sintrope
+
+```
+

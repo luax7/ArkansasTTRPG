@@ -73,7 +73,7 @@ Falha:
 Enquanto estiver engajado com apenas um inimigo:  
   
 - Recebe +1 vantagem dinâmica em ataques  
-- +1 Defesa
+- +2 Defesa
 ===
 **Aniquilador**
 **Golpe de Impacto**  
@@ -112,16 +112,33 @@ Até o próximo turno:
   
 **Absorção Vital**  
 **Custo:** 2 PM (ao acertar ataque corpo a corpo)  
-  
 Ao causar dano:  
-  
-- Ganha PV temporário igual ao dano causado (máx: seu Vigor)  
-- Dura até o fim da cena
+- Ganha PV temporário igual ao vigor
+- Dura ate o fim do turno
+- Pode ser utilizado tres vezes por descanso curto
+- Pode ser utilizado com um dado nemesis para curar duas vezes o vigor ao causar dano.
 ```
 ### **Talento**
 No primeiro, terceiro e sexto nível, o personagem ganhar um talento da lista de [[Talentos]] disponíveis
 
 ### Recuperação
-Uma vez por descanso curto
+Uma vez por descanso curto o lutador pode recuperar uma quantidade de D6 igual ao nível de lutador de vida.
+
+### Aumento de habilidade
+No quarto nível o personagem recebe 2 pontos para distribuir entre os atributos, e 3 pontos para distribuir entre pericias
+
+```columns
+id: 7RkaRyvVGFX2Ik98NZZyw
+===
+**Duelista**
+
+===
+Column 2
+
+===
+Column 3
+
+```
+
 
 [^1]: Disputas sao testes realizados entre dois personagens com intençao de um vencedor conseguir alguma vantagem tatica

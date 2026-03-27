@@ -82,28 +82,28 @@ O Sistema Sintrope se trata de um conjunto de sistematizações da magia para li
 Uma quebra sintrope acontece quando uma magia e conjurada sem sucesso com uma diferença de 4 ou mais. as quebras sintropes servem como risco tático para a conjuração da magia
 As quebras sintropes podem ocorrer dessas formas
 
-| Resultado (d20) | Efeito                  | Descrição                                                                          |
-| --------------- | ----------------------- | ---------------------------------------------------------------------------------- |
-| 1               | Descarga nervosa        | Sofre 1 de dano, e recebe -1 no proximo teste                                      |
-| 2               | Eco de Mana             | O custo                                                                            |
-| 3               | Distorção Sensorial     | Desvantagem nêmesis no próximo teste de percepção                                  |
-| 4               | Fluxo Reverso           | Metade da duraçao de qualquer efeito, e metade do dano e aplicado ao conjurador    |
-| 5               | Vazamento Arcano        | Aquece a área ao redor do conjurador, ateando fogo em objetos inflamáveis ao redor |
-| 6               | Tremor Sintrope         | não pode usar vantagem dinâmica no próximo teste                                   |
-| 7               | Marca Arcana Temporária | +1 em magia, mas −1 social até desaparecer ate o final da próxima cena             |
-| 8               | Ruído Dimensional       | Todos os arcanistas na área percebem a magia                                       |
-| 9               | Desalinhamento Espacial | desloca-se 3 metros na direção contraria do alvo involuntariamente                 |
-| 10              | Sobrecarga do Foco      | Perde os efeitos do foco arcano ate o final do próximo turno                       |
-| 11              | Manifestação Parcial    | efeito ocorre, mas com duração e dano pela metade                                  |
-| 12              | Interferência Externa   | Outros conjuradores na cena recebem desvantagem nêmesis no próximo teste           |
-| 13              | Desalinhamento Espacial | desloca-se 3 metros na direção do alvo involuntariamente                           |
-| 14              | Cristalização Local     | -1 de agilidade                                                                    |
-| 15              |                         |                                                                                    |
-| 16              |                         |                                                                                    |
-| 17              |                         |                                                                                    |
-| 18              |                         |                                                                                    |
-| 19              |                         |                                                                                    |
-| 20              |                         |                                                                                    |
+| Resultado (d20) | Efeito                  | Descrição                                                                                                 |
+| --------------- | ----------------------- | --------------------------------------------------------------------------------------------------------- |
+| 1               | Descarga nervosa        | Sofre 1 de dano, e recebe -1 no proximo teste                                                             |
+| 2               | Eco de Mana             | O custo                                                                                                   |
+| 3               | Distorção Sensorial     | Desvantagem nêmesis no próximo teste de percepção                                                         |
+| 4               | Fluxo Reverso           | Metade da duraçao de qualquer efeito, e metade do dano e aplicado ao conjurador                           |
+| 5               | Vazamento Arcano        | Aquece a área ao redor do conjurador, ateando fogo em objetos inflamáveis ao redor                        |
+| 6               | Tremor Sintrope         | não pode usar vantagem dinâmica no próximo teste                                                          |
+| 7               | Marca Arcana Temporária | +1 em magia, mas −1 social até desaparecer ate o final da próxima cena                                    |
+| 8               | Ruído Dimensional       | Todos os arcanistas na área percebem a magia                                                              |
+| 9               | Desalinhamento Espacial | desloca-se 3 metros na direção contraria do alvo involuntariamente                                        |
+| 10              | Sobrecarga do Foco      | Perde os efeitos do foco arcano ate o final do próximo turno                                              |
+| 11              | Manifestação Parcial    | efeito ocorre, mas com duração e dano pela metade                                                         |
+| 12              | Interferência Externa   | Outros conjuradores na cena recebem desvantagem nêmesis no próximo teste                                  |
+| 13              | Desalinhamento Espacial | desloca-se 3 metros na direção do alvo involuntariamente                                                  |
+| 14              | Cristalização Local     | -1 de agilidade ate o próximo turno, o terreno do conjurador se torna terreno difícil ate o final da cena |
+| 15              | Mutação Efêmera         | Ganha 1 de                                                                                                |
+| 16              |                         |                                                                                                           |
+| 17              |                         |                                                                                                           |
+| 18              |                         |                                                                                                           |
+| 19              |                         |                                                                                                           |
+| 20              |                         |                                                                                                           |
 
 alternativamente, magias especiais podem ter quebras sintropes especiais
 ### Foco arcano

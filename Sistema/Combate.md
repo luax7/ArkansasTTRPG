@@ -6,9 +6,9 @@ A iniciativa, primordialmente, e igual ao atributo de agilidade do personagem.
 A ordem de combate e decidida primeiramente por ações posteriores (Ex: emboscadas) em seguida pela iniciativa (1 de iniciativa sempre joga primeiro que 0 de iniciativa) e depois, o desempate e decidido por um teste de [Reflexo](Atributos).
 
 # Ações
-No inicio do turno de um personagem, ele possui um numero de ações (normalmente 3) e uma ação leve. essas ações permitem que o personagem interaja, ataque, movimente, entre outros.
+No inicio do turno de um personagem, ele possui um numero de ações (normalmente 3). essas ações permitem que o personagem interaja, ataque, movimente, entre outros.
 A quantidade de ações pode ser aumentada por talentos e habilidades de classe.
-Açoes leves podem ser executadas sem custo uma vez por turno
+Ações leves podem ser executadas sem custo uma vez por turno, após a primeira vez, elas custam uma ação normalmente.
 ```columns
 id: X_8-naofVF-ogeRWJRhqS
 ===
@@ -34,11 +34,25 @@ id: zsE5eRXwQU4OXrmOzVW5h
 **Esconder**
 O personagem se esconde atras de algum objeto em sua redondeza para adquirir vantagens taticas. Realizando um teste de ==furtividade== contra a percepçao dos inimigos
 
+> [!NOTE] Estado: Escondido
+> O estado de escondido termina caso o personagem ataque, seja visto diretamente ou detectado através de magia
 ===
 **Tomar cobertura**
 O Personagem toma cobertura atras de algum objeto proximo para se defender. O nivel de cobertura depende do objeto
 *Açao leve*
 ```
+```columns
+id: Jt-Gfk-fk1JnTyhoTUlE_
+===
+**Preparar**
+O personagem prepara uma açao com um gatilho definido. Caso o gatilho nao seja ativado ate o proximo turno, a açao e perdida. 
+===
+**Primeiros socorros**
+Socorre uma criatura utilizando as regras "Curando aliados em combate"
+```
+
+
+
 
 # Reações 
 Reações são as formas que uma personagem pode reagir as ações sendo tomadas ao seu redor. Reações podem ser tomadas somente contra personagens nos quais o alvo esta engajado. Ou seja, ações de personagens invisíveis, ou escondidos não podem ser reagidas.

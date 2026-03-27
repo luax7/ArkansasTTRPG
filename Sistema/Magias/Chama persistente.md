@@ -13,7 +13,7 @@ Caracteristicas:
 Açao: Uma ação
 ---
 ## Descrição
-Conjura chamas vermelhas no corpo de um inimigo, causando 2D6 de dano de fogo
+Conjura um campo de chamas em forma de um circulo 3x3 causa 1D8 de dano 
 ### Conjuração leve
 Custo : 0
 Conjura pequenas chamas no inimigo, causando 1D6 de dano de fogo

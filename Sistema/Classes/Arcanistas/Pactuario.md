@@ -41,7 +41,7 @@ id: TrwS3ThkYV05GL_xMjuo4
 ===
 **Nivel 1**
 **Magias:**
-
+[[Brasa consumidora]]
 
 ===
 Nivel 2

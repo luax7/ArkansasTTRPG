@@ -127,6 +127,8 @@ Uma vez por descanso curto o lutador pode recuperar uma quantidade de D6 igual a
 ### Aumento de habilidade
 No quarto nível o personagem recebe 2 pontos para distribuir entre os atributos, e 3 pontos para distribuir entre pericias
 
+### Habilidade de arquétipo
+No Quinto nível, o lutador se aprofunda no estilo de luta escolhido se tornando um oponente formidável.
 ```columns
 id: 7RkaRyvVGFX2Ik98NZZyw
 ===
@@ -192,6 +194,7 @@ Por 2 turnos:
 - Sempre que você ganhar PV temporário por **Absorção Vital**,  
 - um aliado a até 2m recebe metade desse valor
 ```
-
+### **Talento**
+No primeiro, terceiro e sexto nível, o personagem ganhar um talento da lista de [[Talentos]] disponíveis
 
 [^1]: Disputas sao testes realizados entre dois personagens com intençao de um vencedor conseguir alguma vantagem tatica

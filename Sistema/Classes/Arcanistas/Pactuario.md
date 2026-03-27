@@ -11,9 +11,9 @@ Pactuários frequentemente fazem contratos para receber magia em troca de riquez
 | 5     | Contrato arcano         | 3                     | 3                 |
 | 6     | Talento                 | 3                     | 4                 |
 **Pontos de vida iniciais 10 + Vigor**
-*Pontos de vida nos próximos níveis 2+Vigor*
+*Pontos de vida nos próximos níveis 4+Vigor*
 **Mana Inicial 8+Sintonia**
-*Pontos de vida nos próximos níveis 2+Sintonia*
+*Pontos de vida nos próximos níveis 3+Sintonia*
 
 **Pericias:** Negociação
 

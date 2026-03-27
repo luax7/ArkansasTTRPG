@@ -9,9 +9,9 @@ Magos são especialistas no arcano, capazes de tanta destruição quanto consert
 | 5     | Habilidade de arquetipo                        | 6                 |
 | 6     | Talento                                        | 8                 |
 **Pontos de vida iniciais 8 + Vigor**
-*Pontos de vida nos próximos níveis 2+Vigor*
+*Pontos de vida nos próximos níveis 4+Vigor*
 **Mana Inicial 8+Sintonia**
-*Pontos de vida nos próximos níveis 3+Sintonia*
+*Pontos de vida nos próximos níveis 4+Sintonia*
 
 **Pericias**: Conjuração 
 

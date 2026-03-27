@@ -52,8 +52,10 @@ id: 8aiEuUFAh9oDfr8kuc8vM
 ===
 **Franco atirador
 Tiro debilitante**
-Utiliza 6PM para focae em um tiro encantado capaz de destruir partes interas do corpo de um alvo. Esse tiro tem +2 dados de dano, e reduz as açoes do alvo em 1(Minimo )
+Utiliza 6PM para focae em um tiro encantado capaz de destruir partes interas do corpo de um alvo. Esse tiro tem +2 dados de dano, e reduz as açoes do alvo em 1(Minimo de 1).
 ===
-Column 2
+**Pistoleiro 
+Tiroteio frenetico**
+Pode realizar mais uma açao de ataque por turno
 
 ```

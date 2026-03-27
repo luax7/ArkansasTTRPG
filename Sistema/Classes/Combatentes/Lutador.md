@@ -16,3 +16,21 @@ Lutadores compõem a principal linha de frente contra as ameaças para o grupo. 
 **Pericias:** Ataque físico
 
 ---
+### Combate marcial
+Com muita experiencia e talento, o lutador se acostumou aos costumes de batalha e se especializou. dessa forma, ele pode escolher duas manobras que ele pode executar de acordo com os requisitos
+```columns
+id: kxqVtOnOqIbhtD0OYGJmH
+===
+**Desarmar**
+Custo: 2PM, Uma açao
+Realiza uma manobra que desarma o inimigo baseado em uma disputa[^1]
+===
+Column 2
+
+===
+Column 3
+
+```
+
+
+[^1]: Disputas sao testes realizados entre dois personagens com intençao de um vencedor 

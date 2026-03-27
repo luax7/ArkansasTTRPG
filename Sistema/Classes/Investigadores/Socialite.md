@@ -14,8 +14,8 @@ Ele é a única classe capaz de **reter Pontos Vitoriana após o fim de um confl
 
 **Pontos de vida iniciais 10 + Vigor**
 *Pontos de vida nos próximos níveis 4+Vigor*
-**Mana Inicial 8+Sintonia**
-*Pontos de vida nos próximos níveis 4+Sintonia*
+**Mana Inicial 8+Presença**
+*Pontos de vida nos próximos níveis 2+Presença*
 
 **Pericia:** Persuasão
 
@@ -31,6 +31,7 @@ O Socialite domina conflitos sociais como ninguém.
 - Pode identificar a **resistência social aproximada** de um alvo (Fraco, Médio, Forte, etc.)
 
 ### Habilidade de arquétipo
+No segundo nivel, o socialite começa a , 
 ```columns
 id: ZWfQv0uOsUHjw9m162iyc
 ===
@@ -38,7 +39,13 @@ id: ZWfQv0uOsUHjw9m162iyc
 O negociador se aprofunda na arte de convencer e persuadir outros
 
 **Psicanalise**
+Voce entende melhor a mente do oponente nas cenas de conflito social
+
+**Golpe de reputaçao**
+O negociador utilisa sua postura social 
 ===
-Column 2
+**Marionetista**
+As palavras do Socialite e a mana começam a se entrelaçar, frases sao ordem, ordens sao motivo
+
 
 ```

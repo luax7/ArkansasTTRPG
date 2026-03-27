@@ -24,7 +24,7 @@ No primeiro, terceiro e sexto nível, o personagem ganhar um talento da lista de
 **Conjuração** 
 No primeiro nível, o mago se torna capaz de conjurar feitiços simples para combate e fortalecimento.
 Atributo para conjuração : Presença
-No primeiro nível, o pactuário conhece
+No primeiro nível, o pactuário conhece 1 magia
 
 ***Contrato arcano***
 Além das magias conhecidas, o pactuário pode fazer contratos com entidades arcanas para adquirir novas magias e habilidades. As entidades e suas habilidades são detalhadas no fim do documento.

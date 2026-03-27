@@ -1,3 +1,5 @@
+A base fundamental do sistema Arkansas se trata de entender que o sistema não e feito para definir mecânicas pesadas para os jogadores, mas sim para criar uma base narrativa e investigativa para a mesa, dessa forma, e encorajado a adaptação do sistema para cada mesa e personagem individual 
+
 Arkansas funciona com base em 2D6. Essa decisão foi feita pra criar maior consistência nas rolagens ( Tendencia a rolagens medias ) 
 
 Essas rolagens são utilizadas para realizar ações contra o ambiente, cada ação tem sua dificuldade
@@ -21,7 +23,7 @@ As vantagens são separadas em dois tipos:
 - Vantagem fixa
 	O Jogador recebe um adicional fixo para o próximo teste, sendo o adicional especificado na fonte da vantagem
 ### Desvantagem
-As desvantagens são expressas apenas em números fixos, diferentemente. Dessa forma, o numero minimo de dados que podem ser rolados em um teste, se torna 2
+As desvantagens são expressas apenas em números fixos, diferentemente. Dessa forma, o numero mínimo de dados que podem ser rolados em um teste, se torna 2D6
 # Sistema Nêmesis
 O Sistema nêmesis se trata de uma serie de mecanismos para criar caos na historia através de vantagens e desvantagens mecânicas que o mestre atribui para as ameaças.
 O Sistema nêmesis, se trata de um motor narrativo, e não uma forma do mestre de punir um ou mais jogadores, e deve ser tratado dessa forma.
@@ -39,8 +41,12 @@ O Sistema vitoriana se trata de um sistema para situações de negociação ou c
 ### O que e um conflito social
 Um conflito social se trata de qualquer interação entre um jogador e um personagem não jogável no qual o jogador antagoniza o personagem através de interrogações, barganhas ou qualquer atividade similar
 ### Pontos vitoriana
-No inicio de um conflito
+No inicio de um conflito social, o jogador recebe um total de pontos Vitoriana igual o seu atributo **Presença**.
+Os pontos vitoriana podem ser utilizados para concluir o conflito
 
+### Adquirindo mais pontos vitoriana
+
+ 
 # Sistema Sintrope
 O Sistema Sintrope se trata de um conjunto de sistematizações da magia do mundo. Ou seja, uma forma logica de tratar das adaptações, simbologias magicas para facilitar a criação de novos elementos e o entendimento desses elementos para os jogadores 
 

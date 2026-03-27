@@ -33,6 +33,8 @@ O limiar do acerto critico pode ser alterado por armas, talentos ou habilidades 
 Uma falha critica ocorre quando o resultado de dois D6 é 1. Falhas criticas não são consideradas quando existe uma vantagem dinâmica para o teste.
 Quando uma falha critica ocorre em um teste comum, o teste pode ser bloqueado permanentemente, ou podem haver danos ao personagem.
 Uma falha critica no combate entrega o efeito "Falha catastrófica" ao personagem, que remove uma ação máxima para o personagem no fim do próximo turno
+
+
 # Sistema Nêmesis
 O Sistema nêmesis se trata de uma serie de mecanismos para criar caos na historia através de vantagens e desvantagens mecânicas que o mestre atribui para as ameaças.
 O Sistema nêmesis, se trata de um motor narrativo, e não uma forma do mestre de punir um ou mais jogadores, e deve ser tratado dessa forma.
@@ -85,7 +87,7 @@ Para adquirir pontos vitoriana, em um conflito, basta o jogador criar situaçõe
 
 ### Perdendo pontos vitoriana
 Perder pontos vitoriana se torna possível quando o próprio personagem cria um ponto valido que contraria o ponto do jogador, ou quando o jogador falha em uma rolagem para adquirir mais pontos vitoriana (Social Faux)
- 
+
 # Sistema Sintrope
 O Sistema Sintrope se trata de um conjunto de sistematizações da magia para lidar com a instabilidade do arcano.
 ### Conjurando

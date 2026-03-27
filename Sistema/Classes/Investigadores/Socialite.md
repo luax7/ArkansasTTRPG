@@ -31,7 +31,7 @@ O Socialite domina conflitos sociais como ninguém.
 - Pode identificar a **resistência social aproximada** de um alvo (Fraco, Médio, Forte, etc.)
 
 ### Habilidade de arquétipo
-No segundo nivel, o socialite começa a , 
+No segundo nível, o socialite começa a , inconscientemente utilizar mana para reforçar suas capacidades de socialização e combate.
 ```columns
 id: ZWfQv0uOsUHjw9m162iyc
 ===
@@ -39,13 +39,19 @@ id: ZWfQv0uOsUHjw9m162iyc
 O negociador se aprofunda na arte de convencer e persuadir outros
 
 **Psicanalise**
-Voce entende melhor a mente do oponente nas cenas de conflito social
+Voce entende melhor a mente do oponente nas cenas de conflito social ( Ganha mais PV)
 
 **Golpe de reputaçao**
-O negociador utilisa sua postura social 
+Custo: 4 Pontos Vitoriana
+O negociador utiliza sua postura social para criar pressao sobre um inimigo realizando um teste de intimidaçao contra postura do adversario.
+Caso o adversario falhe, ele se torna incapaz de atacar o socialite e o socialite recebe vantagem em quaisquer ataques contra o inimigo afetado
+
 ===
 **Marionetista**
 As palavras do Socialite e a mana começam a se entrelaçar, frases sao ordem, ordens sao motivo
 
-
+**Conjuração** 
+No segundo nível, o socialite se torna capaz de conjurar feitiços simples para combate e fortalecimento.
+Atributo para conjuração : Presença
+No primeiro nível, o socialite conhece duas magias de tipo Encantamento
 ```

@@ -12,3 +12,5 @@ Segundo, distribuir os atributos assim como especificado em [[Atributos]]
 Os atributos secundários, são definidos na nota [[Outras características de personagem]]
 Em terceiro lugar, os talentos podem ser escolhidos da lista [[Talentos]] (Desenvolver os próprios talentos para começar o personagem enquanto o sistema avança)
 Arquétipos e contratos são escolhidos de acordo com as especificações da classe
+
+### Voltar a [[_fit/Sistema/Base|Base]]

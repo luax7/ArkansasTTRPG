@@ -154,10 +154,43 @@ Quando um inimigo provocado por você te ataca:
 ---
 ===
 **Aniquilador**
-
+**Ruptura de Linha**  
+**Ação – Custo: 3 PM**  
+  
+Avança até 3m em linha reta, atravessando inimigos.  
+  
+- Realiza um ataque contra cada inimigo no caminho  
+- Em acerto:  
+- Causa dano normal  
+- Pode derrubar  
+  
+---  
+  
+**Massacre Controlado**  
+  
+Sempre que você derrubar ou imobilizar um inimigo:  
+  
+- Pode causar +1 dado de dano no proximo ataque
+- 1 vez por turno  
+  
+---
 ===
-Column 3
-
+**Guardiao**
+**Fortaleza Inabalável**  
+Enquanto estiver sob efeito de **Postura Fortificada**:  
+  
+- Redução de dano aumenta para 2  
+- Aliados adjacentes recebem +2 Defesa  
+  
+---  
+  
+**Vínculo Vital**  
+**Ação leve – Custo: 3 PM**  
+  
+Por 2 turnos:  
+  
+- Sempre que você ganhar PV temporário por **Absorção Vital**,  
+- um aliado a até 2m recebe metade desse valor
 ```
 
 

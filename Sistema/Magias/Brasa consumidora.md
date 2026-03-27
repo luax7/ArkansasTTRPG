@@ -1,5 +1,5 @@
 ---
-custo: 2
+custo: 4
 Tipo: Evocação
 Componentes:
   - G
@@ -15,5 +15,5 @@ Açao: Uma ação
 ## Descrição
 Conjura chamas vermelhas no corpo de um inimigo, causando 2D6 de dano de fogo
 ### Conjuração leve
-Custo : 0
+Custo : 2
 Conjura pequenas chamas no inimigo, causando 1D6 de dano de fogo

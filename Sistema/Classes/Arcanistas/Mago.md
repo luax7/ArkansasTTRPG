@@ -11,7 +11,7 @@ Magos são especialistas no arcano, capazes de tanta destruição quanto consert
 **Pontos de vida iniciais 14 + Vigor**
 *Pontos de vida nos próximos níveis 2+Vigor*
 **Mana Inicial 8+Sintonia**
-*Pontos de vida nos próximos níveis 4+Sintonia*
+*Pontos de vida nos próximos níveis 3+Sintonia*
 
 **Pericias**: Conjuração 
 
@@ -39,7 +39,19 @@ id: XMq-dfUsFy8O8E1KlKFYS
 **Magia selvagem:** Ao conjurar uma magia, o mago pode gastar 2 pontos de mana para utilisar a tabela de magia selvagem. Esse efeito e limitado a uma vez por turno.
 ```
 **Modificador de magias**
-No segundo nível, o mago aprende a modificar a potencia e área 
+No segundo nível, o mago aprende a modificar a potencia dos seus feitiços utilizando variações na canalização 
+Ao conjurar uma magia, e possível aumentar dados de efeito de acordo com a seguinte tabela
+
+| Dado efeito | Custo de mana |
+| ----------- | ------------- |
+| d4          | +1            |
+| d6          | +3            |
+| d8          | +5            |
+| d10         | +6            |
+| d12         | +8            |
+
+da mesma forma, pode ser aumentada a duração máxima de uma magia.
+
 **Talento**
 No primeiro, terceiro e sexto nível, o personagem ganhar um talento da lista de [[Talentos]] disponíveis
 

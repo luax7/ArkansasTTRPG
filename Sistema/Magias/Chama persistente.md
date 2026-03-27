@@ -1,5 +1,5 @@
 ---
-custo: 3
+custo: 5
 Tipo: Evocação
 Componentes:
   - G

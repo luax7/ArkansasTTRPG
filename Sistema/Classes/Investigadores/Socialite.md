@@ -66,3 +66,75 @@ Ao causar dano a um inimigo, o socialite recupera 1PV, se o ataque atingir mais 
 
 ### Aumento de habilidade
 No quarto nível o personagem recebe 2 pontos para distribuir entre os atributos, e 3 pontos para distribuir entre pericias
+
+### Habilidade de arquetipo
+```columns
+id: lvl5-socialite-arquetipos
+===
+**Negociador**
+
+O negociador atinge o auge da pressão social, onde suas palavras deixam de ser discutidas — e passam a ser aceitas.
+
+**Pressão Irrefutável**
+
+Custo: 5 Pontos Vitoriana  
+Ação: 2 ações  
+
+O Socialite impõe sua presença sobre um alvo.
+
+Teste: Presença vs Presença do alvo
+
+**Sucesso:**
+Escolha um efeito:
+
+- O alvo não pode atacar o Socialite por 2 turnos  
+- O alvo sofre −2 em todos os testes por 2 turnos  
+- O alvo é forçado a focar suas ações no Socialite  
+
+**Sucesso crítico:**
+Aplica dois efeitos simultaneamente
+---
+
+**Colapso Social**
+Sempre que um inimigo:
+- Falhar um teste contra o Socialite  
+- Sofrer um efeito negativo causado pelo socialite  
+
+→ O Socialite ganha +1 PV  
+
+Limite: 2 PV por turno
+
+===
+**Marionetista**
+
+O Marionetista ultrapassa a barreira entre linguagem e realidade. Suas palavras não convencem — elas **reescrevem comportamento**.
+
+**Lei Verbal**
+
+Custo: 5 Pontos Vitoriana + 2 Mana  
+Ação: Uma açao
+O Socialite pronuncia uma ordem absoluta.
+Teste: Conjuração (Presença) vs Postura
+**Sucesso:**
+O alvo deve cumprir uma ordem simples no próximo turno:
+
+- “Ataque seu aliado”
+- “Fique imóvel”
+- “Ajoelhe-se”
+- “Largue sua arma”
+
+**Restrições:**
+- Não pode forçar suicídio direto  
+
+---
+
+**Realidade Imposta**
+Sempre que o Socialite causar dano com magia de Encatamento ou ilusao:
+→ Pode gastar 1 PV para aplicar um efeito adicional ate o fim do proximo turno do socialite:
+
+- −1 Defesa  
+- −1 em testes  
+- Perde 1 reação
+
+Adicionalmente, ao gastar 4PM, o socialite pode causar d
+```

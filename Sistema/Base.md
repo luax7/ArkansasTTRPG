@@ -82,28 +82,28 @@ O Sistema Sintrope se trata de um conjunto de sistematizações da magia para li
 Uma quebra sintrope acontece quando uma magia e conjurada sem sucesso com uma diferença de 4 ou mais. as quebras sintropes servem como risco tático para a conjuração da magia
 As quebras sintropes podem ocorrer dessas formas
 
-| Resultado (d20) | Efeito           | Descrição |
-| --------------- | ---------------- | --------- |
-| 1               | Descarga nervosa |           |
-| 2               | Eco de Mana      |           |
-| 3               |                  |           |
-| 4               |                  |           |
-| 5               |                  |           |
-| 6               |                  |           |
-| 7               |                  |           |
-| 8               |                  |           |
-| 9               |                  |           |
-| 10              |                  |           |
-| 11              |                  |           |
-| 12              |                  |           |
-| 13              |                  |           |
-| 14              |                  |           |
-| 15              |                  |           |
-| 16              |                  |           |
-| 17              |                  |           |
-| 18              |                  |           |
-| 19              |                  |           |
-| 20              |                  |           |
+| Resultado (d20) | Efeito                  | Descrição                                                                          |
+| --------------- | ----------------------- | ---------------------------------------------------------------------------------- |
+| 1               | Descarga nervosa        | Sofre 1 de dano, e recebe -1 no proximo teste                                      |
+| 2               | Eco de Mana             | O custo                                                                            |
+| 3               | Distorção Sensorial     | Desvantagem nêmesis no próximo teste de percepção                                  |
+| 4               | Fluxo Reverso           | Metade da duraçao de qualquer efeito, e metade do dano e aplicado ao conjurador    |
+| 5               | Vazamento Arcano        | Aquece a área ao redor do conjurador, ateando fogo em objetos inflamáveis ao redor |
+| 6               | Tremor Sintrope         | não pode usar vantagem dinâmica no próximo teste                                   |
+| 7               | Marca Arcana Temporária | +1 em magia, mas −1 social até desaparecer ate o final da próxima cena             |
+| 8               | Ruído Dimensional       | A magia ocorre normalmente. Todos os arcanistas na área percebem a magia           |
+| 9               | Desalinhamento Espacial | desloca-se alguns metros na direçao contraria do alvo involuntariamente            |
+| 10              |                         |                                                                                    |
+| 11              |                         |                                                                                    |
+| 12              |                         |                                                                                    |
+| 13              |                         |                                                                                    |
+| 14              |                         |                                                                                    |
+| 15              |                         |                                                                                    |
+| 16              |                         |                                                                                    |
+| 17              |                         |                                                                                    |
+| 18              |                         |                                                                                    |
+| 19              |                         |                                                                                    |
+| 20              |                         |                                                                                    |
 
 alternativamente, magias especiais podem ter quebras sintropes especiais
 ### Foco arcano

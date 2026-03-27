@@ -30,7 +30,23 @@ Realiza uma manobra que desarma o inimigo baseado em uma disputa de Ataque fisic
 Realiza uma investida contra um inimigo, destruindo qualquer cobertura menor que completa e causando 1D6 + Vigor de dano
 *Precisa se locomover 3 metros antes de se tornar uma investida*
 ===
-**Guarda ativa**
+**Reagrupar**
+**Custo:2PM, Uma açao**
+Comanda os aliados proximos se movam em direçao ao lutador se deslocando voluntariamente o numero de metros igual ao deslocamento. 
+```
+```columns
+id: js-0YrIfZBsTnOAzDcMEN
+===
+**Aparar**
+**Custo:2PM, Uma reaçao**
+Realiza uma esquiva padrao, caso tenha falha na esquiva o dano e reduzido por 1D6 + Agilidade
+
+===
+**Finta**
+**Custo:3PM, Uma açao leve**
+Realiza uma finta contra um inimigo no alcance
+===
+Column 3
 
 ```
 

@@ -1,6 +1,6 @@
 Talentos são a forma de especialização dos personagens, garantindo personagens mais únicos e hibridizados
-# Talentos táticos
-
+# Talentos de perito
+# Talentos de combate
 # Talentos anatômicos
 
 # Talentos arcanos

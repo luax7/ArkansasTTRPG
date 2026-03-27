@@ -116,6 +116,7 @@ Uma magia, pode ter os seguintes alvos
 
 ### Modificadores
 Magias podem ter seu custo de mana aumentado com a intenção de aumentar seu dano, velocidade de conjuração, área e outras características, assim, tornando-a mais efetiva pra situação  
+Os modificadores devem ser declarados e seus pontos deduzidos antes do teste de acerto da magia
 
 **Modificadores de dano:**
 O custo do modificador de dano aumenta conforme o dado de dano da magia

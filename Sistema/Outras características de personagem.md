@@ -16,4 +16,8 @@ O mestre pode narrar a cicatriz, ou ela pode ser escolhida aleatoriamente de uma
 | 2               | Perna Fraturada (Mal curada) | movimento reduzido permanentemente em −1 célula, -1 em testes de agilidade |
 | 3               | Costelas Afundadas           |                                                                            |
 # Defesa
-Defesa passiva contra ataques fisicos. Equipammen
+Defesa passiva contra ataques físicos. Qualquer ataque que tente acertar o personagem tem esse atributo como DT.
+Equipamentos, características de classe e talentos afetam esse atributo
+
+# Iniciativa
+A capacidade dos personagens de reagir rapidamente a uma situação de combate

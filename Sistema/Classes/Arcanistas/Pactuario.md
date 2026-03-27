@@ -94,14 +94,33 @@ Velkar e popularmente chamado de grande montanha, mostra um conhecimento vasto d
 ```columns
 id: an5lTrzG9W5MHNjmfeC0D
 ===
-Nivel 1
+**Nivel 1
+Magias**
+[[Pele rochosa]]
+[[Abalo sismico]]
 
+**Corpo de Pedra**  
+Recebe:  
+- +1 Defesa  
+- +2 em testes contra derrubar ou empurrar
 ===
-Nivel 2
-
+**Nivel 2**
+**Postura Inabalável**  
+*Ação leve*  
+  
+Até o próximo turno:  
+- Reduz dano recebido em 2  
+- Não pode ser movido involuntariamente
 ===
-Nivel 3
-
+**Nivel 3**  
+  
+**Avatar da Montanha**  
+*Ação – 1 vez por cena*  
+  
+Por 3 turnos:  
+- +4 Defesa  
+- Imune a derrubar  
+- Ataques corpo a corpo causam +2 dano
 ```
 
 ### Eidolon
@@ -110,14 +129,26 @@ Suas oferendas normalmente consistem em novos estudos da magia, além de riqueza
 ```columns
 id: 8MeEsufponT58J34wtMtZ
 ===
-Nivel 1
+**Nivel 1**
+[[Canalizaçao]]
+[[Servo magico]]
 
+**Escriba Arcano**  
+Você aprende +1 magia adicional.  
+Pode trocar uma magia conhecida ao fim de um descanso.
 ===
 Nivel 2
-
+**Reescrita Arcana**  
+*1 vez por turno*  
+  
+Ao conjurar uma magia, escolha:  
+- Dobrar duração  
+- Aumentar efeito em um dado
+- Receber 1 vantagem dinâmica
 ===
 Nivel 3
-
+**Eco de Conjuração**  
+Após conjurar uma magia, pode conjurá-la novamente no próximo turno sem custo de mana.
 ```
 ### Nythra 
 Nythra e uma entidade da sintropia, ela utiliza da expectativa de vida dos seus contratantes para causar mutações e caos. Apesar disso, Nythra não parece ter um humor maligno, mas apenas ser indiferente as emoções humanas

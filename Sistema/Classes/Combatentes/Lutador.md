@@ -131,9 +131,29 @@ No quarto nível o personagem recebe 2 pontos para distribuir entre os atributos
 id: 7RkaRyvVGFX2Ik98NZZyw
 ===
 **Duelista**
-
+**Domínio do Duelo**  
+Enquanto estiver sob efeito de **Habilidade de Duelo** (apenas 1 inimigo):  
+  
+- Recebe +2 Defesa  
+- Seus ataques causam +1 dado de dano  
+  
+Se o alvo estiver sob efeito de **Ataque Provocante**:  
+- Recebe +1 vantagem dinâmica adicional nos ataques  
+  
+---  
+  
+**Contra-Ataque Preciso**  
+**Reação – Custo: 2 PM**  
+  
+Quando um inimigo provocado por você te ataca:  
+  
+- Realiza um ataque corpo a corpo contra ele  
+- Se acertar:  
+- Recebe metade do dano
+  
+---
 ===
-Column 2
+**Aniquilador**
 
 ===
 Column 3

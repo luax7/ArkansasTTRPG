@@ -27,10 +27,10 @@ Atributo para conjuração : Sintonia
 id: XMq-dfUsFy8O8E1KlKFYS
 ===
 **Canalizador da ruina**
-**Magia melhorada** : Pode adicionar um modificador a conjuraçoes sem custo de magia adicional. O numero de modificadores aumenta conforme o mago progride
+**Magia melhorada** : Conjurar utilizando um cajado permite criar bolsoes de segurança contra as suas magias, permitindo a segurança de objetos e criaturas na area.
 
 ===
-Tecelao do fluxo
+**Tecelao do fluxo**
 
 ===
 Condutor sintrope

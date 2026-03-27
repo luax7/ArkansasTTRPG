@@ -44,8 +44,8 @@ A seguir, uma linha do tempo da ascensão da máfia russa desde suas origens mor
 
 ### 🕰️ 1900–1920: Guerra e Legado
 
-- **1905** – Em resposta ao surgimento de outras facções mágicas (como os Ashuritas e os Protetores do Pilar), a máfia russa forma alianças momentâneas com o submundo japonês e francês.
-- **1910** – O Hotel Marfim Branco se torna “território neutro” sob pacto dimensional. Líderes de dezenas de facções mágicas assinam o **Pacto de Marfim**, selando a neutralidade do local.
+- **1905** – Em resposta ao surgimento de outras facções mágicas (como os Ashuritas e os Protetores do Pilar), a máfia russa forma alianças momentâneas com o submundo japonês, francês e bangladeshiano.
+- **1910** – O Hotel Marfim Branco se torna “território neutro” sob pacto. Líderes de dezenas de facções mágicas assinam o **Pacto de Marfim**, selando a neutralidade do local.
 - **1917** – A Revolução Russa ameaça a base original da organização. Muitos membros fogem para Bangladesh e a Índia. O poder mágico da organização impede sua dissolução.
 
 ---

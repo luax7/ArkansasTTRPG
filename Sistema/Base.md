@@ -9,9 +9,9 @@ Essas rolagens são utilizadas para realizar ações contra o ambiente, cada aç
 | Indiferente | 4       |
 | Facil       | 6       |
 | Normal      | 8       |
-| Dificil     | 10      |
-| Impossivel  | 12      |
-| Lendario    | 12+     |
+| Dificil     | 12      |
+| Impossivel  | 16      |
+| Lendario    | 18+     |
 
 As rolagens somam com as características básicas do personagem como [[Atributos]], [Pericias](Atributos.md), [[Talentos]] e outras características de classe
 

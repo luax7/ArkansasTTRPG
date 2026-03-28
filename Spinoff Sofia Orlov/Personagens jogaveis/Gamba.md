@@ -22,7 +22,7 @@ Defesa
 ```columns
 id: h03B1r0YjBY2RQXO5_IK8
 ===
-Column 1
+78
 
 ===
 Column 2
@@ -33,6 +33,8 @@ Column 3
 ```
 
 ## Historia
+Gamba nasceu no sul da Etiópia, foi nomeado em homenagem ao grande caçador e desde que perdeu seu irmão para um leão, Gamba seguiu o destino que o seu nome havia lhe incumbido, ele se tornou um caçador, e, durante anos, ele buscou lutar contra animais de grande porte, sempre atrás de uma caça mais desafiadora, ele foi até o Saara, caçando leopardos de sangue. Animais mutantes eram mais fortes do que ele esperava, ele foi atacado, mas não morreu. Ele acordou diferente, mutante, ele não era totalmente humano, seus pelos corporais cresciam muito mais que o normal, seu cabelo sempre se assimilava a uma chuva e vegetais pareciam não ter gosto.
+Gamba agora era o que Gamba nasceu para ser, um predador.
 
 # Atributos
 

@@ -93,9 +93,9 @@ Capacidade de carga:
 
 ## Habilidades
 
-| Habilidade | Fonte |
-| ---------- | ----- |
-|            |       |
+| Habilidade | Fonte | Efeito |
+| ---------- | ----- | ------ |
+|            |       |        |
 #### Talentos
 
 ## Magias

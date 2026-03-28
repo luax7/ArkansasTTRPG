@@ -3,3 +3,5 @@ Um repouso se trata de um espaço de 30 minutos, onde nenhum dos personagens env
 
 Existem alguns tipos de descanso, que definem a recuperação do descanso
 # Tipos de descanso
+**descanso ativo**
+Descreve as cenas de repouso situ

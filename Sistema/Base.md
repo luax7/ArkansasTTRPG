@@ -43,9 +43,12 @@ Uma falha critica no combate entrega o efeito "Falha catastrófica" ao personage
 [[Repouso]]
 [[Combate]]
 [[Perseguição]]
+
 [[Sistema Nêmesis]]
 - Criação de eventos narrativos
+
 [[Sistema Vitoriana]]
 - Administração de disputas sociais
+
 [[Sistema Sintrope]]
 - Sistematização de conjuração e magia

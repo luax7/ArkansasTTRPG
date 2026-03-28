@@ -64,6 +64,7 @@ Alternativamente, os *ataques lendários* — Ataques com efeitos especiais ou �
 
 ### Nêmesis
 Quando o mestre utiliza um dado nêmesis, ele deve entregar o dado aos jogadores. Esse dado pode ser utilizado para conseguir vantagens dinâmicas em testes ou utilizar habilidades especiais de artefatos.
+Apenas um dado Nêmesis pode ser utilizado em uma ação, isso significa que, se os jogadores utilizarem um dado para melhorar um ataque, o mestre não pode utilizar dados para piorar esse ataque.
 
 # Sistema Vitoriana
 O Sistema vitoriana se trata de um sistema para situações de negociação ou conflitos sociais em alto e baixo nível ( Baixo nível sendo entre indivíduos e alto entre organizações) 
@@ -140,28 +141,28 @@ Apenas uma magia de concentração pode estar ativa por vez.
 Uma quebra sintrope acontece quando o resultado de um teste de conjuração e menor do que a dificuldade da magia (especificada para cada magia)
 As quebras sintropes podem ocorrer dessas formas
 
-| Resultado (d20) | Efeito                  | Descrição                                                                                                                     |
-| --------------- | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| 1               | Descarga nervosa        | Sofre 1 de dano, e recebe -1 no proximo teste                                                                                 |
-| 2               | Eco de Mana             | O custo                                                                                                                       |
-| 3               | Distorção Sensorial     | Desvantagem nêmesis no próximo teste de percepção                                                                             |
-| 4               | Fluxo Reverso           | Metade da duração de qualquer efeito, e metade do dano e aplicado ao conjurador                                               |
-| 5               | Vazamento Arcano        | Aquece a área ao redor do conjurador, ateando fogo em objetos inflamáveis ao redor                                            |
-| 6               | Tremor Sintrope         | não pode usar vantagem dinâmica no próximo teste                                                                              |
-| 7               | Marca Arcana Temporária | +1 em magia, mas −1 social até desaparecer ate o final da próxima cena                                                        |
-| 8               | Ruído Dimensional       | Todos os arcanistas na área percebem a magia                                                                                  |
-| 9               | Desalinhamento Espacial | desloca-se 3 metros na direção contraria do alvo involuntariamente                                                            |
-| 10              | Sobrecarga do Foco      | Perde os efeitos do foco arcano ate o final do próximo turno                                                                  |
-| 11              | Manifestação Parcial    | efeito ocorre, mas com duração e dano pela metade                                                                             |
-| 12              | Interferência Externa   | Outros conjuradores na cena recebem desvantagem nêmesis no próximo teste                                                      |
-| 13              | Desalinhamento Espacial | desloca-se 3 metros na direção do alvo involuntariamente                                                                      |
-| 14              | Cristalização Local     | -1 de agilidade ate o próximo turno, o terreno do conjurador se torna terreno difícil ate o final da cena                     |
-| 15              | Mutação Efêmera         | Ganha 1 de vigor e perde 1 de presença ate o final da cena                                                                    |
-| 16              | Mutação Efêmera         | Ganha 1 de Agilidade e perde 1 de sintonia ate o final da cena                                                                |
-| 17              | Ruptura de Forma        | área aumenta um nível ou um alvo, mas atinge aliados também                                                                   |
-| 18              | Sobrecarga Mental       | não pode usar pericias de intelecto por 1D4 turnos                                                                            |
-| 19              | Refluxo arcano          | Não pode conjurar feitiços por 1D4 turnos                                                                                     |
-| 20              | Evento Sintrope Crítico | mutação permanente leve, efeito mágico fora de controle ( Outra quebra sintrope), destroi objetos e repele criaturas proximas |
+| `dice: d20` | Efeito                  | Descrição                                                                                                                     |
+| ----------- | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| 1           | Descarga nervosa        | Sofre 1 de dano, e recebe -1 no proximo teste                                                                                 |
+| 2           | Eco de Mana             | O custo                                                                                                                       |
+| 3           | Distorção Sensorial     | Desvantagem nêmesis no próximo teste de percepção                                                                             |
+| 4           | Fluxo Reverso           | Metade da duração de qualquer efeito, e metade do dano e aplicado ao conjurador                                               |
+| 5           | Vazamento Arcano        | Aquece a área ao redor do conjurador, ateando fogo em objetos inflamáveis ao redor                                            |
+| 6           | Tremor Sintrope         | não pode usar vantagem dinâmica no próximo teste                                                                              |
+| 7           | Marca Arcana Temporária | +1 em magia, mas −1 social até desaparecer ate o final da próxima cena                                                        |
+| 8           | Ruído Dimensional       | Todos os arcanistas na área percebem a magia                                                                                  |
+| 9           | Desalinhamento Espacial | desloca-se 3 metros na direção contraria do alvo involuntariamente                                                            |
+| 10          | Sobrecarga do Foco      | Perde os efeitos do foco arcano ate o final do próximo turno                                                                  |
+| 11          | Manifestação Parcial    | efeito ocorre, mas com duração e dano pela metade                                                                             |
+| 12          | Interferência Externa   | Outros conjuradores na cena recebem desvantagem nêmesis no próximo teste                                                      |
+| 13          | Desalinhamento Espacial | desloca-se 3 metros na direção do alvo involuntariamente                                                                      |
+| 14          | Cristalização Local     | -1 de agilidade ate o próximo turno, o terreno do conjurador se torna terreno difícil ate o final da cena                     |
+| 15          | Mutação Efêmera         | Ganha 1 de vigor e perde 1 de presença ate o final da cena                                                                    |
+| 16          | Mutação Efêmera         | Ganha 1 de Agilidade e perde 1 de sintonia ate o final da cena                                                                |
+| 17          | Ruptura de Forma        | área aumenta um nível ou um alvo, mas atinge aliados também                                                                   |
+| 18          | Sobrecarga Mental       | não pode usar pericias de intelecto por 1D4 turnos                                                                            |
+| 19          | Refluxo arcano          | Não pode conjurar feitiços por 1D4 turnos                                                                                     |
+| 20          | Evento Sintrope Crítico | mutação permanente leve, efeito mágico fora de controle ( Outra quebra sintrope), destroi objetos e repele criaturas proximas |
 
 alternativamente, magias especiais podem ter quebras sintropes especiais
 ### Foco arcano

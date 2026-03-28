@@ -39,6 +39,10 @@ Uma falha critica ocorre quando o resultado de dois D6 é 1. Falhas criticas nã
 Quando uma falha critica ocorre em um teste comum, o teste pode ser bloqueado permanentemente, ou podem haver danos ao personagem.
 Uma falha critica no combate entrega o efeito "Falha catastrófica" ao personagem, que remove uma ação máxima para o personagem no fim do próximo turno
 
+# Mecânicas de suporte
+[[Repouso]]
+[[Combate]]
+[[Perseguição]]
 
 # Sistema Nêmesis
 O Sistema nêmesis se trata de uma serie de mecanismos para criar caos na historia através de vantagens e desvantagens mecânicas que o mestre atribui para as ameaças.

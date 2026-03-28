@@ -18,7 +18,18 @@ Pontos de Mana
 
 ===
 Defesa
-Deslocamento
+```
+```columns
+id: h03B1r0YjBY2RQXO5_IK8
+===
+Column 1
+
+===
+Column 2
+
+===
+Column 3
+
 ```
 
 ## Historia
@@ -28,7 +39,8 @@ Deslocamento
 | Vigor | Agilidade | Intelecto | Presença | Sintonia |
 | ----- | --------- | --------- | -------- | -------- |
 |       |           |           |          |          |
-
+Deslocamento:
+Capacidade de carga:
 ### pericias
 
 **Vigor
@@ -81,13 +93,10 @@ Deslocamento
 
 ## Habilidades
 
-|     |     |
-| --- | --- |
-|     |     |
+| Habilidade | Fonte |
+| ---------- | ----- |
+|            |       |
 #### Talentos
 
 ## Magias
 
-|     |     |
-| --- | --- |
-|     |     |

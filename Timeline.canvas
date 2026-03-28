@@ -8,9 +8,34 @@
 		{"id":"ad1e9a50c8e06f96","type":"file","file":"Pilar de mármore.md","x":-1997,"y":200,"width":298,"height":114},
 		{"id":"ce2d6792ba622dbe","type":"text","text":"1851","x":-1770,"y":289,"width":96,"height":50,"color":"4"},
 		{"id":"7ea9e5a2e0289e6b","type":"file","file":"Sangue sobre ferro/Sangue sobre ferro.md","x":-1997,"y":361,"width":298,"height":120},
-		{"id":"50472fdb34efb460","type":"text","text":"1878","x":-1770,"y":446,"width":91,"height":50,"color":"4"}
+		{"id":"50472fdb34efb460","type":"text","text":"1878","x":-1770,"y":446,"width":91,"height":50,"color":"4"},
+		{
+			"id":"da1e3372581ede51",
+			"type":"text",
+			"text":"Harmonia Partida",
+			"styleAttributes":{},
+			"x":-856,
+			"y":496,
+			"width":298,
+			"height":119
+		},
+		{"id":"9588300be90e2aa1","type":"text","text":"1911","x":-620,"y":590,"width":91,"height":50,"color":"4"},
+		{
+			"id":"9ad57a6ae891d355",
+			"type":"text",
+			"text":"",
+			"styleAttributes":{},
+			"x":-680,
+			"y":580,
+			"width":260,
+			"height":60
+		}
 	],
 	"edges":[
-		{"id":"d4b2e9cc9f229291","fromNode":"ea3e09b415026ee6","fromSide":"right","toNode":"90d67085b0ef49a1","toSide":"left"}
-	]
+		{"id":"d4b2e9cc9f229291","toFloating":false,"fromNode":"ea3e09b415026ee6","fromSide":"right","toNode":"90d67085b0ef49a1","toSide":"left"}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
 }

@@ -37,7 +37,17 @@ As vantagens são separadas em dois tipos:
 - Vantagem fixa
 	O Jogador recebe um adicional fixo para o próximo teste, sendo o adicional especificado na fonte da vantagem
 ### Desvantagem
-As desvantagens são expressas apenas em números fixos, diferentemente. Dessa forma, o numero mínimo de dados que podem ser rolados em um teste, se torna 2D6
+As desvantagens, diferente de sistemas onde são expressas em menos dados, são expressas apenas em números constantes.
+- Desvantagem fixa
+	Recebe uma desvantagem de numero fixo sobre uma rolagem(Ex: -2)
+- Desvantagem Nêmesis
+	Uma desvantagem nêmesis e uma desvantagem dinâmica, que onera mais personagens tentando realizar ações mais difíceis
+	
+| Dificuldade de teste | Desvantagem |
+| -------------------- | ----------- |
+| 7 Ou menor           | -2          |
+|                      |             |
+
 ### Acertos críticos
 Um acerto critico ocorre quando o resultado de pelo menos dois D6 é 6
 Nesse caso, para testes de desafios comuns, e adicionado uma vantagem fixa de +6

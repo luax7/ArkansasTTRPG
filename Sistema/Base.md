@@ -1,6 +1,6 @@
 A base fundamental do sistema Arkansas se trata de entender que o sistema não é feito para definir mecânicas pesadas para os jogadores, mas sim para criar uma base narrativa e investigativa para a mesa. Dessa forma, é encorajado a adaptação do sistema para cada mesa e personagem individual 
 
-Arkansas funciona com base em 2D6. Essa decisão foi feita pra criar maior consistência nas rolagens ( Tendencia a rolagens medias ) 
+Arkansas funciona com base em 2D6. Essa decisão foi feita pra criar maior consistência nas rolagens ( Distribuição maior nos números médios ) 
 
 Essas rolagens são utilizadas para realizar ações contra o ambiente, cada ação tem sua dificuldade.
 
@@ -21,7 +21,7 @@ A tabela a seguir foi criada com a intenção de prover um entendimento logico d
 | **Mestre**       |         |             |           |
 | Figura influente | 14      | 6           | 50%       |
 | Mestre           | 16      | 6           | 20%       |
-| Mestre mundial   |         | 6           | 10%       |
+| Mestre mundial   | 17      | 6           | 10%       |
 
 As rolagens somam com as características básicas do personagem como [[Atributos]], [Pericias](Atributos.md), [[Talentos]] e outras características de classe
 

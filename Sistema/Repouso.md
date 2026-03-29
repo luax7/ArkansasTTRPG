@@ -1,6 +1,5 @@
 A mecânica de repouso e utilizada como a principal forma de recuperar recursos. sejam pontos de vida, mana, ou certas habilidades.
-Um repouso se trata de um espaço de tempo em que, os personagens envolvidos, não realizam nenhuma ação mais demandante que investigar documentos, conversar ou cozinhar.
-
+Um repouso se trata de um espaço de tempo em que, os personagens envolvidos, não realizam nenhuma ação mais demandante do que as descritas em [[Repouso#Ações de repouso|Açoes de repouso]] de descanso
 # Tipos de descanso
 **descanso ativo**
 Descreve cenas de repouso situadas no local de investigação, ou que apresenta ameaças iminentes de qualquer forma.
@@ -21,8 +20,10 @@ Descreve cenas de repouso longas e seguras. O descanso completo pode durar o que
 - Recupera completamente pontos de Mana
 - Todas habilidades que pedem "Um descanso curto" ou "Um descanso longo" para serem restauradas
 # Regalias
-Em um cenário urbano, e natural possuir o mínimo para um bom descanso, assim, recuperando mais recursos em um descanso.
+Em um cenário urbano e natural possuir o mínimo para um bom descanso, assim, recuperando mais recursos em um descanso.
 
 **Conforto** Camas, Sofás, colchonetes tudo onde se pode deitar e relaxar um pouco. +5 PV, +5PM
 
 **Comida** Algo para comer enquanto descansa, revitalizando o personagem. +5 PV, +5PM
+
+# Ações de repouso

@@ -46,7 +46,7 @@
         modifiers
     }
     const MainContainer = document.getElementById("MainContainer")
-    const AvailableSpells = []
+    let AvailableSpells = []
     function createMagicCard(Magic)
     {
         const SpellContainer = document.createElement('Div')
@@ -110,7 +110,6 @@
     MainContainer.appendChild(container)
 }
     function renderAllSpells(){
-    clearMain()
     AvailableSpells.forEach(m => createMagicCard(m))
 }
 

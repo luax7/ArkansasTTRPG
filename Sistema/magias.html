@@ -67,7 +67,7 @@
         type.classList.add("type")
         type.innerText = Magic.type
 
-        SpellContainer.onclick((ev) => {
+        SpellContainer.addEventListener("click",(ev) => {
             clearMain()
         })
 
@@ -75,9 +75,7 @@
     }
     function clearMain()
     {
-        MainContainer.childNodes.forEach((child) => {
-            child.remove()
-        })
+        MainContainer.innerHTML = ""
     }
 </script>
 <style>

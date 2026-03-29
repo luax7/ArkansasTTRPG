@@ -24,8 +24,11 @@ Em um cenário urbano e natural possuir o mínimo para um bom descanso, assim, r
 
 **Conforto** Camas, Sofás, colchonetes tudo onde se pode deitar e relaxar um pouco. +5 PV, +5PM
 
-**Comida** Algo para comer enquanto descansa, revitalizando o personagem. +5 PV, +5PM
+**Comida** Algo para comer enquanto descansa, revitalizando o personagem. +5 PV, +3PM
 
+**Luxo** Boa musica, comida gourmet e conforto luxuoso. O personagem se recupera muito mais tranquilamente. +10PV, +3PM
+
+**Ambiente arcano** Ambientes muito perturbados por conjuraçao ou comba
 # Ações em repouso
 Ações em repouso são ações que os personagens podem tomar em cenas de repouso garantindo vantagens e melhores condições de repouso. 
 
@@ -37,8 +40,10 @@ Cada personagem pode realizar uma ação por repouso
 
 **Tratar** O personagem trata algum aliado ou a si mesmo, recuperando 1d6+medicina do alvo, ou 2d8+medicina com um kit medico do alvo.
 
-**Ponderar** O personagem pondera sobre uma pista ou caso. Ganhando uma pista leve adicional (Cabendo ao mestre garantir ou não) e garantindo uma vantagem dinâmica para o próximo teste de investigação. Alternativamente, a vantagem expira no inicio do próximo repouso.
+**Ponderar** O personagem pondera sobre uma pista ou caso. Ganhando uma pista adicional. Se não houver pista a ser descoberta ponderar garante uma vantagem dinâmica para o próximo teste de investigação. Alternativamente, a vantagem expira no inicio do próximo repouso.
 
 **Sintonizar** O personagem sintoniza com as ondas de mana podendo selecionar entre os efeitos:
 - Vantagem dinâmica no próximo teste para conjurar uma magia
-- +2 Vantagem nos 3 próximos testes fixa no próximo teste de conjuração
+- +2 Vantagem nos 3 próximos testes fixa no próximo teste para conjurar uma magia
+- Trocar ate duas magias da lista de magia.
+

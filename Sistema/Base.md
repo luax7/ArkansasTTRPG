@@ -56,6 +56,7 @@ Uma falha critica no combate entrega o efeito "Falha catastrófica" ao personage
 [[Combate]]
 [[Perseguição]]
 [[Equipamentos]]
+[[Classe]]
 [[Sistema Nêmesis]]
 - Criação de eventos narrativos
 

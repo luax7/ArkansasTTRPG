@@ -35,6 +35,8 @@ Para cada "contrato arcano"
 No quarto nível o personagem recebe 2 pontos para distribuir entre os atributos, e 3 pontos para distribuir entre pericias
 
 
+---
+
 # Entidades para contrato
 As entidades listadas a seguir são todas entidades de que de forma ou outra entraram em contato com a humanidade, e foram estudadas formas de utilizar de deu poder arcano para adquirir parte de sua capacidade arcana.
 ### Ignivar

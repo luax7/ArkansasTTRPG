@@ -37,6 +37,7 @@ Fuga: O Ghoul usa as 3 ações para desengajar, ficar invisível, e desaparecer.
 ```statblock
 name: Ghoul
 source: Harmonia Partida
+image: [[Ghoul.png]]
 size: media
 type: Aberraçao
 subtype: "Humanoide sintetica"

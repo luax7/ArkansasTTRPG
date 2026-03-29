@@ -46,6 +46,7 @@
         modifiers
     }
     const MainContainer = document.getElementById("MainContainer")
+    const AvailableSpells = []
     function createMagicCard(Magic)
     {
         const SpellContainer = document.createElement('Div')
@@ -69,14 +70,50 @@
 
         SpellContainer.addEventListener("click",(ev) => {
             clearMain()
+            ShowSpell(Magic)
+
         })
 
         return SpellContainer
     }
     function clearMain()
     {
+        AvailableSpells = []
         MainContainer.innerHTML = ""
     }
+    function ShowSpell(Magic)
+    {
+    const container = document.createElement("div")
+    container.classList.add("SpellDetails")
+
+    const name = document.createElement("h1")
+    name.innerText = Magic.name
+
+    const cost = document.createElement("p")
+    cost.innerText = "Custo: " + Magic.cost
+
+    const type = document.createElement("p")
+    type.innerText = "Tipo: " + Magic.type
+
+    const duration = document.createElement("p")
+    duration.innerText = "Duração: " + Magic.duration
+
+    const range = document.createElement("p")
+    range.innerText = "Alcance: " + Magic.range
+
+    container.appendChild(name)
+    container.appendChild(cost)
+    container.appendChild(type)
+    container.appendChild(duration)
+    container.appendChild(range)
+
+    MainContainer.appendChild(container)
+}
+    function renderAllSpells(){
+    clearMain()
+    AvailableSpells.forEach(m => createMagicCard(m))
+}
+
 </script>
 <style>
     body{

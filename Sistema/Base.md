@@ -4,7 +4,7 @@ Arkansas funciona com base em 2D6. Essa decisão foi feita pra criar maior consi
 
 Essas rolagens são utilizadas para realizar ações contra o ambiente, cada ação tem sua dificuldade.
 
-A tabela a seguir foi criada com a intenção de prover um entendimento logico das dificuldades. Em uma campanha, os testes tendem a dificuldade normal a especialista, e portanto, as dificuldades abaixo e acima servem mais como parâmetro.
+A tabela a seguir foi criada com a intenção de prover um entendimento logico das dificuldades. Em uma campanha, os testes tendem a dificuldade normal a perito, e portanto, as dificuldades abaixo e acima servem mais como parâmetro.
 
 | Dificuldade      | Rolagem | Modificador | Chance(±) |
 | ---------------- | ------- | ----------- | --------- |
@@ -15,13 +15,13 @@ A tabela a seguir foi criada com a intenção de prover um entendimento logico d
 | Dificil          | 9       | 0           | 30%       |
 | Impossível       | 11      | 0           | 10%       |
 | **Treinado**     |         |             |           |
-| Familiar         |         | 4           |           |
-| Perito           |         | 4           | 70%       |
-| Especialista     |         | 4           | 50%       |
-|                  |         |             |           |
+| Familiar         | 10      | 4           | 70%       |
+| Perito           | 12      | 4           | 50%       |
+| Especialista     | 14      | 4           | 20%       |
 | **Mestre**       |         |             |           |
-|                  |         | 6           |           |
-|                  |         | 6           |           |
+| Figura influente | 14      | 6           | 50%       |
+| Mestre           | 16      | 6           | 20%       |
+| Mestre mundial   |         | 6           | 10%       |
 
 As rolagens somam com as características básicas do personagem como [[Atributos]], [Pericias](Atributos.md), [[Talentos]] e outras características de classe
 

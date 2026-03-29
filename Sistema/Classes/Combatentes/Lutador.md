@@ -19,38 +19,8 @@ Lutadores compõem a principal linha de frente contra as ameaças para o grupo. 
 ### **Talento**
 No primeiro, terceiro e sexto nível, o personagem ganhar um talento da lista de [[Talentos]] disponíveis
 ### Combate marcial
-Com muita experiencia e talento, o lutador se acostumou aos costumes de batalha e se especializou. dessa forma, ele pode escolher duas manobras que ele pode executar de acordo com os requisitos
-```columns
-id: kxqVtOnOqIbhtD0OYGJmH
-===
-**Desarmar**
-**Custo: 2PM, Uma açao**
-Realiza uma manobra que desarma o inimigo baseado em uma disputa de Ataque fisico contra o alvo
-===
-**Investida**
-**Custo: 4PM, Uma açao**
-Realiza uma investida contra um inimigo, destruindo qualquer cobertura menor que completa e causando 1D6 + Vigor de dano
-*Precisa se locomover 3 metros antes de se tornar uma investida*
-===
-**Reagrupar**
-**Custo:2PM, Uma açao**
-Comanda os aliados proximos se movam em direçao ao lutador se deslocando voluntariamente o numero de metros igual ao deslocamento. 
-```
-```columns
-id: js-0YrIfZBsTnOAzDcMEN
-===
-**Aparar**
-**Custo:2PM, Uma reaçao**
-Realiza uma esquiva padrao, caso tenha falha na esquiva o dano e reduzido por 1D6 + Agilidade
-===
-**Finta**
-**Custo:3PM, Uma açao leve**
-Realiza uma finta contra um inimigo no alcance de ataque. Seu proximo ataque possui uma vantagem dinamica contra a criatura
-===
-**Varredura**
-**Custo:4PM, uma açao**
-Ao atacar um inimigo, e possivel escolher outro inimigo a 1,5 metros do alvo inicial, e acerta-lo causando metade do dano
-```
+Com muita experiencia e talento, o lutador se acostumou aos costumes de batalha e se especializou. dessa forma, ele pode escolher duas manobras que ele pode executar de acordo com os requisitos.
+As manobras podem ser vistas na tabela [[Lutador#Manobras de combate|Manobras de combate]]
 
 ### Habilidade de arquétipo
 No segundo nível, o lutador se especializa em um estilo de luta, tomando uma função na linha de frente.
@@ -119,6 +89,11 @@ Ao causar dano:
 - Pode ser utilizado tres vezes por descanso curto
 - Pode ser utilizado com um dado nemesis para curar duas vezes o vigor ao causar dano.
 ```
+
+
+[^1]: Disputas sao testes realizados entre dois personagens com intençao de um vencedor conseguir alguma vantagem tatica
+
+
 ### **Talento**
 No primeiro, terceiro e sexto nível, o personagem ganhar um talento da lista de [[Talentos]] disponíveis
 
@@ -198,4 +173,38 @@ Por 2 turnos:
 ### **Talento**
 No primeiro, terceiro e sexto nível, o personagem ganhar um talento da lista de [[Talentos]] disponíveis
 
-[^1]: Disputas sao testes realizados entre dois personagens com intençao de um vencedor conseguir alguma vantagem tatica
+---
+
+# Manobras de combate
+```columns
+id: kxqVtOnOqIbhtD0OYGJmH
+===
+**Desarmar**
+**Custo: 2PM, Uma açao**
+Realiza uma manobra que desarma o inimigo baseado em uma disputa de Ataque fisico contra o alvo
+===
+**Investida**
+**Custo: 4PM, Uma açao**
+Realiza uma investida contra um inimigo, destruindo qualquer cobertura menor que completa e causando 1D6 + Vigor de dano
+*Precisa se locomover 3 metros antes de se tornar uma investida*
+===
+**Reagrupar**
+**Custo:2PM, Uma açao**
+Comanda os aliados proximos se movam em direçao ao lutador se deslocando voluntariamente o numero de metros igual ao deslocamento. 
+```
+```columns
+id: js-0YrIfZBsTnOAzDcMEN
+===
+**Aparar**
+**Custo:2PM, Uma reaçao**
+Realiza uma esquiva padrao, caso tenha falha na esquiva o dano e reduzido por 1D6 + Agilidade
+===
+**Finta**
+**Custo:3PM, Uma açao leve**
+Realiza uma finta contra um inimigo no alcance de ataque. Seu proximo ataque possui uma vantagem dinamica contra a criatura
+===
+**Varredura**
+**Custo:4PM, uma açao**
+Ao atacar um inimigo, e possivel escolher outro inimigo a 1,5 metros do alvo inicial, e acerta-lo causando metade do dano
+```
+

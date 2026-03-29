@@ -163,6 +163,11 @@ id: pZYeLvNvRSbbpExeqEt3P
 [[Pulso sintrope]]
 [[Mutaçao efemera]]
 
+**Ruptura Sintrope**  
+Quando ocorre quebra sintrope, o jogador pode realizar a rolagem da tabela de quebra sintone e escolher entre os dois resultados
+
+===
+Nivel 2
 **Corpo Instável**  
 Sempre que conjura magia, role um d10. adicione +1 no atributo segundo a tabela a seguir ate o fim do proximo turno. Essa caracteristica pode ser usada apenas uma vez por turno.
 
@@ -174,11 +179,6 @@ Sempre que conjura magia, role um d10. adicione +1 no atributo segundo a tabela 
 |7-8|Presença|
 |9-10|Sintonia|
 
-
-===
-Nivel 2
-**Ruptura Sintrope**  
-Quando ocorre quebra sintrope, você pode escolher entre dois resultados da tabela.
 ===
 Nivel 3
 **Forma Aberrante**  

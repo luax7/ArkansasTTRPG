@@ -76,9 +76,13 @@ id: XXa5JvkwzwklBQ8kXAGPj
 **Foco absoluto:** Consegue concentrar simultaneamente em duas magias, quando a concentraçao tenta ser encerrada forçadamente, o usuario realizar um teste de sintonia DT Dificil ao inves de encerrar a concentraçao imediatamente
 ===
 **Condutor sintrope**
-**Canalisador do caos:** Ao utilizar a tabela de magia selvagem, consegue utilizar o feitiço missel magico em um inimigo no alcançe da magia. Esse feitiço nao conta para o maximo de feitiiços conhecidos. O maximo de usos por turno da tabela de magia selvagem se torna 2.
+**Canalisador do caos:** Ao acertar um ataque corpo a corpo com um inimigo pode conjurar o feitiço missel magico em um inimigo no alcançe da magia. Esse feitiço nao conta para o maximo de feitiiços conhecidos. O maximo de usos por turno da tabela de magia selvagem se torna 2.
 **Vampirismo Sintropico**
-
+Ao acertar um ataque fisico pode utilizar um dos dois efeitos:
+- Absorçao vital:
+  Recupera 1d6 + Sintonia PV
+- Barreira sintropica:
+  +2 de defesa ate o fim d
 ```
 **Talento**
 No sexto nível, o personagem recebe um talento

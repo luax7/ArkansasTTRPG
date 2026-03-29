@@ -4,14 +4,16 @@ Arkansas funciona com base em 2D6. Essa decisão foi feita pra criar maior consi
 
 Essas rolagens são utilizadas para realizar ações contra o ambiente, cada ação tem sua dificuldade
 
-| Dificuldade | Rolagem |
-| ----------- | ------- |
-| Indiferente | 6       |
-| Facil       | 6       |
-| Normal      | 8       |
-| Dificil     | 12      |
-| Impossivel  | 16      |
-| Lendario    | 18+     |
+| Dificuldade  | Rolagem | Chance |
+| ------------ | ------- | ------ |
+| Indiferente  | 4       | 83.3%  |
+| Facil        | 5       | 72.2%  |
+| Normal       | 6       | 58.8%  |
+| Dificil      | 8       | 27.7%  |
+| Perito       |         |        |
+| Especialista |         |        |
+| Impossivel   |         |        |
+| Lendario     |         |        |
 
 As rolagens somam com as características básicas do personagem como [[Atributos]], [Pericias](Atributos.md), [[Talentos]] e outras características de classe
 

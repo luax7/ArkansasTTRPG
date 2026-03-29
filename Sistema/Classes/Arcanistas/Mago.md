@@ -38,7 +38,11 @@ id: XMq-dfUsFy8O8E1KlKFYS
 ===
 **Condutor sintrope**
 **Magia selvagem:** Ao conjurar uma magia, o mago pode gastar 2 pontos de mana para utilizar a tabela de magia selvagem. Esse efeito e limitado a uma vez por turno.
-**Ataque imbuido** Ao acertar um ataque fisico, o mago pode usar 3PM para golpear o inimigo acertado por uma onda de mana causando 1d8 de dano. Essa habilidade pode ser utilizada uma vez por turno
+
+A partir no nivel 4 essa habilidade pode ser utilizada duas vezes por turno
+**Ataque imbuido** Ao acertar um ataque fisico, o mago pode usar 4PM para golpear o inimigo acertado por uma onda de mana causando 1d8 de dano. Essa habilidade pode ser utilizada uma vez por turno
+
+A partir do nivel 4 essa habilidade pode ser utilizada duas vezes por turno
 ```
 **Modificador de magias**
 No segundo nível, o mago aprende a modificar a potencia dos seus feitiços utilizando variações na canalização 
@@ -76,13 +80,14 @@ id: XXa5JvkwzwklBQ8kXAGPj
 **Foco absoluto:** Consegue concentrar simultaneamente em duas magias, quando a concentraçao tenta ser encerrada forçadamente, o usuario realizar um teste de sintonia DT Dificil ao inves de encerrar a concentraçao imediatamente
 ===
 **Condutor sintrope**
-**Canalisador do caos:** Ao acertar um ataque corpo a corpo com um inimigo pode conjurar o feitiço missel magico em um inimigo no alcançe da magia. Esse feitiço nao conta para o maximo de feitiiços conhecidos. O maximo de usos por turno da tabela de magia selvagem se torna 2.
+**Canalisador do caos:** Ao acertar um ataque corpo a corpo com um inimigo conjurar o feitiço missel magico em um inimigo no alcançe da magia. Esse feitiço nao conta para o maximo de feitiiços conhecidos.
 **Vampirismo Sintropico**
-Ao acertar um ataque fisico pode utilizar um dos dois efeitos:
+Ao acertar um ataque fisico pode utilizar 3PM para realizar uma das seguintes açoes:
 - Absorçao vital:
   Recupera 1d6 + Sintonia PV
 - Barreira sintropica:
-  +2 de defesa ate o fim d
+  +2 de defesa ate o inicio do proximo turno. 1d4 de dano para qualquer inimigo que tenha o mago como alvo 
+Essa habilidade pode ser utilizada uma vez por turno
 ```
 **Talento**
 No sexto nível, o personagem recebe um talento

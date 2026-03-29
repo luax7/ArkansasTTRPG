@@ -31,7 +31,8 @@ id: XMq-dfUsFy8O8E1KlKFYS
 ===
 **Canalizador da ruina**
 **Magia melhorada** : Conjurar utilizando um cajado permite criar bolsoes de segurança contra as suas magias, permitindo a segurança de objetos e criaturas na area.
-
+**Ressonancia destrutiva**
+Ao causar dano com uma magia, um alvo adquire o efeito ressonante ate o fim do proximo turno. Ao causar dano magico em um alvo ressonante recebe +1d6 de dano e ignora 2 de defesa proveniente de coberturas
 ===
 **Tecelao do fluxo**
 **Proteçao dupla:** Conjurar feitiços que causam efeitos positivos a aliados ou defensivos geram pontos de vida temporarios igual ao modificador de sintonia

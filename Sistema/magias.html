@@ -108,6 +108,21 @@
     container.appendChild(range)
 
     MainContainer.appendChild(container)
+    const mode = MainContainer.style.display = "flex";
+    console.log(mode)
+
+        if(mode === "flex"){
+        MainContainer.style.display = "flex"
+        MainContainer.style.flexDirection = "column"
+    }
+    else if(mode === "grid"){
+        if(window.innerWidth > 600){
+            MainContainer.style.display = "grid"
+        } else {
+            MainContainer.style.display = "flex"
+            MainContainer.style.flexDirection = "column"
+        }
+    }
 }
     function renderAllSpells(){
     AvailableSpells.forEach(m => createMagicCard(m))

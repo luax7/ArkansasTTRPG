@@ -1,6 +1,6 @@
-O pactuário foca em fazer contratos com entidades magicas para receber feitiços e habilidades especiais. pactuários funcionam como uma versão mais estável do mago, frequentemente funcionando também como uma classe física magica.
+O Pactuado foca em fazer contratos com entidades magicas para receber feitiços e habilidades especiais. pactuários funcionam como uma versão mais estável do mago, frequentemente funcionando também como uma classe física magica.
 
-Pactuários frequentemente fazem contratos para receber magia em troca de riquezas dos humanos como sua expectativa de vida, "alma", conduta em vida, riquezas, e ate mesmo objetos arcanos
+Pactuados frequentemente fazem contratos para receber magia em troca de riquezas dos humanos como sua expectativa de vida, "alma", conduta em vida, riquezas, e ate mesmo objetos arcanos
 
 | Nivel | Habilidade adquirida    | Contratos disponíveis | Magias conhecidas |
 | ----- | ----------------------- | --------------------- | ----------------- |
@@ -27,7 +27,7 @@ Atributo para conjuração : Presença
 No primeiro nível, o pactuário conhece 1 magia
 
 ***Contrato arcano***
-Além das magias conhecidas, o pactuário pode fazer contratos com entidades arcanas para adquirir novas magias e habilidades. As entidades e suas habilidades são detalhadas no fim do documento.
+Além das magias conhecidas, o pactuado pode fazer contratos com entidades arcanas para adquirir novas magias e habilidades. As entidades e suas habilidades são detalhadas no fim do documento.
 As habilidades aprendidas através dos contratos não 
 Para cada "contrato arcano"
 

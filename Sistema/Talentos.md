@@ -28,7 +28,7 @@ Recebe a habilidade **Conjuração**[^1], ao receber o talento, o personagem rec
 **Contrato Arcano**
 Através de alguma experiencia arcana, recebe a oportunidade de realizar um contrato com uma entidade arcana.
 
-Ganha um contrato com uma entidade da lista [[Pactuario#Entidades para contrato|Entidades arcanas]], recebe a habilidade **Conjuração**[^1], o atributo de conjuração se torna negociação 
+Ganha um contrato com uma entidade da lista [[Pactuado#Entidades para contrato|Entidades arcanas]], recebe a habilidade **Conjuração**[^1], o atributo de conjuração se torna negociação 
 
 [^1]: **Habilidade: Conjuração** 
 O personagem se torna capaz de conjurar feitiços simples para combate e fortalecimento. 

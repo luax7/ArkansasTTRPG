@@ -37,7 +37,8 @@ id: XMq-dfUsFy8O8E1KlKFYS
 **Proteçao dupla:** Conjurar feitiços que causam efeitos positivos a aliados ou defensivos geram pontos de vida temporarios igual ao modificador de sintonia
 ===
 **Condutor sintrope**
-**Magia selvagem:** Ao conjurar uma magia, o mago pode gastar 2 pontos de mana para utilisar a tabela de magia selvagem. Esse efeito e limitado a uma vez por turno.
+**Magia selvagem:** Ao conjurar uma magia, o mago pode gastar 2 pontos de mana para utilizar a tabela de magia selvagem. Esse efeito e limitado a uma vez por turno.
+**Ataque imbuido** Ao acertar um ataque fisico, o mago pode usar 3PM para golpear o inimigo acertado por uma onda de mana causando 1d8 de dano. Essa habilidade pode ser utilizada uma vez por turno
 ```
 **Modificador de magias**
 No segundo nível, o mago aprende a modificar a potencia dos seus feitiços utilizando variações na canalização 
@@ -75,7 +76,9 @@ id: XXa5JvkwzwklBQ8kXAGPj
 **Foco absoluto:** Consegue concentrar simultaneamente em duas magias, quando a concentraçao tenta ser encerrada forçadamente, o usuario realizar um teste de sintonia DT Dificil ao inves de encerrar a concentraçao imediatamente
 ===
 **Condutor sintrope**
-**Canalisador do caos:** Ao utilizar a tabela de magia selvagem, consegue utilizar o feitiço missel magico como feitiço leve no inimigo mais proximo ou sobrecura no aliado mais proximo. Esses feitiços nao contam para o maximo de magias conhecidas. O limite por turno de uso da tabela de magia selvagem se torna 2.
+**Canalisador do caos:** Ao utilizar a tabela de magia selvagem, consegue utilizar o feitiço missel magico em um inimigo no alcançe da magia. Esse feitiço nao conta para o maximo de feitiiços conhecidos. O maximo de usos por turno da tabela de magia selvagem se torna 2.
+**Vampirismo Sintropico**
+
 ```
 **Talento**
 No sexto nível, o personagem recebe um talento

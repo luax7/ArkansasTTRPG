@@ -28,4 +28,6 @@ Em um cenário urbano e natural possuir o mínimo para um bom descanso, assim, r
 
 # Ações em repouso
 Ações em repouso são ações que os personagens podem tomar em cenas de repouso garantindo vantagens e melhores condições de repouso. 
+
 **Canalizar** canalizando parte da mana que e direcionada a recuperação física, o personagem recupera +1 dado em PM e reduz um dado em PV
+

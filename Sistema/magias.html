@@ -52,6 +52,21 @@
         SpellContainer.classList.add("SpellContainer")
         MainContainer.appendChild(SpellContainer)
 
+        const name = document.createElement('h1')
+        SpellContainer.appendChild(name)
+        name.classList.add("name")
+        name.innerText = Magic.name
+
+        const cost = document.createElement('h1')
+        SpellContainer.appendChild(cost)
+        cost.classList.add("cost")
+        cost.innerText = Magic.cost
+
+        const type = document.createElement('h1')
+        SpellContainer.appendChild(type)
+        type.classList.add("type")
+        type.innerText = Magic.type
+
         return SpellContainer
     }
     function clearMain()
@@ -60,6 +75,16 @@
     }
 </script>
 <style>
-
+    body{
+        margin: 0%;
+        width: 100vw;
+        height: 100vh;
+    }
+    .Main{
+        width: 80vw;
+        height: 100vh;
+        display: flex;
+        flex-direction: row;
+    }
 </style>
 </html>

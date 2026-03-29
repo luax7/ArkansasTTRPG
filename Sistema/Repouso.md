@@ -35,4 +35,6 @@ Cada personagem pode realizar uma ação por repouso
 
 **Vigília** O personagem passa o tempo de descanso vigiando o local para ameaças. O grupo se torna imune a emboscadas, detectando ameaças a espreita. o personagem em vigília tem sua recuperação de vida reduzida em um dado
 
-**Tratar** O personagem trata algum aliado ou a si mesmo, recuperando
+**Tratar** O personagem trata algum aliado ou a si mesmo, recuperando 1d6+medicina do alvo, ou 2d8+medicina com um kit medico do alvo.
+
+**Ponderar** O personagem pondera sobre uma pista ou 

@@ -37,4 +37,8 @@ Cada personagem pode realizar uma ação por repouso
 
 **Tratar** O personagem trata algum aliado ou a si mesmo, recuperando 1d6+medicina do alvo, ou 2d8+medicina com um kit medico do alvo.
 
-**Ponderar** O personagem pondera sobre uma pista ou 
+**Ponderar** O personagem pondera sobre uma pista ou caso. Ganhando uma pista leve adicional (Cabendo ao mestre garantir ou não) e garantindo uma vantagem dinâmica para o próximo teste de investigação. Alternativamente, a vantagem expira no inicio do próximo repouso.
+
+**Sintonizar** O personagem sintoniza com as ondas de mana podendo selecionar entre os efeitos:
+- Vantagem dinâmica no próximo teste para conjurar uma magia
+- +2 Vantagem nos 3 próximos testes fixa no próximo teste de conjuração

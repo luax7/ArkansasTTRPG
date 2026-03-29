@@ -1,0 +1,1 @@
+Tratamento de aliados pode ser feito de varias formas, entretanto o tratamento imp

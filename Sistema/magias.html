@@ -22,73 +22,95 @@
     </div>
 </body>
 <script>
-    class Magic{
-        constructor(        name,
-        cost,
-        type,
-        components,
-        duration,
-        range,
-        modifiers){
-            this.name = name
-            this.type = type
-            this.components = components
-            this.duration = duration
-            this.range = range
-            this.modifiers = modifiers
+class Magic{
+    constructor(name, cost, type, components, duration, range, modifiers){
+        this.name = name
+        this.cost = cost
+        this.type = type
+        this.components = components
+        this.duration = duration
+        this.range = range
+        this.modifiers = modifiers
+    }
+}
+
+const MainContainer = document.getElementById("MainContainer")
+
+let AvailableSpells = []
+let SelectedSpells = []
+
+// =======================
+// LAYOUT CONTROL
+// =======================
+function setLayout(mode){
+    if(mode === "flex"){
+        MainContainer.style.display = "flex"
+        MainContainer.style.flexDirection = "column"
+    } else {
+        if(window.innerWidth > 600){
+            MainContainer.style.display = "grid"
+        } else {
+            MainContainer.style.display = "flex"
+            MainContainer.style.flexDirection = "column"
         }
-        name
-        cost
-        type
-        components
-        duration
-        range
-        modifiers
     }
-    const MainContainer = document.getElementById("MainContainer")
-    let AvailableSpells = []
-    function createMagicCard(Magic)
-    {
-        const SpellContainer = document.createElement('Div')
-        SpellContainer.classList.add("SpellContainer")
-        MainContainer.appendChild(SpellContainer)
+}
 
-        const name = document.createElement('h1')
-        SpellContainer.appendChild(name)
-        name.classList.add("name")
-        name.innerText = Magic.name
+// =======================
+// CREATE CARD
+// =======================
+function createMagicCard(Magic)
+{
+    const SpellContainer = document.createElement('div')
+    SpellContainer.classList.add("SpellContainer")
+    MainContainer.appendChild(SpellContainer)
 
-        const cost = document.createElement('h1')
-        SpellContainer.appendChild(cost)
-        cost.classList.add("cost")
-        cost.innerText = "Custo:" + Magic.cost
+    const name = document.createElement('h1')
+    name.classList.add("name")
+    name.innerText = Magic.name
 
-        const type = document.createElement('h1')
-        SpellContainer.appendChild(type)
-        type.classList.add("type")
-        type.innerText = Magic.type
+    const cost = document.createElement('h1')
+    cost.classList.add("cost")
+    cost.innerText = "Custo: " + Magic.cost
 
-        SpellContainer.addEventListener("click",(ev) => {
-            clearMain()
-            ShowSpell(Magic)
+    const type = document.createElement('h1')
+    type.classList.add("type")
+    type.innerText = Magic.type
 
-        })
+    SpellContainer.appendChild(name)
+    SpellContainer.appendChild(cost)
+    SpellContainer.appendChild(type)
 
-        return SpellContainer
-    }
-    function clearMain()
-    {
-        AvailableSpells = []
-        MainContainer.innerHTML = ""
-    }
-    function ShowSpell(Magic)
-    {
+    SpellContainer.addEventListener("click", () => {
+        clearMain()
+        setLayout("flex")
+        ShowSpell(Magic)
+    })
+
+    return SpellContainer
+}
+
+// =======================
+// CLEAR
+// =======================
+function clearMain()
+{
+    MainContainer.innerHTML = ""
+}
+
+// =======================
+// DETAIL VIEW
+// =======================
+function ShowSpell(Magic)
+{
     const container = document.createElement("div")
     container.classList.add("SpellDetails")
+
     const basicInfoDiv = document.createElement("div")
-    container.classList.add("basicInfoDiv")
+    basicInfoDiv.classList.add("basicInfoDiv")
+
     const ButtonsDiv = document.createElement("div")
-    container.classList.add("basicInfoDiv")
+    ButtonsDiv.classList.add("ButtonsDiv")
 
     const name = document.createElement("h1")
     name.innerText = Magic.name
@@ -105,22 +127,83 @@
     const range = document.createElement("p")
     range.innerText = "Alcance: " + Magic.range
 
+    // BOTÃO VOLTAR
+    const back = document.createElement('button')
+    back.innerText = "Voltar"
+
+    back.addEventListener("click", () => {
+        clearMain()
+        setLayout("grid")
+        renderAllSpells()
+    })
+
+    // BOTÃO ADD / REMOVE
+    const add = document.createElement('button')
+
+    function updateButton(){
+        if(SelectedSpells.includes(Magic)){
+            add.innerText = "Remover"
+        } else {
+            add.innerText = "Adicionar"
+        }
+    }
+
+    add.addEventListener("click", () => {
+        if(SelectedSpells.includes(Magic)){
+            SelectedSpells = SelectedSpells.filter(m => m !== Magic)
+        } else {
+            SelectedSpells.push(Magic)
+        }
+        updateButton()
+    })
+
+    updateButton()
+
+    // montagem
     basicInfoDiv.appendChild(name)
     basicInfoDiv.appendChild(cost)
     basicInfoDiv.appendChild(type)
     basicInfoDiv.appendChild(duration)
     basicInfoDiv.appendChild(range)
+
+    ButtonsDiv.appendChild(add)
+    ButtonsDiv.appendChild(back)
+
     container.appendChild(basicInfoDiv)
     container.appendChild(ButtonsDiv)
 
     MainContainer.appendChild(container)
-    const mode = MainContainer.style.display = "flex";
+}
 
-    }
-    function renderAllSpells(){
+// =======================
+// RENDER LIST
+// =======================
+function renderAllSpells(){
+    clearMain()
+    setLayout("grid")
     AvailableSpells.forEach(m => createMagicCard(m))
 }
 
+// =======================
+// INIT TEST DATA
+// =======================
+AvailableSpells.push(
+    new Magic("Fireball", 10, "Ataque", [], "Instantâneo", "Longo", []),
+    new Magic("Heal", 5, "Suporte", [], "Instantâneo", "Curto", []),
+    new Magic("Shield", 8, "Defesa", [], "10s", "Pessoal", [])
+)
+
+renderAllSpells()
+
+// =======================
+// RESPONSIVO DINÂMICO
+// =======================
+window.addEventListener("resize", () => {
+    // só muda layout se estiver na lista
+    if(MainContainer.children.length > 1){
+        setLayout("grid")
+    }
+})
 </script>
 <style>
     body{

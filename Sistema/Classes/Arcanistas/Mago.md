@@ -46,8 +46,8 @@ Ao conjurar uma magia, e possível aumentar dados de efeito de acordo com a segu
 | Dado efeito     | Custo de mana |
 | --------------- | ------------- |
 | d4              | +1            |
-| d6              | +3            |
-| d8              | +5            |
+| d6              | +2            |
+| d8              | +4            |
 | d10             | +6            |
 | d12             | +8            |
 | Turno (Duraçao) | +2            |

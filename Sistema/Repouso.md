@@ -7,7 +7,7 @@ Descreve cenas de repouso situadas no local de investigação, ou que apresenta 
 Cenas de descanso ativo recuperam (Por hora)
 - 1D6 PV (Max 4d6)
 - 1D8 PM (Max 4d8)
-- Todas habilidades que pedem "Um descanso curto" para serem restauradas
+- Recupera metade (Arredondando pra cima) das cargas de habilidades que pedem "Um descanso curto"
 
 **descanso passivo**
 Descreve cenas de repouso situadas em locais seguros. O descanso passivo pode durar no máximo 6 Horas, antes de ser considerada uma cena de descanso completo.
@@ -23,6 +23,6 @@ Descreve cenas de repouso longas e seguras. O descanso completo pode durar o que
 # Regalias
 Em um cenário urbano, e natural possuir o mínimo para um bom descanso, assim, recuperando mais recursos em um descanso.
 
-**Conforto** Camas, Sofás, colchonetes tudo onde se pode deitar e relaxar um pouco. +5 de recuperação de vida, +5 recuperação de mana
+**Conforto** Camas, Sofás, colchonetes tudo onde se pode deitar e relaxar um pouco. +5 PV, +5PM
 
-**Comida** Algo para comer enquanto descansa
+**Comida** Algo para comer enquanto descansa, revitalizando o personagem. +5 PV, +5PM

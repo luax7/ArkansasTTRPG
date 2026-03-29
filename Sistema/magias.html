@@ -236,6 +236,18 @@ renderAllSpells(AvailableSpells)
 //==================
 //Selecionar magias disponiveis da lista de magias
 //==================
+let Filters = []
+function applyFilters(){
+    FilteredSpells = AvailableSpells.filter(spell => {
+        return Filters.every(filterFn => filterFn(spell))
+    })
+
+    renderAllSpells(FilteredSpells)
+}
+
+//Criar uma funçao que procura na lista availableSpells, para cada magia, passa-a em um filtro que garante que todas
+//as expressoes armazenas dentro da array filters retornam true
+
 window.addEventListener("resize", () => {
     // só muda layout se estiver na lista
     if(MainContainer.children.length > 1){

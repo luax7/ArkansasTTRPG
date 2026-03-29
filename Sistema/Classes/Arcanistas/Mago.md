@@ -43,13 +43,14 @@ id: XMq-dfUsFy8O8E1KlKFYS
 No segundo nível, o mago aprende a modificar a potencia dos seus feitiços utilizando variações na canalização 
 Ao conjurar uma magia, e possível aumentar dados de efeito de acordo com a seguinte tabela
 
-| Dado efeito | Custo de mana |
-| ----------- | ------------- |
-| d4          | +1            |
-| d6          | +3            |
-| d8          | +5            |
-| d10         | +6            |
-| d12         | +8            |
+| Dado efeito     | Custo de mana |
+| --------------- | ------------- |
+| d4              | +1            |
+| d6              | +3            |
+| d8              | +5            |
+| d10             | +6            |
+| d12             | +8            |
+| Turno (Duraçao) | +2            |
 
 da mesma forma, pode ser aumentada a duração máxima de uma magia.
 

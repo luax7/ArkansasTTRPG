@@ -42,11 +42,25 @@ As desvantagens, diferente de sistemas onde são expressas em menos dados, são 
 	Recebe uma desvantagem de numero fixo sobre uma rolagem(Ex: -2)
 - Desvantagem Nêmesis
 	Uma desvantagem nêmesis e uma desvantagem dinâmica, que onera mais personagens tentando realizar ações mais difíceis
-	
-| Dificuldade de teste | Desvantagem |
-| -------------------- | ----------- |
-| 7 Ou menor           | -2          |
-|                      |             |
+	A desvantagem nêmesis busca diminuir em ±10% a chance de um teste ter sucesso
+
+| Dificuldade      | DT  | Desvantagem |
+| ---------------- | --- | ----------- |
+| **Pessoa comum** |     |             |
+| Indiferente      | 4   | -2          |
+| Facil            | 5   |             |
+| Normal           | 7   |             |
+| Dificil          | 9   |             |
+| Impossível       | 11  |             |
+| **Treinado**     |     |             |
+| Familiar         | 10  |             |
+| Perito           | 12  |             |
+| Especialista     | 14  |             |
+| **Mestre**       |     |             |
+| Figura influente | 14  |             |
+| Mestre           | 16  |             |
+| Mestre mundial   | 17  |             |
+
 
 ### Acertos críticos
 Um acerto critico ocorre quando o resultado de pelo menos dois D6 é 6

@@ -4,4 +4,4 @@ Talentos são a forma de especialização dos personagens, garantindo personagen
 # Talentos anatômicos
 
 # Talentos arcanos
-
+Adepto Arcano

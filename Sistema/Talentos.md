@@ -3,5 +3,8 @@ Talentos são a forma de especialização dos personagens, garantindo personagen
 # Talentos de combate
 # Talentos anatômicos
 **Retro-alimentadores instalados**
+**Pele de prata**
+
 # Talentos arcanos
-Iniciado arcano
+**Iniciado arcano**
+**Contrato Arcano**

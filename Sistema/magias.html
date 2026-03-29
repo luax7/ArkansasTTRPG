@@ -60,7 +60,7 @@
         const cost = document.createElement('h1')
         SpellContainer.appendChild(cost)
         cost.classList.add("cost")
-        cost.innerText = Magic.cost
+        cost.innerText = "Custo:" + Magic.cost
 
         const type = document.createElement('h1')
         SpellContainer.appendChild(type)
@@ -94,6 +94,7 @@
         display: flex;
         border: 3px black;
         border-radius: 10px;
+        flex-direction: row;
     }
     .SpellContainer{
         width: 40%;
@@ -102,29 +103,37 @@
         border: black 2px;
         border-radius: 10px;
     }
-    @media screen and (max-width:475px){
+    @media screen and (max-width:600px){
         .SpellContainer{
         width: 100%;
-        height: 100px;
+        height: 20%;
         max-width: 1000px;
-        border: black 2px;
+        border: black 2px solid;
         border-radius: 10px;
         margin: 2%;
         display: flex;
         flex-direction: column;
         }
-
+        #MainContainer{
+            flex-direction: column;
+        }
     }
     .cost{
         font-size: 2rem;
+        margin-left:5%;
     }
     .name{
         font-size: 3rem;
+        margin-left:5%;
+        margin-top: 5%;
     }
     .type{
         font-size: 1rem;
+        margin-left:5%;
     }
-
+    h1{
+        margin: 0px;
+    }
 
     .toolbar{
         width: 100%;

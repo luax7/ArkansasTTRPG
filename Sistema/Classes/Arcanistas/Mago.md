@@ -35,7 +35,7 @@ id: XMq-dfUsFy8O8E1KlKFYS
 Ao causar dano com uma magia pode utilizar 2PM. O inimigo acertado adquire o efeito ressonante ate o fim do proximo turno. Ao causar dano magico em um alvo ressonante recebe +1d6 de dano e ignora 2 de defesa proveniente de coberturas
 ===
 **Tecelao do fluxo**
-**Proteçao dupla:** Conjurar feitiços que causam efeitos positivos a aliados ou defensivos geram pontos de vida temporarios igual ao modificador de sintonia
+**Reciclagem arcana**:Quando uma magia de concentraçao acaba de qualquer forma, pode aplicar o efeito da magia
 ===
 **Condutor sintrope**
 **Magia selvagem:** Ao conjurar uma magia, o mago pode gastar 2 pontos de mana para utilizar a tabela de magia selvagem. Esse efeito e limitado a uma vez por turno.

@@ -16,4 +16,11 @@ Recebe +2 para a conjuração de magias. recebe vantagem dinâmica em testes de 
 
 # Talentos arcanos
 **Iniciado arcano**
+Através de estudo de estudo, meditação ou mutação corpórea. o corpo ou mente do personagem desenvolveu uma capacidade anormal de conjuração.
+Recebe a habilidade [^1]**Conjuração** 
 **Contrato Arcano**
+Através de alguma experiencia arcana, recebe a oportunidade de realizar um contrato com uma entidade arcana.
+
+Ganha um contrato com uma entidade da lista [[Pactuario#Entidades para contrato|Entidades arcanas]], recebe a habilidade **Conjuração**, o atributo de conjuração se torna negociação 
+
+[^1]: 

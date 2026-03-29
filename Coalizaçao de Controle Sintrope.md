@@ -1,23 +1,6 @@
-# Coalizaçao de controle sintrope
+# Fundação e Contexto Histórico
 
-## Fundação e Contexto Histórico
-
-A **Coalizão Global de Vigilância e Contenção Sintrope (CGVCS)** foi formalmente estabelecida no ano de **1897**, como resposta direta ao aumento exponencial de incidentes relacionados aos chamados _Fenômenos Sintropes Ativos_.
-
-Durante as décadas que sucederam o Evento do Pilar de Mármore em 1851, a comunidade internacional tratou a magia como uma curiosidade científica ou uma vantagem militar emergente. No entanto, por volta de **1870–1890**, tornou-se evidente que os efeitos sintropes não apenas persistiam — eles **escalavam em complexidade, agressividade e imprevisibilidade**.
-
-Relatórios fragmentados da época descrevem:
-
-- Cidades inteiras evacuadas devido a fauna alterada
-- Surgimento de organismos classificados posteriormente como **Daimônicos e Dracônicos**
-- Incidentes de colapso estrutural causados por distorções espaciais localizadas
-- Uso experimental e não regulamentado de entidades sintropes como armamento
-
-A ausência de padronização e cooperação internacional levou a uma série de eventos catastróficos, culminando no que hoje é conhecido como **Crise de Viena (1896)** — um incidente envolvendo a liberação acidental de uma entidade sintrope em ambiente urbano, resultando em centenas de mortes e na completa inutilização de um distrito industrial.
-
-A crise serviu como catalisador político.
-
-No ano seguinte, representantes de 23 nações assinaram o **Tratado de Contenção e Vigilância Arcana**, estabelecendo oficialmente a Coalizão.
+A **Coalizão Global de Vigilância e Contenção Sintrope (CGVCS)** foi formalmente estabelecida no ano de **1905**, como resposta direta ao aumento exponencial de incidentes relacionados aos chamados _Fenômenos Sintropes Ativos_.
 
 ---
 
@@ -33,12 +16,6 @@ Captura, neutralização ou isolamento de entidades e fenômenos considerados pe
 
 **3. Redistribuição Científica Controlada**  
 Encaminhamento de espécimes, artefatos e dados para instituições autorizadas, com o objetivo de avanço científico e desenvolvimento tecnológico.
-
-Apesar da formulação oficial, documentos internos indicam uma interpretação mais pragmática:
-
-> “Aquilo que não pode ser eliminado, deve ser controlado.  
-> Aquilo que não pode ser controlado, deve ser compreendido.”  
-> — Diretriz Operacional 3.1
 
 ---
 

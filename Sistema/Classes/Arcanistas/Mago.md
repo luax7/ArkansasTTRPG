@@ -30,7 +30,7 @@ No segundo nível o mago ganha uma habilidade de um dos três arquétipos
 id: XMq-dfUsFy8O8E1KlKFYS
 ===
 **Canalizador da ruina**
-**Magia melhorada** : Conjurar utilizando um cajado permite criar bolsoes de segurança contra as suas magias, permitindo a segurança de objetos e criaturas na area.
+**Magia melhorada** : Conjurar utilizando um cajado permite criar bolsoes de segurança para magias, permitindo a segurança de objetos e criaturas na area de destruiçao.
 **Ressonancia destrutiva**
 Ao causar dano com uma magia pode utilizar 2PM. O inimigo acertado adquire o efeito ressonante ate o fim do proximo turno. Ao causar dano magico em um alvo ressonante recebe +1d6 de dano e ignora 2 de defesa proveniente de coberturas
 ===

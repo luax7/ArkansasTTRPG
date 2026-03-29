@@ -1,4 +1,5 @@
-*Armas de fogo*
+# *Armas de fogo*
+*Armas de longa distancia*
 
 | Equipamento     | Peso  | Dano    | Capacidade | Modificadores | Preço |
 | --------------- | ----- | ------- | ---------- | ------------- | ----- |
@@ -9,7 +10,8 @@
 | Rifle Pesado    | 3Kg   | 2D10    | 5          |               | 50$   |
 | Pistola         | 1Kg   | 1D6     | 12         |               | 20$   |
 | Granada         | 0,5Kg | 2D6     | -          | Circulo3x3    | 20$   |
-*Armas físicas*
+# *Armas físicas*
+*armas corpo a corpo*
 
 | Equipamento       | Peso  | Dano      | Modificadores           | Preço |
 | ----------------- | ----- | --------- | ----------------------- | ----- |
@@ -22,7 +24,9 @@
 | Machado           | 1Kg   | 1D10      | Arremessavel            | 20$   |
 | Florete           | 0,5Kg | 1D8       | Acuidade                | 30$   |
 |                   |       |           |                         |       |
-*Equipamentos*
+|                   |       |           |                         |       |
+# *Equipamentos*
+*Itens utilizáveis*
 
 | Equipamentos             | Peso  | Modificadores    | Preço |
 | ------------------------ | ----- | ---------------- | ----- |
@@ -35,7 +39,7 @@
 | Corda                    | 1Kg/M |                  | 20$   |
 | Pe de cabra              | 1Kg   | Arma improvisada | 20$   |
 | Armadilha de urso        | 1Kg   |                  | 10$   |
-### *Proteções*
+# *Proteções*
 *Armaduras*
 
 | Armadura           | Defesa        | Modificadores                                | Peso | Preço |

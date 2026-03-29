@@ -52,35 +52,35 @@ stats:
   - 1
   - 3
 vigor:
-  - 6
-  - 2
-  - 1
-  - 1
-  - 3
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
 agilidade:
-  - 6
-  - 2
-  - 1
-  - 1
-  - 3
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
 intelecto:
-  - 6
-  - 2
-  - 1
-  - 1
-  - 3
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
 presença:
-  - 6
-  - 2
-  - 1
-  - 1
-  - 3
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
 sintonia:
-  - 6
-  - 2
-  - 1
-  - 1
-  - 3
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
 senses: visao noturna 120 metros, percepçao passiva 13
 
 bestiary: true

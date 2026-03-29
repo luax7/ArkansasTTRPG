@@ -32,7 +32,7 @@ id: XMq-dfUsFy8O8E1KlKFYS
 **Canalizador da ruina**
 **Magia melhorada** : Conjurar utilizando um cajado permite criar bolsoes de segurança contra as suas magias, permitindo a segurança de objetos e criaturas na area.
 **Ressonancia destrutiva**
-Ao causar dano com uma magia, um alvo adquire o efeito ressonante ate o fim do proximo turno. Ao causar dano magico em um alvo ressonante recebe +1d6 de dano e ignora 2 de defesa proveniente de coberturas
+Ao causar dano com uma magia pode utilizar 2PM. O inimigo acertado adquire o efeito ressonante ate o fim do proximo turno. Ao causar dano magico em um alvo ressonante recebe +1d6 de dano e ignora 2 de defesa proveniente de coberturas
 ===
 **Tecelao do fluxo**
 **Proteçao dupla:** Conjurar feitiços que causam efeitos positivos a aliados ou defensivos geram pontos de vida temporarios igual ao modificador de sintonia
@@ -76,6 +76,8 @@ id: XXa5JvkwzwklBQ8kXAGPj
 ===
 **Canalizador da ruina**
 **Descarga concentrada:** Ao usar essa habilidade o personagem pode conjurar um ataque com o dano dobrado. Ao utilizar essa habilidade, o jogador nao pode conjurar magias ate o proximo turno. Essa deve ser a primeira açao do turno.
+**Colapso arcano**
+Ao causar dano em um inimigo marcado pode utilizar uma açao para causar +2 dados de dano. Apos isso o inimigo realiza um teste de resistencia, se ele falhar perde dois de defesa ate o fim do turno
 ===
 **Tecelao do fluxo**
 **Foco absoluto:** Consegue concentrar simultaneamente em duas magias, quando a concentraçao tenta ser encerrada forçadamente, o usuario realizar um teste de sintonia DT Dificil ao inves de encerrar a concentraçao imediatamente

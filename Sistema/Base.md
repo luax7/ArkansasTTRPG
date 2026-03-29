@@ -2,18 +2,26 @@ A base fundamental do sistema Arkansas se trata de entender que o sistema não �
 
 Arkansas funciona com base em 2D6. Essa decisão foi feita pra criar maior consistência nas rolagens ( Tendencia a rolagens medias ) 
 
-Essas rolagens são utilizadas para realizar ações contra o ambiente, cada ação tem sua dificuldade
+Essas rolagens são utilizadas para realizar ações contra o ambiente, cada ação tem sua dificuldade.
 
-| Dificuldade  | Rolagem | Chance    |
-| ------------ | ------- | --------- |
-| Indiferente  | 4       | 0 \| 90%  |
-| Facil        | 5       | 0 \| 80%  |
-| Normal       | 7       | 0 \| 60%  |
-| Dificil      | 9       | 0 \| 30%  |
-| Impossível   | 11      | 0 \| 10%  |
-| Perito       |         | +4 \| 50% |
-| Especialista |         | +4 \| 25% |
-| Lendario     |         | +4 \| 10% |
+A tabela a seguir foi criada com a intenção de prover um entendimento logico das dificuldades. Em uma campanha, os testes tendem a dificuldade normal a especialista, e portanto, as dificuldades abaixo e acima servem mais como parâmetro.
+
+| Dificuldade      | Rolagem | Modificador | Chance(±) |
+| ---------------- | ------- | ----------- | --------- |
+| **Pessoa comum** |         |             |           |
+| Indiferente      | 4       | 0           | 90%       |
+| Facil            | 5       | 0           | 80%       |
+| Normal           | 7       | 0           | 60%       |
+| Dificil          | 9       | 0           | 30%       |
+| Impossível       | 11      | 0           | 10%       |
+| **Treinado**     |         |             |           |
+| Familiar         |         | 4           |           |
+| Perito           |         | 4           | 70%       |
+| Especialista     |         | 4           | 50%       |
+|                  |         |             |           |
+| **Mestre**       |         |             |           |
+|                  |         | 6           |           |
+|                  |         | 6           |           |
 
 As rolagens somam com as características básicas do personagem como [[Atributos]], [Pericias](Atributos.md), [[Talentos]] e outras características de classe
 

@@ -36,7 +36,7 @@ class Magic{
 }
 
 const MainContainer = document.getElementById("MainContainer")
-
+let FilteredSpells = []
 let AvailableSpells = []
 let SelectedSpells = []
 
@@ -139,7 +139,7 @@ function ShowSpell(Magic)
     back.addEventListener("click", () => {
         clearMain()
         setLayout("grid")
-        renderAllSpells(AvailableSpells)
+        renderAllSpells(FilteredSpells)
     })
 
     // BOTÃO ADD / REMOVE
@@ -193,7 +193,7 @@ function renderAllSpells(List){
 // =======================
 // INIT TEST DATA
 // =======================
-AvailableSpells.push(
+FilteredSpells.push(
     new Magic(
         "Fireball",
         10,
@@ -225,12 +225,17 @@ AvailableSpells.push(
         "Cria uma barreira mágica que absorve dano por um curto período."
     )
 )
+AvailableSpells = FilteredSpells
 
 renderAllSpells(AvailableSpells)
 
 // =======================
 // RESPONSIVO DINÂMICO
 // =======================
+
+//==================
+//Selecionar magias disponiveis da lista de magias
+//==================
 window.addEventListener("resize", () => {
     // só muda layout se estiver na lista
     if(MainContainer.children.length > 1){

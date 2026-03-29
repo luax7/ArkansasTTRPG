@@ -51,6 +51,7 @@ Realiza uma finta contra um inimigo no alcance de ataque. Seu proximo ataque pos
 **Custo:4PM, uma açao**
 Ao atacar um inimigo, e possivel escolher outro inimigo a 1,5 metros do alvo inicial, e acerta-lo causando metade do dano
 ```
+
 ### Habilidade de arquétipo
 No segundo nível, o lutador se especializa em um estilo de luta, tomando uma função na linha de frente.
 ```columns

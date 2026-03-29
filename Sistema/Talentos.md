@@ -2,6 +2,10 @@ Talentos são adaptações dos personagens de Arkansas. Seja através de treinam
 Normalmente, talentos são concedidos no primeiro, terceiro e sexto nível de progresso do personagem.
 # Talentos de perito
 # Talentos de combate
+**Treinamento marcial**
+Através de intenso treinamento, o personagem se especializa em manobras de combate.
+
+Recebe duas manobras da lista de manobras do [[Lutador#Combate marcial]]
 # Talentos anatômicos
 **Retro alimentadores sintropes**
 Através da instalação de minúsculos implantes de SAS próximo ao coração, o magiarca se torna naturalmente mais capaz de sentir e sintonizar ao fluxo da mana.

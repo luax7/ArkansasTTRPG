@@ -10,7 +10,7 @@ Essas transformações podem ser caracterizadas por capacidades ou afinidades ge
 ![[Mattus Green#🌌 Despertar Mágico]]
 
 # Classificação
-Os Magiarcas foram classificados pela [[Coalização global arcana militar CAMG |CAMG]] em diversos grupos diferentes, de acordo com sua capacidade magica ou característica, sendo eles
+Os Magiarcas foram classificados pela [[Coalizaçao de Controle Sintrope|CAMG]] em diversos grupos diferentes, de acordo com sua capacidade magica ou característica, sendo eles
 
 a classificação segue um padrão similar ao de [[Historia base#📚 Elementos a Desenvolver |Classificação de animais mágicos]]. Porem, e entendido que os humanos ao avançar de categoria, não metabolizam melhor a mana, mas sim fazem-na parte da sua própria existência.
 

@@ -87,7 +87,7 @@ Perfeito! Aqui está uma estrutura inicial para seu setting, com base no que voc
     - Cada uma pode ter riscos e benefícios distintos
         
 3. **Facções**
-	  **[[Coalização global arcana militar CAMG]]**
+	  **[[Coalizaçao de Controle Sintrope]]**
 	  **[[A máfia russa]]**
 
 4. **Possível Mistério Central**

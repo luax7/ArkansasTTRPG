@@ -6,7 +6,7 @@ Essas rolagens são utilizadas para realizar ações contra o ambiente, cada aç
 
 | Dificuldade | Rolagem |
 | ----------- | ------- |
-| Indiferente | 4       |
+| Indiferente | 6       |
 | Facil       | 6       |
 | Normal      | 8       |
 | Dificil     | 12      |

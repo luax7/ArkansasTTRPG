@@ -93,7 +93,7 @@ Ao acertar um ataque fisico pode utilizar 3PM para realizar uma das seguintes a�
 Essa habilidade pode ser utilizada uma vez por turno
 ```
 **Talento**
-No sexto nível, o personagem recebe um talento
+No sexto nível, o personagem recebe um talento da lista de [[Talentos]] disponíveis
 # Tabela de magia selvagem
 
 | `dice: d20` | Magia selvagem           | Efeito                                                                                       |

@@ -28,7 +28,7 @@ As rolagens somam com as características básicas do personagem como [[Atributo
 
 
 > [!NOTE] Criando personagens
-> Para começar a criação de um personagem, referir ao guia [[Criando um persongem]]
+> Para começar a criação de um personagem, referir ao guia [[Criando um personagem]]
 
 
 ### Vantagem
@@ -56,7 +56,7 @@ Uma falha critica no combate entrega o efeito "Falha catastrófica" ao personage
 [[Combate]]
 [[Perseguição]]
 [[Equipamentos]]
-[[Classe]]
+[[Criando um personagem]]
 [[Sistema Nêmesis]]
 - Criação de eventos narrativos
 

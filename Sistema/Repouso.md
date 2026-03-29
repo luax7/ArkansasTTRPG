@@ -16,7 +16,9 @@ Cenas de descanso passivo recuperam (Por hora)
 - 1D12 PM (Max 4d12)
 - Todas habilidades que pedem "Um descanso curto" para serem restauradas
 **descanso completo**
-Descreve cenas de repouso longas e seguras. O descanso completo pode durar o que for necessário com mínimo 4 horas, e geralmente ocorre em interlúdios entre investigações e cenários
+Descreve cenas de repouso longas e seguras. O descanso completo pode durar o que for necessário com mínimo 8 horas, e geralmente ocorre em interlúdios entre investigações e cenários
 - Recupera completamente pontos de vida
 - Recupera completamente pontos de Mana
-- Todas habilidades que pedem "Um descanso curto" para serem restauradas
+- Todas habilidades que pedem "Um descanso curto" ou "Um descanso longo" para serem restauradas
+# Regalias
+Em um cenário urbano, e natural possuir 

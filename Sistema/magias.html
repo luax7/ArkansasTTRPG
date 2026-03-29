@@ -13,7 +13,7 @@
                 <li class="filter">filtrar</li>
             </ul>
         </div>
-        <div class="container">
+        <div class="container" id="MainContainer">
 
         </div>
     </div>
@@ -23,8 +23,19 @@
 </body>
 <script>
     class Magic{
-        constructor(){
-
+        constructor(        name,
+        cost,
+        type,
+        components,
+        duration,
+        range,
+        modifiers){
+            this.name = name
+            this.type = type
+            this.components = components
+            this.duration = duration
+            this.range = range
+            this.modifiers = modifiers
         }
         name
         cost
@@ -34,9 +45,13 @@
         range
         modifiers
     }
-
-
-    function createMagicCard()
+    const MainContainer = document.getElementById("MainContainer")
+    function createMagicCard(Magic)
+    {
+        const SpellContainer = document.createElement('Div')
+        SpellContainer.classList.add("SpellContainer")
+    }
+    function clearMain()
     {
 
     }

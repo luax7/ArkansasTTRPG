@@ -23,7 +23,7 @@
 </body>
 <script>
 class Magic{
-    constructor(name, cost, type, components, duration, range, modifiers){
+    constructor(name, cost, type, components, duration, range, modifiers, description){
         this.name = name
         this.cost = cost
         this.type = type
@@ -31,6 +31,7 @@ class Magic{
         this.duration = duration
         this.range = range
         this.modifiers = modifiers
+        this.description = description
     }
 }
 
@@ -127,14 +128,18 @@ function ShowSpell(Magic)
     const range = document.createElement("p")
     range.innerText = "Alcance: " + Magic.range
 
+    const description = document.createElement("p")
+    description.innerText = "Descrição: " + Magic.description
+    description.classList.add("description")
+
     // BOTÃO VOLTAR
     const back = document.createElement('button')
     back.innerText = "Voltar"
-
+    
     back.addEventListener("click", () => {
         clearMain()
         setLayout("grid")
-        renderAllSpells()
+        renderAllSpells(AvailableSpells)
     })
 
     // BOTÃO ADD / REMOVE
@@ -165,6 +170,7 @@ function ShowSpell(Magic)
     basicInfoDiv.appendChild(type)
     basicInfoDiv.appendChild(duration)
     basicInfoDiv.appendChild(range)
+    basicInfoDiv.appendChild(description)
 
     ButtonsDiv.appendChild(add)
     ButtonsDiv.appendChild(back)
@@ -178,22 +184,49 @@ function ShowSpell(Magic)
 // =======================
 // RENDER LIST
 // =======================
-function renderAllSpells(){
+function renderAllSpells(List){
     clearMain()
     setLayout("grid")
-    AvailableSpells.forEach(m => createMagicCard(m))
+    List.forEach(m => createMagicCard(m))
 }
 
 // =======================
 // INIT TEST DATA
 // =======================
 AvailableSpells.push(
-    new Magic("Fireball", 10, "Ataque", [], "Instantâneo", "Longo", []),
-    new Magic("Heal", 5, "Suporte", [], "Instantâneo", "Curto", []),
-    new Magic("Shield", 8, "Defesa", [], "10s", "Pessoal", [])
+    new Magic(
+        "Fireball",
+        10,
+        "Ataque",
+        [],
+        "Instantâneo",
+        "Longo",
+        [],
+        "Uma explosão de fogo que causa dano em área e pode incendiar inimigos."
+    ),
+    new Magic(
+        "Heal",
+        5,
+        "Suporte",
+        [],
+        "Instantâneo",
+        "Curto",
+        [],
+        "Restaura a vitalidade de um aliado, fechando feridas leves."
+    ),
+    new Magic(
+        "Shield",
+        8,
+        "Defesa",
+        [],
+        "10s",
+        "Pessoal",
+        [],
+        "Cria uma barreira mágica que absorve dano por um curto período."
+    )
 )
 
-renderAllSpells()
+renderAllSpells(AvailableSpells)
 
 // =======================
 // RESPONSIVO DINÂMICO

@@ -28,7 +28,7 @@ Em um cenário urbano e natural possuir o mínimo para um bom descanso, assim, r
 
 **Luxo** Boa musica, comida gourmet e conforto luxuoso. O personagem se recupera muito mais tranquilamente. +10PV, +3PM
 
-**Ambiente arcano** Ambientes muito perturbados por conjuraçao ou comba
+**Ambiente arcano** Ambientes muito perturbados por conjuração ou combate tendem a garantir uma permeação arcana melhor. Personagens descansando nesse ambiente recuperam mais mana. +5PM
 # Ações em repouso
 Ações em repouso são ações que os personagens podem tomar em cenas de repouso garantindo vantagens e melhores condições de repouso. 
 
@@ -46,4 +46,3 @@ Cada personagem pode realizar uma ação por repouso
 - Vantagem dinâmica no próximo teste para conjurar uma magia
 - +2 Vantagem nos 3 próximos testes fixa no próximo teste para conjurar uma magia
 - Trocar ate duas magias da lista de magia.
-

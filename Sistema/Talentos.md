@@ -3,6 +3,7 @@ Talentos são a forma de especialização dos personagens, garantindo personagen
 # Talentos de combate
 # Talentos anatômicos
 **Retro-alimentadores instalados**
+Através da instalação de minúsculos implantes de SAS no cerebro, o magiarca se torna naturalmente mais a
 **Pele de prata**
 
 # Talentos arcanos

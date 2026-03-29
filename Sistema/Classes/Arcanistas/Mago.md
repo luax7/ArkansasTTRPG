@@ -2,11 +2,11 @@ Magos são especialistas no arcano, capazes de tanta destruição quanto consert
 
 | Nivel | Habilidades Adquiridas                         | Magias conhecidas |
 | ----- | ---------------------------------------------- | ----------------- |
-| 1     | Talento, Conjuração                            | 2                 |
-| 2     | Habilidade de arquétipo, Modificador de magias | 3                 |
-| 3     | Talento, Recuperar mana                        | 4                 |
-| 4     | Aumento de habilidade                          | 6                 |
-| 5     | Habilidade de arquetipo                        | 6                 |
+| 1     | Talento, Conjuração                            | 4                 |
+| 2     | Habilidade de arquétipo, Modificador de magias | 5                 |
+| 3     | Talento, Recuperar mana                        | 6                 |
+| 4     | Aumento de habilidade                          | 7                 |
+| 5     | Habilidade de arquetipo                        | 8                 |
 | 6     | Talento                                        | 8                 |
 **Pontos de vida iniciais 8 + Vigor**
 *Pontos de vida nos próximos níveis 4+Vigor*
@@ -22,6 +22,7 @@ No primeiro, terceiro e sexto nível, o personagem ganhar um talento da lista de
 **Conjuração** 
 No primeiro nível, o mago se torna capaz de conjurar feitiços simples para combate e fortalecimento.
 Atributo para conjuração : Sintonia
+No primeiro nível, o mago conhece 4 magias.
 
 **Habilidade de arquétipo**
 No segundo nível o mago ganha uma habilidade de um dos três arquétipos

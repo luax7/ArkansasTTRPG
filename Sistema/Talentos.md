@@ -6,6 +6,11 @@ Normalmente, talentos são concedidos no primeiro, terceiro e sexto nível de pr
 Através de intenso treinamento, o personagem se especializa em manobras de combate.
 
 Recebe duas manobras da lista de manobras do [[Lutador#Combate marcial|Lutador]]
+
+**Akimbo** 
+Através de treino em ambidestria e controle de recuo, o personagem se torna capaz de utilizar eficientemente duas armas de uma mão
+
+Recebe vantagem +2 em testes de pontaria quando duas armas de uma ma
 # Talentos anatômicos
 **Retro alimentadores sintropes**
 Através da instalação de minúsculos implantes de SAS próximo ao coração, o magiarca se torna naturalmente mais capaz de sentir e sintonizar ao fluxo da mana.
@@ -17,10 +22,13 @@ Recebe +2 para a conjuração de magias. recebe vantagem dinâmica em testes de 
 # Talentos arcanos
 **Iniciado arcano**
 Através de estudo de estudo, meditação ou mutação corpórea. o corpo ou mente do personagem desenvolveu uma capacidade anormal de conjuração.
-Recebe a habilidade [^1]**Conjuração** 
+
+Recebe a habilidade **Conjuração**[^1], ao receber o talento, o personagem recebe conhecimento de duas magias. o atributo de conjuração se torna conjuração
+
 **Contrato Arcano**
 Através de alguma experiencia arcana, recebe a oportunidade de realizar um contrato com uma entidade arcana.
 
-Ganha um contrato com uma entidade da lista [[Pactuario#Entidades para contrato|Entidades arcanas]], recebe a habilidade **Conjuração**, o atributo de conjuração se torna negociação 
+Ganha um contrato com uma entidade da lista [[Pactuario#Entidades para contrato|Entidades arcanas]], recebe a habilidade **Conjuração**[^1], o atributo de conjuração se torna negociação 
 
-[^1]: 
+[^1]: **Habilidade: Conjuração** 
+O personagem se torna capaz de conjurar feitiços simples para combate e fortalecimento. 

@@ -10,7 +10,7 @@ Recebe duas manobras da lista de manobras do [[Lutador#Combate marcial|Lutador]]
 **Akimbo** 
 Através de treino em ambidestria e controle de recuo, o personagem se torna capaz de utilizar eficientemente duas armas de uma mão
 
-Recebe vantagem +2 em testes de pontaria quando duas armas de uma ma
+Recebe vantagem +2 em testes de pontaria quando duas armas de uma mão estão equipadas. Testes de ataque realizados com a arma na mão não dominante somam com a pericia de pontaria
 # Talentos anatômicos
 **Retro alimentadores sintropes**
 Através da instalação de minúsculos implantes de SAS próximo ao coração, o magiarca se torna naturalmente mais capaz de sentir e sintonizar ao fluxo da mana.

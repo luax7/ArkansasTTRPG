@@ -1,13 +1,13 @@
 ## 1. CLASSES (ou Arquétipos)
 
 - [ ]  Existem classes fixas, ou são arquétipos flexíveis?
-- [ ]  Classes são baseadas em:
-    - [ ]  Combate
-    - [ ]  Magia
-    - [ ]  Social
+- [x]  Classes são baseadas em:
+    - [x]  Combate
+    - [x]  Magia
+    - [x]  Social
     - [ ]  Investigação
-- [ ]  Progressão:
-    - [ ]  Níveis?
+- [x]  Progressão:
+    - [x]  Níveis?
     - [ ]  Evolução por uso?
     - [ ]  Mutação (Sintropia)?
 - [ ]  Existe mistura de classes (multiclasse)?
@@ -24,20 +24,20 @@
 
 ## 🔮 2. SISTEMA MODULAR DE MAGIA
 
-- [ ]  Magia é:
+- [x]  Magia é:
     - [ ]  Livre (criação na hora)
     - [ ]  Lista de habilidades
-    - [ ]  Combinação de módulos (recomendado)
-- [ ]  Componentes da magia:
-    - [ ]  Fonte (mana, item, corpo)
-    - [ ]  Forma (projetil, área, toque)
-    - [ ]  Efeito (dano, controle, alteração)
-- [ ]  Custo:
-    - [ ]  Energia?
-    - [ ]  Risco de Sintropia?
-- [ ]  Falha mágica gera:
+    - [x]  Combinação de módulos (recomendado)
+- [x]  Componentes da magia:
+    - [x]  Fonte (mana, item, corpo)
+    - [x]  Forma (projetil, área, toque)
+    - [x]  Efeito (dano, controle, alteração)
+- [x]  Custo:
+    - [x]  Energia?
+    - [x]  Risco de Sintropia?
+- [x]  Falha mágica gera:
     - [ ]  Mutação?
-    - [ ]  Instabilidade mental?
+    - [x]  Instabilidade mental?
 
 💡 MUITO IMPORTANTE no seu mundo:  
 → Magia deve sempre ter **risco de transformação (Magiarca)**
@@ -46,17 +46,17 @@
 
 ## ⚔️ 3. COMBATE DINÂMICO
 
-- [ ]  Turnos ou tempo contínuo?
-- [ ]  Tipos de ação:
-    - [ ]  Ação principal
-    - [ ]  Ação rápida
-    - [ ]  Reação
+- [x]  Turnos ou tempo contínuo?
+- [x]  Tipos de ação:
+    - [x]  Ação principal
+    - [x]  Ação rápida
+    - [x]  Reação
 - [ ]  Posicionamento importa?
-- [ ]  Existe stamina / esforço?
-- [ ]  Combate permite:
+- [x]  Existe stamina / esforço?
+- [x]  Combate permite:
     - [ ]  Interrupções
-    - [ ]  Combos
-    - [ ]  Improviso
+    - [x]  Combos
+    - [x]  Improviso
 
 💡 Sugestão:  
 → Sistema tipo:
@@ -68,12 +68,12 @@
 
 ## 🪬 4. RUNAS E ARTEFATOS
 
-- [ ]  Runas são:
+- [x]  Runas são:
     - [ ]  Modificadores de magia?
-    - [ ]  Encantamentos fixos?
-- [ ]  Artefatos:
+    - [x]  Encantamentos fixos?
+- [x]  Artefatos:
     - [ ]  Únicos ou fabricáveis?
-- [ ]  Sistema de criação:
+- [x]  Sistema de criação:
     - [ ]  Engenharia?
     - [ ]  Alquimia?
 - [ ]  Existe corrupção/maldição?
@@ -103,12 +103,12 @@
 
 ## 🕵️ 6. INVESTIGAÇÃO
 
-- [ ]  Sistema é:
+- [x]  Sistema é:
     - [ ]  Baseado em testes
-    - [ ]  Baseado em pistas garantidas (melhor)
-- [ ]  Jogadores podem:
-    - [ ]  Encontrar pistas automaticamente?
-    - [ ]  Interpretar com rolagem?
+    - [x]  Baseado em pistas garantidas (melhor)
+- [x]  Jogadores podem:
+    - [x]  Encontrar pistas automaticamente?
+    - [x]  Interpretar com rolagem?
 - [ ]  Existe:
     - [ ]  Sistema de evidências
     - [ ]  Linha de raciocínio
@@ -121,14 +121,14 @@
 
 ## 🎭 7. ENGENHARIA SOCIAL
 
-- [ ]  Sistema social usa:
+- [x]  Sistema social usa:
     - [ ]  Rolagem?
-    - [ ]  Roleplay puro?
-- [ ]  NPCs têm:
-    - [ ]  Desejos
-    - [ ]  Medos
+    - [x]  Roleplay puro?
+- [x]  NPCs têm:
+    - [x]  Desejos
+    - [x]  Medos
     - [ ]  Lealdades
-- [ ]  Jogadores podem:
-    - [ ]  Manipular facções?
-    - [ ]  Criar mentiras?
-    - [ ]  Subornar?
+- [x]  Jogadores podem:
+    - [x]  Manipular facções?
+    - [x]  Criar mentiras?
+    - [x]  Subornar?

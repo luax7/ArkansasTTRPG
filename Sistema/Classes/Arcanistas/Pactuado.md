@@ -39,11 +39,13 @@ O pendulo arcano expressa o quanto as entidades contratadas estão favoráveis a
 - Completar turno sem gastar mana.
 - Realizar ação favorável (Listado na entidade)
 Apenas dois ponto de favor podem ser ganhos por turno
+
 *Utilizando favor*
 As seguintes ações podem ser realizadas gastando favor e uma reação:
 - 2 Pontos : Ao conjurar reduz o custo de magias de entidade em 3PM
 - 3 Pontos : Ao acertar um ataque aumenta um dado de efeito no dano
 - 4 Pontos : Utiliza a característica nível 3 de uma entidade contratada
+
 *Sem Favor*
 Começar um turno com 0 ou menos de favor torna as entidades ficam enraivecidas. as magias de entidade não podem ser utilizadas ate que o favor se torne 1 ou mais
 

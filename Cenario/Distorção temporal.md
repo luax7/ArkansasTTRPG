@@ -24,6 +24,18 @@ Registros apontam que estruturas emergidas e reativadas após os primeiros **pic
 Similarmente, contatos com entidades magicas e seus domínios também tem efeitos relacionados a dilatação temporal local. Magiarcas de pacto relatam uma desaceleração individual da percepção temporal, lacuna de memoria e divergências de tempo medido externamente.
 Registros de observação do fenômeno indicam uma distonia do tempo percebido para o tempo medido de 20 % a 40 %. A força do efeito, geralmente depende da proximidade e do nível do contrato estabelecido.
 
+# Experimentos
+### Medição de dilatação - Experimento 01
+Data de ensaio: 01/08/1907
+Experimento pre CCS
+
+### Relação entre sintropia, densidade manafórica local e distorção temporal - Experimento 02
+
+### Medição de efeitos cognitivos e físicos mediante a exposição prolongada de campos de dilatação temporal - Experimento 03
+
+### Aprofundamento na relação das entidades de mana e magias temporais - Experimento 04
+
+
 # Considerações operacionais
 Devido à natureza instável, imprevisível e potencialmente irreversível dos fenômenos de distorção temporal, qualquer tentativa de observação ou interação deve ser conduzida com extremo rigor metodológico. A exposição prolongada a zonas afetadas apresenta riscos significativos não apenas ao estado físico dos indivíduos, mas também à integridade cognitiva e à coerência cronológica de suas experiências.
 

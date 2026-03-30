@@ -2,16 +2,17 @@
 
 A **Coalizão Global de Vigilância e Contenção Sintrope (CGVCS)** foi formalmente estabelecida no ano de **1905**, como resposta direta ao aumento exponencial de incidentes relacionados aos chamados _Fenômenos Sintropes Ativos_.
 
-Sua fundação foi dada pela necessidade da organização regional de países na Asia e Europa — Sul da china, Balcãs, Ira, Paquistão — para enfrentar monstros e fenômenos sintropes que traziam flagelo para a população local. Dessa forma, em 02/09/1901 foi feito o *tratado de contenção de fenômenos sintropes do sul asiático* entre os países do siao, índia, china (parcialmente) e Filipinas. Esse tratado inicial tinha como base o compartilhamento de inteligência, recursos e mão de obra para lidar com criaturas magias e conter efeito de desastres naturais.
+Sua fundação foi dada pela necessidade da organização regional de países na Asia e Europa — Sul da china, Balcãs, Ira, Paquistão — para enfrentar monstros e fenômenos sintropes que traziam flagelo para a população local. Dessa forma, em 02/09/1897 foi feito o *tratado de contenção de fenômenos sintropes do sul asiático* entre os países do siao, índia, china (parcialmente) e Filipinas. Esse tratado inicial tinha como base o compartilhamento de inteligência, recursos e mão de obra para lidar com criaturas magias e conter efeito de desastres naturais.
 
-Dado o sucesso parcial do tratado, outros 45 países e Companhias se juntaram a um novo tratado similar firmado em 1906 em Warsaw na Rússia. Marcando assim o inicio de uma visão mais globalizada da contenção de efeitos sintropes.
+Dado o sucesso parcial do tratado, outros 45 países e Companhias se juntaram a um novo tratado similar firmado em 1902 em Warsaw na Rússia. Marcando assim o inicio de uma visão mais globalizada da contenção de efeitos sintropes.
 
 **Quebra dos tratados**
-Em 1910, após o vazamento de documentos internos chineses, foram constatados diversas instancias de informações criticas que não haviam sido compartilhadas com os outros membros, gerando desconfiança entre todos os membros e grande repercussão diplomática entre a china e o mundo.
-Após grandes ultimatos de diversos países para a abertura de todas as formas de informação dos membros do tratado, a maioria dos participantes majoritários reconsideraram sua posição, eventualmente, terminando o tratado unilateralmente — Agora, com condições muito mais estáveis, após 9 anos de união —. Apesar do fim rochoso, esse esforço seria tardiamente reconhecido como uma das jogadas diplomáticas mais relevantes do século.
+Em 1908, após o vazamento de documentos internos chineses, foram constatados diversas instancias de informações criticas que não haviam sido compartilhadas com os outros membros, gerando desconfiança entre todos os membros e grande repercussão diplomática entre a china e o mundo.
+Após grandes ultimatos de diversos países para a abertura de todas as formas de informação dos membros do tratado, a maioria dos participantes majoritários reconsideraram sua posição, eventualmente, terminando o tratado unilateralmente. Agora, com condições muito mais estáveis, após 6 anos de união. Apesar do fim rochoso, esse esforço seria tardiamente reconhecido como uma das jogadas diplomáticas mais relevantes do século.
 
 **Inicio da Coalização global de vigilância arcana**
-Devido a uma nova explosão de eventos sintropes ativos no continente europeu, a França propos a criaçao de uma comissao e de uma organizaçao, ambas com intençao 
+Devido a uma nova explosão de eventos sintropes ativos no continente europeu, a França propôs a criação de uma organização internacional de contenção ativa, com forças tarefa de diversos paises sendo atribuídas a diversas operações através de informaçoes compartilhadas entre os paises
+Dessa vez, essa organizaçao operava com um bureau de informaçoes 
 
 
 ---

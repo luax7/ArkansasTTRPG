@@ -12,14 +12,15 @@ Após grandes ultimatos de diversos países para a abertura de todas as formas d
 
 **Inicio da Coalização global de vigilância arcana**
 Devido a uma nova explosão de eventos sintropes ativos no continente europeu, a França propôs a criação de uma organização internacional de contenção ativa, com forças tarefa de diversos paises sendo atribuídas a diversas operações através de informaçoes compartilhadas entre os paises
-Dessa vez, essa organizaçao operava com um bureau de informaçoes 
+Dessa vez, essa organização operava com um bureau centralizado com representantes de todos os paises participantes revendo e distribuindo informação, assim garantindo um nível maior de confidencialidade entre os participantes
+Operando muito mais eficientemente, lentamente a maior parte dos paises se juntaram parcialmente ou completamente a CCS.
 
 
 ---
 
 ## Objetivo e Doutrina
 
-A CGVCS foi criada sob três pilares fundamentais:
+A CCS foi criada sob três pilares fundamentais:
 
 **1. Vigilância Global**  
 Monitoramento contínuo de atividades sintropes, incluindo anomalias ambientais, organismos alterados e manifestações arcanas de alto risco.

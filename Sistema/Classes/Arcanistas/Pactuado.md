@@ -26,7 +26,7 @@ No primeiro nível, o mago se torna capaz de conjurar feitiços simples para com
 Atributo para conjuração : Presença
 No primeiro nível, o pactuário conhece 1 magia
 
-***Contrato arcano***
+**Contrato arcano**
 Além das magias conhecidas, o pactuado pode fazer contratos com entidades arcanas para adquirir novas magias e Característica. As entidades e suas habilidades são detalhadas no fim do documento.
 As habilidades aprendidas através dos contratos não 
 Para cada "contrato arcano"
@@ -38,14 +38,14 @@ O pendulo arcano expressa o quanto as entidades contratadas estão favoráveis a
 - Completar turno gastando menos de 3 ações.
 - Completar turno sem gastar mana.
 - Realizar ação favorável (Listado na entidade)
-Apenas um ponto de favor pode ser ganho por turno
+Apenas dois ponto de favor podem ser ganhos por turno
 *Utilizando favor*
-As seguintes ações podem ser realizadas gastando favor:
-- 2 Pontos : +1 Dado de efeito
-- 3 Pontos : Ignora o custo de uma magia de entidade
-- 3 Pontos : Utiliza a característica da entidade
+As seguintes ações podem ser realizadas gastando favor e uma reação:
+- 2 Pontos : Ao conjurar reduz o custo de magias de entidade em 3PM
+- 3 Pontos : Ao acertar um ataque aumenta um dado de efeito no dano
+- 4 Pontos : Utiliza a característica nível 3 de uma entidade contratada
 *Sem Favor*
-Começar um turno com 0 de favor torna as entidades enraivecidas. as magias de entidade não podem ser utilizadas ate o favor aumentar
+Começar um turno com 0 ou menos de favor torna as entidades ficam enraivecidas. as magias de entidade não podem ser utilizadas ate que o favor se torne 1 ou mais
 
 ***Contrato arcano***
 No terceiro nível, o pactuário pode fazer mais um nível de contrato arcano, se ligando mais fortemente a uma entidade ou realizando um contrato com outra entidade
@@ -81,19 +81,19 @@ Rytsu normalmente pede riquezas em troca de seu poder mas e comum a oferenda de 
 ### Velkar
 Velkar e popularmente chamado de grande montanha, mostra um conhecimento vasto da sociedade humana e seus construtos, geralmente, oferece seus poderes em troca de devoção do conjurador em vida. Grande parte dos contratantes de Velkar são monges das montanhas, ou peregrinos da montanha[^2]
 
-| **Nivel 1  <br>**                                                                                                        | **Nivel 2**                                                                                                                                      | **Nivel 3**                                                                                                                                                 |
-| ------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Magias**  <br>[Pele rochosa](app://obsidian.md/Pele%20rochosa)  <br>[Abalo sismico](app://obsidian.md/Abalo%20sismico) | **Postura Inabalável**  <br>_Ação leve_<br><br>Até o próximo turno:<br><br>- Reduz dano recebido em 2<br>- Não pode ser movido involuntariamente | **Avatar da Montanha**  <br>_Ação – 1 vez por cena_<br><br>Por 3 turnos:<br><br>- +4 Defesa<br>- Imune a derrubar<br>- Ataques corpo a corpo causam +2 dano |
-| **Corpo de Pedra**  <br>Recebe:<br><br>- +1 Defesa<br>- +2 em testes contra derrubar ou empurrar                         |                                                                                                                                                  |                                                                                                                                                             |
-
+| **Nivel 1  <br>**                                                                                                        | **Nivel 2**                                                                                                                                                   | **Nivel 3**                                                                                                                                                 |
+| ------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Magias**  <br>[Pele rochosa](app://obsidian.md/Pele%20rochosa)  <br>[Abalo sismico](app://obsidian.md/Abalo%20sismico) | **Postura Inabalável**  <br>_Ação – 1 vez por turno_<br><br>Até o próximo turno:<br><br>- Reduz dano recebido em 2<br>- Não pode ser movido involuntariamente | **Avatar da Montanha**  <br>_Ação – 1 vez por cena_<br><br>Por 3 turnos:<br><br>- +4 Defesa<br>- Imune a derrubar<br>- Ataques corpo a corpo causam +2 dano |
+| **Corpo de Pedra**  <br>Recebe:<br><br>- +1 Defesa<br>- +2 em testes contra derrubar ou empurrar                         |                                                                                                                                                               |                                                                                                                                                             |
+**Ação favorável**  : Receber dano sem 
 ### Eidolon
 Eidolon e uma entidade conhecida como o escriba dos céus, seus poderes são focados em acumular magias, e outras ferramentas magicas capazes de melhorar o contato do conjurador com a magia. 
 Suas oferendas normalmente consistem em novos estudos da magia, além de riquezas e devoção ao caminho do escriba
 
-| **Nivel 1**                                                                                                                | **Nivel 2**                                                                                                                         | **Nivel 3**                                                                                                                   |
-| -------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| *Magias:*<br>[Canalizaçao](app://obsidian.md/Canaliza%C3%A7ao)  <br>[Servo magico](app://obsidian.md/Servo%20magico)       | **Reescrita Arcana**  <br>_1 vez por turno_<br><br>Ao conjurar uma magia pode dobrar duração do efeito ou adicionar um dado de dano | **Eco de Conjuração**  <br>*1 Ação*<br>Após conjurar uma magia, pode conjurá-la novamente no próximo turno sem custo de mana. |
-| **Escriba Arcano**  <br>Você aprende +1 magia adicional.  <br>Pode trocar uma magia conhecida ao fim de um descanso curto. |                                                                                                                                     |                                                                                                                               |
+| **Nivel 1**                                                                                                                | **Nivel 2**                                                                                                                                    | **Nivel 3**                                                                                                                                     |
+| -------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| *Magias:*<br>[Canalizaçao](app://obsidian.md/Canaliza%C3%A7ao)  <br>[Servo magico](app://obsidian.md/Servo%20magico)       | **Reescrita Arcana**  <br>_Reaçao – Uma vez por turno_<br><br>Ao conjurar uma magia pode dobrar duração do efeito ou adicionar um dado de dano | **Eco de Conjuração**  <br>*Açao – Uma vez por turno*<br>Após conjurar uma magia, pode conjurá-la novamente no próximo turno sem custo de mana. |
+| **Escriba Arcano**  <br>Você aprende +1 magia adicional.  <br>Pode trocar uma magia conhecida ao fim de um descanso curto. |                                                                                                                                                |                                                                                                                                                 |
 ### Nythra 
 Nythra e uma entidade da sintropia, ela utiliza da expectativa de vida dos seus contratantes para causar mutações e caos. Apesar disso, Nythra não parece ter um humor maligno, mas apenas ser indiferente as emoções humanas
 
@@ -101,6 +101,7 @@ Nythra e uma entidade da sintropia, ela utiliza da expectativa de vida dos seus 
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | *Magias*<br>[Pulso sintrope](app://obsidian.md/Pulso%20sintrope)  <br>[Mutaçao efemera](app://obsidian.md/Muta%C3%A7ao%20efemera)                           | **Corpo Instável**  <br>Sempre que conjura magia, role um d10. adicione +1 no atributo (Ou pericia de atributo a escolha) segundo a tabela a seguir ate o fim do próximo turno. Essa característica pode ser usada apenas uma vez por turno.<br>1-2 Vigor<br>3-4 Agilidade<br>5-6 Intelecto<br>7-8 Presença<br>9-10 Sintonia | **Forma Aberrante**<br>_Ação – 1 vez por cena_<br><br>Por 3 turnos:<br><br>- +1 em todos atributos físicos<br>- Ataques físicos causam mais um dado de dano<br>- Ignora penalidades de terreno difícil<br>- Corpo instável não tem limite de uso |
 | **Ruptura Sintrope**  <br>Quando ocorre quebra sintrope, o jogador pode realizar a rolagem da tabela de quebra sintrope e escolher entre os dois resultados |                                                                                                                                                                                                                                                                                                                              |                                                                                                                                                                                                                                                  |
+**Ação favorável**: Ativar corpo instavel 
 ### Ortheon
 Ortheon e uma entidade guerreira, o foco de seus poderes e o controle da cena atraves de magias e habilidades de fortalecer o conjurador e seus aliados.
 Muitas vezes, Ortheon pede riquezas, equipamentos de guerreiros, ou a conduta de guerreiro de seus contratantes
@@ -110,6 +111,7 @@ Muitas vezes, Ortheon pede riquezas, equipamentos de guerreiros, ou a conduta de
 | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------- |
 | **Magias:**  <br>[Marca do guerreiro](app://obsidian.md/Marca%20do%20guerreiro)  <br>[Comando de avanço](app://obsidian.md/Comando%20de%20avan%C3%A7o) | **Domínio de Batalha**  <br>Inimigos engajados com você recebem -2 em testes para atacar outros alvos. | **General Arcano**  <br>_Ação – 1 vez por cena_<br><br>Por 3 turnos:<br><br>- Aliados recebem +2 ataque<br>- Aliados recebem +2 Defesa |
 | **Presença Marcial**  <br>Aliados a até 3m recebem +1 em testes de ataque                                                                              |                                                                                                        |                                                                                                                                        |
+**Ação favorável**: Conceder bônus ou vantagem a um aliado
 
 [^1]: Feiticeiros são como normalmente são chamados Magiarcas que focam em feitiços de destruição em massa
 

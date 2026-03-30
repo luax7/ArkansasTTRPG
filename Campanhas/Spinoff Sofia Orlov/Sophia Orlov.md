@@ -8,7 +8,7 @@ Foto mais recente
 ===
 **Informações** 
 Nome : Sophia Orlov
-Registro : R9821
+Registro : Am3Ru-AE
 Profissão principal : Cantor(a)
 Classificaçao Magiarcana : 2
 

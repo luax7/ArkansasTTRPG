@@ -27,25 +27,12 @@ No primeiro nível, o mago conhece 4 magias.
 
 **Habilidade de arquétipo**
 No segundo nível o mago ganha uma habilidade de um dos três arquétipos
-```columns
-id: XMq-dfUsFy8O8E1KlKFYS
-===
-**Canalizador da ruina**
-**Magia melhorada** : Conjurar utilizando um cajado permite criar bolsoes de segurança para magias, permitindo a segurança de objetos e criaturas na area de destruiçao.
-**Ressonancia destrutiva**
-Ao causar dano com uma magia pode utilizar 2PM. O inimigo acertado adquire o efeito ressonante ate o fim do proximo turno. Ao causar dano magico em um alvo ressonante recebe +1d6 de dano.
-===
-**Tecelao do fluxo**
-**Reciclagem arcana**:Quando uma magia de concentraçao acaba de qualquer forma, pode aplicar o efeito da magia
-===
-**Condutor sintrope**
-**Magia selvagem:** Ao conjurar uma magia, o mago pode gastar 2 pontos de mana para utilizar a tabela de magia selvagem. Esse efeito e limitado a uma vez por turno.
 
-A partir no nivel 4 essa habilidade pode ser utilizada duas vezes por turno
-**Ataque imbuido** Ao acertar um ataque fisico, o mago pode usar 4PM para golpear o inimigo acertado por uma onda de mana causando 1d8 de dano. Essa habilidade pode ser utilizada uma vez por turno
 
-A partir do nivel 4 essa habilidade pode ser utilizada duas vezes por turno
-```
+| **Canalizador da ruina**                                                                                                                                                                                                    | **Tecelao do fluxo**                                                                                            | **Condutor sintrope**                                                                                                                                                                                                                                                                   |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Magia melhorada** : Conjurar utilizando um cajado permite criar bolsoes de segurança para magias, permitindo a segurança de objetos e criaturas na area de destruiçao.                                                    | **Reciclagem arcana**: Quando uma magia de concentraçao acaba de qualquer forma, pode aplicar o efeito da magia | **Magia selvagem:** Ao conjurar uma magia, o mago pode gastar 2 pontos de mana para utilizar a tabela de magia selvagem. Esse efeito e limitado a uma vez por turno.<br><br>A partir no nivel 4 essa habilidade pode ser utilizada duas vezes por turno                                 |
+| **Ressonancia destrutiva**  <br>Ao causar dano com uma magia pode utilizar 2PM. O inimigo acertado adquire o efeito ressonante ate o fim do proximo turno. Ao causar dano magico em um alvo ressonante recebe +1d6 de dano. |                                                                                                                 | **Ataque imbuido** Ao acertar um ataque fisico, o mago pode usar 4PM para golpear o inimigo acertado por uma onda de mana causando 1d8 de dano. Essa habilidade pode ser utilizada uma vez por turno<br><br>A partir do nivel 4 essa habilidade pode ser utilizada duas vezes por turno |
 **Modificador de magias**
 No segundo nível, o mago aprende a modificar a potencia dos seus feitiços utilizando variações na canalização 
 Ao conjurar uma magia, e possível aumentar dados de efeito de acordo com a seguinte tabela

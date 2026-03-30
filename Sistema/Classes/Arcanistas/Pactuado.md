@@ -1,6 +1,6 @@
-O Pactuado foca em fazer contratos com entidades magicas para receber feitiços e habilidades especiais. pactuários funcionam como uma versão mais estável do mago, frequentemente funcionando também como uma classe física magica.
+O Pactuado foca em fazer contratos com entidades magicas para receber feitiços e Características especiais. pactuários funcionam como uma classe
 
-Pactuados frequentemente fazem contratos para receber magia em troca de riquezas dos humanos como sua expectativa de vida, "alma", conduta em vida, riquezas, e ate mesmo objetos arcanos
+Pactuados frequentemente fazem contratos para receber magia em troca de riquezas dos humanos como sua expectativa de vida, "alma", conduta em vida, riquezas, e ate mesmo objetos arcanos.
 
 | Nivel | Característica                  | Contratos disponíveis | Magias conhecidas |
 | ----- | ------------------------------- | --------------------- | ----------------- |
@@ -32,13 +32,29 @@ As habilidades aprendidas através dos contratos não
 Para cada "contrato arcano"
 
 **Pendulo arcano**
+O pendulo arcano expressa o quanto as entidades contratadas estão favoráveis ao contratante.  Entidades favoráveis concedem poderes mais fortes ao contratante temporariamente, usar esses poderes faz entidades perderem favor.
+*Favor*:valor máximo 5, valor mínimo 0
+*Ganhando favor*: Para ganhar favor, o pactuado pode fazer um dos seguintes:
+- Completar turno gastando menos de 3 ações.
+- Completar turno sem gastar mana.
+- Realizar ação favorável (Listado na entidade)
+Apenas um ponto de favor pode ser ganho por turno
+*Utilizando favor*
+As seguintes ações podem ser realizadas gastando favor:
+- 2 Pontos : +1 Dado de efeito
+- 3 Pontos : Ignora o custo de uma magia de entidade
+- 3 Pontos : Utiliza a característica da entidade
+*Sem Favor*
+Começar um turno com 0 de favor torna as entidades enraivecidas. as magias de entidade não podem ser utilizadas ate o favor aumentar
 
 ***Contrato arcano***
-No terceiro nivel, o pactuario pode fazer 
+No terceiro nível, o pactuário pode fazer mais um nível de contrato arcano, se ligando mais fortemente a uma entidade ou realizando um contrato com outra entidade
 
 **Aumento de habilidade**
 No quarto nível o personagem recebe 2 pontos para distribuir entre os atributos, e 3 pontos para distribuir entre pericias
 
+***Contrato arcano***
+No quinto nível, o pactuário pode fazer mais um nível de contrato arcano, se ligando mais fortemente a uma entidade ou realizando um contrato com outra entidade
 
 ---
 
@@ -48,18 +64,19 @@ As entidades listadas a seguir são todas entidades de que de forma ou outra ent
 Ignivar, apelidado de patrono dos feiticeiros[^1] e uma entidade maligna em geral, normalmente pedindo a alma do alvo de seus feitiços ou a própria expectativa de vida do conjurador. 
 Feiticeiros contratantes de Ignivar frequentemente queixam de vozes, vultos e outras aparições perturbadoras em horas de conforto.
 
-| **Nivel 1**                                                                                                                                                                                                                                                                                                              | _Nivel 2_                                                                                                 | _Nivel 3_                                                                                                                                                                                                    |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Magias:**  <br>[Brasa consumidora](app://obsidian.md/Brasa%20consumidora)  <br>[Chama persistente](app://obsidian.md/Chama%20persistente)                                                                                                                                                                              | **Explosao de cinzas**  <br>Ao causar dano com magias em um inimigo marcado, causa mais um dado de efeito | **Forma Incandescente**  <br>_Ação – 1 vez por cena_<br><br>Por 2 turnos:<br><br>- +2 em testes de conjuração<br>- Suas magias ignoram cobertura até 2/4<br>- Sempre trata alvos como se estivessem marcados |
-| **Marca das cinzas**  Causar dano com uma magia, pode utilizar uma *carga de marca das cinzas* para marcar um inimigo. Ataques em inimigos marcados recebem +1 de vantagem.<br><br>O conjurador possui um numero de *cargas de marca da cinzas* igual ao valor de presença. Marcas são recuperadas com um descanso curto |                                                                                                           |                                                                                                                                                                                                              |
+| **Nivel 1**                                                                                                                                                                                                                                                                                                                           | _Nivel 2_                                                                                                 | _Nivel 3_                                                                                                                                                                                                    |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Magias:**  <br>[Brasa consumidora](app://obsidian.md/Brasa%20consumidora)  <br>[Chama persistente](app://obsidian.md/Chama%20persistente)                                                                                                                                                                                           | **Explosao de cinzas**  <br>Ao causar dano com magias em um inimigo marcado, causa mais um dado de efeito | **Forma Incandescente**  <br>_Ação – 1 vez por cena_<br><br>Por 2 turnos:<br><br>- +2 em testes de conjuração<br>- Suas magias ignoram cobertura até 2/4<br>- Sempre trata alvos como se estivessem marcados |
+| **Marca das cinzas**  Causar dano com uma magia, pode utilizar uma *carga de marca das cinzas* e uma reação para marcar um inimigo. Ataques em inimigos marcados recebem +1 de vantagem.<br><br>O conjurador possui um numero de *cargas de marca da cinzas* igual ao valor de presença. Marcas são recuperadas com um descanso curto |                                                                                                           |                                                                                                                                                                                                              |
+**Ação favorável** : Causar dano em inimigos marcados com *Marca das cinzas* 
 ### Rytsu
 Rytsu, a raposa do norte, tem seus poderes usados para furtividade,  em geral feiticeiros que utilizam das sombras como arma para abater seus inimigos
 Rytsu normalmente pede riquezas em troca de seu poder mas e comum a oferenda de expectativa de vida, ou almas. 
 
-| **Nivel 1  <br>**                                                                                                                 | **Nivel 2  <br>**                                                                                                              | **Nivel 3  <br>**                                                                                                                                     |
-| --------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Magias:**  <br>[Lamina Umbral](app://obsidian.md/Lamina%20Umbral)  <br>[Passos nebulosos](app://obsidian.md/Passos%20nebulosos) | **Predador Invisível**  <br>Ataques contra inimigos desprevenidos recebem:<br><br>- 1 vantagem dinâmica<br>- +1 Dado de efeito | **Dissolução Sombria**  <br>_Reação_<br><br>Ao ser alvo de ataque:<br><br>- Move 3m para um local com sombra<br>- Recebe +2 defesa contra esse ataque |
-| **Sombra Errante**  <br>Você recebe +2 em testes de furtividade.  <br>Pode se esconder como ação leve.                            |                                                                                                                                |                                                                                                                                                       |
+| **Nivel 1  <br>**                                                                                                                 | **Nivel 2  <br>**                                                                                                                  | **Nivel 3  <br>**                                                                                                                                              |
+| --------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Magias:**  <br>[Lamina Umbral](app://obsidian.md/Lamina%20Umbral)  <br>[Passos nebulosos](app://obsidian.md/Passos%20nebulosos) | **Predador Invisível**  <br>Ataques contra inimigos desprevenidos recebem:<br><br>- +2 Vantagem para acerto<br>- +1 Dado de efeito | **Dissolução Sombria**  <br>_Reação_<br>*2PM*<br><br>Ao ser alvo de ataque:<br><br>- Move 3m para um local com sombra<br>- Recebe +2 defesa contra esse ataque |
+| **Sombra Errante**  <br>Você recebe +2 em testes de furtividade.  <br>Pode se esconder como ação leve.                            |                                                                                                                                    |                                                                                                                                                                |
 ### Velkar
 Velkar e popularmente chamado de grande montanha, mostra um conhecimento vasto da sociedade humana e seus construtos, geralmente, oferece seus poderes em troca de devoção do conjurador em vida. Grande parte dos contratantes de Velkar são monges das montanhas, ou peregrinos da montanha[^2]
 
@@ -72,10 +89,10 @@ Velkar e popularmente chamado de grande montanha, mostra um conhecimento vasto d
 Eidolon e uma entidade conhecida como o escriba dos céus, seus poderes são focados em acumular magias, e outras ferramentas magicas capazes de melhorar o contato do conjurador com a magia. 
 Suas oferendas normalmente consistem em novos estudos da magia, além de riquezas e devoção ao caminho do escriba
 
-| **Nivel 1**                                                                                                          | **Nivel 2**                                                                                                                                                                 | **Nivel 3**                                                                                                       |
-| -------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
-| *Magias:*<br>[Canalizaçao](app://obsidian.md/Canaliza%C3%A7ao)  <br>[Servo magico](app://obsidian.md/Servo%20magico) | **Reescrita Arcana**  <br>_1 vez por turno_<br><br>Ao conjurar uma magia, escolha:<br><br>- Dobrar duração<br>- Aumentar efeito em um dado<br>- Receber 1 vantagem dinâmica | **Eco de Conjuração**  <br>Após conjurar uma magia, pode conjurá-la novamente no próximo turno sem custo de mana. |
-| **Escriba Arcano**  <br>Você aprende +1 magia adicional.  <br>Pode trocar uma magia conhecida ao fim de um descanso. |                                                                                                                                                                             |                                                                                                                   |
+| **Nivel 1**                                                                                                                | **Nivel 2**                                                                                                                                                                 | **Nivel 3**                                                                                                       |
+| -------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| *Magias:*<br>[Canalizaçao](app://obsidian.md/Canaliza%C3%A7ao)  <br>[Servo magico](app://obsidian.md/Servo%20magico)       | **Reescrita Arcana**  <br>_1 vez por turno_<br><br>Ao conjurar uma magia, escolha:<br><br>- Dobrar duração<br>- Aumentar efeito em um dado<br>- Receber 1 vantagem dinâmica | **Eco de Conjuração**  <br>Após conjurar uma magia, pode conjurá-la novamente no próximo turno sem custo de mana. |
+| **Escriba Arcano**  <br>Você aprende +1 magia adicional.  <br>Pode trocar uma magia conhecida ao fim de um descanso curto. |                                                                                                                                                                             |                                                                                                                   |
 ### Nythra 
 Nythra e uma entidade da sintropia, ela utiliza da expectativa de vida dos seus contratantes para causar mutações e caos. Apesar disso, Nythra não parece ter um humor maligno, mas apenas ser indiferente as emoções humanas
 

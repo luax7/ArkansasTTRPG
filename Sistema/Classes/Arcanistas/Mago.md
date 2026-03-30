@@ -33,9 +33,8 @@ No segundo nível o mago ganha uma habilidade de um dos três arquétipos
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Magia melhorada** : Conjurar utilizando um cajado permite criar bolsoes de segurança para magias, permitindo a segurança de objetos e criaturas na area de destruiçao.                                                    | **Reciclagem arcana**: Quando uma magia de concentraçao acaba de qualquer forma, pode aplicar o efeito da magia | **Magia selvagem:** Ao conjurar uma magia, o mago pode gastar 2 pontos de mana para utilizar a tabela de magia selvagem. Esse efeito e limitado a uma vez por turno.<br><br>A partir no nivel 4 essa habilidade pode ser utilizada duas vezes por turno                                 |
 | **Ressonancia destrutiva**  <br>Ao causar dano com uma magia pode utilizar 2PM. O inimigo acertado adquire o efeito ressonante ate o fim do proximo turno. Ao causar dano magico em um alvo ressonante recebe +1d6 de dano. |                                                                                                                 | **Ataque imbuido** Ao acertar um ataque fisico, o mago pode usar 4PM para golpear o inimigo acertado por uma onda de mana causando 1d8 de dano. Essa habilidade pode ser utilizada uma vez por turno<br><br>A partir do nivel 4 essa habilidade pode ser utilizada duas vezes por turno |
-**Modificador de magias**
-No segundo nível, o mago aprende a modificar a potencia dos seus feitiços utilizando variações na canalização 
-Ao conjurar uma magia, e possível aumentar dados de efeito de acordo com a seguinte tabela
+
+**Modificador de magias** : No segundo nível, o mago aprende a modificar a potencia dos seus feitiços utilizando variações na canalização. Ao conjurar uma magia, e possível aumentar dados de efeito de acordo com a seguinte tabela
 
 | Dado efeito     | Custo de mana |
 | --------------- | ------------- |
@@ -59,29 +58,12 @@ No quarto nível o personagem recebe 2 pontos para distribuir entre os atributos
 
 **Habilidade de arquétipo**
 No quinto nível o mago recebe uma habilidade de arquétipo
-```columns
-id: XXa5JvkwzwklBQ8kXAGPj
-===
-**Canalizador da ruina**
-**Descarga concentrada:** Ao usar essa habilidade o personagem pode conjurar um ataque com o dano dobrado. Ao utilizar essa habilidade, o jogador nao pode conjurar magias ate o proximo turno. Essa deve ser a primeira açao do turno.
-**Colapso arcano**
-Ao causar dano em um inimigo marcado pode utilizar uma açao para causar +2 dados de dano. Apos isso o inimigo realiza um teste de resistencia, se ele falhar perde dois de defesa ate o fim do turno
-===
-**Tecelao do fluxo**
-**Foco absoluto:** Consegue concentrar simultaneamente em duas magias, quando a concentraçao tenta ser encerrada forçadamente, o usuario realizar um teste de sintonia DT Dificil ao inves de encerrar a concentraçao imediatamente
-===
-**Condutor sintrope**
-**Canalisador do caos:** Ao acertar um ataque corpo a corpo com um inimigo conjurar o feitiço missel magico em um inimigo no alcançe da magia. Esse feitiço nao conta para o maximo de feitiiços conhecidos.
-**Vampirismo Sintropico**
-Ao acertar um ataque fisico pode utilizar 3PM para realizar uma das seguintes açoes:
-- Absorçao vital:
-  Recupera 1d6 + Sintonia PV
-- Barreira sintropica:
-  +2 de defesa ate o inicio do proximo turno. 1d4 de dano para qualquer inimigo que tenha o mago como alvo 
-Essa habilidade pode ser utilizada uma vez por turno
-```
-**Talento**
-No sexto nível, o personagem recebe um talento da lista de [[Talentos]] disponíveis
+
+| **Canalizador da ruina**                                                                                                                                                                                                                | **Tecelao do fluxo**                                                                                                                                                                                                                | **Condutor sintrope**                                                                                                                                                                                                                                                                                                                                                                      |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Descarga concentrada:** Ao usar essa habilidade o personagem pode conjurar um ataque com o dano dobrado. Ao utilizar essa habilidade, o jogador nao pode conjurar magias ate o proximo turno. Essa deve ser a primeira açao do turno. | **Foco absoluto:** Consegue concentrar simultaneamente em duas magias, quando a concentraçao tenta ser encerrada forçadamente, o usuario realizar um teste de sintonia DT Dificil ao inves de encerrar a concentraçao imediatamente | **Canalisador do caos:** Ao acertar um ataque corpo a corpo com um inimigo conjurar o feitiço missel magico em um inimigo no alcançe da magia. Esse feitiço nao conta para o maximo de feitiiços conhecidos.                                                                                                                                                                               |
+| **Colapso arcano**  <br>Ao causar dano em um inimigo marcado pode utilizar uma açao para causar +2 dados de dano. Apos isso o inimigo realiza um teste de resistencia, se ele falhar perde dois de defesa ate o fim do turno            |                                                                                                                                                                                                                                     | **Vampirismo Sintropico**  <br>Ao acertar um ataque fisico pode utilizar 3PM para realizar uma das seguintes açoes:<br><br>- Absorçao vital:  <br>    Recupera 1d6 + Sintonia PV<br>- Barreira sintropica:  <br>    +2 de defesa ate o inicio do proximo turno. 1d4 de dano para qualquer inimigo que tenha o mago como alvo  <br>    Essa habilidade pode ser utilizada uma vez por turno |
+**Talento** : No sexto nível, o personagem recebe um talento da lista de [[Talentos]] disponíveis
 # Tabela de magia selvagem
 
 | `dice: d20` | Magia selvagem           | Efeito                                                                                       |

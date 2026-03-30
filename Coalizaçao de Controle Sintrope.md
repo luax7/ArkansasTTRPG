@@ -2,7 +2,7 @@
 
 A **Coalizão Global de Vigilância e Contenção Sintrope (CGVCS)** foi formalmente estabelecida no ano de **1905**, como resposta direta ao aumento exponencial de incidentes relacionados aos chamados _Fenômenos Sintropes Ativos_.
 
-Sua fundação foi dada pela necessidade da organização regional de países na Asia e Europa — Sul da china, Balcãs, Ira, Paquistão — para enfrentar monstros e fenômenos sintropes que traziam flagelo para a população local. Dessa fr
+Sua fundação foi dada pela necessidade da organização regional de países na Asia e Europa — Sul da china, Balcãs, Ira, Paquistão — para enfrentar monstros e fenômenos sintropes que traziam flagelo para a população local. Dessa forma, em 02/09/1901 foi feito o *tratado de contenção de fenômenos sintropes do sul asiático* entre os países do siao, índia, china (parcialmente) e Filipinas. Esse tratado inicial tinha como base o compartilhamento de inteligência, recursos e mão de obra para lidar com criaturas magias e conter efeito de desastres naturais.
 
 
 

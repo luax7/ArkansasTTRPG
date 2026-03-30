@@ -8,7 +8,7 @@ Componentes Somaticos:
 Duração: Instantâneo
 alcance: 6 metros
 Alvo: Uma área
-Dificuldade: Fácil, 4
+Dificuldade: Fácil, 7
 Caracteristicas:
   - Area
   - Linha 5 metros

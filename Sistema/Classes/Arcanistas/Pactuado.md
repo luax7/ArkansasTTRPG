@@ -48,7 +48,7 @@ As seguintes ações podem ser realizadas gastando favor e uma reação:
 - 4 Pontos : Utiliza a característica nível 3 de uma entidade contratada
 
 **Sem Favor**
-Começar um turno com 0 ou menos de favor torna as entidades ficam enraivecidas. as magias de entidade não podem ser utilizadas ate que o favor se torne 1 ou mais
+Começar um turno com 0 ou menos de favor deixa as entidades enraivecidas. as magias de entidade não podem ser utilizadas ate que o favor se torne 1 ou mais
 
 #### **Contrato arcano**
 No terceiro nível, o pactuário pode fazer mais um nível de contrato arcano, se ligando mais fortemente a uma entidade ou realizando um contrato com outra entidade

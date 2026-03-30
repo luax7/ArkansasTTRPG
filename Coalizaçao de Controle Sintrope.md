@@ -2,6 +2,10 @@
 
 A **Coalizão Global de Vigilância e Contenção Sintrope (CGVCS)** foi formalmente estabelecida no ano de **1905**, como resposta direta ao aumento exponencial de incidentes relacionados aos chamados _Fenômenos Sintropes Ativos_.
 
+Sua fundação foi dada pela necessidade da organização regional de países na Asia e Europa — Sul da china, Balcãs, Ira, Paquistão — para enfrentar monstros e fenômenos sintropes que traziam flagelo para a população local. Dessa fr
+
+
+
 ---
 
 ## Objetivo e Doutrina

@@ -63,17 +63,6 @@ Perfeito! Aqui está uma estrutura inicial para seu setting, com base no que voc
         
 - Assim como mitocôndrias convertem glicose e oxigênio em ATP, organismos mágicos possuem **órgãos manafóricos** (como "manócitos") que transformam mana em **vitalina**, uma energia vital que sustenta funções mágicas.
 
-| Grau | Nome               | Proporçao(%) | Caracteristicas                                                                       | Exemplos                          |
-| ---- | ------------------ | ------------ | ------------------------------------------------------------------------------------- | --------------------------------- |
-| I    | **Protoarca**      | ~5           | Incapazes de conjurar. Apenas sensíveis à mana, usam-na passivamente.                 | Rato de cristal, lodo mágico      |
-| II   | **Manávoro**       | ~15          | Absorvem e metabolizam mana. Pequena manipulação (auto-regeneração, bioluminescência) | Goblins, serpentes luminescentes  |
-| III  | **Éterides**       | ~30          | Usam mana para sustentar órgãos mágicos. Podem lançar habilidades instintivas.        | Lobos étericos, morcegos sombrios |
-| IV   | **Daimônicos**     | ~50          | Metabolizam mana como humanos metabolizam oxigênio. Inteligência tática.              | Quimera, harpia arcana            |
-| V    | **Dracônicos**     | ~75          | Armazenam mana em núcleos. Feitiçaria e ataques mágicos massivos.                     | Dragões, basiliscos, wyverns      |
-| VI   | **Anímicos**       | ~90          | Conscientes da mana como força universal. Magia refinada.                             | Unicórnios, fênix, sphinx         |
-| VII  | **Divínicos**      | ~95          | Entidades ligadas à ordem cósmica. Não precisam se alimentar.                         | Guardiões antigos, serafins       |
-| VIII | **Transcendentes** | ~99.9        | Não metabolizam mana — são feitos de mana. Controlam leis físicas locais.             | Entidades cósmicas, arquétipos    |
-
 1. **Minerais e Elementos Mágicos**
     
     - Exemplo: _Rubiluz_, pedra que emite energia mágica ao entrar em contato com som

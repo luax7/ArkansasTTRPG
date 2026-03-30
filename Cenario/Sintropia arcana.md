@@ -34,3 +34,20 @@ Dessa forma, o aproveitamento de mana se torna uma característica essencial par
  
  #### **Saturação de mana**
  Todo organismo apresenta um limiar de saturação manafórica, definido pela quantidade máxima de mana que pode ser processada sem ocorrência de instabilidade. A ultrapassagem desse limiar resulta em acúmulo energético desorganizado, frequentemente levando a mutações, colapso fisiológico ou eventos de quebra sintrope. O limite da saturação se torna significativamente maior a partir da categoria V uma vez que as criaturas passem a armazenar mana em forma pura dentro dos próprios corpos.
+####  **Assimetria metabólica humana**
+
+Organismos humanos apresentam alta eficiência energética em processos metabólicos convencionais, porém demonstram incapacidade natural de captar e metabolizar mana atmosférica de forma passiva.
+
+Diferentemente de criaturas sintropes, humanos não possuem estruturas manafóricas funcionais em estado basal, sendo completamente dependentes de fontes energéticas tradicionais para manutenção fisiológica.
+
+Como consequência, a exposição à mana não resulta, na maioria dos casos, em integração funcional, mas sim em instabilidade biológica.
+
+---
+
+#### **Desenvolvimento manafórico (Magiarcas)**
+
+Em situações específicas de exposição prolongada ou intensa à mana, certos indivíduos desenvolvem estruturas manafóricas internas capazes de captar, conduzir e metabolizar energia arcana.
+
+Esse processo é classificado como **adaptação sintrope**, e marca a transição de um organismo humano convencional para um indivíduo classificado como Magiarca.
+
+Essas estruturas não são padronizadas, variando entre indivíduos tanto em forma quanto em eficiência, sendo altamente suscetíveis à influência da sintropia arcana.

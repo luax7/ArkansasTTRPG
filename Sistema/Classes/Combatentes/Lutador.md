@@ -32,67 +32,6 @@ No segundo nível, o lutador se especializa em um estilo de luta, tomando uma fu
 | **Habilidade de Duelo**  <br>Com anos de treino, o lutador se especializa no duelo, abatendo um inimigo por vez rapidamente. Enquanto estiver engajado com apenas 1 inimigo seus ataques recebem +2 de vantagem. Adicionalmente recebe +2 de defesa                                   | **Agarrão Brutal**  <br>*Ação padrão*<br>*2PM*<br>Canaliza força arcana na parte central do corpo para garantir uma base forte para realizar um agarrão poderoso.                                                                                                                                                                                                                            |                                                                                                                                                     |
 
 
-```columns
-id: BTvAYVZ9vpwXhkxYfFyY1
-===
-**Duelista**
-**Ataque Provocante**  
-**Requisito:** Acertar um ataque corpo a corpo  
-**Custo:** 2 PM  
-  
-Ao acertar, o alvo deve realizar um teste de presença (DT padrão).  
-  
-Falha:  
-- O alvo fica **provocado** por você até o próximo turno  
-- Só pode te atacar ou sofrer −2 em qualquer outra ação  
-  
----  
-  
-**Habilidade de Duelo**  
-Enquanto estiver engajado com apenas um inimigo:  
-  
-- Recebe +1 vantagem dinâmica em ataques  
-- +2 Defesa
-===
-**Aniquilador**
-**Golpe de impacto**
-**Custo:** 4PM, Uma açao
-Golpeia
----  
-  
-**Agarrão Brutal**  
-**Requisito:** Ataque corpo a corpo bem-sucedido  
-**Custo:** 2 PM  
-  
-O alvo fica **imobilizado**  
-  
-Enquanto estiver imobilizado:  
-- Sofre −2 em testes físicos  
-- Não pode se afastar
-===
-**Guardiao**
-**Postura Fortificada**  
-**Ação padrao**  
-**Custo:** 2 PM  
-  
-Até o próximo turno:  
-  
-- +3 Defesa  
-- Reduz todo dano recebido em 1  
-  
----  
-  
-**Absorção Vital**  
-**Custo:** 2 PM (ao acertar ataque corpo a corpo)  
-Ao causar dano:  
-- Ganha PV temporário igual ao vigor
-- Dura ate o fim do turno
-- Pode ser utilizado tres vezes por descanso curto
-- Pode ser utilizado com um dado nemesis para curar duas vezes o vigor ao causar dano.
-```
-
-
-[^1]: Disputas sao testes realizados entre dois personagens com intençao de um vencedor conseguir alguma vantagem tatica
 
 
 ### **Talento**
@@ -136,12 +75,10 @@ Quando um inimigo provocado por você te ataca:
 **Ruptura de Linha**  
 **Ação – Custo: 3 PM**  
   
-Avança até 3m em linha reta, atravessando inimigos.  
+Avança até 6m em linha reta, atravessando inimigos.  
   
-- Realiza um ataque contra cada inimigo no caminho  
-- Em acerto:  
-- Causa dano normal  
-- Pode derrubar  
+- Causa dano igual o vigor para todos os inimigos na area  
+- Tenta derrubar o primeiro alvo atingido *(Teste DT 6+Força bruta) *
   
 ---  
   
@@ -209,3 +146,4 @@ Realiza uma finta contra um inimigo no alcance de ataque. Seu proximo ataque pos
 Ao atacar um inimigo, e possivel escolher outro inimigo a 1,5 metros do alvo inicial, e acerta-lo causando metade do dano
 ```
 
+[^1]: Disputas sao testes realizados entre dois personagens com intençao de um vencedor conseguir alguma vantagem tatica

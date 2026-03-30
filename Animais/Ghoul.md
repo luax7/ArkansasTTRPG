@@ -42,7 +42,7 @@ size: media
 type: Aberraçao
 subtype: "Humanoide sintetica"
 description: O Resultado da produção de armas vivas. Essas criaturas abandonadas por Deus foram expostas a transformações provenientes de uma forma de suspensão de morte, e dessa forma, se tornaram violentas e animalescas. Ghouls mais conscientes conseguem expressar dor constante, perturbações visuais, alucinações e outros efeitos
-ac: 10
+ac: 11
 hp: 400
 hit_dice: 18d10 + 36
 speed: 15 metros

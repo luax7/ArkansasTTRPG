@@ -18,45 +18,46 @@ Pactuados frequentemente fazem contratos para receber magia em troca de riquezas
 **Pericias:** Negociação
 
 ---
-#### **Talento**
+### Talento
 No primeiro, terceiro e sexto nível, o personagem ganhar um talento da lista de [[Talentos]] disponíveis
 
-#### **Conjuração** 
+### Conjuração
 No primeiro nível, o mago se torna capaz de conjurar feitiços simples para combate e fortalecimento.
 Atributo para conjuração : Presença
 No primeiro nível, o pactuário conhece 1 magia
 
-#### **Contrato arcano**
+### Contrato arcano
 Além das magias conhecidas, o pactuado pode fazer contratos com entidades arcanas para adquirir novas magias e Característica. As entidades e suas habilidades são detalhadas no fim do documento.
 As habilidades aprendidas através dos contratos não 
 Para cada "contrato arcano"
 
-#### **Pendulo arcano**
+### Pendulo arcano
 O pendulo arcano expressa o quanto as entidades contratadas estão favoráveis ao contratante.  Entidades favoráveis concedem poderes mais fortes ao contratante temporariamente, usar esses poderes faz entidades perderem favor.
 **Favor**:valor máximo 5, valor mínimo 0
 
-**Ganhando favor**: Para ganhar favor, o pactuado pode fazer um dos seguintes:
+#### **Ganhando favor**: 
+Para ganhar favor, o pactuado pode fazer um dos seguintes:
 - Completar turno gastando menos de 3 ações.
 - Completar turno sem gastar mana.
 - Realizar ação favorável (Listado na entidade)
 Apenas dois ponto de favor podem ser ganhos por turno
 
-**Utilizando favor**
+#### **Utilizando favor**
 As seguintes ações podem ser realizadas gastando favor e uma reação:
 - 2 Pontos : Ao conjurar reduz o custo de magias de entidade em 3PM
 - 3 Pontos : Ao acertar um ataque aumenta um dado de efeito no dano
 - 4 Pontos : Utiliza a característica nível 3 de uma entidade contratada
 
-**Sem Favor**
+#### **Sem Favor**
 Começar um turno com 0 ou menos de favor deixa as entidades enraivecidas. as magias de entidade não podem ser utilizadas ate que o favor se torne 1 ou mais
 
-#### **Contrato arcano**
+### Contrato arcano
 No terceiro nível, o pactuário pode fazer mais um nível de contrato arcano, se ligando mais fortemente a uma entidade ou realizando um contrato com outra entidade
 
-#### **Aumento de habilidade**
+### Aumento de habilidade
 No quarto nível o personagem recebe 2 pontos para distribuir entre os atributos, e 3 pontos para distribuir entre pericias
 
-#### ***Contrato arcano***
+### Contrato arcano
 No quinto nível, o pactuário pode fazer mais um nível de contrato arcano, se ligando mais fortemente a uma entidade ou realizando um contrato com outra entidade
 
 ---

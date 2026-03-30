@@ -1,4 +1,4 @@
-Sintropia arcana e o nome dado por uma força de imprevisibilidade de efeitos arcanos. Isso e, variações dadas a transformações dos mesmos animais nos mesmos ambientes, efeitos variante de magias e outros.
+Sintropia arcana e o nome dado para efeitos arcanos. Isso e, variações dadas a transformações dos mesmos animais nos mesmos ambientes, efeitos variante de magias e outros.
 
 Para além disso, sintropia também e mencionada ao abordar magos humanos e criaturas magicas, com suas transformações fisiológicas sendo consideradas partes do efeito de Sintropia arcana.
 

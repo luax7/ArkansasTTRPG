@@ -31,13 +31,13 @@ id: PeiPNQ5I7kkg5n6dcS9B_
 ===
 **Franco atirador**
 **Mira calma**
-Se o personagem nao se mover no turno, recebe uma vantagem dinamica para todos os testes de pontaria.
+Se o personagem nao se mover no turno, recebe +2 para todos os testes de pontaria.
 **Ponto fraco**
 O franco atiraador consegue identificar pontos fracos apenas com experiencia, causando +1 dado de dano para ataques utilizando pontaria 
 ===
 **Pistoleiro**
 **Reflexos velozes**
-No turno do persoagem, se um ataque utilizando pontaria tiver sucesso, pode utilizar uma açao leve para realizar outro disparo com uma desvantagem nemesis
+No turno do persoagem, se um ataque utilizando pontaria tiver sucesso, pode utilizar uma açao leve para realizar outro disparo. Esse disparado e afetado por -2 de desvantagem
 **Silhueta baixa**
 Caso o jogador tenha se movido no turno, ao final do turno ele imediatamente recebe uma cobertura de 1/4
 ```
@@ -45,7 +45,7 @@ Caso o jogador tenha se movido no turno, ao final do turno ele imediatamente rec
 No terceiro nível, recebe um talento da lista de [[Talentos]]
 ### Sentinela
 Pode realizar ataques de oportunidade em inimigos se movimentando em direção ao atirador.
-Utilizando 3PM, e possível utilizar uma reação para atirar em qualquer inimigo se movimentando a 3 metros ou mais do atirador
+Utilizando 3PM, e possível utilizar duas reações para atirar em qualquer inimigo se movimentando a 3 metros ou mais do atirador
 ### Aumento de habilidade
 No quarto nível o personagem recebe 2 pontos para distribuir entre os atributos, e 3 pontos para distribuir entre pericias
 
@@ -56,7 +56,7 @@ id: 8aiEuUFAh9oDfr8kuc8vM
 ===
 **Franco atirador
 Tiro debilitante**
-Utiliza 6PM para focae em um tiro encantado capaz de destruir partes interas do corpo de um alvo. Esse tiro tem +2 dados de dano, e reduz as açoes do alvo em 1(Minimo de 1).
+Utiliza 6PM para focar em um tiro encantado capaz de destruir partes interas do corpo de um alvo. Esse tiro tem +2 dados de dano, e reduz as açoes do alvo em 1(Minimo de 1).
 ===
 **Pistoleiro 
 Tiroteio frenetico**

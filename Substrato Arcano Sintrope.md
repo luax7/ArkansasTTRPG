@@ -27,7 +27,7 @@ O SAS apresenta uma taxa elevada de decomposição quando em baixas quantidades.
 | 074A — Armazém Portuário de Carga Confiscada<br>    | Durante a inspeção de um carregamento irregular de artefatos, agentes identificaram um recipiente selado contendo fragmentos instáveis de SAS. O material havia sido erroneamente catalogado como cristal energético comum. A exposição prolongada resultou em distorções espaciais localizadas no interior do armazém. |
 | Caso 041K — Residência Privada, Distrito Acadêmico  | Autoridades foram acionadas após relatos de fenômenos luminosos e alterações comportamentais em um pesquisador isolado. No local, foi encontrada uma amostra ativa de SAS mantida em recipiente improvisado. O indivíduo apresentava sinais avançados de instabilidade sintrope e foi removido para quarentena.         |
 # Experimentos realizados
-#### Experimento 01 - Condução forçada de Mana
+### Experimento 01 - Condução forçada de Mana
 **objetivo**: observar a condução de mana em placas metálicas para avaliar a compatibilidade do composto com produção de artefatos
 
 **Metodologia:**  
@@ -38,7 +38,7 @@ Após 6 segundos induzindo aproximadamente 700mTh/s foi detectado uma pequena qu
 
 Em seguida, foi conduzido um experimento de longa duração buscando controle das manifestações de mana do composto. Aplicando 100mTh/s foi possível manter o controle por 5 minutos, quando a placa reagiu violentamente, danificando sistemas de segurança e medidores.
 
-#### **Experimento 02 — Exposição Biológica**
+### Experimento 02 — Exposição Biológica
 
 **Objetivo:**  
 Analisar os efeitos do SAS em tecidos vivos e sua influência na metabolização de mana.
@@ -54,7 +54,7 @@ Um dos organismos evoluiu para um estado crítico, com interação na região do
 **Conclusão:**  
 O SAS atua como catalisador de amplificação biológica de mana, porém induz instabilidade sistêmica e colapso orgânico em curto prazo.
 
-#### **Experimento 03 — Reanimação Pós-Morte Induzida por SAS**
+### Experimento 03 — Reanimação Pós-Morte Induzida por SAS
 
 **Objetivo:**  
 Avaliar a interação do Substrato Arcano Sintrope com tecidos mortos e verificar a possibilidade de reativação funcional através de condução de mana.

@@ -6,7 +6,7 @@ Sua fundação foi dada pela necessidade da organização regional de países na
 
 Dado o sucesso parcial do tratado, outros 45 países e Companhias se juntaram a um novo tratado similar firmado em 1902 em Warsaw na Rússia. Marcando assim o inicio de uma visão mais globalizada da contenção de efeitos sintropes.
 
-Naturalmente, assim que o estado de adaptação e emergência foi mediado nos paises afetados, a manutenção dos tratados foi sendo deixada de lado, eventualmente sendo encerrados. Entretanto, a infraestrutura de rede de contatos criada pelos tratados foi essencial para a comunicaçao internacional de especialistas e academicos, permitindo eventualmente a formaçao da CCS
+Naturalmente, assim que o estado de adaptação e emergência foi mediado nos paises afetados, a manutenção dos tratados foi sendo deixada de lado, eventualmente sendo encerrados. Entretanto, a infraestrutura de rede de contatos criada pelos tratados foi essencial para a comunicação internacional de especialistas e acadêmicos, permitindo eventualmente a formação da CCS
 
 **Inicio da Coalização de controle sintrope**
 Devido a uma nova explosão de eventos sintropes ativos no continente europeu, a França propôs a criação de uma organização internacional de contenção ativa, com forças tarefa de diversos paises sendo atribuídas a diversas operações através de informações compartilhadas entre os paises

@@ -2,14 +2,14 @@ O Pactuado foca em fazer contratos com entidades magicas para receber feitiços 
 
 Pactuados frequentemente fazem contratos para receber magia em troca de riquezas dos humanos como sua expectativa de vida, "alma", conduta em vida, riquezas, e ate mesmo objetos arcanos
 
-| Nivel | Habilidade adquirida    | Contratos disponíveis | Magias conhecidas |
-| ----- | ----------------------- | --------------------- | ----------------- |
-| 1     | Talento,Conjuração      | 1                     | 1                 |
-| 2     | Contrato arcano         | 1                     | 1                 |
-| 3     | Talento,Contrato arcano | 2                     | 2                 |
-| 4     | Aumento de habilidade   | 2                     | 3                 |
-| 5     | Contrato arcano         | 3                     | 3                 |
-| 6     | Talento                 | 3                     | 4                 |
+| Nivel | Característica                  | Contratos disponíveis | Magias conhecidas |
+| ----- | ------------------------------- | --------------------- | ----------------- |
+| 1     | Talento,Conjuração              | 1                     | 1                 |
+| 2     | Contrato arcano, Pendulo arcano | 1                     | 1                 |
+| 3     | Talento,Contrato arcano         | 2                     | 2                 |
+| 4     | Aumento de habilidade           | 2                     | 3                 |
+| 5     | Contrato arcano                 | 3                     | 3                 |
+| 6     | Talento                         | 3                     | 4                 |
 **Pontos de vida iniciais 10 + Vigor**
 *Pontos de vida nos próximos níveis 4+Vigor*
 **Mana Inicial 8+Sintonia**
@@ -27,9 +27,14 @@ Atributo para conjuração : Presença
 No primeiro nível, o pactuário conhece 1 magia
 
 ***Contrato arcano***
-Além das magias conhecidas, o pactuado pode fazer contratos com entidades arcanas para adquirir novas magias e habilidades. As entidades e suas habilidades são detalhadas no fim do documento.
+Além das magias conhecidas, o pactuado pode fazer contratos com entidades arcanas para adquirir novas magias e Característica. As entidades e suas habilidades são detalhadas no fim do documento.
 As habilidades aprendidas através dos contratos não 
 Para cada "contrato arcano"
+
+**Pendulo arcano**
+
+***Contrato arcano***
+No terceiro nivel, o pactuario pode fazer 
 
 **Aumento de habilidade**
 No quarto nível o personagem recebe 2 pontos para distribuir entre os atributos, e 3 pontos para distribuir entre pericias

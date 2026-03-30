@@ -1,13 +1,13 @@
 Lutadores compõem a principal linha de frente contra as ameaças para o grupo. Dessa forma, eles utilizam armas corpo a corpo para conter e destruir os inimigos
 
-| Nivel | Efeito                   |
-| ----- | ------------------------ |
-| 1     | Talento, Combate marcial |
-| 2     | Habilidade de arquétipo  |
-| 3     | Talento, recuperaçao     |
-| 4     | Aumento de habilidade    |
-| 5     | Habilidade de arquétipo  |
-| 6     | Talento                  |
+| Nivel | Característica              |
+| ----- | --------------------------- |
+| 1     | Talento, Combate marcial    |
+| 2     | Característica de arquétipo |
+| 3     | Talento, recuperaçao        |
+| 4     | Aumento de habilidade       |
+| 5     | Característica de arquétipo |
+| 6     | Talento                     |
 **Pontos de vida iniciais 16 + Vigor**
 *Pontos de vida nos próximos níveis 8+Vigor*
 **Mana Inicial 8+Vigor**
@@ -22,8 +22,16 @@ No primeiro, terceiro e sexto nível, o personagem ganhar um talento da lista de
 Com muita experiencia e talento, o lutador se acostumou aos costumes de batalha e se especializou. dessa forma, ele pode escolher duas manobras que ele pode executar de acordo com os requisitos.
 As manobras podem ser vistas na tabela [[Lutador#Manobras de combate|Manobras de combate]]
 
-### Habilidade de arquétipo
+### Característica de arquétipo
 No segundo nível, o lutador se especializa em um estilo de luta, tomando uma função na linha de frente.
+
+
+| **Duelista**                                                                                                                                                                                                                                                                          | **Aniquilador**                                                                                                                                                                                                                                                                                                                                                                              | **Guardiao**                                                                                                                                        |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Golpe Provocante:**<br>*Ação padrão*<br>*2PM*<br>Ao acertar um inimigo, emana ondas elétricas selvagens para perturbar o sistema nervoso do alvo. O inimigo realiza um teste de presença *DT 6+Presença* para provocar o inimigo, limitando seus ataques para apenas o lutador.<br> | **Golpe de Impacto**:<br>*Ação padrão*<br>*4PM*<br>Canaliza força arcana nos braços para realizar um ataque físico avassalador em um inimigo. Causa +1 dado de dano. Inimigos acertados por um golpe de impacto precisam realizar um teste de resistência *DT 6+Força bruta*, em falha são [[Derrubado\|Derrubados]].<br><br>Essa característica pode ser utilizada apenas uma vez por turno | **Postura Fortificada**  <br>**Ação padrao**  <br>**Custo:** 2 PM<br><br>Até o próximo turno:<br><br>- +3 Defesa<br>- Reduz todo dano recebido em 1 |
+| **Habilidade de Duelo**  <br>Com anos de treino, o lutador se especializa no duelo, abatendo um inimigo por vez rapidamente. Enquanto estiver engajado com apenas 1 inimigo seus ataques recebem +2 de vantagem. Adicionalmente recebe +2 de defesa                                   | **Agarrão Brutal**  <br>*Ação padrão*<br>*2PM*<br>Canaliza força arcana na parte central do corpo para garantir uma base forte para realizar um agarrão poderoso.                                                                                                                                                                                                                            |                                                                                                                                                     |
+
+
 ```columns
 id: BTvAYVZ9vpwXhkxYfFyY1
 ===
@@ -47,16 +55,9 @@ Enquanto estiver engajado com apenas um inimigo:
 - +2 Defesa
 ===
 **Aniquilador**
-**Golpe de Impacto**  
-**Requisito:** Ataque corpo a corpo  
-**Custo:** 2 PM  
-  
-Ao acertar:  
-  
-- Causa +1 dado de dano  
-- Inimigos em até 1m do alvo devem passar em teste físico  
-- Falha: ficam **derrubados**  
-  
+**Golpe de impacto**
+**Custo:** 4PM, Uma açao
+Golpeia
 ---  
   
 **Agarrão Brutal**  
@@ -103,7 +104,7 @@ Uma vez por descanso curto o lutador pode recuperar uma quantidade de D6 igual a
 ### Aumento de habilidade
 No quarto nível o personagem recebe 2 pontos para distribuir entre os atributos, e 3 pontos para distribuir entre pericias
 
-### Habilidade de arquétipo
+### Característica de arquétipo
 No Quinto nível, o lutador se aprofunda no estilo de luta escolhido se tornando um oponente formidável.
 ```columns
 id: 7RkaRyvVGFX2Ik98NZZyw

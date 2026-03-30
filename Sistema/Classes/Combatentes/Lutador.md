@@ -26,13 +26,10 @@ As manobras podem ser vistas na tabela [[Lutador#Manobras de combate|Manobras de
 No segundo nível, o lutador se especializa em um estilo de luta, tomando uma função na linha de frente.
 
 
-| **Duelista**                                                                                                                                                                                                                                                                          | **Aniquilador**                                                                                                                                                                                                                                                                                                                                                                              | **Guardiao**                                                                                                                                        |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Golpe Provocante:**<br>*Ação padrão*<br>*2PM*<br>Ao acertar um inimigo, emana ondas elétricas selvagens para perturbar o sistema nervoso do alvo. O inimigo realiza um teste de presença *DT 6+Presença* para provocar o inimigo, limitando seus ataques para apenas o lutador.<br> | **Golpe de Impacto**:<br>*Ação padrão*<br>*4PM*<br>Canaliza força arcana nos braços para realizar um ataque físico avassalador em um inimigo. Causa +1 dado de dano. Inimigos acertados por um golpe de impacto precisam realizar um teste de resistência *DT 6+Força bruta*, em falha são [[Derrubado\|Derrubados]].<br><br>Essa característica pode ser utilizada apenas uma vez por turno | **Postura Fortificada**  <br>**Ação padrao**  <br>**Custo:** 2 PM<br><br>Até o próximo turno:<br><br>- +3 Defesa<br>- Reduz todo dano recebido em 1 |
-| **Habilidade de Duelo**  <br>Com anos de treino, o lutador se especializa no duelo, abatendo um inimigo por vez rapidamente. Enquanto estiver engajado com apenas 1 inimigo seus ataques recebem +2 de vantagem. Adicionalmente recebe +2 de defesa                                   | **Agarrão Brutal**  <br>*Ação padrão*<br>*2PM*<br>Canaliza força arcana na parte central do corpo para garantir uma base forte para realizar um agarrão poderoso.                                                                                                                                                                                                                            | **Interceptador**                                                                                                                                   |
-
-
-
+| **Duelista**                                                                                                                                                                                                                                                                                   | **Aniquilador**                                                                                                                                                                                                                                                                                                                                                                    | **Guardiao**                                                                                                                                                                                                                                                  |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Golpe Provocante:**<br>_Ação – 2PM_<br>Ao acertar um inimigo, emana ondas elétricas selvagens para perturbar o sistema nervoso do alvo. O inimigo realiza um teste de presença *DT 6+Presença* para provocar o inimigo, limitando seus ataques para apenas o lutador.<br>                    | **Golpe de Impacto**:<br>_Ação – 4PM_<br>Canaliza força arcana nos braços para realizar um ataque físico avassalador em um inimigo. Causa +1 dado de dano. Inimigos acertados por um golpe de impacto precisam realizar um teste de resistência *DT 6+Força bruta*, em falha são [[Derrubado\|Derrubados]].<br><br>Essa característica pode ser utilizada apenas uma vez por turno | **Postura Fortificada**  <br>_Ação – 2PM_<br>Até o próximo turno:<br><br>- +3 Defesa<br>- Reduz todo dano recebido em 1                                                                                                                                       |
+| **Habilidade de Duelo**  <br>Com anos de treino, o lutador se especializa no duelo, abatendo um inimigo por vez rapidamente. Enquanto estiver engajado com apenas 1 inimigo seus ataques recebem :<br>- +2 vantagem para acerto<br>- Causa [[Sangrando\|Sangramento]] por 1d4 turnos ao acerto | **Presença esmagadora**<br>_Ação leve – 3PM_<br>Sua presença causa medo aos inimigos. ao ativar a característica, inimigos em ate 10,5 metros de distancia realizam um teste de postura *DT 7+Intimidaçao*, em falha recebem<br>- -1 De defesa ate o próximo turno<br>- - Se estiver [[Derrubado]] ou [[Imobilizado]], recebe -2 de defesa                                         | **Interceptador**<br>_Reação – 3PM_<br>Quando um aliado e atacado em um raio de 1,5 metros, pode reduzir o dano causado em *1d6 + Resistencia*<br><br>**Em níveis superiores**<br>A partir do quinto nível, aumenta a redução de dano para *1d10+Resistencia* |
 
 ### **Talento**
 No primeiro, terceiro e sexto nível, o personagem ganhar um talento da lista de [[Talentos]] disponíveis
@@ -45,69 +42,11 @@ No quarto nível o personagem recebe 2 pontos para distribuir entre os atributos
 
 ### Característica de arquétipo
 No Quinto nível, o lutador se aprofunda no estilo de luta escolhido se tornando um oponente formidável.
-```columns
-id: 7RkaRyvVGFX2Ik98NZZyw
-===
-**Duelista**
-**Domínio do Duelo**  
-Enquanto estiver sob efeito de **Habilidade de Duelo** (apenas 1 inimigo):  
-  
-- Recebe +2 Defesa  
-- Seus ataques causam +1 dado de dano  
-  
-Se o alvo estiver sob efeito de **Ataque Provocante**:  
-- Recebe +1 vantagem dinâmica adicional nos ataques  
-  
----  
-  
-**Contra-Ataque Preciso**  
-**Reação – Custo: 2 PM**  
-  
-Quando um inimigo provocado por você te ataca:  
-  
-- Realiza um ataque corpo a corpo contra ele  
-- Se acertar:  
-- Recebe metade do dano
-  
----
-===
-**Aniquilador**
-**Ruptura de Linha**  
-**Ação – Custo: 3 PM**  
-  
-Avança até 6m em linha reta, atravessando inimigos.  
-  
-- Causa dano igual o vigor para todos os inimigos na area  
-- Tenta derrubar o primeiro alvo atingido *(Teste DT 6+Força bruta) *
-  
----  
-  
-**Massacre Controlado**  
-  
-Sempre que você derrubar ou imobilizar um inimigo:  
-  
-- Pode causar +1 dado de dano no proximo ataque
-- 1 vez por turno  
-  
----
-===
-**Guardiao**
-**Fortaleza Inabalável**  
-Enquanto estiver sob efeito de **Postura Fortificada**:  
-  
-- Redução de dano aumenta para 2  
-- Aliados adjacentes recebem +2 Defesa  
-  
----  
-  
-**Vínculo Vital**  
-**Ação leve – Custo: 3 PM**  
-  
-Por 2 turnos:  
-  
-- Sempre que você ganhar PV temporário por **Absorção Vital**,  
-- um aliado a até 2m recebe metade desse valor
-```
+
+| **Duelista**                                                                                                                                                                                                                                                                                                                | **Aniquilador**                                                                                                                                                                                                                            | **Guardiao** |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------ |
+| **Domínio do Duelo**  <br>O Duelo se torna domínio do lutador, enquanto houver apenas um inimigo, a vantagem e clara.<br>Enquanto enfrentar apenas um inimigo, recebe:<br>+2 de defesa<br>+1 dado de dano<br>Adicionalmente ataques contra inimigos sobre efeito de *Golpe provocante* recebem +1 de vantagem.<br>Inimigos  | **Ruptura de Linha**  <br>_Ação – 3PM_<br><br>Avança até 6m em linha reta, atravessando inimigos.<br><br>- Causa dano igual o vigor para todos os inimigos na area<br>- Tenta derrubar o primeiro alvo atingido _(Teste DT 6+Força bruta)_ |              |
+|                                                                                                                                                                                                                                                                                                                             | **Massacre Controlado**<br>_Uma vez por turno_<br>Sempre que você derrubar ou imobilizar um inimigo:<br><br>- Pode causar +1 dado de dano no proximo ataque<br>- 1 vez por turno                                                           |              |
 ### **Talento**
 No primeiro, terceiro e sexto nível, o personagem ganhar um talento da lista de [[Talentos]] disponíveis
 

@@ -151,5 +151,29 @@ _Protocolos de contenção_ utilizam o mesmo sistema base de eventos, indicando 
 
 _Identificador único_ número incremental em mod16
 
-Exemplo final: P5UrR3  
-Criatura éteride subterrânea de risco moderado com necessidade de contenção e controle arcano leve
+Exemplo final: P4UrR3Mt3-C9  
+Ghoul, criatura de nível Demonico habitante de ambientes urbanos que requer equipe especializada para neutralizar e conter.
+
+### Casos
+
+Casos representam investigações completas envolvendo múltiplos eventos, indivíduos e artefatos. São utilizados como unidade narrativa e analítica dentro da CCS.
+
+**Sistema**:  
+O código é montado na ordem dos fatores apresentados
+
+_Período geral_ define a janela temporal do caso expresso em hexadecimal
+_Localização de origem_ segue o padrão geográfico definido para eventos
+_Escopo_ define a extensão do impacto do caso
+
+|Escopo|Características|Abreviação|
+|---|---|---|
+|Local|Área restrita|Sc1|
+|Regional|Múltiplos pontos próximos|Sc2|
+|Nacional|Afeta um país|Sc3|
+|Internacional|Afeta múltiplos países|Sc4|
+|Global|Impacto generalizado|Sc5|
+
+_Identificador único_ número incremental em mod16
+
+Exemplo final: 77bBg/DaSc4-1
+Investigação da arma viva, ocorrido em 1915 em Daca(Bangladesh) com efeito em outros paises.

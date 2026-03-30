@@ -3,6 +3,7 @@ id: 4Dc-uIbO_f0O2K_pA0kOB
 ===
 **Departamento de Anomalias**
 Objeto: Substrato Arcano Sintrope
+Registro:EmQ1XAm-F
 Classificaçao: Sigiloso
 Autor: Malik Il-Shafr
 ```

@@ -105,7 +105,7 @@ actions:
     attack_bonus: 0
 legendary:
   - name: Grito estridente
-    desc: O ghoul emite um som estridente terrível, fazendo todos as criaturas em um raio de 30 Metros fazerem um teste de Postura, com falha resultando em perder uma ação no próximo turno
+    desc: O ghoul emite um grito terrivel utilizando seus pulm. Ao utilizar essa habilidade todas as criaturas em um raio de 30 metros tem de realizar um teste de postura DT 10 ou perdem uma açao no proximo turno.
   - name: Fuga
     desc: O Ghoul usa as 3 ações para desengajar, ficar invisível, e desaparecer. ele fica indetectável pelos próximos 5 minutos
 ```

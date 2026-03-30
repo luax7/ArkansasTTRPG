@@ -45,49 +45,38 @@ A Coalizão é dividida em três grandes braços operacionais:
     Gerencia o envio de material sintrope para universidades, laboratórios e centros de estudo credenciados.
 
 ---
-
 ## Relação com Instituições Acadêmicas
 
-Uma das características mais controversas da CGVCS é sua política de **redistribuição de espécimes sintropes**.
+Desde sua formalização, a CCS compreendeu que a contenção por si só não seria suficiente para lidar com a crescente complexidade dos fenômenos sintropes. Dessa forma, estabeleceu uma rede de cooperação com universidades, institutos técnicos e centros de pesquisa autorizados, criando um ecossistema científico dependente do acesso controlado a materiais sintropes.
 
-Universidades e centros de pesquisa afiliados recebem acesso controlado a:
+Essa relação funciona sob um princípio de concessão: instituições credenciadas recebem espécimes, fragmentos biológicos, artefatos e registros de campo mediante contratos rígidos de sigilo e devolutiva científica. Em teoria, todo conhecimento produzido retorna à Coalizão, alimentando seus bancos de dados e aprimorando suas operações. Na prática, no entanto, essa dinâmica gerou um ambiente competitivo e, por vezes, predatório, onde descobertas são disputadas, omitidas ou comercializadas de forma indireta.
 
-- Criaturas capturadas
-- Tecidos e amostras biológicas
-- Artefatos e minerais alterados
-- Dados de campo classificados
+---
 
-Essa relação impulsionou avanços significativos na compreensão da sintropia, mas também gerou um ecossistema paralelo de interesses:
+## Hierarquia e Estrutura Interna
 
-- Disputas acadêmicas por acesso a espécimes raros
-- Comercialização indireta de descobertas
-- Vazamentos e contrabando de material sintrope
+A CCS opera sob uma estrutura centralizada, projetada para equilibrar representação internacional com eficiência operacional. No topo encontra-se o **Conselho Central de Vigilância Sintrope**, composto por representantes das principais nações signatárias e observadores de entidades privadas com participação histórica nos tratados iniciais. Embora oficialmente deliberativo, o conselho exerce forte influência sobre decisões estratégicas, classificações de risco e diretrizes globais.
+
+Abaixo do conselho, a autoridade executiva é concentrada na figura do **Diretor-Geral de Contenção**, responsável pela coordenação global das operações e pela mediação entre interesses políticos e necessidades operacionais. Esse cargo, frequentemente alvo de disputas diplomáticas silenciosas, detém poder significativo sobre alocação de recursos, definição de prioridades e autorização de ações de alto risco.
+
+Subordinadas à diretoria, as três grandes divisões — Vigilância, Contenção e Pesquisa — funcionam como pilares interdependentes, cada uma com autonomia relativa, mas sujeitas à supervisão direta do núcleo central. A Divisão de Vigilância mantém redes de inteligência distribuídas globalmente, operando tanto em cooperação com governos quanto de forma independente. A Divisão de Contenção, por sua vez, representa o braço mais visível e temido da organização, mobilizando forças-tarefa multinacionais treinadas especificamente para lidar com entidades sintropes. Já a Divisão de Pesquisa atua como intermediária entre o campo e a academia, controlando o fluxo de informações e materiais.
+
+Em níveis inferiores, a estrutura se fragmenta em **células operacionais regionais**, cada uma adaptada às características locais dos fenômenos sintropes. Essas células possuem certo grau de autonomia tática, mas permanecem vinculadas a protocolos rígidos de reporte e classificação, garantindo que nenhuma informação relevante permaneça isolada — ao menos em teoria.
 
 ---
 
 ## Eficiência e Controvérsias
 
-Apesar de sua eficácia operacional — sendo responsável pela contenção de centenas de eventos potencialmente catastróficos — a CGVCS é frequentemente alvo de críticas.
+A CCS rapidamente consolidou sua posição como a principal força de contenção sintrope no mundo, sendo responsável por neutralizar ou mitigar inúmeros eventos que, de outra forma, poderiam ter resultado em colapsos regionais. Sua capacidade de mobilização internacional, aliada ao acesso privilegiado a conhecimento científico e recursos militares, a tornou uma instituição praticamente indispensável.
 
-Acusações recorrentes incluem:
+Entretanto, essa mesma concentração de poder inevitavelmente deu origem a distorções internas. Relatos de operações encobertas, desaparecimento de indivíduos classificados como vetores sintropes e uso não autorizado de entidades em contextos experimentais tornaram-se cada vez mais frequentes, embora raramente confirmados oficialmente. A própria política de redistribuição científica, inicialmente concebida como ferramenta de progresso, passou a ser vista por alguns como um mecanismo de controle e influência.
 
-- Ocultação de incidentes de grande escala
-- Uso indevido de entidades sintropes para fins militares
-- Corrupção interna e favorecimento institucional
-- Desaparecimento de indivíduos classificados como “vetores sintropes”
-
-Ainda assim, mesmo seus críticos reconhecem um fato incômodo:
-
-> Sem a Coalizão, o mundo provavelmente já teria colapsado sob o peso da própria magia.
+Ainda assim, mesmo diante de críticas e suspeitas, poucos são os que defendem sua dissolução. A percepção geral, compartilhada inclusive por opositores, é de que a CCS opera em uma zona cinzenta inevitável: necessária para a sobrevivência coletiva, mas distante de qualquer ideal de transparência ou equidade.
 
 ---
 
 ## Status Atual
 
-Atualmente, a CGVCS opera em escala global, com presença direta ou indireta em praticamente todos os territórios civilizados.
+Atualmente, a CCS atua como uma entidade supranacional de fato, com autoridade que frequentemente ultrapassa fronteiras políticas e jurídicas. Sua presença se estende por centros urbanos, regiões remotas e zonas classificadas, muitas vezes operando antes mesmo que governos locais sejam formalmente informados.
 
-Embora oficialmente subordinada a um conselho internacional, na prática, a Coalizão mantém um alto grau de autonomia — frequentemente agindo antes de qualquer aprovação governamental formal.
-
-Seu lema não oficial, circulando entre agentes de campo, resume bem sua filosofia:
-
-> “Nós vemos primeiro. Nós chegamos primeiro. Nós decidimos primeiro.”
+Embora mantenha a aparência de uma coalizão colaborativa, sua estrutura interna e capacidade de ação revelam algo mais próximo de uma instituição autônoma, guiada por seus próprios critérios de risco e prioridade. A maioria das nações participa ativamente de suas operações, seja por interesse, necessidade ou incapacidade de agir de forma independente frente aos fenômenos sintropes.

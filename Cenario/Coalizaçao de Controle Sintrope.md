@@ -6,12 +6,10 @@ Sua fundação foi dada pela necessidade da organização regional de países na
 
 Dado o sucesso parcial do tratado, outros 45 países e Companhias se juntaram a um novo tratado similar firmado em 1902 em Warsaw na Rússia. Marcando assim o inicio de uma visão mais globalizada da contenção de efeitos sintropes.
 
-**Quebra dos tratados**
-Em 1908, após o vazamento de documentos internos chineses, foram constatados diversas instancias de informações criticas que não haviam sido compartilhadas com os outros membros, gerando desconfiança entre todos os membros e grande repercussão diplomática entre a china e o mundo.
-Após grandes ultimatos de diversos países para a abertura de todas as formas de informação dos membros do tratado, a maioria dos participantes majoritários reconsideraram sua posição, eventualmente, terminando o tratado unilateralmente. Agora, com condições muito mais estáveis, após 6 anos de união. Apesar do fim rochoso, esse esforço seria tardiamente reconhecido como uma das jogadas diplomáticas mais relevantes do século.
+Naturalmente, assim que o estado de adaptação e emergência foi mediado nos paises afetados, a manutenção dos tratados foi sendo deixada de lado, eventualmente sendo encerrados. Entretanto, a infraestrutura de rede de contatos criada pelos tratados foi essencial para a comunicaçao internacional de especialistas e academicos, permitindo eventualmente a formaçao da CCS
 
-**Inicio da Coalização global de vigilância arcana**
-Devido a uma nova explosão de eventos sintropes ativos no continente europeu, a França propôs a criação de uma organização internacional de contenção ativa, com forças tarefa de diversos paises sendo atribuídas a diversas operações através de informaçoes compartilhadas entre os paises
+**Inicio da Coalização de controle sintrope**
+Devido a uma nova explosão de eventos sintropes ativos no continente europeu, a França propôs a criação de uma organização internacional de contenção ativa, com forças tarefa de diversos paises sendo atribuídas a diversas operações através de informações compartilhadas entre os paises
 Dessa vez, essa organização operava com um bureau centralizado com representantes de todos os paises participantes revendo e distribuindo informação, assim garantindo um nível maior de confidencialidade entre os participantes
 Operando muito mais eficientemente, lentamente a maior parte dos paises se juntaram parcialmente ou completamente a CCS.
 

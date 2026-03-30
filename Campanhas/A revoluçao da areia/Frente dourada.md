@@ -1,4 +1,4 @@
-#grupo presente na campanha [[A revolução da areia]]
+#grupo presente na campanha [[Campanhas/A revoluçao da areia/A revolução da areia]]
 # Descrição
 A frente dourada e um movimento revolucionário no Egito. Buscando a liberação do pais das amarras imperialistas e das forças monarquistas, vilas se juntaram em uma grande rede de informações e recursos chamada de Liberum Deserti.
 

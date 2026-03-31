@@ -1,5 +1,6 @@
 A mecânica de repouso e utilizada como a principal forma de recuperar recursos. sejam pontos de vida, mana, ou certas habilidades.
 Um repouso se trata de um espaço de tempo em que, os personagens envolvidos, não realizam nenhuma ação mais demandante do que as descritas em [[Repouso#Ações em repouso|açoes em repouso]].
+
 # Tipos de descanso
 **descanso ativo**
 Descreve cenas de repouso situadas no local de investigação, ou que apresenta ameaças iminentes de qualquer forma.
@@ -28,7 +29,8 @@ Em um cenário urbano e natural possuir o mínimo para um bom descanso, assim, r
 
 **Luxo** Boa musica, comida gourmet e conforto luxuoso. O personagem se recupera muito mais tranquilamente. +10PV, +3PM
 
-**Ambiente arcano** Ambientes  ricos por em mana tendem a garantir uma permeação arcana melhor. Personagens descansando em ambientes de batalha (Ou narrativamente ricos em mana) recuperam mais mana. +5PM
+**Ambiente arcano** Ambientes  ricos por em mana tendem a garantir uma permeação arcana melhor. Personagens descansando em ambientes ricos em mana recuperam mais mana. +5PM
+
 # Ações em repouso
 Ações em repouso são ações que os personagens podem tomar em cenas de repouso garantindo vantagens e melhores condições de repouso. 
 

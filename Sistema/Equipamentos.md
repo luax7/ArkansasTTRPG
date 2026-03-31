@@ -1,3 +1,7 @@
+Equipamentos são partes essenciais da preparação para uma missão. Eles podem ser adquiridos ao início da campanha ou durante de diversas formas.
+
+**Equipamentos iniciais**
+Apesar de não haver nenhuma regra rígida dirigindo os equipamentos inicias, e recomendado a escolha dos equipamentos com orçamento.Orçamento recomendado :400$.
 # *Armas de fogo*
 *Armas de longa distancia*
 
@@ -13,16 +17,16 @@
 # *Armas físicas*
 *armas corpo a corpo*
 
-| Equipamento       | Peso  | Dano      | Modificadores           | Preço |
-| ----------------- | ----- | --------- | ----------------------- | ----- |
-| Espada Longa      | 3Kg   | 2D8, 2D10 | Versátil                | 30$   |
-| Machado de guerra | 2Kg   | 2D10      |                         | 30$   |
-| Adaga             | 0,5Kg | 1D6       | Acuidade                | 30$   |
-| Martelo de guerra | 3Kg   | 2D10      | Alcance longo           | 40$   |
-| Espada Curta      | 1Kg   | 1D6       |                         | 30$   |
-| Lança             | 1Kg   | 2D8       | Alcance Longo, acuidade | 40$   |
-| Machado           | 1Kg   | 1D10      | Arremessavel            | 20$   |
-| Florete           | 0,5Kg | 1D8       | Acuidade                | 30$   |
+| Equipamento       | Peso  | Dano      | Modificadores                                 | Preço |
+| ----------------- | ----- | --------- | --------------------------------------------- | ----- |
+| Espada Longa      | 3Kg   | 2D8, 2D10 | [[Equipamentos#Versátil\|Versatil]]           | 30$   |
+| Machado de guerra | 2Kg   | 2D10      |                                               | 30$   |
+| Adaga             | 0,5Kg | 1D6       | [[Equipamentos#acuidade\|Acuidade]]           | 30$   |
+| Martelo de guerra | 3Kg   | 2D10      | [[Equipamentos#Longo alcance\|Longo alcance]] | 40$   |
+| Espada Curta      | 1Kg   | 1D6       |                                               | 30$   |
+| Lança             | 1Kg   | 2D8       | Alcance Longo, acuidade                       | 40$   |
+| Machado           | 1Kg   | 1D10      | Arremessavel                                  | 20$   |
+| Florete           | 0,5Kg | 1D8       | Acuidade                                      | 30$   |
 # *Equipamentos*
 *Itens utilizáveis*
 
@@ -75,11 +79,11 @@ Pode ser usado em uma mão para conceder +2 De defesa
 # Focos arcanos 
 *Itens de conjuração*
 
-| Armadura | Efeito | Modificadores | Peso(Kg) | Preço |
-| -------- | ------ | ------------- | -------- | ----- |
-| Cajado   |        |               | 1        | 30$   |
-| Orbe     |        |               | 0,5      | 30$   |
-| Tomo     |        |               | 0,5      | 30$   |
+| Armadura | Efeito | Peso(Kg) | Preço |
+| -------- | ------ | -------- | ----- |
+| Cajado   |        | 1        | 30$   |
+| Orbe     |        | 0,5      | 30$   |
+| Tomo     |        | 0,5      | 30$   |
 # Modificadores
 Modificadores São características de equipamentos que são comuns, assim sendo definidas geralmente.
 
@@ -93,4 +97,14 @@ Uma arma de acuidade pode utilizar agilidade ao invés de *ataque físico* para 
 
 ###### Longo alcance 
 - Armas físicas de com longo alcance possuem alcance maior, aumentando em 1,5 metros a área de ataque.
-- Armas de fogo de longo alcance possuem desvantagem -2 para ataques em alvos a menos de 10 metros 
+- Armas de fogo de longo alcance possuem desvantagem -2 para ataques em alvos a menos de 10 metros
+
+###### Arremessavel
+Armas arremessáveis podem ser lançadas em direção a um alvo utilizando pontaria. Armas sem a categoria podem ser lançadas, mas deu teste de acerto é apenas 2d6 padrão. 
+
+###### Arma improvisada
+Equipamentos com a categoria armas improvisadas podem ser utilizada como armas físicas, causando 1d4+Forca bruta de dano.
+
+###### Proficiência 
+Equipamentos com o modificador proficiência permitem que o usuário execute um teste de perícia técnica como se fosse treinado.
+

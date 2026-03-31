@@ -34,7 +34,7 @@ As rolagens somam com as características básicas do personagem como [[Atributo
 ### Vantagem
 As vantagens são separadas em dois tipos:
 - Vantagem dinâmica
-	Ao receber uma vantagem dinâmica, o jogador adiciona um ou mais D6 ao próximo teste, sendo a quantidade especificada na fonte
+	Ao receber uma vantagem dinâmica, o jogador adiciona mais 1d6 para a rolagem.
 - Vantagem fixa
 	O Jogador recebe um adicional fixo para o próximo teste, sendo o adicional especificado na fonte da vantagem
 ### Desvantagem
@@ -53,11 +53,17 @@ Uma falha critica no combate entrega o efeito "Falha catastrófica" ao personage
 
 # Mecânicas de suporte
 [[Repouso]]
+
 [[Combate]]
+
 [[Perseguição]]
+
 [[Equipamentos]]
+
 [[Criando um personagem]]
+
 [[Contagem de munição]]
+
 [[Sistema Nêmesis]]
 - Criação de eventos narrativos
 

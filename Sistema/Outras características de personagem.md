@@ -6,13 +6,14 @@ São a forma com que a durabilidade do personagem e expressa. os pontos de vida 
 Um personagem ganha o status morrendo quando seus pontos de vida são 0 ou menos. nesse estado, o jogador deve realizar um teste de [Resistencia](Atributos) (DT Fácil) por turno para se manter consciente, e consegue apenas rastejar, tendo seu movimento reduzido pela metade.
 Se o personagem for atacado nesse estado, ele se torna inconsciente imediatamente e começa a realizar seus testes de sobrevivência. Se esse ataque for considerado um **golpe brutal**, o personagem possui uma desvantagem -6 para todos os testes de sobrevivência
 
+### Testes de sobrevivência
+Quando um personagem no estado morrendo se torna inconsciente ele realiza um teste de resistência **DT 7**. Se o personagem falhar, ele morre no fim do seu próximo turno.
+
 ### Golpes brutais
-Golpes brutais são ataques únicos que causam metade ou mais da vida máxima de um personagem. Quando um golpe brutal acontece com um personagem com menos da metade da vida, sua vida e reduzida para 0, e não se torna negativa. 
+Golpes brutais são ataques únicos que causam metade ou mais dos pontos de vida máxima de um personagem. Quando um golpe brutal acontece com um personagem com menos da metade da vida, sua vida e reduzida para 0, e não se torna negativa. 
 No caso de um golpe brutal, o personagem ganha uma cicatriz permanente, causando uma desvantagem ate o próximo descanso passivo ou melhor.
 O mestre pode narrar a cicatriz, ou ela pode ser escolhida aleatoriamente da [[Outras características de personagem#Tabela de golpes brutais|Tabela de golpes brutais]].
 
-### Testes de sobrevivência
-Quando um personagem no estado morrendo se torna inconsciente ele realiza um teste de resistência **DT difícil**. Se o personagem falhar, ele morre no fim do seu próximo turno.
 # Defesa
 Defesa passiva contra ataques físicos. Qualquer ataque que tente acertar o personagem tem esse atributo como DT.
 A defesa inicial e definida como 7+Resistencia
@@ -25,20 +26,21 @@ A ordem de combate e decidida primeiramente por ações posteriores (Ex: embosca
 
 ### Deslocamento
 O deslocamento significa a capacidade de se movimentar de um personagem.
-O deslocamento e definido como 6 + 2xAgilidade metros
+O deslocamento e definido como *6 + 2 × Agilidade* metros
 
 ### Capacidade de carga
-A capacidade de carga define quão pesado pode ser o equipamento de um personagem. E definido por 15+5xVigor Kilos.
+A capacidade de carga define quão pesado pode ser o equipamento de um personagem. E definido por *15+5 × Vigor* Quilos.
 
 ### Cansaço 
-O cansaço é uma medida de exaustão do personagem 
+O cansaço é uma medida de exaustão do personagem, conforme ele exerce força e avança na missão, naturalmente seus sentidos ficam mais fracos, e vigor, trêmulo.
+Todos os personagens começam com 0 de cansaço. Ao descansar, se recupera de acordo com as regras em [[Repouso]].
 
 ## Tabela de golpes brutais
 
 | Resuldado (d20) | Cicatriz                      | Desvantagem                                                                                      |
 | --------------- | ----------------------------- | ------------------------------------------------------------------------------------------------ |
 | 1               | Olho esmagado                 | -4 em testes de percepção visual, -2 em testes de pontaria                                       |
-| 2               | Perna Fraturada (Mal curada)  | movimento reduzido permanentemente em −1 célula, -1 em testes de agilidade                       |
+| 2               | Perna Fraturada (Mal curada)  | movimento reduzido em 1,5 metros, -1 em testes de agilidade                                      |
 | 3               | Costelas Afundadas            | -1 de defesa, sofre +1 de dano por ataques corpo a corpo                                         |
 | 4               | Mandíbula Quebrada            | −2 em testes sociais baseados em fala  <br>→ não pode gritar ou projetar voz corretamente        |
 | 5               | Ouvido Arruinado              | −2 em testes de Percepção auditiva  <br>→ desvantagem contra efeitos baseados em som             |
@@ -56,4 +58,4 @@ O cansaço é uma medida de exaustão do personagem
 | 17              | Veias Impactadas              | -2 em testes de sobrevivencia                                                                    |
 | 18              | Estomago perfurado            | -2 em testes de vigor                                                                            |
 | 19              | Cerebro impactado             | -2 em testes de Intelecto                                                                        |
-| 20              | Nariz destruido               | -2 em testes de Presença                                                                         |
+| 20              | Nariz destruido               | -2 em testes de Presença e suas pericias                                                         |

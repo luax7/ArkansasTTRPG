@@ -75,7 +75,7 @@ Feiticeiros contratantes de Ignivar frequentemente queixam de vozes, vultos e ou
 
 ### Rytsu
 Rytsu, a raposa do norte, tem seus poderes usados para furtividade,  em geral feiticeiros que utilizam das sombras como arma para abater seus inimigos
-Rytsu normalmente pede riquezas em troca de seu poder mas e comum a oferenda de expectativa de vida, ou almas. 
+Rytsu normalmente pede sacrifícios materiais e ouro em troca de seu poder. Além disso e comum a oferenda de expectativa de vida, ou almas. 
 
 | **Nivel 1  <br>**                                                | **Nivel 2  <br>**                                                                                                                  | **Nivel 3  <br>**                                                                                                     |
 | ---------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
@@ -87,12 +87,12 @@ Rytsu normalmente pede riquezas em troca de seu poder mas e comum a oferenda de 
 ### Velkar
 Velkar e popularmente chamado de grande montanha, mostra um conhecimento vasto da sociedade humana e seus construtos, geralmente, oferece seus poderes em troca de devoção do conjurador em vida. Grande parte dos contratantes de Velkar são monges das montanhas, ou peregrinos da montanha[^2]
 
-| **Nivel 1  <br>**                                                                                                        | **Nivel 2**                                                                                                                                                   | **Nivel 3**                                                                                                                                                 |
-| ------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Magias**  <br>[Pele rochosa](app://obsidian.md/Pele%20rochosa)  <br>[Abalo sismico](app://obsidian.md/Abalo%20sismico) | **Postura Inabalável**  <br>_Ação – 1 vez por turno_<br><br>Até o próximo turno:<br><br>- Reduz dano recebido em 2<br>- Não pode ser movido involuntariamente | **Avatar da Montanha**  <br>_Ação – 1 vez por cena_<br><br>Por 3 turnos:<br><br>- +4 Defesa<br>- Imune a derrubar<br>- Ataques corpo a corpo causam +2 dano |
-| **Corpo de Pedra**  <br>Recebe:<br><br>- +1 Defesa<br>- +2 em testes contra derrubar ou empurrar                         |                                                                                                                                                               |                                                                                                                                                             |
+| **Nivel 1  <br>**                                                                                | **Nivel 2**                                                                                                                                                   | **Nivel 3**                                                                                                                                                 |
+| ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Magias**  <br>[[Pele rochosa]] <br>[Abalo sísmico]                                             | **Postura Inabalável**  <br>_Ação – 1 vez por turno_<br><br>Até o próximo turno:<br><br>- Reduz dano recebido em 2<br>- Não pode ser movido involuntariamente | **Avatar da Montanha**  <br>_Ação – 1 vez por cena_<br><br>Por 3 turnos:<br><br>- +4 Defesa<br>- Imune a derrubar<br>- Ataques corpo a corpo causam +2 dano |
+| **Corpo de Pedra**  <br>Recebe:<br><br>- +1 Defesa<br>- +2 em testes contra derrubar ou empurrar |                                                                                                                                                               |                                                                                                                                                             |
 
-**Ação favorável**  : Receber dano sem 
+**Ação favorável**  : Engajar em combate com mais de um inimigo ao mesmo tempo
 
 ### Eidolon
 Eidolon e uma entidade conhecida como o escriba dos céus, seus poderes são focados em acumular magias, e outras ferramentas magicas capazes de melhorar o contato do conjurador com a magia. 

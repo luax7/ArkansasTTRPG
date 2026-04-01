@@ -114,7 +114,7 @@ traits:
     attack_bonus: 0
 
 actions:
-  - name: Oportunidade
+  - name: Garras
     desc: O Ghoul ataca um alvo, cravando suas garras e causando `dice:1d10+6` de Dano
     attack_bonus: 0
   - name: Estraçalhar

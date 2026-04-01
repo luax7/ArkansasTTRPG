@@ -18,7 +18,6 @@ Representa a capacidade física do personagem: resistência, força bruta, toler
 - **Atletismo** → correr, escalar, nadar, saltar
 - **Força Bruta** → levantar, empurrar, quebrar objetos
 - **Resistência** → suportar dor, veneno, exaustão
-- **Intimidação Física** → ameaçar pela presença corporal
 - **Sobrevivência** → resistir ao ambiente (calor, fome, sede)
 - **Ataque físico** → Atacar diretamente uma criatura ou objeto
 

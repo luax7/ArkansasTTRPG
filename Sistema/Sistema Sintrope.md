@@ -1,4 +1,3 @@
-# Sistema Sintrope
 O Sistema Sintrope se trata de um conjunto de sistematizações da magia para lidar com a instabilidade do arcano.
 Magias podem ser vistas em [[Magias.base]]
 ### Conjurando
@@ -26,13 +25,20 @@ Uma magia, pode ter os seguintes alvos
 	Um objeto especifico dentro do alcance da magia
 - Área
 	Uma área (Ditadas acima)
+
+Além disso, magias tem níveis de complexidade, chamados de círculos. A medida que o personagem progride, ele se torna capaz de usar magias de níveis superiores. O nível máximo de conjuração da magia é especificado na habilidade conjuração.
+
+>[!NOTE] Efeito narrativo dos círculos 
+> Narrativamente, os círculos das magias representam exatamente isso, quantos círculos existem no símbolo da magia. 
+
+
 ### Componentes somáticos
 A maioria das magias possui componentes somáticos, especificados na magia. Eles podem se manifestar de 3 formas:
 - Material (M)
 	Itens específicos utilizados para a conjuração
 - Gesto(G)
 	Gestos com o corpo para ajudar nos cálculos mentais fisicamente, necessita pelo menos uma das mãos livres
-- Vocal
+- Vocal(V)
 	Uma fala padronizada ou individual do conjurador, o conjurador precisa poder falar pro componente ser possível
 
 > [!NOTE] Bolsa de componentes
@@ -41,6 +47,7 @@ A maioria das magias possui componentes somáticos, especificados na magia. Eles
 Certas magias, podem ser sustentadas sem custos através dos turnos utilizando a ação concentrar. essa concentração dura ate o turno seguinte, quando deve ser utilizada novamente.
 Ações de reação, sofrer dano ou se deslocar involuntariamente encerram a concentração imediatamente.
 Apenas uma magia de concentração pode estar ativa por vez.
+
 ### Quebra sintrope
 Uma quebra sintrope acontece quando o resultado de um teste de conjuração e menor do que a dificuldade da magia (especificada para cada magia)
 As quebras sintropes podem ocorrer dessas formas
@@ -72,11 +79,6 @@ alternativamente, magias especiais podem ter quebras sintropes especiais
 ### Foco arcano
 Equipamentos especiais capazes de canalizar mana para ajudar conjuradores. 
 
-| Foco   | Efeito                                  |
-| ------ | --------------------------------------- |
-| Cajado | Ignora quebras sintrope                 |
-| Tomo   | Pode ser utilizado com armas de uma mao |
-| Orbe   | Custo magico -1                         |
 
 > [!NOTE] Artefatos: Focos arcanos
 > Esses efeitos são gerais. focos arcanos específicos podem ter efeitos específicos

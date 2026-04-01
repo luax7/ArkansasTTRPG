@@ -79,11 +79,12 @@ Pode ser usado em uma mão para conceder +2 De defesa
 # Focos arcanos 
 *Itens de conjuração*
 
-| Armadura | Efeito | Peso(Kg) | Preço |
-| -------- | ------ | -------- | ----- |
-| Cajado   |        | 1        | 30$   |
-| Orbe     |        | 0,5      | 30$   |
-| Tomo     |        | 0,5      | 30$   |
+| Armadura | Efeito                                                                                                | Peso(Kg) | Preço |
+| -------- | ----------------------------------------------------------------------------------------------------- | -------- | ----- |
+| Cajado   | Magias tem sua duração estendida por mais um turno                                                    | 1        | 30$   |
+| Orbe     | Magias tem o custo reduzido por 2PM                                                                   | 0,5      | 30$   |
+| Tomo     | Aumenta o limite máximo de magias em 1. A magia gravada no tomo é esquecida se o tomo for desequipado | 0,5      | 30$   |
+
 # Modificadores
 Modificadores São características de equipamentos que são comuns, assim sendo definidas geralmente.
 

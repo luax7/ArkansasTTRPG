@@ -2,14 +2,14 @@ O Pactuado foca em fazer contratos com entidades magicas para receber feitiços 
 
 Pactuados frequentemente fazem contratos para receber magia em troca de riquezas dos humanos como sua expectativa de vida, "alma", conduta em vida, riquezas, e ate mesmo objetos arcanos.
 
-| Nivel | Característica                  | Contratos disponíveis | Magias conhecidas |
-| ----- | ------------------------------- | --------------------- | ----------------- |
-| 1     | Talento,Conjuração              | 1                     | 1                 |
-| 2     | Contrato arcano, Pendulo arcano | 1                     | 1                 |
-| 3     | Talento,Contrato arcano         | 2                     | 2                 |
-| 4     | Aumento de habilidade           | 2                     | 3                 |
-| 5     | Contrato arcano                 | 3                     | 3                 |
-| 6     | Talento                         | 3                     | 4                 |
+| Nivel | Característica                  | Contratos disponíveis | Magias conhecidas | Nível de magias |
+| ----- | ------------------------------- | --------------------- | ----------------- | --------------- |
+| 1     | Talento,Conjuração              | 1                     | 1                 | 1               |
+| 2     | Contrato arcano, Pendulo arcano | 1                     | 1                 | 1               |
+| 3     | Talento,Contrato arcano         | 2                     | 2                 | 2               |
+| 4     | Aumento de habilidade           | 2                     | 3                 | 2               |
+| 5     | Contrato arcano                 | 3                     | 3                 | 3               |
+| 6     | Talento                         | 3                     | 4                 | 3               |
 **Pontos de vida iniciais 10 + Vigor**
 *Pontos de vida nos próximos níveis 4+Vigor*
 **Mana Inicial 8+Sintonia**

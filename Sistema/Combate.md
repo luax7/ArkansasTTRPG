@@ -32,8 +32,8 @@ O Personagem toma cobertura[^1] atras de algum objeto próximo para se defender.
 **Preparar**
 O personagem prepara uma ação com um gatilho definido. Caso o gatilho não seja ativado ate o próximo turno, a ação e perdida. 
 
-**Primeiros socorros**
-Socorre uma criatura no campo de batalha realizando um teste de medicina[^2]
+**Tratar**
+Socorre uma criatura no campo de batalha realizando um teste de medicina[^2]. essa ação consome duas ações.
 
 **Agarrar**
 Com as duas mãos livres, o personagem tenta segurar um oponente, realizando uma disputa[^5] de força bruta contra o oponente. Ocupando ambas as mãos. Para o oponente se libertar, e necessário um teste de força bruta contra o teste inicial do personagem.
@@ -47,12 +47,12 @@ Alcança ou guarda algum item disponível no inventario.
 Derruba um oponente utilizando uma disputa[^5] de força bruta ou ataque físico.
 
 **Mirar** 
-O próximo ataque que utiliza pontaria ou destreza recebe uma vantagem dinâmica. o bônus da ação mirar dura ate o fim do próximo turno do personagem.
+O próximo ataque que utiliza pontaria ou destreza recebe uma vantagem dinâmica.
 # Reações
 Reações são as formas que uma personagem pode reagir as ações sendo tomadas ao seu redor. Reações podem ser tomadas somente contra personagens nos quais o alvo esta engajado. Ou seja, ações de personagens invisíveis, ou escondidos não podem ser reagidas.
 Inicialmente, os personagens podem realizar duas reações por turno
 
-**Aparar**
+**Esquivar**
 Ao ser atacado, o personagem pode utilizar de sua agilidade para desviar realizando um teste de reflexos contra o ataque inimigo. Caso a esquiva falhe, o personagem recebe o dano total
 
 **Ataque de oportunidade**
@@ -75,7 +75,7 @@ Ao ser alvo de um ataque físico o bloqueia, recebendo metade do dano. aumentand
 	- Cobertura completa →+4 defesa
 	
 
-[^2]: Em combate, não e possível realizar grandes feitos médicos por restrições de tempo e foco. Assim, limitando a cura possível a 1d6 e utilizando um kit medico, 2d6. Essa quantidade pode ser alterada por profissões, talentos e classes
+[^2]: Em combate, não e possível realizar grandes feitos médicos por restrições de tempo e foco. Assim, limitando a cura possível a 1d8 e utilizando um kit medico, 2d8. Essa quantidade pode ser alterada por profissões, talentos e classes
 
 [^3]: O Efeito de escondido e removido caso o inimigo tenha uma linha de visao direta do personagem, ou seja atacado.
 

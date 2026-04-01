@@ -12,6 +12,7 @@ Caracteristicas:
   - Conjuraçao pesada
   - circulo
 Açao: Uma ação
+Círculo: "1"
 ---
 
 ## Descrição

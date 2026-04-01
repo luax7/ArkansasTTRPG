@@ -1,20 +1,20 @@
 Magos são especialistas no arcano, capazes de tanta destruição quanto conserto, se tornam muito flexíveis no campo de batalha. Magos são conhecidos pela sua natureza selvagem, uma vez que tenham que compreender e acompanhar dezenas de cálculos mentais, e lidar com as consequências de seus feitiços.
 
-| Nivel | Característica                                 | Magias conhecidas |
-| ----- | ---------------------------------------------- | ----------------- |
-| 1     | Talento, Conjuração                            | 4                 |
-| 2     | Habilidade de arquétipo, Modificador de magias | 5                 |
-| 3     | Talento, Recuperar mana                        | 6                 |
-| 4     | Aumento de habilidade                          | 7                 |
-| 5     | Habilidade de arquetipo                        | 8                 |
-| 6     | Talento                                        | 8                 |
+| Nivel | Característica                                 | Magias conhecidas | Nível de magias conhecido |
+| ----- | ---------------------------------------------- | ----------------- | ------------------------- |
+| 1     | Talento, Conjuração                            | 4                 | 1                         |
+| 2     | Habilidade de arquétipo, Modificador de magias | 5                 | 2                         |
+| 3     | Talento, Recuperar mana                        | 6                 | 2                         |
+| 4     | Aumento de habilidade                          | 7                 | 3                         |
+| 5     | Habilidade de arquetipo                        | 8                 | 4                         |
+| 6     | Talento                                        | 8                 | 4                         |
 **Pontos de vida iniciais 8 + Vigor**
 *Pontos de vida nos próximos níveis 4+Vigor*
 **Mana Inicial 8+Sintonia**
 *Pontos de vida nos próximos níveis 6+Sintonia*
 
 **Pericias**: Conjuração +2
-**AVISO, tecelão arcano desativado por hora**
+==**AVISO, tecelão arcano desativado por hora**==
 
 ---
 **Talento**
@@ -32,7 +32,7 @@ No segundo nível o mago ganha uma característica de um dos três arquétipos
 | **Canalizador da ruina**                                                                                                                                                                                                                 | **Tecelao do fluxo**                                                                                            | **Condutor sintrope**                                                                                                                                                                                                                                                                   |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Magia melhorada** : Conjurar utilizando um cajado permite criar bolsoes de segurança para magias, permitindo a segurança de objetos e criaturas na area de destruiçao.                                                                 | **Reciclagem arcana**: Quando uma magia de concentraçao acaba de qualquer forma, pode aplicar o efeito da magia | **Magia selvagem:** Ao conjurar uma magia, o mago pode gastar 2 pontos de mana para utilizar a tabela de magia selvagem. Esse efeito e limitado a uma vez por turno.<br><br>A partir no nivel 4 essa habilidade pode ser utilizada duas vezes por turno                                 |
-| **Ressonancia destrutiva**  <br>Ao causar dano com uma magia pode utilizar 2PM e uma reação. O inimigo acertado adquire o efeito ressonante ate o fim do próximo turno. Ao causar dano magico em um alvo ressonante recebe +1d6 de dano. |                                                                                                                 | **Ataque imbuido** Ao acertar um ataque fisico, o mago pode usar 4PM para golpear o inimigo acertado por uma onda de mana causando 1d8 de dano. Essa habilidade pode ser utilizada uma vez por turno<br><br>A partir do nivel 4 essa habilidade pode ser utilizada duas vezes por turno |
+| **Ressonancia destrutiva**  <br>Ao causar dano com uma magia pode utilizar 2PM e uma reação. O inimigo acertado adquire o efeito ressonante ate o fim do próximo turno. Ao causar dano magico em um alvo ressonante recebe +1d6 de dano. |                                                                                                                 | **Ataque imbuido** Ao acertar um ataque fisico, o mago pode usar 4PM para golpear o inimigo acertado por uma onda de mana causando 1d6 de dano. Essa habilidade pode ser utilizada uma vez por turno<br><br>A partir do nivel 4 essa habilidade pode ser utilizada duas vezes por turno |
 
 **Modificador de magias** : No segundo nível, o mago aprende a modificar a potencia dos seus feitiços utilizando variações na canalização. Ao conjurar uma magia, e possível aumentar dados de efeito de acordo com a seguinte tabela
 

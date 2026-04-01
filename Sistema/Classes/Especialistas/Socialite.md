@@ -32,41 +32,24 @@ O Socialite domina conflitos sociais como ninguém.
 
 ### Habilidade de arquétipo
 No segundo nível, o socialite começa a , inconscientemente utilizar mana para reforçar suas capacidades de socialização e combate.
-```columns
-id: ZWfQv0uOsUHjw9m162iyc
-===
-**Negociador**
-O negociador se aprofunda na arte de convencer e persuadir outros
 
-**Psicanalise**
-Voce entende melhor a mente do oponent:
-- Sempre que o Socialite obtém sucesso em um teste de **Presença**:  
-    ganha **+1 PV adicional**
-- Se o sucesso for por **2 ou mais acima da dificuldade**:  
-    ganha **+2 PV ao invés de +1**
 
-**Golpe de reputaçao**
-Custo: 4 Pontos Vitoriana
-O negociador utiliza sua postura social para criar pressao sobre um inimigo realizando um teste de intimidaçao contra postura do adversario.
-Caso o adversario falhe, ele se torna incapaz de atacar o socialite e o socialite recebe vantagem em quaisquer ataques contra o inimigo afetado
+| **Negociador**                                                                                                                                                                                                                                                                                                                                                                     | **Marionetista**                                                                                                                                                                                                                                   |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| O negociador se aprofunda na arte de convencer e persuadir outros                                                                                                                                                                                                                                                                                                                  | As palavras do Socialite e a mana começam a se entrelaçar, frases sao ordem, ordens sao motivo                                                                                                                                                     |
+| **Psicanalise**  <br>Voce entende melhor a mente do oponent:<br><br>- Sempre que o Socialite obtém sucesso em um teste de **Presença**:  <br>    ganha **+1 PV adicional**<br>- Se o sucesso for por **2 ou mais acima da dificuldade**:  <br>    ganha **+2 PV ao invés de +1**                                                                                                   | **Conjuração**  <br>No segundo nível, o socialite se torna capaz de conjurar feitiços simples para combate e fortalecimento.  <br>Atributo para conjuração : Presença  <br>No primeiro nível, o socialite conhece duas magias de tipo Encantamento |
+| **Golpe de reputação**  <br>_Ação – 2 pontos vitoriana_<br>O negociador utiliza sua postura social para criar pressão sobre um inimigo. Realizando um teste de intimidação contra postura do adversário, ele pode o desarmar.  <br>Caso o adversário falhe, ele se torna incapaz de atacar o socialite e o socialite recebe vantagem em quaisquer ataques contra o inimigo afetado |                                                                                                                                                                                                                                                    |
 
-===
-**Marionetista**
-As palavras do Socialite e a mana começam a se entrelaçar, frases sao ordem, ordens sao motivo
-
-**Conjuração** 
-No segundo nível, o socialite se torna capaz de conjurar feitiços simples para combate e fortalecimento.
-Atributo para conjuração : Presença
-No primeiro nível, o socialite conhece duas magias de tipo Encantamento
-```
 ## Ataque Imbuído
-
-No terceiro nível, Socialite aprende a converter influência em poder direto.
-Ao realizar um ataque, o socialite pode utilizar 3 PV, garantindo uma vantagem dinâmica no ataque ou garantindo +1 dado de dano
+No terceiro nível, Socialite aprende a converter influência e prestigio em poder explosivo.
+Ao iniciar um ataque, o socialite pode utilizar **3 Pontos vitoriana** para :
+- Causar mais um dado de dano
+ou
+- +2 de vantagem no acerto.
 
 ### Repressão violenta
 No terceiro nível socialite utiliza de seus ataques para ganhar postura social entre os inimigos.
-Ao causar dano a um inimigo, o socialite recupera 1PV, se o ataque atingir mais de um inimigo, ele recupera 2PV.
+Ao causar dano a um inimigo, o socialite recupera 1Ponto vitoriana, se o ataque atingir mais de um inimigo, ele recupera 2Ponto vitoriana.
 
 ### Aumento de habilidade
 No quarto nível o personagem recebe 2 pontos para distribuir entre os atributos, e 3 pontos para distribuir entre pericias

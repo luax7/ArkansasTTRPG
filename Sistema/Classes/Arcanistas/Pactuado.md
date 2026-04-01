@@ -2,14 +2,14 @@ O Pactuado foca em fazer contratos com entidades magicas para receber feitiços 
 
 Pactuados frequentemente fazem contratos para receber magia em troca de riquezas dos humanos como sua expectativa de vida, "alma", conduta em vida, riquezas, e ate mesmo objetos arcanos.
 
-| Nivel | Característica                  | Contratos disponíveis | Magias conhecidas | Nível de magias |
-| ----- | ------------------------------- | --------------------- | ----------------- | --------------- |
-| 1     | Talento,Conjuração              | 1                     | 1                 | 1               |
-| 2     | Contrato arcano, Pendulo arcano | 1                     | 1                 | 1               |
-| 3     | Talento,Contrato arcano         | 2                     | 2                 | 2               |
-| 4     | Aumento de habilidade           | 2                     | 3                 | 2               |
-| 5     | Contrato arcano                 | 3                     | 3                 | 3               |
-| 6     | Talento                         | 3                     | 4                 | 3               |
+| Nivel | Característica                  | Contratos disponíveis | Magias conhecidas |
+| ----- | ------------------------------- | --------------------- | ----------------- |
+| 1     | Talento,Conjuração              | 1                     | 1                 |
+| 2     | Contrato arcano, Pendulo arcano | 1                     | 1                 |
+| 3     | Talento,Contrato arcano         | 2                     | 2                 |
+| 4     | Aumento de habilidade           | 2                     | 3                 |
+| 5     | Contrato arcano                 | 3                     | 3                 |
+| 6     | Talento                         | 3                     | 4                 |
 **Pontos de vida iniciais 10 + Vigor**
 *Pontos de vida nos próximos níveis 4+Vigor*
 **Mana Inicial 8+Sintonia**
@@ -27,9 +27,7 @@ Atributo para conjuração : Presença
 No primeiro nível, o pactuário conhece 1 magia
 
 ### Contrato arcano
-Além das magias conhecidas, o pactuado pode fazer contratos com entidades arcanas para adquirir novas magias e Característica. As entidades e suas habilidades são detalhadas no fim do documento.
-As habilidades aprendidas através dos contratos não 
-Para cada "contrato arcano"
+Além das magias conhecidas, o pactuado pode fazer contratos com entidades arcanas para adquirir novas magias e Característica. As entidades e suas habilidades são detalhadas no fim do documento. As magias concedidas através do contrato arcano não contam para o máximo de magias.
 
 ### Pendulo arcano
 O pendulo arcano expressa o quanto as entidades contratadas estão favoráveis ao contratante.  Entidades favoráveis concedem poderes mais fortes ao contratante temporariamente, usar esses poderes faz entidades perderem favor.
@@ -72,7 +70,9 @@ Feiticeiros contratantes de Ignivar frequentemente queixam de vozes, vultos e ou
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Magias:**  <br>[Brasa consumidora](app://obsidian.md/Brasa%20consumidora)  <br>[Chama persistente](app://obsidian.md/Chama%20persistente)                                                                                                                                                                                                          | **Explosao de cinzas**  <br>Ao causar dano com magias em um inimigo marcado, causa mais um dado de efeito | **Forma Incandescente**  <br>_Ação – 1 vez por cena_<br><br>Por 2 turnos:<br><br>- +2 em testes de conjuração<br>- Suas magias ignoram cobertura até 2/4<br>- Sempre trata alvos como se estivessem marcados |
 | **Marca das cinzas**  Causar dano com uma magia, pode utilizar uma *carga de marca das cinzas* e uma reação para marcar um inimigo por 1d4 turnos. Ataques em inimigos marcados recebem +1 de vantagem.<br><br>O conjurador possui um numero de *cargas de marca da cinzas* igual ao valor de presença. Marcas são recuperadas com um descanso curto |                                                                                                           |                                                                                                                                                                                                              |
+
 **Ação favorável** : Causar dano em inimigos marcados com *Marca das cinzas* 
+
 ### Rytsu
 Rytsu, a raposa do norte, tem seus poderes usados para furtividade,  em geral feiticeiros que utilizam das sombras como arma para abater seus inimigos
 Rytsu normalmente pede riquezas em troca de seu poder mas e comum a oferenda de expectativa de vida, ou almas. 
@@ -81,7 +81,9 @@ Rytsu normalmente pede riquezas em troca de seu poder mas e comum a oferenda de 
 | ---------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
 | **Magias:**  <br>[[Lamina Umbral]]<br>[[Passos nebulosos]]       | **Predador Invisível**  <br>Ataques contra inimigos desprevenidos recebem:<br><br>- +2 Vantagem para acerto<br>- +1 Dado de efeito | **Dissolução Sombria**  <br>_Reação_<br>*2PM*<br><br>Ao ser alvo de ataque:<br><br>- Move 3m para um local com sombra |
 | **Sombra Errante**  <br>Você recebe +2 em testes de furtividade. |                                                                                                                                    |                                                                                                                       |
+
 **Ação favorável**  : Causar dano a inimigos enquanto escondido
+
 ### Velkar
 Velkar e popularmente chamado de grande montanha, mostra um conhecimento vasto da sociedade humana e seus construtos, geralmente, oferece seus poderes em troca de devoção do conjurador em vida. Grande parte dos contratantes de Velkar são monges das montanhas, ou peregrinos da montanha[^2]
 
@@ -89,7 +91,9 @@ Velkar e popularmente chamado de grande montanha, mostra um conhecimento vasto d
 | ------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Magias**  <br>[Pele rochosa](app://obsidian.md/Pele%20rochosa)  <br>[Abalo sismico](app://obsidian.md/Abalo%20sismico) | **Postura Inabalável**  <br>_Ação – 1 vez por turno_<br><br>Até o próximo turno:<br><br>- Reduz dano recebido em 2<br>- Não pode ser movido involuntariamente | **Avatar da Montanha**  <br>_Ação – 1 vez por cena_<br><br>Por 3 turnos:<br><br>- +4 Defesa<br>- Imune a derrubar<br>- Ataques corpo a corpo causam +2 dano |
 | **Corpo de Pedra**  <br>Recebe:<br><br>- +1 Defesa<br>- +2 em testes contra derrubar ou empurrar                         |                                                                                                                                                               |                                                                                                                                                             |
+
 **Ação favorável**  : Receber dano sem 
+
 ### Eidolon
 Eidolon e uma entidade conhecida como o escriba dos céus, seus poderes são focados em acumular magias, e outras ferramentas magicas capazes de melhorar o contato do conjurador com a magia. 
 Suas oferendas normalmente consistem em novos estudos da magia, além de riquezas e devoção ao caminho do escriba
@@ -98,6 +102,7 @@ Suas oferendas normalmente consistem em novos estudos da magia, além de riqueza
 | -------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
 | *Magias:*<br>[Canalizaçao](app://obsidian.md/Canaliza%C3%A7ao)  <br>[Servo magico](app://obsidian.md/Servo%20magico)       | **Reescrita Arcana**  <br>_Reação – Uma vez por turno_<br><br>Ao conjurar uma magia pode dobrar duração do efeito ou adicionar um dado de dano | **Eco de Conjuração**  <br>*Ação – Uma vez por turno*<br>Após conjurar uma magia, pode conjurá-la novamente no próximo turno sem custo de mana. |
 | **Escriba Arcano**  <br>Você aprende +1 magia adicional.  <br>Pode trocar uma magia conhecida ao fim de um descanso curto. |                                                                                                                                                |                                                                                                                                                 |
+
 ### Nythra 
 Nythra conhecida como *A mãe das pragas* e uma entidade de corrupção. Seus poderes são focados em recursos biológicos e instabilidade. Nythra, diferentemente de outras entidades, normalmente pede o corpo do contratante como preço do contrato. Ao morrer, uma doença conhecida como *Praga de Nythra* cria uma ligação entre o corpo e Nythra, transformando-o em uma aberração de pus depois de algumas horas.
 

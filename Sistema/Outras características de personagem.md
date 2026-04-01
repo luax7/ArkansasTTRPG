@@ -52,3 +52,6 @@ O deslocamento e definido como 6 + 2xAgilidade metros
 
 ### Capacidade de carga
 A capacidade de carga define quão pesado pode ser o equipamento de um personagem. E definido por 15+5xVigor Kilos.
+
+### Cansaço 
+O cansaço é uma medida de exaustão do personagem 

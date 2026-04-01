@@ -37,7 +37,7 @@ No segundo nível, o socialite começa a , inconscientemente utilizar mana para 
 | **Negociador**                                                                                                                                                                                                                                                                                                                                                                     | **Marionetista**                                                                                                                                                                                                                                   |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | O negociador se aprofunda na arte de convencer e persuadir outros                                                                                                                                                                                                                                                                                                                  | As palavras do Socialite e a mana começam a se entrelaçar, frases sao ordem, ordens sao motivo                                                                                                                                                     |
-| **Psicanalise**  <br>Voce entende melhor a mente do oponent:<br><br>- Sempre que o Socialite obtém sucesso em um teste de **Presença**:  <br>    ganha **+1 PV adicional**<br>- Se o sucesso for por **2 ou mais acima da dificuldade**:  <br>    ganha **+2 PV ao invés de +1**                                                                                                   | **Conjuração**  <br>No segundo nível, o socialite se torna capaz de conjurar feitiços simples para combate e fortalecimento.  <br>Atributo para conjuração : Presença  <br>No primeiro nível, o socialite conhece duas magias de tipo Encantamento |
+| **Psicanalise**  <br>Voce entende melhor a mente do oponent:<br><br>- Sempre que o Socialite obtém sucesso em um teste de Presença:  <br>    ganha 1 PV adicional<br>- Se o sucesso for por 2 ou mais acima da dificuldade:  <br>    ganha +2 PV ao invés de +1                                                                                                                    | **Conjuração**  <br>No segundo nível, o socialite se torna capaz de conjurar feitiços simples para combate e fortalecimento.  <br>Atributo para conjuração : Presença  <br>No primeiro nível, o socialite conhece duas magias de tipo Encantamento |
 | **Golpe de reputação**  <br>_Ação – 2 pontos vitoriana_<br>O negociador utiliza sua postura social para criar pressão sobre um inimigo. Realizando um teste de intimidação contra postura do adversário, ele pode o desarmar.  <br>Caso o adversário falhe, ele se torna incapaz de atacar o socialite e o socialite recebe vantagem em quaisquer ataques contra o inimigo afetado |                                                                                                                                                                                                                                                    |
 
 ## Ataque Imbuído
@@ -54,74 +54,10 @@ Ao causar dano a um inimigo, o socialite recupera 1Ponto vitoriana, se o ataque 
 ### Aumento de habilidade
 No quarto nível o personagem recebe 2 pontos para distribuir entre os atributos, e 3 pontos para distribuir entre pericias
 
-### Habilidade de arquétipo
-```columns
-id: lvl5-socialite-arquetipos
-===
-**Negociador**
+### Características de arquétipo
 
-O negociador atinge o auge da pressão social, onde suas palavras deixam de ser discutidas — e passam a ser aceitas.
+| **Negociador**                                                                                                                                                                                                  | **Marionetista**                                                                                                                                                                                                                                                                                                                                                                                     |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|                                                                                                                                                                                                                 | **Lei Verbal**<br><br>Custo: 5 Pontos Vitoriana + 2 Mana  <br>Ação: Uma açao  <br>O Socialite pronuncia uma ordem absoluta.  <br>Teste: Conjuração (Presença) vs Postura  <br>**Sucesso:**  <br>O alvo deve cumprir uma ordem simples no próximo turno:<br><br>- “Ataque seu aliado”<br>- “Fique imóvel”<br>- “Ajoelhe-se”<br>- “Largue sua arma”                                                    |
+| **Colapso Social**  <br>Sempre que um inimigo:<br><br>- Falhar um teste contra o Socialite<br>- Sofrer um efeito negativo causado pelo socialite<br><br>→ O Socialite ganha +1 PV<br><br>Limite: 2 PV por turno | **Realidade Imposta**  <br>Sempre que o Socialite causar dano com magia de Encatamento ou ilusao:  <br>→ Pode gastar 1 PV para aplicar um efeito adicional ate o fim do proximo turno do socialite:<br><br>- −1 Defesa<br>- −1 em testes<br>- Perde 1 reação<br><br>Adicionalmente, ao gastar 4PM, o socialite pode causar 2D8 De dano psicologico a qualquer inimigo afetado pela realidade imposta |
 
-**Pressão Irrefutável**
-
-Custo: 5 Pontos Vitoriana  
-Ação: 2 ações  
-
-O Socialite impõe sua presença sobre um alvo.
-
-Teste: Presença vs Presença do alvo
-
-**Sucesso:**
-Escolha um efeito:
-
-- O alvo não pode atacar o Socialite por 2 turnos  
-- O alvo sofre −2 em todos os testes por 2 turnos  
-- O alvo é forçado a focar suas ações no Socialite  
-
-**Sucesso crítico:**
-Aplica dois efeitos simultaneamente
----
-
-**Colapso Social**
-Sempre que um inimigo:
-- Falhar um teste contra o Socialite  
-- Sofrer um efeito negativo causado pelo socialite  
-
-→ O Socialite ganha +1 PV  
-
-Limite: 2 PV por turno
-
-===
-**Marionetista**
-
-O Marionetista ultrapassa a barreira entre linguagem e realidade. Suas palavras não convencem — elas **reescrevem comportamento**.
-
-**Lei Verbal**
-
-Custo: 5 Pontos Vitoriana + 2 Mana  
-Ação: Uma açao
-O Socialite pronuncia uma ordem absoluta.
-Teste: Conjuração (Presença) vs Postura
-**Sucesso:**
-O alvo deve cumprir uma ordem simples no próximo turno:
-
-- “Ataque seu aliado”
-- “Fique imóvel”
-- “Ajoelhe-se”
-- “Largue sua arma”
-
-**Restrições:**
-- Não pode forçar suicídio direto  
-
----
-
-**Realidade Imposta**
-Sempre que o Socialite causar dano com magia de Encatamento ou ilusao:
-→ Pode gastar 1 PV para aplicar um efeito adicional ate o fim do proximo turno do socialite:
-
-- −1 Defesa  
-- −1 em testes  
-- Perde 1 reação
-
-Adicionalmente, ao gastar 4PM, o socialite pode causar 2D8 De dano psicologico a qualquer inimigo afetado pela realidade imposta
-```

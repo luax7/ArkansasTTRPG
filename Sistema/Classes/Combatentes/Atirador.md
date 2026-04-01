@@ -26,21 +26,12 @@ Gastando 3 PM, a vantagem e trocada por uma vantagem dinâmica e o ataque causa 
 
 ### Habilidade de arquétipo
 No segundo nível o atirador se especializa em um tipo de combate
-```columns
-id: PeiPNQ5I7kkg5n6dcS9B_
-===
-**Franco atirador**
-**Mira calma**
-Se o personagem nao se mover no turno, recebe +2 para todos os testes de pontaria.
-**Ponto fraco**
-O franco atiraador consegue identificar pontos fracos apenas com experiencia, causando +1 dado de dano para ataques utilizando pontaria 
-===
-**Pistoleiro**
-**Reflexos velozes**
-No turno do persoagem, se um ataque utilizando pontaria tiver sucesso, pode utilizar uma açao leve para realizar outro disparo. Esse disparado e afetado por -2 de desvantagem
-**Silhueta baixa**
-Caso o jogador tenha se movido no turno, ao final do turno ele imediatamente recebe uma cobertura de 1/4
-```
+
+
+| Franco atirador                                                                                                                                              | **Pistoleiro**                                                                                                                                                                                           |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Mira calma**  <br>Se o personagem nao se mover no turno, recebe +2 para todos os testes de pontaria.                                                       | **Reflexos velozes**  <br>No turno do persoagem, se um ataque utilizando pontaria tiver sucesso, pode utilizar uma açao leve para realizar outro disparo. Esse disparado e afetado por -2 de desvantagem |
+| **Ponto fraco**  <br>O franco atiraador consegue identificar pontos fracos apenas com experiencia, causando +1 dado de dano para ataques utilizando pontaria | **Silhueta baixa**  <br>Caso o jogador tenha se movido no turno, ao final do turno ele imediatamente recebe uma cobertura de 1/4                                                                         |
 ### Talento
 No terceiro nível, recebe um talento da lista de [[Talentos]]
 ### Sentinela

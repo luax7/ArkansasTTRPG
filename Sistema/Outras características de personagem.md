@@ -35,6 +35,22 @@ A capacidade de carga define quão pesado pode ser o equipamento de um personage
 O cansaço é uma medida de exaustão do personagem, conforme ele exerce força e avança na missão, naturalmente seus sentidos ficam mais fracos, e vigor, trêmulo.
 Todos os personagens começam com 0 de cansaço. Ao descansar, se recupera de acordo com as regras em [[Repouso]].
 
+**Ganhando cansaço**
+As seguintes situações concedem cansaço ao personagem:
+- Ao fim de combates, recebe +1 de cansaço
+- Ao entrar no estagio morrendo, o cansaço se torna 8.
+- Ao receber um golpe brutal, recebe +1 de cansaço
+- Características e ataques de inimigos podem causar dano diretamente ao cansaço.
+- Narrativamente, longos períodos de tempo sem descansar causa aumento no cansaço. Isso deve ser decidido e avisado pelo mestre.
+
+**Efeitos de cansaço**
+- *Menor ou igual a 3* → Sem efeitos*
+- *4 e 5 de cansaço* → em testes de intelecto e suas pericias, reflexos, enganação, Empatia, Conjuração e controle de sintropia.
+- *6 e 7 de cansaço* → Todos os efeitos anteriores, -2 em testes de vigor, agilidade e todas suas pericias
+- *8 de cansaço* → Todos os efeitos anteriores, -1 em testes para resistir a efeitos.
+- *Mais de 8 de cansaço* -> Todos efeitos anteriores, -1 em todos os testes.
+
+
 ## Tabela de golpes brutais
 
 | Resuldado (d20) | Cicatriz                      | Desvantagem                                                                                      |

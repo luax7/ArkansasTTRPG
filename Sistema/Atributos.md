@@ -57,5 +57,4 @@ Representa a conexão com a mana, sensibilidade ao arcano e capacidade de moldar
 - **Canalização** → utilizar artefatos mágicos específicos (especialmente pulsos)
 - **Percepção Arcana** → detectar magia, distorções e entidades
 - **Rituais** → Analisar magia complexa ou prolongada
-- **Controle de Sintropia** → Resistir a ataques psicológicos e efeitos de mutações especificas
 - **Conhecimento Arcano** → entender fenômenos mágicos

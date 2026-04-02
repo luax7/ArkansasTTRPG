@@ -31,7 +31,7 @@ O deslocamento significa a capacidade de se movimentar de um personagem.
 O deslocamento e definido como *6 + 2 × Agilidade* metros.
 
 ### Capacidade de carga
-A capacidade de carga define quão pesado pode ser o equipamento de um personagem. E definido por *15+5 × Vigor* Quilos.
+A capacidade de carga define quão pesado pode ser o equipamento de um personagem. E definido por *15 + 5 × Vigor* Quilos.
 
 ### Cansaço 
 O cansaço é uma medida de exaustão do personagem, conforme ele exerce força e avança na missão, naturalmente seus sentidos ficam mais fracos, e vigor, trêmulo.

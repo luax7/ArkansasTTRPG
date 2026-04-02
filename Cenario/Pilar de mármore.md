@@ -25,4 +25,17 @@ No topo do pilar, foi registrado:
 Lentamente, o pilar começou a reformar os arredores do deserto do Saara, transformando-os em um tipo de super floresta, que cobre toda a luz direta do sol no solo, formando um crepúsculo permanente. Essa floresta, devido a células capazes de absorver mana, tem uma coloração roxa, contrastando fortemente com a cor do deserto ao redor.
 
 **Crepúsculo**
-Dentro da floresta, grandes cristais de vidro alcançam acima das copas das arvores
+Dentro da floresta, grandes cristais de vidro roxo alcançam acima das copas das arvores capturando e refratando a luz ate a base da floresta, deixando uma luz fraca para iluminar o piso da floresta.
+
+**Fauna**
+Nem só as plantas foram afetadas. Criaturas grandes e pequenas começaram a se locomover para a floresta, e serem mutadas pelos pulsares de mana.
+Lentamente, um ecossistema começou a se formar. Grandes predadores como leopardos, Hienas, Leões sofreram mutações ate se tornarem irreconhecíveis criando um tipo de ecossistema extremamente hostil, onde poucas pessoas ousam se aventurar.
+
+### Presença humana
+Grupos humanos foram identificados vivendo de forma estável dentro da zona, apresentando características compatíveis com estágios avançados de adaptação sintrope. Esses indivíduos demonstram integração parcial ou significativa com a mana, resultado do desenvolvimento de estruturas manafóricas internas que alteram sua fisiologia e percepção de realidade . Sua organização social é sustentada por práticas ritualísticas e por uma crença central na natureza consciente do Pilar, tratado como entidade ativa e fonte de transformação. A interação com agentes externos é predominantemente pacifico. Entretanto, pelos seus diferentes costumes e frequente a ocorrência de acidentes por desdobramentos sociais.
+
+Esses grupos, normalmente organizados como tribos, utilizam de uma substancia nomeada Eltex, capaz de melhorar os sentidos e capacidade magica de uma pessoa. Essa droga possui significância ritualística para os nativos. O consumo frequente da substancia deixa o usuário permanentemente mais ativo em combate e deixa a pele com uma coloração roxa. Devido aos seus efeitos, organizações criminosas e exércitos possuem enorme interesse em sua utilização, fazendo o trafego mais frequente da floresta ser o contrabando de Eltex.
+
+**Trafico de Eltex**
+A obtenção do Eltex, torna-se praticamente impossível sem viver dentro da floresta ou já ter seus sentidos melhorados por ele. Dessa forma, a maior parte da produção, vem das proprias tribos, que oferecem seu produto em troca de dinheiro e bens.
+Sob essa dinâmica, construiu-se uma grande rede de trafico se consolidando e criando maior ocupaçao human

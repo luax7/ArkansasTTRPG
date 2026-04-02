@@ -1,10 +1,10 @@
 # Fundação e Contexto Histórico
 
-A **Coalizão Global de Vigilância e Contenção Sintrope (CGVCS)** foi formalmente estabelecida no ano de **1905**, como resposta direta ao aumento exponencial de incidentes relacionados aos chamados _Fenômenos Sintropes Ativos_.
+A **Coalizaçao de Controle Sintrope (CCS)** foi formalmente estabelecida no ano de **1910**, como resposta direta ao aumento exponencial de incidentes relacionados aos chamados _Fenômenos Sintropes Ativos_.
 
 Sua fundação foi dada pela necessidade da organização regional de países na Asia e Europa — Sul da china, Balcãs, Ira, Paquistão — para enfrentar monstros e fenômenos sintropes que traziam flagelo para a população local. Dessa forma, em 02/09/1897 foi feito o *tratado de contenção de fenômenos sintropes do sul asiático* entre os países do siao, índia, china (parcialmente) e Filipinas. Esse tratado inicial tinha como base o compartilhamento de inteligência, recursos e mão de obra para lidar com criaturas magias e conter efeito de desastres naturais.
 
-Dado o sucesso parcial do tratado, outros 45 países e Companhias se juntaram a um novo tratado similar firmado em 1902 em Warsaw na Rússia. Marcando assim o inicio de uma visão mais globalizada da contenção de efeitos sintropes.
+Dado o sucesso parcial do tratado, outros 45 países e Companhias se juntaram a um novo tratado similar firmado em 1900 em Warsaw na Rússia. Marcando assim o inicio de uma visão mais globalizada da contenção de efeitos sintropes.
 
 Naturalmente, assim que o estado de adaptação e emergência foi mediado nos paises afetados, a manutenção dos tratados foi sendo deixada de lado, eventualmente sendo encerrados. Entretanto, a infraestrutura de rede de contatos criada pelos tratados foi essencial para a comunicação internacional de especialistas e acadêmicos, permitindo eventualmente a formação da CCS
 

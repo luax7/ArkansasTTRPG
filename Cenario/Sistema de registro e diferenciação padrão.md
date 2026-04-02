@@ -29,6 +29,7 @@ ex: US/CA/LA afetou uma parte significativa de Los Angeles, enquanto US/CA afeto
 | Ameaça viva         | Criaturas rondando a área, time de extermínio especializado necessário.                                              | Mt~        |
 | Atividade arcana    | Lugar com atividade arcana anormal. Recomendado o envio de não magiarcas para evitar danos as estruturas manafórica. | Ac~        |
 | Atividade Geologica | Lugares com vulcões ativos, geysers ou minas abandonadas. Ge0 indica minas abandonadas sem risco de queda            | Ge~        |
+| Todos               | para concisao do codigo, zonas especiais possuem isso.                                                               | Ts         |
 
 
 *Identificador único* Numero em crescimento constante para evitar sobreposições entre casos

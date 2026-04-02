@@ -26,14 +26,14 @@ A iniciativa, primordialmente, e igual ao atributo de agilidade do personagem.
 
 A ordem de combate e decidida primeiramente por ações posteriores (Ex: emboscadas) em seguida pela iniciativa (1 de iniciativa sempre joga primeiro que 0 de iniciativa) e depois, o desempate e decidido por um teste de [Reflexo](Atributos).
 
-### Deslocamento
+# Deslocamento
 O deslocamento significa a capacidade de se movimentar de um personagem.
 O deslocamento e definido como *6 + 2 × Agilidade* metros.
 
-### Capacidade de carga
+# Capacidade de carga
 A capacidade de carga define quão pesado pode ser o equipamento de um personagem. E definido por *15 + 5 × Vigor* Quilos.
 
-### Cansaço 
+# Cansaço 
 O cansaço é uma medida de exaustão do personagem, conforme ele exerce força e avança na missão, naturalmente seus sentidos ficam mais fracos, e vigor, trêmulo.
 Todos os personagens começam com 0 de cansaço. Ao descansar, se recupera de acordo com as regras em [[Repouso]].
 
@@ -47,7 +47,7 @@ As seguintes situações concedem cansaço ao personagem:
 
 **Efeitos de cansaço**
 - *Menor ou igual a 3* → Sem efeitos*
-- *4 e 5 de cansaço* → em testes de intelecto e suas pericias, reflexos, enganação, Empatia, Conjuração e controle de sintropia.
+- *4 e 5 de cansaço* → -1 em testes de intelecto e suas pericias, reflexos, enganação, Empatia, Conjuração e controle de sintropia.
 - *6 e 7 de cansaço* → Todos os efeitos anteriores, -2 em testes de vigor, agilidade e todas suas pericias
 - *8 de cansaço* → Todos os efeitos anteriores, -1 em testes para resistir a efeitos.
 - *Mais de 8 de cansaço* → Todos efeitos anteriores, -1 em todos os testes.

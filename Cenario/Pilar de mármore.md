@@ -36,6 +36,10 @@ Grupos humanos foram identificados vivendo de forma estável dentro da zona, apr
 
 Esses grupos, normalmente organizados como tribos, utilizam de uma substancia nomeada Eltex, capaz de melhorar os sentidos e capacidade magica de uma pessoa. Essa droga possui significância ritualística para os nativos. O consumo frequente da substancia deixa o usuário permanentemente mais ativo em combate e deixa a pele com uma coloração roxa. Devido aos seus efeitos, organizações criminosas e exércitos possuem enorme interesse em sua utilização, fazendo o trafego mais frequente da floresta ser o contrabando de Eltex.
 
+**Cultistas dos pilares**
+Além disso, um culto misterioso assombra a grande Exani. Fazendo rituais e sequestrando a população da cidade ao redor, eles de certa forma protegem o pilar. Mantendo uma vigilia constante para pessoas que eles consideram ""
+
 **Trafico de Eltex**
 A obtenção do Eltex, torna-se praticamente impossível sem viver dentro da floresta ou já ter seus sentidos melhorados por ele. Dessa forma, a maior parte da produção, vem das proprias tribos, que oferecem seu produto em troca de dinheiro e bens.
-Sob essa dinâmica, construiu-se uma grande rede de trafico se consolidando e criando maior ocupaçao human
+Sob essa dinâmica, construiu-se uma grande rede de trafico se consolidando e criando maior ocupação humana ao redor da floresta.
+

@@ -1,7 +1,3 @@
-Perfeito! Aqui está uma estrutura inicial para seu setting, com base no que você descreveu:
-
----
-
 ### 🌍 **Setting: O Retorno da Magia**
 
 #### 📜 **Era Antiga – A Era da Abundância Mística (c. 10000 a.C. – 1000 a.C.)**

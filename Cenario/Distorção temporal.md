@@ -28,7 +28,7 @@ Registros de observação do fenômeno indicam uma distonia do tempo percebido p
 ### Medição de dilatação - Experimento 01
 Data de ensaio: 01/08/1907
 Experimento pre CCS
-
+**Objetivos:** O objetivo da 
 
 ### Relação entre sintropia, densidade manafórica local e distorção temporal - Experimento 02
 

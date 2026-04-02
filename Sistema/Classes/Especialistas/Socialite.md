@@ -12,7 +12,7 @@ Ele é a única classe capaz de **reter Pontos Vitoriana após o fim de um confl
 | 5     | Habilidade de arquetipo                     |
 | 6     | Talento                                     |
 
-**Pontos de vida iniciais 10 + Vigor**
+**Pontos de vida iniciais 12 + Vigor**
 *Pontos de vida nos próximos níveis 4+Vigor*
 **Mana Inicial 8+Presença**
 *Pontos de vida nos próximos níveis 2+Presença*

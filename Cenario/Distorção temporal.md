@@ -29,7 +29,9 @@ Registros de observação do fenômeno indicam uma distonia do tempo percebido p
 Data de ensaio: 01/08/1907
 **Objetivos:** O objetivo do experimento foi a medição real da desaceleração do tempo dentro das zonas afetadas por magias antigas.
 
-**Metodologia:** Identificar o limiar entre a área afetada pela magia
+**Metodologia:** Identificando a metodologia da magia, posicionar um relógio dentro do campo de desaceleração, e um a cada 5 metros se afastando da zona por 30 metros, assim, identificando também o decaimento da magia.
+
+**Conclusão:** Apesar das dificuldades de encontrar um relógio que funcionava de forma correta dentro da zona da magia causado pela desaceleração dos mecanismos, foi identificado uma desaceleração de 30% (de 300 segundos para 210) e um decaimento de ±5% por metro ate um decaimento abrupto de  
 
 ### Relação entre sintropia, densidade manafórica local e distorção temporal - Experimento 02
 

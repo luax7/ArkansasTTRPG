@@ -11,7 +11,7 @@ Autor:Robert Karz
 No campo de estudos arcanos, a distorção temporal permanece como um dos fenômenos mais instáveis, incompreendidos e, simultaneamente, mais cobiçados pela comunidade arcana.
 Historicamente, seu estudo esteve diretamente associado a objetivos de alto valor estratégico e existencial, como a imortalidade, rejuvenescimento, manipulação do passado e preservação de materiais. Esses estudos, permeiam a historia da humanidade, desde a idade media existem registros de alquimistas tentando criar peças capazes de garantir imortalidade e poderes temporais.
 Apesar do interesse continuo, a progressão dos estudos em magias temporais se prova tremendamente lento. Causado por principalmente dois fatores:
-- **Escassez de registros** Diferentemente de magias praticas ou magias para combate — que se provam abundantes em ruinas em locais de habitação de humanos pre-colapso — não existem muitos locais registrados com magia temporal ativa.
+- **Escassez de registros** Diferentemente de magias praticas ou magias para combate — que se provam abundantes em ruinas em locais de habitação de humanos pré colapso — não existem muitos locais registrados com magia temporal ativa.
 - **Codificação arcana** Os locais com algum tipo de magia temporal, frequentemente contam com sistemas de defesas robustos e codificação magica extremamente complicada.
 
 Dessa forma, percebemos que mesmo no período da "alta magia", feitiços temporais eram resguardados com alto valor tático e estratégico, um testamento pra sua complexidade e utilidade.
@@ -27,8 +27,9 @@ Registros de observação do fenômeno indicam uma distonia do tempo percebido p
 # Experimentos
 ### Medição de dilatação - Experimento 01
 Data de ensaio: 01/08/1907
-Experimento pre CCS
-**Objetivos:** O objetivo da 
+**Objetivos:** O objetivo do experimento foi a medição real da desaceleração do tempo dentro das zonas afetadas por magias antigas.
+
+**Metodologia:** Identificar o limiar entre a área afetada pela magia
 
 ### Relação entre sintropia, densidade manafórica local e distorção temporal - Experimento 02
 

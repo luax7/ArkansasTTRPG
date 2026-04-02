@@ -1,12 +1,8 @@
-```columns
-id: TYOAw_P9p-37rRfjZ_LcA
-===
-**Departamento de inteligencia**
-Tipo : Compilado
-Numero: R32313
-Classificaçao:Livre
-Autor:Robert Karz
-```
+| **Departamento de inteligência**                                  |
+| ----------------------------------------------------------------- |
+| Tipo : Compilado                                                  |
+| Numero: R32313  <br>Classificação: Livre  <br>Autor:  Robert Karz |
+
 # Estudo geral
 No campo de estudos arcanos, a distorção temporal permanece como um dos fenômenos mais instáveis, incompreendidos e, simultaneamente, mais cobiçados pela comunidade arcana.
 Historicamente, seu estudo esteve diretamente associado a objetivos de alto valor estratégico e existencial, como a imortalidade, rejuvenescimento, manipulação do passado e preservação de materiais. Esses estudos, permeiam a historia da humanidade, desde a idade media existem registros de alquimistas tentando criar peças capazes de garantir imortalidade e poderes temporais.
@@ -31,9 +27,11 @@ Data de ensaio: 01/08/1907
 
 **Metodologia:** Identificando a metodologia da magia, posicionar um relógio dentro do campo de desaceleração, e um a cada 5 metros se afastando da zona por 30 metros, assim, identificando também o decaimento da magia.
 
-**Conclusão:** Apesar das dificuldades de encontrar um relógio que funcionava de forma correta dentro da zona da magia causado pela desaceleração dos mecanismos, foi identificado uma desaceleração de 30% (de 300 segundos para 210) e um decaimento de ±5% por metro ate um decaimento abrupto de  
+**Conclusão:** Apesar das dificuldades de encontrar um relógio que funcionava de forma correta dentro da zona da magia causado pela desaceleração dos mecanismos, foi identificado uma desaceleração de 30% (de 300 segundos para 210) e um decaimento de ±5% por metro ate um decaimento abrupto de  10% no 5 medidor.
 
 ### Relação entre sintropia, densidade manafórica local e distorção temporal - Experimento 02
+**Objetivo:** O objetivo
+
 
 ### Medição de efeitos cognitivos e físicos mediante a exposição prolongada de campos de dilatação temporal - Experimento 03
 

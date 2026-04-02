@@ -64,11 +64,9 @@ Uma falha critica no combate entrega o efeito "Falha catastrófica" ao personage
 
 [[Contagem de munição]]
 
-[[Sistema Nêmesis]]
-- Criação de eventos narrativos
 
-[[Sistema Vitoriana]]
-- Administração de disputas sociais
+![[Sistema Nêmesis#Sistema Nêmesis]]
 
-[[Sistema Sintrope]]
-- Sistematização de conjuração e magia
+![[Sistema Vitoriana#Sistema Vitoriana]]
+
+![[Sistema Sintrope#Conjurando]]

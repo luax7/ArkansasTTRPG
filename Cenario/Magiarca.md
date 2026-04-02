@@ -1,4 +1,3 @@
-#definiçao
 # Descrição
 Magiarcas são seres humanos que através das ondas arcanas produzidas pelo [[Pilar de mármore]]
 Esses humanos apresentaram muitas mudanças físicas e mentais após sua transformação, devido ao processo da [[Sintropia arcana]].
@@ -24,14 +23,8 @@ a classificação segue um padrão similar ao de [[Historia base#📚 Elementos 
 | Manarcais (4)                | Estágio onde o humano já é metade mana, metade matéria.                                            |
 | Humanos Manofagos ( Teorico) | Humanos que integraram completamente a mana como essência vital.                                   |
 | Arcaios ( Teorico)           | Seres cuja forma humana é apenas simbólica.                                                        |
-## Latente
-Pessoas normais, sem mutações associadas ao arcano. compõem cerca de 80% da população humana
 
-## Iniciados
-Mutações físicas ou mentais atribuídas ao arcano. Muitas vezes crianças ou jovens adultos que recém despertaram seus poderes.
-Seus poderes são utilizados inconscientemente frequentemente, com intensidade, precisão e eficiência severamente diminuídos
-
-Os seguintes efeitos são comuns dado o baixo nível de controle do 
+Os seguintes efeitos são comuns dado o baixo nível de controle da mana
 ### Transformações físicas
 - olhos com brilho tênue;
 - aumento pequeno de reflexos ou resistência;

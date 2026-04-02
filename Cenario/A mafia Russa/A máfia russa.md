@@ -77,7 +77,7 @@ Cada equipe é composta por aproximadamente **7 membros**, responsáveis por exe
 ## Membros notáveis:
 ### Comandantes
 [[Mattus Green]]
-[[Sophia Orlov]]
+[[Armano Petrov]]
 Moshni Petrov
 Desi Petrov
 [[Dmitri voronov]]

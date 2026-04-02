@@ -63,6 +63,13 @@ Subordinadas às diretoria, as três grandes divisões — Vigilância, Contenç
 
 Em níveis inferiores, a estrutura se fragmenta em **células operacionais regionais**, cada uma adaptada às características locais dos fenômenos sintropes. Essas células possuem certo grau de autonomia tática, mas permanecem vinculadas a protocolos rígidos de reporte e classificação, garantindo que nenhuma informação relevante permaneça isolada — ao menos em teoria.
 
+**Departamentos**
+
+| Diretoria de vigilância | Diretoria de de contençao | Diretor de pesquisa        |
+| ----------------------- | ------------------------- | -------------------------- |
+| Analise ambiental       | Tecnicas de contençao     | P&D, Analise de anomalias, |
+
+
 ---
 
 ## Eficiência e Controvérsias

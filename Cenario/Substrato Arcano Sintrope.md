@@ -1,12 +1,8 @@
-```columns
-id: 4Dc-uIbO_f0O2K_pA0kOB
-===
-**Departamento de Anomalias**
-Objeto: Substrato Arcano Sintrope
-Registro:EmQ1XAm-F
-Classificaçao: Sigiloso
-Autor: Malik Il-Shafr
-```
+| **Departamento de Anomalias**                                                                                     |
+| ----------------------------------------------------------------------------------------------------------------- |
+| Objeto: Substrato Arcano Sintrope  <br>Registro:EmQ1XAm-F  <br>Classificação: Sigiloso  <br>Autor: Malik Il-Shafr |
+
+
 O Substrato Arcano Sintrope (SAS) é um composto arcano de origem sintética caracterizado por sua extrema eficiência como condutor de mana e sua volatilidade arcana[^1] na presença de campos mágicos ativos
 
 Diferente de materiais arcanos convencionais, o SAS não apenas conduz mana — ele a amplifica localmente através de fenômenos de retroalimentação sintrope, gerando acúmulos energéticos espontâneos e altamente imprevisíveis.

@@ -2,8 +2,8 @@ Atributos definem as capacidades e habilidades básicas das personagens.
 
 ***Distribuição*** 
 Na fase de criação de personagem os atributos podem ser distribuídos de duas formas
-3,2,2,1,1 (Distribuindo um total de 4 pontos)
-3,3,1,1,1 (Distribuindo um total de 4 pontos)
+2,1,1,0,0 (Distribuindo um total de 4 pontos)
+2,2,0,0,0 (Distribuindo um total de 4 pontos)
 
 Adicionalmente, com consentimento do mestre da mesa, a distribuição pode ser feita através da distribuição de pontos do melhor dado de dois D6 (Numero mais alto entre dois dados) 
 (Distribuindo uma media de 4 pontos)
@@ -11,7 +11,7 @@ Adicionalmente, com consentimento do mestre da mesa, a distribuição pode ser f
 ***Pericias***
 As pericias são formas de especializar em habilidades definidas pelos atributos.
 
-Na fase de criação de personagem, cada personagem pode marcar +1 em uma pericia de cada atributo. Talentos, profissões e classes dão acesso a mais pericias
+Na fase de criação de personagem, cada personagem pode marcar +1 em duas pericia de cada atributo. Talentos, profissões e classes dão acesso a mais pericias
 ## Vigor
 Representa a capacidade física do personagem: resistência, força bruta, tolerância à dor e capacidade de continuar funcionando mesmo sob condições extremas.
 

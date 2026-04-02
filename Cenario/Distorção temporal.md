@@ -29,6 +29,7 @@ Registros de observação do fenômeno indicam uma distonia do tempo percebido p
 Data de ensaio: 01/08/1907
 Experimento pre CCS
 
+
 ### Relação entre sintropia, densidade manafórica local e distorção temporal - Experimento 02
 
 ### Medição de efeitos cognitivos e físicos mediante a exposição prolongada de campos de dilatação temporal - Experimento 03

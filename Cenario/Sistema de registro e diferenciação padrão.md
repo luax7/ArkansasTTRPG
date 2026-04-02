@@ -1,7 +1,6 @@
 O registro de diferenciação padrão foi um sistema criado para registrar recordações sobre eventos sintropicos e outras instancias relacionadas a [[Coalizaçao de Controle Sintrope]]) de forma concisa, informativa eficiente.
 
-Para evitar o fim dos registros únicos ou números altos demais, se opta por usar um sistema de números Mod16
-0,1,2,3,4,5,6,7,8,9,A,B,C,D,E,F
+Para evitar o fim dos registros únicos ou números altos demais, se opta por usar um sistema de números hexadecimal
 
 O sistema tem plataformas para os seguintes tipos de registro:
 

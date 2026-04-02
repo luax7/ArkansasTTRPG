@@ -18,6 +18,10 @@ Através da instalação de minúsculos implantes de SAS próximo ao coração, 
 Recebe +2 para a conjuração de magias. recebe vantagem dinâmica em testes de percepção magica e se torna capaz de entender eventos arcanos mais profundamente. todas as magias recebem +4 em dificuldade fazendo quebras sintropes acontecerem mais frequentemente.
 
 **Pele de prata**
+*requisitos: talento couro grosso*
+
+
+**Couro grosso**
 
 # Talentos arcanos
 ##### **Iniciado arcano**

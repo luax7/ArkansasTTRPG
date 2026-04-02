@@ -47,7 +47,6 @@ Define carisma, influência social, leitura emocional e capacidade de manipular 
 - **Enganação** → mentir, blefar, criar histórias
 - **Intimidação** → pressionar emocionalmente
 - **Empatia** → ler emoções e intenções
-- **Atuação** → interpretar papéis, disfarces sociais
 - **Interrogatório** → extrair informações de alguém
 - **Postura** → Resistir a ataques de intimidação e similares
 ## Sintonia

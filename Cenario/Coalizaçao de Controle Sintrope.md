@@ -61,13 +61,16 @@ Paralelamente temos o **Diretor-Geral de Assuntos internos**, responsável pela 
 
 Subordinadas às diretoria, as três grandes divisões — Vigilância, Contenção e Pesquisa — funcionam como pilares interdependentes, cada uma com autonomia relativa, mas sujeitas à supervisão direta do núcleo central. A Divisão de Vigilância mantém redes de inteligência distribuídas globalmente, operando tanto em cooperação com governos quanto de forma independente. A Divisão de Contenção, por sua vez, representa o braço mais visível e temido da organização, mobilizando forças-tarefa multinacionais treinadas especificamente para lidar com entidades sintropes. Já a Divisão de Pesquisa atua como intermediária entre o campo e a academia, controlando o fluxo de informações e materiais.
 
+|**Diretorias Operacionais**|
+|---|
+|Subordinadas ao Diretor-Geral de Contenção e ao Diretor-Geral de Assuntos Internos, as estruturas operacionais da CCS se fragmentam em departamentos especializados que garantem tanto a execução quanto a estabilidade interna da organização. No eixo de contenção, destacam-se o Departamento de Resposta Rápida, responsável pela mobilização imediata frente a eventos sintropes, o Departamento de Neutralização e Extermínio, voltado à eliminação de ameaças críticas, e o Departamento de Logística Operacional, que sustenta a atuação em campo. Em paralelo, a diretoria de Assuntos Internos coordena o Departamento de Auditoria e Conformidade, que fiscaliza desvios e violações, o Departamento de Gestão de Pessoal, responsável pelo controle e avaliação de agentes, e o Departamento de Contrainteligência Interna, que atua na detecção de infiltrações e vazamentos.|
+
+|**Diretorias Técnicas e Científicas**|
+|---|
+|Vinculadas ao núcleo executivo, as áreas técnicas e científicas se organizam em departamentos que estruturam o conhecimento e seu uso estratégico. O Departamento de Catalogação Sintrope define classificações e padrões de risco, enquanto o Departamento de Pesquisa Aplicada transforma fenômenos em tecnologia utilizável. Em contraponto, o Departamento de Estudos Fundamentais investiga princípios teóricos da sintropia e da mana, e o Departamento de Redistribuição Controlada regula o envio de materiais para instituições externas. Complementando essa estrutura, setores transversais como o Departamento de Inteligência Sintrope e o Departamento de Análise de Risco Global integram dados operacionais e científicos, orientando decisões estratégicas em escala global.|
+
 Em níveis inferiores, a estrutura se fragmenta em **células operacionais regionais**, cada uma adaptada às características locais dos fenômenos sintropes. Essas células possuem certo grau de autonomia tática, mas permanecem vinculadas a protocolos rígidos de reporte e classificação, garantindo que nenhuma informação relevante permaneça isolada — ao menos em teoria.
 
-**Departamentos**
-
-| Diretoria de vigilância | Diretoria de de contençao | Diretor de pesquisa        |
-| ----------------------- | ------------------------- | -------------------------- |
-| Analise ambiental       | Tecnicas de contençao     | P&D, Analise de anomalias, |
 
 
 ---

@@ -71,10 +71,6 @@ No terceiro nível, influência se intensifica:
 *Ação leve - 3PM*
 No terceiro nível, o socialite desbloqueia a capacidade de manifestar a própria morte de um alvo em palavras. Ao causar dano físico ou balístico, pode usar o comando para causar +1 dado de dano.
 
-*Conjuração pesada*
-
-
-
 ###### **Talento**
 No primeiro, terceiro e sexto nível, o personagem ganhar um talento da lista de [[Talentos]] disponíveis.
 

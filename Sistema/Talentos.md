@@ -1,8 +1,9 @@
 Talentos são adaptações dos personagens de Arkansas. Seja através de treinamento, estudo ou mutações, o personagem se tornou mais poderoso e hábil.
 Normalmente, talentos são concedidos no primeiro, terceiro e sexto nível de progresso do personagem.
 # Talentos de perito
-### Lábia de rockstar
+##### **Lábia de rockstar**
 Ao realizar testes sociais contra 
+
 # Talentos de combate
 ##### **Treinamento marcial**
 Através de intenso treinamento, o personagem se especializa em manobras de combate.
@@ -19,7 +20,7 @@ Através da instalação de minúsculos implantes de SAS próximo ao coração, 
 
 Recebe +2 para a conjuração de magias. recebe vantagem dinâmica em testes de percepção magica e se torna capaz de entender eventos arcanos mais profundamente. todas as magias recebem +4 em dificuldade fazendo quebras sintropes acontecerem mais frequentemente.
 
-**Pele de prata**
+###### **Pele de prata**
 *requisitos: talento couro grosso*
 
 
@@ -38,3 +39,8 @@ Ganha um contrato com uma entidade da lista [[Pactuado#Entidades para contrato|E
 
 [^1]: **Habilidade: Conjuração** 
 O personagem se torna capaz de conjurar feitiços simples para combate e fortalecimento. 
+
+##### **Transmissão arcana**
+*5PM - Uma ação*
+*Requisitos : Sintonia 2 ou maior*
+Utiliza a convergência de mana e suas propriedades de transmissão de informação para comunicar com criaturas telepaticamente. Ao utilizar esse talento, abre um canal de telecomunicação por 1 minuto ou 3 turnos de combate.

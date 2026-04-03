@@ -3,7 +3,7 @@ Uma cena de combate e organizada em turnos de personagens, e cada turno organiza
 # Iniciativa
 A capacidade dos personagens de reagir rapidamente a uma situação de combate. O atributo Agilidade, Características de classe e talentos alteram essa característica.
 A iniciativa, primordialmente, e igual ao atributo de agilidade do personagem.
-A ordem de combate e decidida primeiramente por ações posteriores (Ex: emboscadas) em seguida pela iniciativa (1 de iniciativa sempre joga primeiro que 0 de iniciativa) e depois, o desempate e decidido por um teste de [Reflexo](Atributos).
+A ordem de combate e decidida primeiramente por ações posteriores (Ex: emboscadas) em seguida pela iniciativa (1 de iniciativa sempre joga primeiro que 0 de iniciativa) e depois, o desempate e decidido por um teste de [Reflexo](Atributos.md).
 
 # Ações
 No inicio do turno de um personagem, ele possui um numero de ações (normalmente 3). essas ações permitem que o personagem interaja, ataque, movimente, entre outros.

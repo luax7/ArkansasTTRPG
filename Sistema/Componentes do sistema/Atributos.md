@@ -57,3 +57,5 @@ Representa a conexão com a mana, sensibilidade ao arcano e capacidade de moldar
 - **Percepção Arcana** → detectar magia, distorções e entidades
 - **Rituais** → Analisar magia complexa ou prolongada
 - **Conhecimento Arcano** → entender fenômenos mágicos
+
+![[Outras características de personagem]]

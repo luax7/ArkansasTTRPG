@@ -24,7 +24,7 @@ Equipamentos, características de classe e talentos afetam esse atributo
 A capacidade dos personagens de reagir rapidamente a uma situação de combate. O atributo Agilidade, Características de classe e talentos alteram essa característica.
 A iniciativa, primordialmente, e igual ao atributo de agilidade do personagem.
 
-A ordem de combate e decidida primeiramente por ações posteriores (Ex: emboscadas) em seguida pela iniciativa (1 de iniciativa sempre joga primeiro que 0 de iniciativa) e depois, o desempate e decidido por um teste de [Reflexo](Atributos).
+A ordem de combate e decidida primeiramente por ações posteriores (Ex: emboscadas) em seguida pela iniciativa (1 de iniciativa sempre joga primeiro que 0 de iniciativa) e depois, o desempate e decidido por um teste de [Reflexo](Atributos.md).
 
 # Deslocamento
 O deslocamento significa a capacidade de se movimentar de um personagem.

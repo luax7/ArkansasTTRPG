@@ -7,26 +7,26 @@ Apesar de não haver nenhuma regra rígida dirigindo os equipamentos inicias, e 
 
 | Equipamento     | Peso  | Dano    | Capacidade | Modificadores | Preço |
 | --------------- | ----- | ------- | ---------- | ------------- | ----- |
-| Revolver        | 1Kg   | 1D8     | 6          | Leve          | 20$   |
+| Revolver        | 1Kg   | 1D8     | 6          |               | 20$   |
 | Rifle           | 3Kg   | 2D8     | 15         |               | 50$   |
-| Escopeta        | 3Kg   | 2D6-2D8 | 5          | Alcance Curto | 30$   |
-| submetralhadora | 2Kg   | 1D8     | 20         | Leve          | 30$   |
+| Escopeta        | 3Kg   | 2D8-2D4 | 5          | Alcance Curto | 30$   |
+| submetralhadora | 2Kg   | 1D8     | 20         |               | 30$   |
 | Rifle Pesado    | 3Kg   | 2D10    | 5          |               | 50$   |
 | Pistola         | 1Kg   | 1D6     | 12         |               | 20$   |
 | Granada         | 0,5Kg | 2D6     | -          | Circulo3x3    | 20$   |
 # *Armas físicas*
 *armas corpo a corpo*
 
-| Equipamento       | Peso  | Dano      | Modificadores                                 | Preço |
-| ----------------- | ----- | --------- | --------------------------------------------- | ----- |
-| Espada Longa      | 3Kg   | 2D8, 2D10 | [[Equipamentos#Versátil\|Versatil]]           | 30$   |
-| Machado de guerra | 2Kg   | 2D10      |                                               | 30$   |
-| Adaga             | 0,5Kg | 1D6       | [[Equipamentos#acuidade\|Acuidade]]           | 30$   |
-| Martelo de guerra | 3Kg   | 2D10      | [[Equipamentos#Longo alcance\|Longo alcance]] | 40$   |
-| Espada Curta      | 1Kg   | 1D6       |                                               | 30$   |
-| Lança             | 1Kg   | 2D8       | Alcance Longo, acuidade                       | 40$   |
-| Machado           | 1Kg   | 1D10      | Arremessavel                                  | 20$   |
-| Florete           | 0,5Kg | 1D8       | Acuidade                                      | 30$   |
+| Equipamento       | Peso  | Dano      | Modificadores                                                                      | Preço |
+| ----------------- | ----- | --------- | ---------------------------------------------------------------------------------- | ----- |
+| Espada Longa      | 3Kg   | 1D8, 1D10 | [[Equipamentos#Versátil\|Versatil]]                                                | 30$   |
+| Machado de guerra | 2Kg   | 1D12      | [[Equipamentos#Duas mãos\|Duas maos]]                                              | 30$   |
+| Adaga             | 0,5Kg | 1D6       | [[Equipamentos#acuidade\|Acuidade]]                                                | 30$   |
+| Martelo de guerra | 3Kg   | 2D10      | [[Equipamentos#Longo alcance\|Longo alcance]]                                      | 40$   |
+| Espada Curta      | 1Kg   | 1D6       |                                                                                    | 30$   |
+| Lança             | 1Kg   | 2D6       | [[Equipamentos#Longo alcance\|Longo alcance]], [[Equipamentos#Acuidade\|Acuidade]] | 40$   |
+| Machado           | 1Kg   | 1D10      | [[Equipamentos#Arremessavel\|Arremessavel]]                                        | 20$   |
+| Florete           | 0,5Kg | 1D6       | [[Equipamentos#Acuidade\|Acuidade]]                                                | 30$   |
 # *Equipamentos*
 *Itens utilizáveis*
 
@@ -109,3 +109,7 @@ Equipamentos com a categoria armas improvisadas podem ser utilizada como armas f
 ###### Proficiência 
 Equipamentos com o modificador proficiência permitem que o usuário execute um teste de perícia técnica como se fosse treinado.
 
+###### Duas mãos
+Armas de duas mãos tem -3 de desvantagem em acerto ao ser empunhada com apenas uma. 
+
+###### Uma mão

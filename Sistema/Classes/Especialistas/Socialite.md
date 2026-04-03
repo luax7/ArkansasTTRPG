@@ -1,14 +1,14 @@
 O **Socialite** é um manipulador de relações, emoções e narrativas. Enquanto outros personagens lutam com armas ou magia, ele luta com **status, influência e controle social**
 
 
-| Nivel | Habilidades                                 | Comandos | Nível de magias |
-| ----- | ------------------------------------------- | -------- | --------------- |
-| 1     | Talento, Comandos, Influencia               | 2        | -               |
-| 2     | Característica de arquétipo                 | 3        | 1               |
-| 3     | Talento, Presença marcante, Comando : Morra | 4        | 1               |
-| 4     | Aumento de Habilidade                       | 5        | 2               |
-| 5     | Habilidade de arquétipo                     | 6        | 2               |
-| 6     | Talento                                     | 7        | 3               |
+| Nivel | Habilidades                                 | Comandos | Nível de magias | Magias conhecidas |
+| ----- | ------------------------------------------- | -------- | --------------- | ----------------- |
+| 1     | Talento, Comandos, Influencia               | 2        | -               |                   |
+| 2     | Característica de arquétipo                 | 3        | 1               |                   |
+| 3     | Talento, Presença marcante, Comando : Morra | 4        | 1               |                   |
+| 4     | Aumento de Habilidade                       | 5        | 2               |                   |
+| 5     | Habilidade de arquétipo                     | 6        | 2               |                   |
+| 6     | Talento                                     | 7        | 3               |                   |
 
 **Pontos de vida iniciais 8 + Vigor**
 *Pontos de vida nos próximos níveis 4+Vigor*

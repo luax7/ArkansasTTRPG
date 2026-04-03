@@ -19,11 +19,12 @@ Cenas de descanso passivo recuperam (Por hora)
 - Perde 2 de [[Outras características de personagem#Cansaço|Cansaço]] por hora (Max 4).
 
 **descanso completo**
-Descreve cenas de repouso longas e seguras. O descanso completo pode durar o que for necessário com mínimo 8 horas, e geralmente ocorre em interlúdios entre investigações e cenários
-- Recupera completamente pontos de vida
-- Recupera completamente pontos de Mana
-- Recupera todas as habilidades que pedem um descanso curto ou longo para serem restauradas
+Descreve cenas de repouso longas e seguras. O descanso completo pode durar o que for necessário com mínimo 8 horas, e geralmente ocorre em interlúdios entre investigações e cenários.
+- Recupera completamente pontos de vida.
+- Recupera completamente pontos de Mana.
+- Recupera todas as habilidades que pedem um descanso curto ou longo para serem restauradas.
 - Se recupera completamente de [[Outras características de personagem#Cansaço|Cansaço]].
+- Utilizando 50$ pode alterar a lista de magias conhecidas.
 # Regalias
 Em um cenário urbano e natural possuir o mínimo para um bom descanso, assim, recuperando mais recursos em um descanso.
 

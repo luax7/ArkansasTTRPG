@@ -1,14 +1,14 @@
 O **Socialite** é um manipulador de relações, emoções e narrativas. Enquanto outros personagens lutam com armas ou magia, ele luta com **status, influência e controle social**
 
 
-| Nivel | Habilidades                                 | Comandos | Nível de magias |
-| ----- | ------------------------------------------- | -------- | --------------- |
-| 1     | Talento, Comandos, Voz sobrenatural         | 2        | -               |
-| 2     | Característica de arquétipo, Influência     | 3        | 1               |
-| 3     | Talento, Ataque imbuído, Repressão violenta | 4        | 1               |
-| 4     | Aumento de Habilidade                       | 4        | 2               |
-| 5     | Habilidade de arquetipo                     | 4        | 2               |
-| 6     | Talento                                     | 5        | 3               |
+| Nivel | Habilidades                   | Comandos | Duração de comandos | Nível de magias |
+| ----- | ----------------------------- | -------- | ------------------- | --------------- |
+| 1     | Talento, Comandos, Influencia | 2        | 1d4                 | -               |
+| 2     | Característica de arquétipo   | 3        | 1d4                 | 1               |
+| 3     | Talento                       | 4        | 1d4                 | 1               |
+| 4     | Aumento de Habilidade         | 5        | 1d6                 | 2               |
+| 5     | Habilidade de arquetipo       | 6        | 1d6                 | 2               |
+| 6     | Talento                       | 7        | 1d6                 | 3               |
 
 **Pontos de vida iniciais 8 + Vigor**
 *Pontos de vida nos próximos níveis 4+Vigor*
@@ -22,19 +22,31 @@ O **Socialite** é um manipulador de relações, emoções e narrativas. Enquant
 No primeiro, terceiro e sexto nível, o personagem ganhar um talento da lista de [[Talentos]] disponíveis.
 
 ###### **Comandos**
-No primeiro nível, o socialite ganha acesso a comandos de voz, capazes de moldar a vontade de criaturas com uma força sobrenatural. O Socialite conhece *2 comandos no nível 1*, aprendendo mais conforme progride. A [[Socialite#Lista de comandos|Lista de comandos]] esta disposta no fim da nota.
+No primeiro nível, o socialite ganha acesso a comandos de voz, capazes de moldar a vontade de criaturas com uma força sobrenatural.
 
+O Socialite conhece *2 comandos no nível 1*, aprendendo mais conforme progride. A [[Socialite#Lista de comandos|Lista de comandos]] esta disposta no fim da nota. Adicionalmente, comandos simples (Ex: "Levante o braço") e de curta duração sempre estão disponíveis. E podem ser utilizados mediante aprovação do mestre.
 
-**Influencia**
+Para aplicar comandos, o socialite realiza uma disputa de persuasão contra a postura do oponente.
+Para manter comandos contínuos, e necessário realizar a ação [[Combate#Ações|concentrar]].
+
+###### **Influencia**
 O Socialite manipula o mundo não pela força, mas pela certeza de que será obedecido. Sua presença, palavras e postura moldam a percepção dos outros, transformando autoridade em poder tangível.
 Ao longo do combate, o Socialite acumula *Influência*, representando o peso de suas ações, falas e domínio social sobre a cena. Essa influência pode ser gerada ao executar comandos, assumir o centro da atenção ou agir de forma coerente com sua persona.
 A Influência é utilizada para amplificar *comandos*, impor vontades ou distorcer o comportamento de aliados e inimigos, tornando suas palavras, ordens.
+O máximo de influencia se torna *5 + Presença*
 **Ganhando influencia**
-Ao criar o personagem, o maximo de influencia se torna 5 
+ - Ter sucesso em comandar uma criatura.
+ - Ter sucesso em um teste social.
+ - Acertar ataques físicos.
 
+Um máximo de dois pontos de influencia podem ser recuperados por turno
 
+**Utilizando influencia**
+- 2 pontos : Vantagem dinâmica em testes de presença e suas proficiências
+- 3 pontos : Aplica imediatamente o efeito de um comando sem realizar teste de resistência.
+- 4 pontos : aumenta a duração de um comando continuo em um nível
 ###### **Característica de arquétipo**
-No segundo nível o mago ganha uma característica de um dos três arquétipos
+No segundo nível o socialite ganha uma característica de um dos dois arquétipos
 
 | Inspirador                                               | Marionetista                                                                                                                                                                                                                                                                 |
 | -------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -58,7 +70,8 @@ Sua influência se intensifica:
 | **Hesite**  <br>_Ação – 2PM_<br><br>- Alvo não pode usar reação<br>- Falha crítica: perde 1 ação<br>                                                                                                     | **Levante-se**  <br>_Ação – 2PM_<br><br>- Remove **Derrubado**<br>- Aliado ganha +1 Defesa                                                                                                                              |
 | **Exponha-se**  <br>_Ação – 3PM_<br><br>- Alvo recebe −2 Defesa<br>- Próximo ataque contra ele recebe +1 vantagem                                                                                        | **Não morra**  <br>*Ação – 3PM_*<br><br>- Faz um alvo morrendo ter sucesso imediato no proximo [[Outras características de personagem#Testes de sobrevivência\|Teste de sobrevivencia]].<br>_(1 vez por cena por alvo)_ |
 | **Confunda-se**  <br>_Ação – 4PM_<br>*Requisitos: Duvide*<br>- No próximo turno o alvo realiza uma ação a menos                                                                                          | **Agora!**  <br>_Ação leve – 3PM_<br>*Requisitos: Levante-se*<br>- Aliado pode se mover 3m imediatamente                                                                                                                |
-| **Reaja**<br>*Ação - 3PM*<br>- Se o alvo já tiver gastado suas reações, elas se recuperam.                                                                                                               | **Mantenha-se firme**  <br>_Ação – 2PM_<br>    - +2 em testes contra efeitos mentais por 1d4 turnos.<br>                                                                                                                |
+| **Reaja**<br>*Ação – 3PM*<br>- Se o alvo já tiver gastado suas reações, elas se recuperam.                                                                                                               | **Mantenha-se firme**  <br>_Ação – 2PM_<br>    - +2 em testes contra efeitos mentais por 1d4 turnos.<br>                                                                                                                |
+| **Ataque**<br>*Ação – 5PM*<br>*Requisitos: Nível 4, Avançar*<br>O alvo ataca uma criatura a escolha do socialite dentro do alcance de ataque.                                                            |                                                                                                                                                                                                                         |
 ###### **Voz dominante**
 No primeiro nível, a mana começa a modificar o cérebro e as proprias cordas vocais do socialite. Assim, fazendo sua voz carregar uma autoridade sobrenatural.
 - +2 em testes sociais

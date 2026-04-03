@@ -11,10 +11,16 @@ A quantidade de ações pode ser aumentada por talentos e habilidades de classe.
 Ações leves podem ser executadas sem custo uma vez por turno, após a primeira vez, elas custam uma ação normalmente.
 
 **Atacar**
-O personagem desfere um golpe físico contra um inimigo utilizando sua arma equipada utilizando um teste de ==ataque físico== contra a defesa do oponente
+O personagem desfere um golpe físico contra um inimigo utilizando sua arma equipada. Realiza um teste de ==ataque físico== contra a defesa do oponente para causar dano.
+
+**Atirar**
+Realiza um disparo com uma [[Equipamentos#*Armas de fogo*|Arma de fogo]] contra um inimigo dentro do alcance. Realiza um teste de pontaria contra a defesa do oponente para causar dano.
 
 **Conjurar magia**
 Utilizando as regras do Sistema sintrope, o personagem conjura uma magia utilizando seu atributo de conjuração (Normalmente sintonia).
+
+**Concentrar**
+Se concentra na manutenção de algum feitiço ou comando. ao se concentrar, se torna impossivel 
 
 **Movimentar**
 O personagem se movimenta uma quantidade de metros igual ao seu deslocamento
@@ -47,7 +53,7 @@ Alcança ou guarda algum item disponível no inventario.
 Derruba um oponente utilizando uma disputa[^5] de força bruta ou ataque físico.
 
 **Mirar** 
-O próximo ataque que utiliza pontaria ou destreza recebe uma vantagem dinâmica.
+O próximo ataque que utiliza pontaria ou agilidade recebe uma vantagem dinâmica.
 # Reações
 Reações são as formas que uma personagem pode reagir as ações sendo tomadas ao seu redor. Reações podem ser tomadas somente contra personagens nos quais o alvo esta engajado. Ou seja, ações de personagens invisíveis, ou escondidos não podem ser reagidas.
 Inicialmente, os personagens podem realizar duas reações por turno
@@ -59,13 +65,13 @@ Ao ser atacado, o personagem pode utilizar de sua agilidade para desviar realiza
 Quando um inimigo se afasta do campo de ataque físico de um personagem, o mesmo pode realizar um ataque de oportunidade. Considerando assim, as regras da ação ataque.
 
 **Contra ataque**
-Ao ser atacado, um personagem pode reagir contra-atacando realizando um ataque contra a defesa ou o ataque do adversário (Considerando o maior) nesse caso, o atacante não causa dano. Contra ataque custa duas reações.
+Ao ser alvo de um ataque físico, o personagem pode realizar um contra ataque utilizando as regras normais da ação *atacar*, apenas causando metade do dano. Se o inimigo acertar, o dano do ataque persiste. 
 
 **Tomar cobertura**
 Ao ser alvo de um tiro, um personagem pode usar sua reação para procurar cobertura em ate 1,5 metros de distancia. A maior cobertura alcançável com essa reação e 1/2 
 
 **Bloquear**
-Ao ser alvo de um ataque físico o bloqueia, recebendo metade do dano. aumentando sua defesa em +2 para o próximo ataque recebido. Bloquear custa duas reações.
+Ao ser alvo de um ataque físico o bloqueia, diminuindo o dano em *2 × resistência* . aumentando sua defesa em +2 para próximos ataques recebidos antes do inicio do próximo turno. Bloquear custa duas reações.
 
 
 [^1]: As coberturas são divididas em diversos níveis aumentando seu beneficio conforme cobre o personagem:

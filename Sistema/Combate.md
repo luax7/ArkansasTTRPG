@@ -11,16 +11,16 @@ A quantidade de ações pode ser aumentada por talentos e habilidades de classe.
 Ações leves podem ser executadas sem custo uma vez por turno, após a primeira vez, elas custam uma ação normalmente.
 
 **Atacar**
-O personagem desfere um golpe físico contra um inimigo utilizando sua arma equipada. Realiza um teste de ==ataque físico== contra a defesa do oponente para causar dano.
+O personagem desfere um golpe físico contra um inimigo utilizando sua [[Equipamentos#*Armas físicas*|Arma física]] equipada. Realiza um teste de ataque físico contra a defesa do oponente para causar dano.
 
 **Atirar**
 Realiza um disparo com uma [[Equipamentos#*Armas de fogo*|Arma de fogo]] contra um inimigo dentro do alcance. Realiza um teste de pontaria contra a defesa do oponente para causar dano.
 
 **Conjurar magia**
-Utilizando as regras do Sistema sintrope, o personagem conjura uma magia utilizando seu atributo de conjuração (Normalmente sintonia).
+Utilizando as regras do [[Sistema Sintrope]] , o personagem conjura uma magia utilizando seu atributo de conjuração (Normalmente sintonia).
 
 **Concentrar**
-Se concentra na manutenção de algum feitiço ou comando. ao se concentrar, se torna impossivel 
+Se concentra na manutenção de algum feitiço ou comando. ao se concentrar, se torna impossível conjurar magias de nível 2 ou maior.
 
 **Movimentar**
 O personagem se movimenta uma quantidade de metros igual ao seu deslocamento

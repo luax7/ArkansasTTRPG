@@ -14,33 +14,49 @@ Apesar de não haver nenhuma regra rígida dirigindo os equipamentos inicias, e 
 | Rifle Pesado    | 3Kg   | 2D10    | 5          |               | 50$   |
 | Pistola         | 1Kg   | 1D6     | 12         |               | 20$   |
 | Granada         | 0,5Kg | 2D6     | -          | Circulo3x3    | 20$   |
+
+Exceto pela granada, que possui o tipo explosivo, todas as armas possuem o tipo de dano "Balístico"
+Armas não podem causar [[Outras características de personagem#Golpes brutais| Efeitos de golpes brutais]].
+
 # *Armas físicas*
 *armas corpo a corpo*
 
-| Equipamento       | Peso  | Dano      | Modificadores                                                                      | Preço |
-| ----------------- | ----- | --------- | ---------------------------------------------------------------------------------- | ----- |
-| Espada Longa      | 3Kg   | 1D8, 1D10 | [[Equipamentos#Versátil\|Versatil]]                                                | 30$   |
-| Machado de guerra | 2Kg   | 1D12      | [[Equipamentos#Duas mãos\|Duas maos]]                                              | 30$   |
-| Adaga             | 0,5Kg | 1D6       | [[Equipamentos#acuidade\|Acuidade]]                                                | 30$   |
-| Martelo de guerra | 3Kg   | 2D10      | [[Equipamentos#Longo alcance\|Longo alcance]]                                      | 40$   |
-| Espada Curta      | 1Kg   | 1D6       |                                                                                    | 30$   |
-| Lança             | 1Kg   | 2D6       | [[Equipamentos#Longo alcance\|Longo alcance]], [[Equipamentos#Acuidade\|Acuidade]] | 40$   |
-| Machado           | 1Kg   | 1D10      | [[Equipamentos#Arremessavel\|Arremessavel]]                                        | 20$   |
-| Florete           | 0,5Kg | 1D6       | [[Equipamentos#Acuidade\|Acuidade]]                                                | 30$   |
+| Equipamento       | Peso  | Dano    | Tipo | Modificadores                                                                      | Preço |
+| ----------------- | ----- | ------- | ---- | ---------------------------------------------------------------------------------- | ----- |
+| Espada Longa      | 3Kg   | 2d6-1d8 | C    | [[Equipamentos#Versátil\|Versatil]],[[Equipamentos#Longo alcance\|Longo alcance]]  | 30$   |
+| Machado de guerra | 2Kg   | 1d12    | C    | [[Equipamentos#Duas mãos\|Duas maos]]                                              | 30$   |
+| Martelo de guerra | 3Kg   | 1d12    | T    | [[Equipamentos#Longo alcance\|Longo alcance]],Duas mãos                            | 40$   |
+| Adaga             | 0,5Kg | 1d6     | P    | [[Equipamentos#acuidade\|Acuidade]]                                                | 30$   |
+| Espada Curta      | 1Kg   | 1d8     | C    |                                                                                    | 30$   |
+| Lança             | 1Kg   | 1d8     | P    | [[Equipamentos#Longo alcance\|Longo alcance]], [[Equipamentos#Acuidade\|Acuidade]] | 40$   |
+| Machado           | 2Kg   | 1d10    | C    | [[Equipamentos#Arremessavel\|Arremessavel]]                                        | 20$   |
+| Florete           | 0,5Kg | 1d6     | P    | [[Equipamentos#Acuidade\|Acuidade]]                                                | 30$   |
+| Cacetete          | 1Kg   | 1d6     | T    |                                                                                    | 20$   |
+
+**Tipos de dano fisico**
+
+| Tipo        | Abreviaçao |
+| ----------- | ---------- |
+| Cortante    | C          |
+| Contundente | T          |
+| Perfurante  | P          |
+
+
 # *Equipamentos*
 *Itens utilizáveis*
 
-| Equipamentos             | Peso  | Modificadores    | Preço |
-| ------------------------ | ----- | ---------------- | ----- |
-| Bolsa de Componentes     | 3Kg   |                  | 30$   |
-| Caixa de Balas(Por arma) | 1Kg   |                  | 20$   |
-| Kit Medico               | 1Kg   | Proficiência     | 40$   |
-| Poção de cura            | 0,3Kg |                  | 40$   |
-| Kit de arrombamento      | 1Kg   | Proficiencia     | 30$   |
-| Arpeu                    | 2Kg   |                  | 30$   |
-| Corda                    | 1Kg/M |                  | 20$   |
-| Pe de cabra              | 1Kg   | Arma improvisada | 20$   |
-| Armadilha de urso        | 1Kg   |                  | 10$   |
+| Equipamentos             | Peso    | Preço |
+| ------------------------ | ------- | ----- |
+| Bolsa de Componentes     | 3Kg     | 30$   |
+| Caixa de Balas(Por arma) | 1Kg     | 20$   |
+| Kit Medico               | 1Kg     | 40$   |
+| Poção de cura            | 0,3Kg   | 40$   |
+| Kit de arrombamento      | 1Kg     | 30$   |
+| Arpeu                    | 2Kg     | 30$   |
+| Corda                    | 0,5Kg/M | 20$   |
+| Pe de cabra              | 1Kg     | 20$   |
+| Armadilha de urso        | 1Kg     | 10$   |
+| Algemas                  | 0,1Kg   | 10$   |
 **Bolsa de componentes**
 Utilizar uma bolsa de componentes permite conjurar magias de componente somático material utilizando dinheiro diretamente.
 
@@ -64,8 +80,10 @@ O kit de arrombamento permite que personagens sem proficiência em arrombamento 
 O arpéu permite que personagens tenham mobilidade em paredes, permitindo entradas por janelas e claraboias.
 
 **Pe de cabra**
-O pé de cabra serve para personagens arrombarem portas forçadamente. Personagens que utilizaram o pe de cabra para abrir portas não pode se esconder no próximo turno. Para abrir a porta, é realizado um teste de força bruta DT dinâmica.
+O pé de cabra serve para personagens arrombarem portas forçadamente. Personagens que utilizaram o pé de cabra para abrir portas não pode se esconder no próximo turno. Para abrir a porta, é realizado um teste de força bruta DT dinâmica.
 
+**Algemas**
+Prende uma pessoa ou criatura humanoide forçadamente. para se soltar basta quem o prendeu destrancar a algema, ou um teste de força bruta DT 12.
 # *Proteções*
 *Armaduras*
 

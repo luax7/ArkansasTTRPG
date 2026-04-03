@@ -1,13 +1,13 @@
 O técnico 
 
-| Nivel | Habilidades                                 |
-| ----- | ------------------------------------------- |
-| 1     | Talento, Negociador nato                    |
-| 2     | Habilidade de arquetipo                     |
-| 3     | Talento, Ataque imbuído, Repressão violenta |
-| 4     | Aumento de Habilidade                       |
-| 5     | Habilidade de arquetipo                     |
-| 6     | Talento                                     |
+| Nivel | Habilidades |
+| ----- | ----------- |
+| 1     |             |
+| 2     |             |
+| 3     |             |
+| 4     |             |
+| 5     |             |
+| 6     |             |
 
 **Pontos de vida iniciais 10 + Vigor**
 *Pontos de vida nos próximos níveis 4+Vigor*

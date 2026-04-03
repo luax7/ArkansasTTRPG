@@ -46,7 +46,7 @@ As seguintes situações concedem cansaço ao personagem:
 - Narrativamente, longos períodos de tempo sem descansar causa aumento no cansaço. Isso deve ser decidido e avisado pelo mestre.
 
 **Efeitos de cansaço**
-- *Menor ou igual a 3* → Sem efeitos*
+- *Menor ou igual a 3* → Sem efeitos
 - *4 e 5 de cansaço* → -1 em testes de intelecto e suas pericias, reflexos, enganação, Empatia, Conjuração e controle de sintropia.
 - *6 e 7 de cansaço* → Todos os efeitos anteriores, -2 em testes de vigor, agilidade e todas suas pericias
 - *8 de cansaço* → Todos os efeitos anteriores, -1 em testes para resistir a efeitos.

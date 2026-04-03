@@ -1,0 +1,1 @@
+Um alvo derrubado 

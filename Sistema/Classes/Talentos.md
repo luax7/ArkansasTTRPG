@@ -33,9 +33,10 @@ Através de estudo, meditação ou mutação corpórea. o corpo ou mente do pers
 Recebe a habilidade **Conjuração**[^1], ao receber o talento, o personagem recebe conhecimento de duas magias. o atributo de conjuração se torna conjuração
 
 ##### **Contrato Arcano**
+*Requisitos : Ter pelo menos um ponto em persuasão*
 Através de alguma experiencia arcana, recebe a oportunidade de realizar um contrato com uma entidade arcana.
 
-Ganha um contrato com uma entidade da lista [[Pactuado#Entidades para contrato|Entidades arcanas]], recebe a habilidade **Conjuração**[^1], o atributo de conjuração se torna negociação 
+Ganha um contrato com uma entidade da lista [[Sistema/Classes/Arcanistas/Pactuado|Pactuado]] recebe a habilidade **Conjuração**[^1], o atributo de conjuração se torna persuasão.
 
 [^1]: **Habilidade: Conjuração** 
 O personagem se torna capaz de conjurar feitiços simples para combate e fortalecimento. 

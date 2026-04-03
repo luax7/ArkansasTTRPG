@@ -1,14 +1,14 @@
 O **Socialite** é um manipulador de relações, emoções e narrativas. Enquanto outros personagens lutam com armas ou magia, ele luta com **status, influência e controle social**
 
 
-| Nivel | Habilidades                               | Comandos | Duração de comandos | Nível de magias |
-| ----- | ----------------------------------------- | -------- | ------------------- | --------------- |
-| 1     | Talento, Comandos, Influencia             | 2        | 1d4                 | -               |
-| 2     | Característica de arquétipo               | 3        | 1d4                 | 1               |
-| 3     | Talento, Presença marcante, Voz dominante | 4        | 1d4                 | 1               |
-| 4     | Aumento de Habilidade                     | 5        | 1d6                 | 2               |
-| 5     | Habilidade de arquétipo                   | 6        | 1d6                 | 2               |
-| 6     | Talento                                   | 7        | 1d6                 | 3               |
+| Nivel | Habilidades                                 | Comandos | Duração de comandos | Nível de magias |
+| ----- | ------------------------------------------- | -------- | ------------------- | --------------- |
+| 1     | Talento, Comandos, Influencia               | 2        | 1d4                 | -               |
+| 2     | Característica de arquétipo                 | 3        | 1d4                 | 1               |
+| 3     | Talento, Presença marcante, Comando : Morra | 4        | 1d4                 | 1               |
+| 4     | Aumento de Habilidade                       | 5        | 1d6                 | 2               |
+| 5     | Habilidade de arquétipo                     | 6        | 1d6                 | 2               |
+| 6     | Talento                                     | 7        | 1d6                 | 3               |
 
 **Pontos de vida iniciais 8 + Vigor**
 *Pontos de vida nos próximos níveis 4+Vigor*
@@ -63,12 +63,13 @@ No segundo nível o socialite ganha uma característica de um dos dois arquétip
 No terceiro nível, influência se intensifica:
 - Alvos afetados por comandos recebem -1 de desvantagem ao atacar.
 - Sempre que um alvo falha para resistir a um comando contra você, ganha +1 Influência.
+- +2 em testes sociais
 
-###### **Voz Dominante**
-No terceiro nível sua voz carrega autoridade sobrenatural:
-- +2 em testes sociais em combate
-- Comandos podem ser usados em combate corpo a corpo
-- Alvos sofrem −1 em testes contra seus comandos
+**Comando : Morra**
+*Ação leve - 2PM*
+No terceiro nível, o socialite desbloqueia a capacidade de manifestar a própria morte de um alvo em palavras. Ao causar dano físico ou balístico, pode usar o comando para causar +1 dado de dano.
+
+
 
 ###### **Talento**
 No primeiro, terceiro e sexto nível, o personagem ganhar um talento da lista de [[Talentos]] disponíveis.

@@ -8,7 +8,7 @@ Lutadores compõem a principal linha de frente contra as ameaças para o grupo. 
 | 4     | Aumento de habilidade       |
 | 5     | Característica de arquétipo |
 | 6     | Talento                     |
-**Pontos de vida iniciais 12 + Vigor**
+**Pontos de vida iniciais 16 + Vigor**
 *Pontos de vida nos próximos níveis 6+Vigor*
 **Mana Inicial 8+Vigor**
 *Pontos de vida nos próximos níveis 2+Vigor*

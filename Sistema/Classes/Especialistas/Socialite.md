@@ -1,14 +1,14 @@
 O **Socialite** é um manipulador de relações, emoções e narrativas. Enquanto outros personagens lutam com armas ou magia, ele luta com **status, influência e controle social**
 
 
-| Nivel | Habilidades                                 | Comandos | Duração de comandos | Nível de magias |
-| ----- | ------------------------------------------- | -------- | ------------------- | --------------- |
-| 1     | Talento, Comandos, Influencia               | 2        | 1d4                 | -               |
-| 2     | Característica de arquétipo                 | 3        | 1d4                 | 1               |
-| 3     | Talento, Presença marcante, Comando : Morra | 4        | 1d4                 | 1               |
-| 4     | Aumento de Habilidade                       | 5        | 1d6                 | 2               |
-| 5     | Habilidade de arquétipo                     | 6        | 1d6                 | 2               |
-| 6     | Talento                                     | 7        | 1d6                 | 3               |
+| Nivel | Habilidades                                 | Comandos | Nível de magias |
+| ----- | ------------------------------------------- | -------- | --------------- |
+| 1     | Talento, Comandos, Influencia               | 2        | -               |
+| 2     | Característica de arquétipo                 | 3        | 1               |
+| 3     | Talento, Presença marcante, Comando : Morra | 4        | 1               |
+| 4     | Aumento de Habilidade                       | 5        | 2               |
+| 5     | Habilidade de arquétipo                     | 6        | 2               |
+| 6     | Talento                                     | 7        | 3               |
 
 **Pontos de vida iniciais 8 + Vigor**
 *Pontos de vida nos próximos níveis 4+Vigor*
@@ -43,6 +43,8 @@ O máximo de influencia se torna *5 + Presença*
  - Ter sucesso em comandar uma criatura.
  - Ter sucesso em um teste social.
  - Acertar ataques físicos.
+ - Conjurar uma magia de encantamento ou ilusão.
+ - Conceder vantagens a aliados.
 
 Um máximo de dois pontos de influencia podem ser recuperados por turno
 
@@ -66,8 +68,10 @@ No terceiro nível, influência se intensifica:
 - +2 em testes sociais
 
 **Comando : Morra**
-*Ação leve - 2PM*
+*Ação leve - 3PM*
 No terceiro nível, o socialite desbloqueia a capacidade de manifestar a própria morte de um alvo em palavras. Ao causar dano físico ou balístico, pode usar o comando para causar +1 dado de dano.
+
+*Conjuração pesada*
 
 
 

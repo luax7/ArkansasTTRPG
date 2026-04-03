@@ -13,7 +13,7 @@ Componentes:
   - M
   - G
 ---
-**Componentes**: 20 Gramas de nitra (10$) consumido
+*Componentes**: 20 Gramas de nitra (10$) consumido
 ## Descrição
 Move-se rapidamente até 3m sem provocar reações.  
 Se estiver escondido, mantém o estado.

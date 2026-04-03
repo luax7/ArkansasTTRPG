@@ -6,7 +6,7 @@ Pactuados frequentemente fazem contratos para receber magia em troca de riquezas
 | ----- | ------------------------------------------------- | --------------------- | ----------------- | ------------------ |
 | 1     | Talento,Conjuração                                | 1                     | 1                 | -                  |
 | 2     | Contrato arcano, Pendulo arcano, Dons de entidade | 1                     | 1                 | 1                  |
-| 3     | Talento,Contrato arcano                           | 2                     | 2                 | 1                  |
+| 3     | Talento,Contrato arcano                           | 2                     | 2                 | 2                  |
 | 4     | Aumento de habilidade                             | 2                     | 2                 | 2                  |
 | 5     | Contrato arcano                                   | 3                     | 3                 | 3                  |
 | 6     | Talento                                           | 3                     | 3                 | 4                  |
@@ -73,16 +73,6 @@ Feiticeiros contratantes de Ignivar frequentemente queixam de vozes, vultos e ou
 
 ##### **Ação favorável** :
 Causar dano em inimigos marcados com *Marca das cinzas* 
-
-##### Dons de entidade
-
-| Don                                                                                                                                                                                                                                                                                                                  | Don                                                                                                                                                                                                                                                                                                                                                                                   |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Coração Incandescente**<br>Seu corpo pulsa com calor arcano.<br><br>- Recebe **resistência a dano ígneo**<br>- Sempre que causa dano com magia:<br>    - causa **+1 dano ígneo adicional**<br><br>Se o alvo estiver **marcado**:<br><br>- esse bônus se torna **+1d4**                                             | **Corpo em Combustão**<br>Você transforma dor em destruição.<br>- Sempre que sofre dano:<br>    - pode usar uma reação para:<br>        - causar **1d4 dano ígneo** no agressor<br>Se estiver com menos de 50% de vida:<br>- o dano aumenta para **1d6**                                                                                                                              |
-| **Sussurros da Brasa**<br><br>Ignivar fala com você… o tempo todo.<br><br>- +2 em testes para:<br>    - perceber perigo<br>    - detectar intenções hostis<br>- −2 em testes para resistir a impulsos destrutivos<br><br>Uma vez por cena:<br><br>- pode pedir ao mestre um “pressentimento” sobre conflito iminente | **Marca do Condenado**<br>Você enxerga aqueles destinados à ruína.<br>- Ao observar uma criatura por 1 turno:<br>    - pode “marcá-la narrativamente”<br>Contra esse alvo:<br>- +1 vantagem no primeiro ataque<br>- sabe sua condição geral (ferido, forte, instável)<br>Se o alvo morrer:<br>- ganha **+1 ponto de favor imediatamente**                                             |
-| **Chama voraz**<br>Suas chamas se alimentam de fraqueza.<br><br>- Magias causam:<br>    - **+1 dado de dano em alvos marcados**<br><br>Se o alvo estiver com menos de 50% de vida:<br><br>- pode rolar novamente **1 dado de dano** (mantém o melhor)                                                                | **Superaquecimento Arcano**<br>Você força suas chamas além do limite.<br>- Ao conjurar uma magia:<br>    - pode aumentar o custo em **+2 PM**<br>- Se fizer isso:<br>    - a magia recebe:<br>        - +1 dado de dano<br>        - ignora resistência a fogo<br>Após usar:<br>- sofre **1d6 de dano verdadeiro**<br>Se usar novamente no mesmo turno:<br>- o dano sobe para **2d6** |
-
-
 ## Rytsu
 Rytsu, a raposa do norte, tem seus poderes usados para furtividade,  em geral feiticeiros que utilizam das sombras como arma para abater seus inimigos
 Rytsu normalmente pede sacrifícios materiais e ouro em troca de seu poder. Além disso e comum a oferenda de expectativa de vida, ou almas. 
@@ -122,14 +112,6 @@ Nythra conhecida como *A mãe das pragas* e uma entidade de corrupção. Seus po
 | **Corrupção biológica**<br>Ao acertar um inimigo  com uma magia, recebe uma carga de Corrupção biológica. O contratante pode ter o numero de cargas igual ao valor de sintonia. Ao sofrer dano físico tendo pelo menos uma carga, recebe 1d6 de dano para cada carga de *Corrupção biológica* armazenada (Max:3d6)<br><br>*As cargas de corrupção biológica se desfazem 30 minutos* | **Mutação pos mortem**<br>A partir do segundo nível, um contratante de Nythra se torna uma [[Besta de Pus]] após uma hora morto.                                                                                                                                                                                                                                                                                                                                                                                     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 ###### **Ação favorável**: 
 Utilizar cargas de *Corrupção biológica*
-### **Dons de entidade**
-
-| Don                                                                                                                                                                                                                                                                                | Don                                                                                                                                                                                                                                                                                                                               |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Reservatório pustulento**<br>Seu corpo acumula matéria infecciosa.<br><br>- +1 limite de _Corrupção biológica_<br>- Sempre que atingir o máximo de cargas:<br>    - ganha **+1 Defesa**<br>    - e causa **1 dano necrótico passivo** em inimigos adjacentes                     | **Carne Adaptativa**<br>Seu corpo responde à agressão de forma grotesca.<br>- Sempre que sofrer dano físico:<br>    pode gastar 1 carga de Corrupção biológica para:<br>    reduzir o dano em 1d6<br>    e ganhar +1 Resistência até o próximo turno                                                                              |
-| **Carne Adaptativa**<br>Seu corpo responde à agressão de forma grotesca.<br><br>- Sempre que sofrer dano físico:<br>    - pode gastar **1 carga de Corrupção biológica** para:<br>        - reduzir o dano em **1d6**<br>        - e ganhar **+1 Resistência até o próximo turno** | **Semeador de Corrupção**<br>Você espalha a influência de Nythra fora do combate.<br>- Após interação prolongada (cena):<br>    - pode “marcar” um alvo<br>- O alvo:<br>    - tem desvantagem contra seus efeitos por 1 dia<br>    - pode desenvolver sintomas narrativos (alucinações, paranoia, etc)                            |
-| **Fluxo degenerativo**<br>Sua magia alimenta sua corrupção.<br><br>- Ao conjurar magia:<br>    - ganha **1 carga de Corrupção biológica**<br>- Se já estiver no máximo:<br>    - causa **+1d4 dano necrótico adicional**                                                           | **Liberação Contagiosa**<br>Você explode suas reservas em poder bruto.<br><br>- Ao conjurar uma magia:<br>    - pode consumir até **3 cargas**<br>- Para cada carga:<br>    - +1 dado de dano  <br>        **ou**<br>    - +1 alvo adicional (se fizer sentido)<br><br>Após usar:<br><br>- sofre **1d6 dano por carga consumida** |
-
 
 ## Ortheon
 Ortheon e uma entidade guerreira, o foco de seus poderes e o controle da cena atraves de magias e habilidades de fortalecer o conjurador e seus aliados.
@@ -142,16 +124,242 @@ Muitas vezes, Ortheon pede riquezas, equipamentos de guerreiros, ou a conduta de
 | **Presença Marcial**  <br>Aliados a até 1,5m recebem +1 em testes de ataque |                                                                                                        |                                                                                                                                                                                                                                                                                 |
 **Ação favorável**: Um aliado causar dano a um inimigo engajado com contratante, Impedir um inimigo de atacar outro alvo 
 
-### **Dons de entidade**
+# Dons de entidade
+### Dons de corpo
+##### Resiliência Profana
 
-| Don                                                                                                                                                                                                                                                                                | Don                                                                                                                                                                                                                                                                                                                               |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Reservatório pustulento**<br>Seu corpo acumula matéria infecciosa.<br><br>- +1 limite de _Corrupção biológica_<br>- Sempre que atingir o máximo de cargas:<br>    - ganha **+1 Defesa**<br>    - e causa **1 dano necrótico passivo** em inimigos adjacentes                     | **Carne Adaptativa**<br>Seu corpo responde à agressão de forma grotesca.<br>- Sempre que sofrer dano físico:<br>    pode gastar 1 carga de Corrupção biológica para:<br>    reduzir o dano em 1d6<br>    e ganhar +1 Resistência até o próximo turno                                                                              |
-| **Carne Adaptativa**<br>Seu corpo responde à agressão de forma grotesca.<br><br>- Sempre que sofrer dano físico:<br>    - pode gastar **1 carga de Corrupção biológica** para:<br>        - reduzir o dano em **1d6**<br>        - e ganhar **+1 Resistência até o próximo turno** | **Semeador de Corrupção**<br>Você espalha a influência de Nythra fora do combate.<br>- Após interação prolongada (cena):<br>    - pode “marcar” um alvo<br>- O alvo:<br>    - tem desvantagem contra seus efeitos por 1 dia<br>    - pode desenvolver sintomas narrativos (alucinações, paranoia, etc)                            |
-| **Fluxo degenerativo**<br>Sua magia alimenta sua corrupção.<br><br>- Ao conjurar magia:<br>    - ganha **1 carga de Corrupção biológica**<br>- Se já estiver no máximo:<br>    - causa **+1d4 dano necrótico adicional**                                                           | **Liberação Contagiosa**<br>Você explode suas reservas em poder bruto.<br><br>- Ao conjurar uma magia:<br>    - pode consumir até **3 cargas**<br>- Para cada carga:<br>    - +1 dado de dano  <br>        **ou**<br>    - +1 alvo adicional (se fizer sentido)<br><br>Após usar:<br><br>- sofre **1d6 dano por carga consumida** |
+Seu corpo já não é mais totalmente seu. Ele foi moldado para suportar o peso de forças que deveriam destruí-lo.
 
+Reduz em **1** todo dano causado por suas próprias habilidades.
 
+**Amplificação**  
+_Custo: 1 Favor_  
+Sempre que reduzir dano dessa forma, recupera **1d4 PV**.
+
+---
+
+##### Corpo Instável
+
+A magia não flui por você — ela te distorce, moldando seu corpo a cada invocação.
+
+Ao conjurar uma magia, recebe **+1 em um atributo aleatório** até o próximo turno.
+
+**Amplificação**  
+_Custo: 2 Favor_  
+Pode escolher o atributo ao invés de rolar. Se for o mesmo atributo do turno anterior, o bônus se torna **+2**.
+
+---
+
+##### Predador de Pactos
+
+Você aprendeu que poder não se pede… se toma.
+
+Ao derrubar um inimigo, recupera **1d4 PV**.
+
+**Amplificação**  
+_Custo: 1 Favor_  
+Se o inimigo estava sob efeito de uma magia sua, também ganha **+1 Favor** e +1d4 PV adicional.
+
+---
+
+##### Coração Profano
+
+Algo dentro de você pulsa com energia arcana instável.
+
+Recebe **+1 Defesa** e +2 em testes contra efeitos mágicos.
+
+**Amplificação**  
+_Custo: 2 Favor_  
+Até o próximo turno, qualquer criatura que te acertar sofre **1d4 dano arcano**.
+
+---
+
+##### Canalização Brutal
+
+Você força a magia através da carne, mesmo que isso a rasgue por dentro.
+
+Pode usar **Vigor no lugar de Presença** para conjuração.
+
+**Amplificação**  
+_Custo: 0 (automático)_  
+Ao conjurar dessa forma, sofre **1d4 dano**, mas a magia recebe **+1 dado de dano**.
+
+---
+
+##### Reação Arcana
+
+Seu corpo responde à violência com energia instintiva.
+
+1 vez por turno, ao sofrer dano, ganha **+1 Favor**.
+
+**Amplificação**  
+_Custo: 2 Favor_  
+Pode usar isso imediatamente para receber **+2 Defesa** até o próximo turno.
 
 [^1]: Feiticeiros são como normalmente são chamados Magiarcas que focam em feitiços de destruição em massa
 
 [^2]: Peregrinos das montanhas são um grupo pouco coeso de peregrinos que viajam pelo mundo buscando formas de espalhar a devoção de Velkar, além de se tornar mais fortes e resistentes
+
+### Dons narrativos
+##### Marca do Pacto
+
+Suas palavras deixam cicatrizes invisíveis na mente dos outros.
+
+Ao interagir com uma criatura, pode marcá-la por 1 cena.
+
+Contra ela:
+
+- +1 em testes sociais
+- +1 em conjuração direcionada
+
+**Amplificação**  
+_Custo: 2 Favor_  
+A marca se torna arcana: o alvo sofre **−1 em testes contra suas magias**.
+
+---
+
+##### Voz do Patrono
+
+Você não fala sozinho. Algo responde… e às vezes guia.
+
+1 vez por cena, pode receber uma resposta simbólica do mestre.
+
+**Amplificação**  
+_Custo: Seguir a orientação_  
+Se agir de acordo com a resposta, ganha **+1 Favor** ou +1 em um teste relacionado.
+
+---
+
+##### Presença Perturbadora
+
+Algo em você está errado — e todos sentem isso.
+
+Recebe:
+
+- +2 em Intimidação
+- −1 em interações sociais amigáveis
+
+**Amplificação**  
+_Custo: 1 Favor_  
+Pode causar hesitação: o alvo recebe **−1 em testes** contra você por 1 turno.
+
+---
+
+##### Olhos do Outro Lado
+
+Você enxerga o mundo como ele realmente é… e isso não é confortável.
+
+Percebe magia ativa, entidades e distorções arcanas.
+
+**Amplificação**  
+_Custo: 2 Favor_  
+Por 1 turno, pode identificar:
+
+- fraquezas mágicas
+- ou o tipo de efeito ativo em um alvo
+
+---
+
+##### Contrato Flexível
+
+Você entende que pactos não são estáticos — eles podem ser moldados.
+
+Após um descanso curto, pode trocar:
+
+- 1 magia conhecida  
+    ou
+- ajustar um detalhe narrativo do contrato
+
+**Amplificação**  
+_Custo: 2 Favor_  
+Pode fazer essa troca **durante uma cena**, uma vez por dia.
+
+---
+
+##### Quebra de Limite
+
+Você se recusa a aceitar restrições — nem mesmo as impostas pela realidade.
+
+1 vez por cena, ignora uma condição negativa por 1 turno.
+
+**Amplificação**  
+_Custo: 1 Favor_  
+Duração aumenta para **2 turnos**, mas após isso sofre −1 em todos os testes até o próximo turno.
+
+### Dons de conjuração
+
+##### Explosão Canalizada
+
+Você empurra mais poder para dentro de suas magias do que deveria ser possível.
+
+Pode gastar **2 Favor** para adicionar **+1 dado de dano** a uma magia.
+
+**Amplificação**  
+_Custo: +1 Favor adicional_  
+Se o alvo estiver sob efeito seu, o bônus se torna **+2 dados**.
+
+---
+
+##### Eco Arcano
+
+Sua magia deixa resíduos que continuam a agir após o impacto.
+
+1 vez por turno, após conjurar, causa um efeito secundário leve (1d4 dano ou −1 teste).
+
+**Amplificação**  
+_Custo: 1 Favor_  
+Pode repetir parcialmente o efeito principal da magia.
+
+---
+
+##### Fluxo Arcano
+
+A magia flui por você como um ciclo contínuo.
+
+Sempre que conjura uma magia, tem 50% de chance de ganhar **+1 Favor**.
+
+**Amplificação**  
+_Custo: 2 Favor_  
+Garante o ganho de Favor e ainda recupera **1 PM**.
+
+---
+
+##### Ruptura de Mana
+
+Você ignora completamente os limites do seu próprio poder.
+
+Pode conjurar uma magia sem gastar mana.
+
+**Amplificação**  
+_Custo: 1 Favor + 2d6 dano_  
+A magia recebe **+1 dado de dano** e ignora resistências.
+
+---
+
+##### Vínculo Aprofundado
+
+Seu pacto responde com mais intensidade.
+
+Escolha um tipo de efeito de entidade:
+
+- dano, duração ou testes  
+    Esse efeito recebe **+1 permanente**.
+
+**Amplificação**  
+_Custo: 3 Favor_  
+Por 1 turno, dobra esse bônus.
+
+---
+
+##### Catalisador de Favor
+
+Você transforma devoção em poder bruto.
+
+Pode converter:
+
+- 3 Favor → 2 PM
+- 5 Favor → 4 PM
+
+**Amplificação**  
+_Custo: +1 Favor_  
+Também ganha **+1 em testes de conjuração** até o próximo turno.

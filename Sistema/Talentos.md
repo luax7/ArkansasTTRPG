@@ -1,6 +1,8 @@
 Talentos são adaptações dos personagens de Arkansas. Seja através de treinamento, estudo ou mutações, o personagem se tornou mais poderoso e hábil.
 Normalmente, talentos são concedidos no primeiro, terceiro e sexto nível de progresso do personagem.
 # Talentos de perito
+### Lábia de rockstar
+Ao realizar testes sociais contra 
 # Talentos de combate
 ##### **Treinamento marcial**
 Através de intenso treinamento, o personagem se especializa em manobras de combate.

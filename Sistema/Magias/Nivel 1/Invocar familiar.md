@@ -11,7 +11,7 @@ Alvo: Pessoal
 Dificuldade: Normal, 7
 Caracteristicas:
 Açao: Uma ação
-Círculo: "1"
+Círculo: 1
 Componentes:
   - G
   - M

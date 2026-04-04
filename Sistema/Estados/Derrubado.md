@@ -1,1 +1,1 @@
-Um alvo derrubado 
+Um alvo derrubado tem seu deslocamento reduzido a metade. Seus ataques recebem desvantagem -1 

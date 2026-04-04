@@ -14,6 +14,12 @@ Recebe duas manobras da lista de manobras do [[Lutador#Combate marcial|Lutador]]
 Através de treino em ambidestria e controle de recuo, o personagem se torna capaz de utilizar eficientemente duas armas de uma mão
 
 Recebe vantagem +1 em testes de pontaria quando duas armas de uma mão estão equipadas. Testes de ataque realizados com a arma na mão não dominante somam com a pericia de pontaria
+
+##### **Soco lacerador**
+Depois de muito treino físico e técnico, o personagem se torna capaz de utilizar suas mãos com a mesma potencia de martelos e tacos.
+
+Muda o dano de ataques sem equipamentos para *tantos D4 quanto o valor de vigor + [[Atributos#Vigor|Força bruta]]* (Ex: 3d4 + Força bruta).
+
 # Talentos anatômicos
 ##### **Retro alimentadores sintropes**
 Através da instalação de minúsculos implantes de SAS próximo ao coração, o magiarca se torna naturalmente mais capaz de sentir e sintonizar ao fluxo da mana.

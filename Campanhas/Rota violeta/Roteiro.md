@@ -2,8 +2,8 @@
 A campanha única **A rota violeta** se trata do processo de contrabandistas de Eltex, uma droga magica produzida no [[Pilar de mármore|Jardim violeta]] para concluir sua rota. Essa rota, passa pelas vastas expansões da grande floresta, Comunidades das tribos de Exani e lutas contra ferozes inimigos.
 **Data: 1913**
 
-### Cenas
-##### **Cidade**
+## Cenas
+### **Cidade**
 Iniciando a campanha, os jogadores saem da pousada que estavam na cidade de Kano. Uma cidade a beira do jardim violeta. A vegetação do ambiente já apresenta uma coloração arroxeada, as dunas já tem brilho, quase como se estivessem sido torradas e cristalizadas denovo e denovo. 
 
 
@@ -28,7 +28,7 @@ O objetivo da cidade, e encontrar o emissário do fornecedor no centro da cidade
 
 ![[24477d11-9e0a-4791-8e14-872ded0579c0.png]]
 
-##### Caminho para o posto
+### Caminho para o posto
 Não existem eventos para o caminho do posto. Só destacar um sentimento muito estranho de que dessa vez a passagem vai ser complicada.
 
 ### O posto
@@ -50,21 +50,51 @@ A fala não é uma pergunta. É uma constatação. Ele não demonstra interesse 
 O homem os convida para a sala de negócios.
 La eles fazem uma negociação utilizando o [[Sistema Vitoriana]]. Quanto melhor o sucesso, mais barato
 
-| Sucesso | Preço/g |
-| ------- | ------- |
-| 4       | 20$     |
-| 8       | 15$     |
-| 12      | 10$     |
+| Sucesso | Preço/kg |
+| ------- | -------- |
+| 4       | 20$      |
+| 8       | 15$      |
+| 12      | 10$      |
 ### Invasão
-Assim que as trocas são terminadas, os jogadores escutam uma enorme explosão fora da sala. Imediatamente o líder ameaça os jogadores, mas depois de alguma conversa, os solta e os recomenda fugir pelo lado contrario da entrada, onde tem uma pequena trilha para uma vila Exani.
 
-Indo em direção, eles vão ter um encontro com 3 agentes da CCS esperando pessoas fugindo.
+A explosão que marca o início da invasão não é apenas impacto, mas ruptura completa do controle do ambiente. O som atravessa a estrutura da sala e faz o ar vibrar por um instante, seguido por gritos abafados e comandos sendo dados do lado de fora com precisão incomum. Não há desorganização. O que acontece no posto não é um ataque improvisado, mas uma operação calculada da Coalizão de Controle Sintrope, com foco claro na contenção e apreensão do Eltex.
+
+Dentro da sala, o líder reage de forma imediata e agressiva, assumindo que os jogadores podem ser responsáveis ou parte do problema. Ele ameaça, pressiona, busca uma resposta rápida, mas o tempo não permite aprofundamento. Sons de combate se aproximam, impactos contra madeira, passos coordenados. Após alguns segundos de tensão e troca de palavras, ele toma uma decisão pragmática. Não há como sustentar o posto.
+
+Ele libera os jogadores e indica uma rota de fuga pelo lado oposto da entrada principal, uma trilha estreita que leva em direção a uma vila Exani próxima. A recomendação não é um favor, mas uma forma de retirar variáveis do problema. Permanecer ali significaria ser tratado como alvo pela CCS.
+
+Ao sair, os jogadores encontram o caos controlado do lado externo. Homens do posto tentando reagir são rapidamente neutralizados, enquanto agentes avançam com disciplina. Durante a fuga, a sensação é de estar sendo observado mesmo sem contato direto. Em determinado ponto da trilha, três agentes da CCS interceptam possíveis sobreviventes. Eles não atacam imediatamente, mas bloqueiam passagem, avaliando, buscando sinais de carga. Esse encontro pode escalar rapidamente dependendo da abordagem dos jogadores, seja por confronto direto, fuga ou tentativa de engano.
+
+---
 
 ### Cidade Exani
-Aqui eles vão dormir e ser emboscados no quarto por ladroes de eltex que viram eles indo pra descansar. e aceitável não fazer isso em nome do tempo de jogo. se o volume estiver bacana nem precisa
+
+A vila Exani não recebe os jogadores como aliados, mas também não os rejeita de imediato. A entrada é silenciosa, e a presença deles rapidamente se torna conhecida entre os habitantes. Não há acolhimento formal, apenas tolerância. Um espaço simples pode ser oferecido para descanso, geralmente mediante troca ou simples aceitação tácita de que eles não permanecerão por muito tempo.
+
+Durante a estadia, o clima é de observação constante. Os moradores reconhecem o tipo de atividade dos jogadores, mesmo sem confirmação direta. O Eltex não é estranho ali, mas seu transporte em quantidade é. Isso cria uma tensão silenciosa, onde qualquer movimento errado pode gerar reação.
+
+Caso você deseje inserir a emboscada, ela ocorre durante o descanso, quando o grupo está mais vulnerável. Ladrões locais, possivelmente jovens ou oportunistas, tentam roubar a carga durante a noite. Não são combatentes experientes, mas são rápidos e conhecem o ambiente. A cena serve mais como pressão e desgaste do que como grande desafio. Alternativamente, essa parte pode ser ignorada para manter o ritmo da sessão.
+
+Antes da saída, é possível que algum habitante ofereça um aviso indireto, não sobre a CCS, mas sobre algo na floresta que não está se comportando como deveria.
+
+---
 
 ### Indo pra cidade
-Emboscados pelo leopardo
+
+A travessia de retorno começa de forma silenciosa, quase tranquila demais. A floresta parece menos hostil, mas também mais vazia. Esse vazio não transmite segurança, apenas ausência de sinais claros.
+
+Os primeiros indícios surgem de forma sutil. Pequenos cortes, movimentos rápidos fora do campo de visão, a sensação constante de que algo acompanha o grupo à distância. O leopardo não ataca diretamente de início. Ele observa, testa, pressiona. Cada interação é breve, suficiente para causar dano leve ou desorientação, mas não o bastante para encerrar o confronto.
+
+Com o tempo, o padrão se torna evidente. Os ataques não são aleatórios, eles direcionam. Sempre que o grupo tenta sair de uma rota específica, a pressão aumenta. Quando seguem em frente, o ambiente se torna mais transitável. Isso leva eventualmente ao confronto mais direto, seja em campo aberto ou na aproximação da ruína que serve como território da criatura.
+
+O combate, quando ocorre, deve aproveitar o estado já desgastado dos jogadores. O leopardo utiliza o ambiente e o sangue derramado como extensão de suas capacidades, tornando cada erro acumulativo e cada ferimento mais relevante ao longo da luta.
+
+---
 
 ### Cidade
-Eles só tem que entregar o Eltex para os contratantes, pode ser o exercito belga
+
+O retorno à cidade marca o fim da travessia, mas não necessariamente o fim da tensão. Kano recebe os jogadores da mesma forma que os deixou: indiferente, funcional e perigosa. A entrega do Eltex ocorre de forma discreta, geralmente em um ponto previamente combinado, longe de olhares diretos.
+
+Caso o contratante seja ligado ao exército belga, a transação é objetiva e fria. Não há interesse em histórias, apenas na integridade da carga. Pagamento é realizado conforme o combinado, possivelmente com ajustes dependendo da quantidade entregue ou do estado do produto.
+
+Ainda assim, a sensação final não é de conclusão limpa. A presença da CCS, o comportamento da floresta e o encontro com a criatura deixam claro que o Jardim Violeta não é apenas um território perigoso, mas um sistema ativo, reagindo constantemente àqueles que tentam explorá-lo.

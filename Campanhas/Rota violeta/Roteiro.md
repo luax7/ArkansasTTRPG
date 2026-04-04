@@ -17,6 +17,8 @@ Os personagens começam em uma pousada, chama de Midland Inn. Uma pousada de imi
 
 Use o café da manha como gancho para apresentar os personagens, a medida que eles saem dos quartos e aparecem.
 
+![[Campanhas/Rota violeta/Pousada_37x42_201.jpg]]
+
 O objetivo da cidade, e encontrar o emissário do fornecedor no centro da cidade para receber as diretivas pra alcançar o acampamento que produz o Eltex.
 
 > Os players já pediram pra essa pessoa aparecer lá, mas alternativamente eles podem ir direto pra vila comprar, uma alternativa menos segura, pois rondas constantes da CCS passam lá procurando contrabandistas
@@ -43,6 +45,11 @@ O líder do posto surge pouco tempo após a chegada dos jogadores, como se já s
 
 ![[b58492fb-04c0-4964-926d-a96e6fde8b6d (1).png]]
 
+
+> [!NOTE] O líder
+> O líder do posto carrega uma presença que impõe respeito antes mesmo de qualquer palavra ser dita. Seu corpo é firme, mas relaxado, como alguém que não precisa demonstrar força para que ela seja reconhecida.
+
+
 “Vocês não são daqui.”
 
 A fala não é uma pergunta. É uma constatação. Ele não demonstra interesse em apresentações ou formalidades, apenas aguarda. O silêncio que se segue não é vazio, mas carregado, como se qualquer resposta errada pudesse mudar completamente o rumo da situação. Caso os jogadores mencionem o contato da cidade, sua expressão suaviza minimamente, quase imperceptível. Caso contrário, ele testa o grupo com perguntas indiretas, pausas desconfortáveis e observação constante, buscando inconsistências. Ainda assim, não há hostilidade aberta — apenas avaliação.
@@ -59,17 +66,31 @@ La eles fazem uma negociação utilizando o [[Sistema Vitoriana]]. Quanto melhor
 
 A explosão que marca o início da invasão não é apenas impacto, mas ruptura completa do controle do ambiente. O som atravessa a estrutura da sala e faz o ar vibrar por um instante, seguido por gritos abafados e comandos sendo dados do lado de fora com precisão incomum. Não há desorganização. O que acontece no posto não é um ataque improvisado, mas uma operação calculada da Coalizão de Controle Sintrope, com foco claro na contenção e apreensão do Eltex.
 
+
+> [!NOTE] Inicio
+> Assim que você aperta a mão do líder *boom* uma grande explosão ecoa pelo campo, ateando caos a todos os contrabandistas.  
+
+
 Dentro da sala, o líder reage de forma imediata e agressiva, assumindo que os jogadores podem ser responsáveis ou parte do problema. Ele ameaça, pressiona, busca uma resposta rápida, mas o tempo não permite aprofundamento. Sons de combate se aproximam, impactos contra madeira, passos coordenados. Após alguns segundos de tensão e troca de palavras, ele toma uma decisão pragmática. Não há como sustentar o posto.
 
 Ele libera os jogadores e indica uma rota de fuga pelo lado oposto da entrada principal, uma trilha estreita que leva em direção a uma vila Exani próxima. A recomendação não é um favor, mas uma forma de retirar variáveis do problema. Permanecer ali significaria ser tratado como alvo pela CCS.
 
 Ao sair, os jogadores encontram o caos controlado do lado externo. Homens do posto tentando reagir são rapidamente neutralizados, enquanto agentes avançam com disciplina. Durante a fuga, a sensação é de estar sendo observado mesmo sem contato direto. Em determinado ponto da trilha, três agentes da CCS interceptam possíveis sobreviventes. Eles não atacam imediatamente, mas bloqueiam passagem, avaliando, buscando sinais de carga. Esse encontro pode escalar rapidamente dependendo da abordagem dos jogadores, seja por confronto direto, fuga ou tentativa de engano.
 
+
+> [!NOTE] Descrição lado de fora
+> Ao sair, talvez por instinto, vocês respiram fundo. Um ar amaldiçoada enche seus pulmões, o cheiro de pólvora, sangue... carne queimada. tudo isso polui o ar da grande floresta. Pelo movimento que vocês conseguem ver, o campo esta perdendo. A CCS não veio aqui para apreender, ela veio exterminar os contrabandistas.
+
+
+![[49c5f7cf-5427-48ad-b0fe-d8f100a7d995.png]]
+
 ---
 
 ### Cidade Exani
 
 A vila Exani não recebe os jogadores como aliados, mas também não os rejeita de imediato. A entrada é silenciosa, e a presença deles rapidamente se torna conhecida entre os habitantes. Não há acolhimento formal, apenas tolerância. Um espaço simples pode ser oferecido para descanso, geralmente mediante troca ou simples aceitação tácita de que eles não permanecerão por muito tempo.
+
+![[f7593489-c05b-4a12-87f1-49e4bd4695f7.png]]
 
 Durante a estadia, o clima é de observação constante. Os moradores reconhecem o tipo de atividade dos jogadores, mesmo sem confirmação direta. O Eltex não é estranho ali, mas seu transporte em quantidade é. Isso cria uma tensão silenciosa, onde qualquer movimento errado pode gerar reação.
 

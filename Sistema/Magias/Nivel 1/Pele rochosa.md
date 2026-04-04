@@ -16,6 +16,7 @@ Componentes:
   - G
   - M
   - V
+Círculo: 1
 ---
 **Componentes**: Pó de rocha (10$) consumido
 ## Descrição

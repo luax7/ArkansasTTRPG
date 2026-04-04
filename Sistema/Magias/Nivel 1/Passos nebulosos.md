@@ -12,6 +12,7 @@ Açao: Uma ação
 Componentes:
   - M
   - G
+Círculo: 1
 ---
 **Componentes**: 20 Gramas de nitra (10$) consumido
 ## Descrição

@@ -14,6 +14,7 @@ Açao: Uma ação
 Componentes:
   - G
   - V
+Círculo: "1"
 ---
 ## Descrição
 O Conjurador recupera 2 de mana por turno 

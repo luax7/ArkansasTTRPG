@@ -6,7 +6,7 @@ views:
         - file.inFolder("Sistema/Magias")
         - file.hasProperty("custo")
     groupBy:
-      property: file.folder
+      property: Círculo
       direction: ASC
     order:
       - file.name
@@ -15,5 +15,6 @@ views:
       - Duração
       - Componentes
       - alcance
-      - file.folder
-    sort: []
+    sort:
+      - property: custo
+        direction: ASC

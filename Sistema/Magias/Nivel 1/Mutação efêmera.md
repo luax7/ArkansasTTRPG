@@ -16,6 +16,8 @@ Componentes:
   - V
   - M
 ---
+
+
 A carne do conjurador se contorce por um instante, respondendo ao chamado de Nythra. Ossos rangem, músculos se deformam e algo novo  e errado emerge temporariamente. Essas mudanças não são estáveis… mas são poderosas enquanto duram.
 
 Por um breve momento, o corpo deixa de ser humano tornando-se apenas mais uma ferramenta da praga.

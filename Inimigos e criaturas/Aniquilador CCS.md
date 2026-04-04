@@ -51,14 +51,25 @@ senses: visao noturna 120 metros, percepçao passiva 13
 bestiary: true
 traits:
   - name: Bravado
-    desc: 
+    desc: Tem vantagem +2 em testes de resistencia de postura e resistencia a intimidaçao.
     attack_bonus: 0
 actions:
-  - name: Oportunidade
-    desc: utiliza um artefato de cacetete com uma joia cravejada com um circulo magico de trovao para causar `dice:1d8` de dano contundente +2 de dano trovejante. Se esse ataque tiver sucesso critico, [[Atordoado|Atordoa]] o alvo por um turno.
+  - name: Cacetete
+    desc: utiliza um artefato de cacetete com uma joia cravejada com um circulo magico de trovao para atacar um alvo. Causa `dice:1d8` de dano contundente +2 de dano trovejante. Se esse ataque tiver sucesso critico, [[Atordoado|Atordoa]] o alvo por um turno.
     attack_bonus: 5
+  - name: Pistola
+    desc: Utiliza uma pistola para realizar disparos contra um alvo. Causa 1d6 de dano balistico.
 legendary:
-  - name: Oportunidade
-    desc: O Ghoul ataca um alvo, cravando suas garras e causando `dice:1d10+6` de Dano
+  - name: Suplex!
+    desc: O guarda , agarrando uma criatura, faz um suplex. Causando ``dice:3d8`` de dano contundente e o deixando [[Derrubado]].
     attack_bonus: 0
+    
+    drops:
+  - name:Cacetete de choque
+    desc:1 em 1d4 de dropar um cacetete de choque, que tem os efeitos do ataque Cacetete.
+    
+    attack_bonus:0
+  - name:Dinheiro
+    desc:`dice:1d20`$
+    attack_bonus:0
 ```

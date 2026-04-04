@@ -71,5 +71,7 @@ legendary:
     desc: O ghoul emite um som estridente terrível, fazendo todos as criaturas em um raio de 30 Metros fazerem um teste de Postura, com falha resultando em perder uma ação no próximo turno
   - name: Fuga
     desc: O Ghoul usa as 3 ações para desengajar, ficar invisível, e desaparecer. ele fica indetectável pelos próximos 5 minutos
-
+drops:
+  - name: Fuga
+    desc: O Ghoul usa as 3 ações para desengajar, ficar invisível, e desaparecer. ele fica indetectável pelos próximos 5 minutos
 ```

@@ -91,6 +91,7 @@ Prende uma pessoa ou criatura humanoide forçadamente. para se soltar basta quem
 | ------------------ | ------------- | --------------------------------------- | ---- | ----- |
 | Colete             | 8+Resistencia |                                         | 5Kg  | 50$   |
 | Armadura balistica | 12            | Desvantagem -3 em testes de furtividade | 12Kg | 100$  |
+
 **Escudo balístico**
 Pode ser usado em uma mão para conceder +2 De defesa
 

@@ -1,7 +1,7 @@
 Equipamentos são partes essenciais da preparação para uma missão. Eles podem ser adquiridos ao início da campanha ou durante de diversas formas.
 
 **Equipamentos iniciais**
-Apesar de não haver nenhuma regra rígida dirigindo os equipamentos inicias, e recomendado a escolha dos equipamentos com orçamento.Orçamento recomendado :400$.
+Apesar de não haver nenhuma regra rígida dirigindo os equipamentos inicias, e recomendado a escolha dos equipamentos com orçamento. Orçamento recomendado :400$.
 # *Armas de fogo*
 *Armas de longa distancia*
 

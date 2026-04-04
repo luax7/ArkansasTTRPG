@@ -5,6 +5,9 @@ views:
       and:
         - file.inFolder("Sistema/Magias")
         - file.hasProperty("custo")
+    groupBy:
+      property: file.folder
+      direction: ASC
     order:
       - file.name
       - custo
@@ -12,4 +15,5 @@ views:
       - Duração
       - Componentes
       - alcance
-      - file.tags
+      - file.folder
+    sort: []

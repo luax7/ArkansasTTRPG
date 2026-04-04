@@ -13,6 +13,8 @@ Caracteristicas:
   - circulo
 Açao: Uma ação
 Círculo: "1"
+Componentes:
+  - G
 ---
 
 ## Descrição

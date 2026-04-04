@@ -1,2 +1,6 @@
 ### Introdução
 A campanha única **A rota violeta** se trata do processo de contrabandistas de Eltex, uma droga magica produzida no [[Pilar de mármore|Jardim violeta]] para concluir sua rota. Essa rota, passa pelas vastas expansões da grande floresta, Comunidades das tribos de Exani e lutas contra ferozes inimigos.
+
+### Cenas
+##### **Cidade**
+Iniciando a campanha

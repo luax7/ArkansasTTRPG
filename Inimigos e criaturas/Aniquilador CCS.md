@@ -2,7 +2,7 @@
 ```statblock
 name: Aniquilador CCS
 source: Rota violeta
-image: <STATBLOCK-WIKI-LINK>Ghoul.png<STATBLOCK-WIKI-LINK>
+image: [[79479ec0fce09de34bbdf611a4f909c2-removebg-preview.png]]
 size: medio
 type: Humano
 subtype: 
@@ -50,8 +50,8 @@ sintonia:
 senses: visao noturna 120 metros, percepçao passiva 13
 bestiary: true
 traits:
-  - name: Oportunidade
-    desc: Canaliza força arcana nos braços para realizar um ataque físico avassalador em um inimigo. Causa +1 dado de dano. Inimigos acertados por um golpe de impacto precisam realizar um teste de resistência _DT 6+Força bruta_, em falha são [[Derrubados]].
+  - name: Bravado
+    desc: 
     attack_bonus: 0
 actions:
   - name: Oportunidade

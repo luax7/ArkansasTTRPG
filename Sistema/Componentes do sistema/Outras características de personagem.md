@@ -29,6 +29,10 @@ A ordem de combate e decidida primeiramente por ações posteriores (Ex: embosca
 # Deslocamento
 O deslocamento significa a capacidade de se movimentar de um personagem.
 O deslocamento e definido como *6 + 2 × Agilidade* metros.
+Cada célula deve ter em torno de 1,5Metros para manter a fidelidade ao sistema.
+
+##### Terreno difícil
+Algumas características e magias causam o efeito **Terreno dificil** Em uma ou mais celulas.  
 
 # Capacidade de carga
 A capacidade de carga define quão pesado pode ser o equipamento de um personagem. E definido por *15 + 5 × Vigor* Quilos.

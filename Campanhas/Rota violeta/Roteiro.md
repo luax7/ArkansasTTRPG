@@ -106,9 +106,13 @@ A travessia de retorno começa de forma silenciosa, quase tranquila demais. A fl
 
 Os primeiros indícios surgem de forma sutil. Pequenos cortes, movimentos rápidos fora do campo de visão, a sensação constante de que algo acompanha o grupo à distância. O leopardo não ataca diretamente de início. Ele observa, testa, pressiona. Cada interação é breve, suficiente para causar dano leve ou desorientação, mas não o bastante para encerrar o confronto.
 
+
+
 Com o tempo, o padrão se torna evidente. Os ataques não são aleatórios, eles direcionam. Sempre que o grupo tenta sair de uma rota específica, a pressão aumenta. Quando seguem em frente, o ambiente se torna mais transitável. Isso leva eventualmente ao confronto mais direto, seja em campo aberto ou na aproximação da ruína que serve como território da criatura.
 
 O combate, quando ocorre, deve aproveitar o estado já desgastado dos jogadores. O leopardo utiliza o ambiente e o sangue derramado como extensão de suas capacidades, tornando cada erro acumulativo e cada ferimento mais relevante ao longo da luta.
+
+![[ForestPath5Public.jpg]]
 
 ---
 

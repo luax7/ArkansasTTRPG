@@ -17,7 +17,8 @@ O mestre pode narrar a cicatriz, ou ela pode ser escolhida aleatoriamente da [[O
 
 # Defesa
 Defesa passiva contra ataques físicos. Qualquer ataque que tente acertar o personagem tem esse atributo como DT para acerto de ataques físicos e mágicos.
-A defesa inicial e definida como 7+Resistencia
+A defesa inicial e definida como 7+Resistencia.
+
 Equipamentos, características de classe e talentos afetam esse atributo
 
 # Iniciativa

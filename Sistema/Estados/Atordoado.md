@@ -1,0 +1,1 @@
+Criaturas atordoadas não podem se mover nem realizar testes pela duração.

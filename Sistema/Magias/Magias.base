@@ -12,3 +12,4 @@ views:
       - Duração
       - Componentes
       - alcance
+      - file.tags

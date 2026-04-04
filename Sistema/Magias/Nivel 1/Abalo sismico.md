@@ -7,7 +7,7 @@ Componentes Somaticos:
 Duração: Instantâneo
 alcance: 1,5 metros
 Alvo: Pessoal
-Dificuldade: Fácil, 6
+Dificuldade: Indiferente, 4
 Caracteristicas:
   - Conjuraçao pesada
   - circulo

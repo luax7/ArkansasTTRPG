@@ -15,7 +15,6 @@ Componentes:
   - G
   - V
 ---
-
 ## Descrição
 O Conjurador recupera 2 de mana por turno 
 

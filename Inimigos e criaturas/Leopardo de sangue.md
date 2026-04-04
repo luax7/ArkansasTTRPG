@@ -2,32 +2,32 @@
 ```statblock
 name: Leopardo de sangue
 source: Rota violeta
-image: <STATBLOCK-WIKI-LINK>Ghoul.png<STATBLOCK-WIKI-LINK>
-size: media
-type: Aberraçao
-subtype: Humanoide sintetica
-description: O Resultado da produção de armas vivas. Essas criaturas abandonadas por Deus foram expostas a transformações provenientes de uma forma de suspensão de morte, e dessa forma, se tornaram violentas e animalescas. Ghouls mais conscientes conseguem expressar dor constante, perturbações visuais, alucinações e outros efeitos
-ac: 10
+image: [[Leopardo de sangue.png]]
+size: Grande
+type: Animal
+subtype: Magico
+description: Uma criatura ágil, silenciosa e brutal, que utiliza o próprio sangue — e o de suas vítimas — como arma. Ele não luta de forma direta no início, preferindo enfraquecer, isolar e controlar o campo antes de finalizar.
+ac: 11
 hp: 400
 hit_dice: 18d10 + 36
 speed: 15 metros
 stats:
-  - 6
-  - 2
-  - 1
+  - 4
+  - 3
+  - 0
   - 1
   - 3
 vigor:
-  - 0
-  - 0
-  - 0
-  - 0
-  - 0
+  - 2
+  - 3
+  - 1
+  - 1
+  - 3
 agilidade:
   - 0
-  - 0
-  - 0
-  - 0
+  - 2
+  - 1
+  - 2
   - 0
 intelecto:
   - 0
@@ -38,13 +38,13 @@ intelecto:
 presença:
   - 0
   - 0
-  - 0
-  - 0
+  - 1
+  - 2
   - 0
 sintonia:
+  - 1
   - 0
-  - 0
-  - 0
+  - 2
   - 0
   - 0
 senses: visao noturna 120 metros, percepçao passiva 13

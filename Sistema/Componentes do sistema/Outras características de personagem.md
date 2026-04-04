@@ -37,6 +37,11 @@ Algumas características e magias causam o efeito **Terreno difícil** Em uma ou
 # Capacidade de carga
 A capacidade de carga define quão pesado pode ser o equipamento de um personagem. E definido por *15 + 5 × Vigor* Quilos.
 
+##### Sobrepeso
+Quando um personagem tem o equipamento mais pesado que sua capacidade de carga, ele entra no estado de sobrepeso. Sobrepeso se da em alguns níveis:
+- Ate +10Kg *->* Deslocamento reduzido a metade
+- Ate +20Kg *->* Deslocamento reduzido a metade, +1 de cansaço por hora.
+
 # Cansaço 
 O cansaço é uma medida de exaustão do personagem, conforme ele exerce força e avança na missão, naturalmente seus sentidos ficam mais fracos, e vigor, trêmulo.
 Todos os personagens começam com 0 de cansaço. Ao descansar, se recupera de acordo com as regras em [[Repouso]].

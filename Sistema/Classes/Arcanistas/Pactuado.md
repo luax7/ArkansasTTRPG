@@ -12,8 +12,8 @@ Pactuados frequentemente fazem contratos para receber magia em troca de riquezas
 | 6     | Talento                                           | 3                     | 3                 | 4                  |
 **Pontos de vida iniciais 10 + Vigor**
 *Pontos de vida nos próximos níveis 4+Vigor*
-**Pontos de mana Inicial 8+Sintonia**
-*Pontos de mana nos próximos níveis 4+Sintonia*
+**Pontos de mana Inicial 16+Sintonia**
+*Pontos de mana nos próximos níveis 4+Presença*
 
 **Pericias:** Persuasão
 

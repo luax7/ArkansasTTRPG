@@ -41,6 +41,8 @@ Um cercado de paliçada robusto. E possível ver alguns homens encima dessa cerc
 **O líder**
 O líder do posto surge pouco tempo após a chegada dos jogadores, como se já soubesse que eles estavam ali antes mesmo de serem anunciados. Diferente dos outros homens, ele não ostenta armas de forma evidente, o que apenas reforça a sensação de controle absoluto sobre o ambiente. Sua postura é relaxada, mas seus olhos percorrem cada detalhe do grupo com precisão incômoda. Ele se aproxima sem pressa, acompanhado por dois guardas que permanecem alguns passos atrás, claramente subordinados.
 
+![[b58492fb-04c0-4964-926d-a96e6fde8b6d (1).png]]
+
 “Vocês não são daqui.”
 
 A fala não é uma pergunta. É uma constatação. Ele não demonstra interesse em apresentações ou formalidades, apenas aguarda. O silêncio que se segue não é vazio, mas carregado, como se qualquer resposta errada pudesse mudar completamente o rumo da situação. Caso os jogadores mencionem o contato da cidade, sua expressão suaviza minimamente, quase imperceptível. Caso contrário, ele testa o grupo com perguntas indiretas, pausas desconfortáveis e observação constante, buscando inconsistências. Ainda assim, não há hostilidade aberta — apenas avaliação.
@@ -53,3 +55,16 @@ La eles fazem uma negociação utilizando o [[Sistema Vitoriana]]. Quanto melhor
 | 4       | 20$     |
 | 8       | 15$     |
 | 12      | 10$     |
+### Invasão
+Assim que as trocas são terminadas, os jogadores escutam uma enorme explosão fora da sala. Imediatamente o líder ameaça os jogadores, mas depois de alguma conversa, os solta e os recomenda fugir pelo lado contrario da entrada, onde tem uma pequena trilha para uma vila Exani.
+
+Indo em direção, eles vão ter um encontro com 3 agentes da CCS esperando pessoas fugindo.
+
+### Cidade Exani
+Aqui eles vão dormir e ser emboscados no quarto por ladroes de eltex que viram eles indo pra descansar. e aceitável não fazer isso em nome do tempo de jogo. se o volume estiver bacana nem precisa
+
+### Indo pra cidade
+Emboscados pelo leopardo
+
+### Cidade
+Eles só tem que entregar o Eltex para os contratantes, pode ser o exercito belga

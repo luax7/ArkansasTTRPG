@@ -15,8 +15,7 @@ Frequentemente charlatões, diplomatas ou espiões mundanos que, quando expostos
 
 *Pontos de vida nos próximos níveis 4+Vigor*
 
-**Mana Inicial 8+Presença**
-
+**Mana Inicial 12+Presença**
 *Pontos de vida nos próximos níveis 2+Presença*
 
 **Pericia:** Persuasão

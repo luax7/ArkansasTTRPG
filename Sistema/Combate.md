@@ -29,7 +29,7 @@ O personagem se movimenta uma quantidade de metros igual ao seu deslocamento
 O Personagem utiliza duas ações para se fugir de um combate sem correr risco de sofrer um ataque de oportunidade.
 
 **Esconder**
-O personagem se esconde[^3] atras de algum objeto em sua redondeza para adquirir vantagens táticas. Realizando um teste de ==furtividade== contra a percepção dos inimigos
+O personagem se esconde[^3] atras de algum objeto em sua redondeza para adquirir vantagens táticas. Realizando um teste de furtividade contra a percepção dos inimigos
 
 **Tomar cobertura**
 O Personagem toma cobertura[^1] atras de algum objeto próximo para se defender. O nível de cobertura depende do objeto

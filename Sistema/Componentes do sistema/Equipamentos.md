@@ -21,19 +21,19 @@ Armas não podem causar [[Outras características de personagem#Golpes brutais| 
 # *Armas físicas*
 *armas corpo a corpo*
 
-| Equipamento       | Peso  | Dano    | Tipo | Modificadores                                                                      | Preço |
-| ----------------- | ----- | ------- | ---- | ---------------------------------------------------------------------------------- | ----- |
-| Espada Longa      | 3Kg   | 2d6-1d8 | C    | [[Equipamentos#Versátil\|Versatil]],[[Equipamentos#Longo alcance\|Longo alcance]]  | 30$   |
-| Machado de guerra | 2Kg   | 1d12    | C    | [[Equipamentos#Duas mãos\|Duas maos]]                                              | 30$   |
-| Martelo de guerra | 3Kg   | 1d12    | T    | [[Equipamentos#Longo alcance\|Longo alcance]],Duas mãos                            | 40$   |
-| Adaga             | 0,5Kg | 1d6     | P    | [[Equipamentos#acuidade\|Acuidade]]                                                | 30$   |
-| Espada Curta      | 1Kg   | 1d8     | C    |                                                                                    | 30$   |
-| Lança             | 1Kg   | 1d8     | P    | [[Equipamentos#Longo alcance\|Longo alcance]], [[Equipamentos#Acuidade\|Acuidade]] | 40$   |
-| Machado           | 2Kg   | 1d10    | C    | [[Equipamentos#Arremessavel\|Arremessavel]]                                        | 20$   |
-| Florete           | 0,5Kg | 1d6     | P    | [[Equipamentos#Acuidade\|Acuidade]]                                                | 30$   |
-| Cacetete          | 1Kg   | 1d6     | T    |                                                                                    | 20$   |
+| Equipamento       | Peso  | Dano    | Tipo | Modificadores                                                                        | Preço |
+| ----------------- | ----- | ------- | ---- | ------------------------------------------------------------------------------------ | ----- |
+| Espada Longa      | 3Kg   | 2d6-1d8 | C    | [[Equipamentos#Versátil\|Versatil]],[[Equipamentos#Longo alcance\|Longo alcance]]    | 30$   |
+| Machado de guerra | 2Kg   | 1d12    | C    | [[Equipamentos#Duas mãos\|Duas maos]]                                                | 30$   |
+| Martelo de guerra | 3Kg   | 1d12    | T    | [[Equipamentos#Longo alcance\|Longo alcance]], [[Equipamentos#Duas mãos\|Duas mãos]] | 40$   |
+| Adaga             | 0,5Kg | 1d6     | P    | [[Equipamentos#acuidade\|Acuidade]]                                                  | 30$   |
+| Espada Curta      | 1Kg   | 1d8     | C    |                                                                                      | 30$   |
+| Lança             | 1Kg   | 1d8     | P    | [[Equipamentos#Longo alcance\|Longo alcance]], [[Equipamentos#Acuidade\|Acuidade]]   | 40$   |
+| Machado           | 2Kg   | 1d10    | C    | [[Equipamentos#Arremessavel\|Arremessavel]]                                          | 20$   |
+| Florete           | 0,5Kg | 1d6     | P    | [[Equipamentos#Acuidade\|Acuidade]]                                                  | 30$   |
+| Cacetete          | 1Kg   | 1d6     | T    |                                                                                      | 20$   |
 
-**Tipos de dano fisico**
+**Tipos de dano físico**
 
 | Tipo        | Abreviaçao |
 | ----------- | ---------- |

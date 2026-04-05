@@ -12,3 +12,6 @@ Alternativamente, os *ataques lendários* — Ataques com efeitos especiais ou �
 # Nêmesis
 Quando o mestre utiliza um dado nêmesis, ele deve entregar o dado aos jogadores. Esse dado pode ser utilizado para conseguir vantagens dinâmicas em testes ou utilizar habilidades especiais de artefatos.
 Apenas um dado Nêmesis pode ser utilizado em uma ação, isso significa que, se os jogadores utilizarem um dado para melhorar um ataque, o mestre não pode utilizar dados para piorar esse ataque.
+
+**Cancelando dados nêmesis**
+Quando o mestre utiliza um dado nêmesis, os jogadores podem utilizar um dado nêmesis para cancelar o dado do mestre. Nesse caso, os dois dados vão para o mestre

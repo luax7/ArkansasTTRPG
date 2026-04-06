@@ -1,4 +1,6 @@
-O técnico 
+O técnico é um acadêmico o qual as técnicas o permite ir ao campo de batalha também. Seja através de misturas letais ou Armas especiais, o técnico domina os recursos e traz vantagem no preparo do grupo.
+
+
 
 | Nivel | Habilidades |
 | ----- | ----------- |
@@ -14,6 +16,6 @@ O técnico
 **Mana Inicial 8+Presença**
 *Pontos de vida nos próximos níveis 2+Presença*
 
-**Pericia:** Persuasão
+**Pericia:** Ciência
 
 ---

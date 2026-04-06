@@ -2,11 +2,11 @@ Atributos definem as capacidades e habilidades básicas das personagens.
 
 ***Distribuição*** 
 Na fase de criação de personagem os atributos podem ser distribuídos de duas formas
-2,1,1,0,0 (Distribuindo um total de 4 pontos)
-2,2,0,0,0 (Distribuindo um total de 4 pontos)
+2,1,1,1,0 (Distribuindo um total de 5 pontos)
+2,2,1,0,0 (Distribuindo um total de 5 pontos)
 
-Adicionalmente, com consentimento do mestre da mesa, a distribuição pode ser feita através da distribuição de pontos do melhor dado de dois D6 (Numero mais alto entre dois dados) 
-(Distribuindo uma media de 4 pontos)
+Adicionalmente, com consentimento do mestre da mesa, a distribuição pode ser feita através da distribuição de pontos do melhor dado de dois D6+1 (Numero mais alto entre dois dados) 
+(Distribuindo uma media de 5 pontos)
 
 ***Pericias***
 As pericias são formas de especializar em habilidades definidas pelos atributos.

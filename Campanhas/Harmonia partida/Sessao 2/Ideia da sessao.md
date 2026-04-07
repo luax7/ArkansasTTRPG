@@ -11,7 +11,7 @@ O objetivo do hotel e mover RPG em direção a quebrar a logica de produção do
 
 No hotel, o plano e fazer um lugar hostil. todas as pessoas devem estar olhando. E mais ainda se eles falarem que eles são da CCS.
 
-Bem, no quarto 1102, quarto registrado no nome de Dmitri Lavoisier, eles encontram um quarto assombroso, parecido com algo de um cientista maluco. Corpos estendidos em ganchos de carne 
+Bem, no quarto 1102, quarto registrado no nome de Dmitri Lavoisier, eles encontram um quarto assombroso, parecido com algo de um cientista maluco. Corpos estendidos em ganchos de carne pendurados (esses corpos vão ser armadilhas, quando algo importante acontecer eles vão ativar, se tornando 
 
 
 

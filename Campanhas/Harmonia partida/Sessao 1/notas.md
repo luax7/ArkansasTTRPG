@@ -21,6 +21,6 @@ Claramente eles melhoraram as armas vivas e tentaram deixa-las melhores. Sophia 
 
 Uma criatura, com uma cristal negro dentro de seu compo. Conhecido como o projeto SAS. A criatura ficava invisível e claramente era um humanoide, ou seja,  se transformou em humano ou ja era um humano. Ele se desfez e apodreceu mais depois de ser retirado o cristal.
 
-Além da chave no balcão foi encontrado uma outra carta do dia 25/01/1915  que dizia sobre necessitar de produção para o Projeto SAS. Para a criação desses "cristais" do projeto SAS necessita de um catalisador (algo que eles aparentam não ter no momento). Eles precisam da cooperação de sophia por ser uma maga decente para essa criação do projeto SAS.
+Além da chave no balcão foi encontrado uma outra carta do dia 25/01/1915  que dizia sobre necessitar de produção para o Projeto SAS. Para a criação desses "cristais" do projeto SAS necessita de um catfalisador (algo que eles aparentam não ter no momento). Eles precisam da cooperação de sophia por ser uma maga decente para essa criação do projeto SAS.
 
 Mais cedo o russo havia encontrado duas partituras que o chamaram a atenção e assim no porão onde havia um teclado (viola) que ao tocar uma das partituras, consumiam mana e abriam aos poucos um portal. Conforme mais passava, mais consumia e era como se a partituras sangrasse. Em algum momento a musica deixa de ser agradável. Era estranho pq parecia wue faltava algo.

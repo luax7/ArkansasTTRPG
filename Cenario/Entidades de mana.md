@@ -13,7 +13,7 @@ Essa distinção, embora frequentemente ignorada em relatórios operacionais, co
 
 
 > [!NOTE] Registro de um pesquisador recentemente pactuado a uma entidade
-> O entendimento de que o estudo das entidades e capaz de nos trazer mais perto do conhecimento total sobre a existência das mesmas e um equivoco. Uma existência impossível de compreender e mensurar. Foi isso que eu vi
+> O entendimento de que o estudo das entidades é capaz de nos trazer mais perto do conhecimento total sobre a existência das mesmas é um equivoco. Uma existência impossível de compreender e mensurar. Foi isso que eu vi
 
 
 ## **2. Interações com Organismos Humanos**

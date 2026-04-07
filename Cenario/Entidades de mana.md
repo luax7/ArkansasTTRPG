@@ -60,3 +60,64 @@ A Coalizão de Controle Sintrope mantém uma abordagem operacional que combina e
 
 Paralelamente, existem esforços contínuos voltados ao desenvolvimento de métodos capazes de interromper ou restringir a influência dessas entidades sobre o plano material. Até o momento, tais iniciativas não produziram resultados operacionais consistentes.
 
+## **8. Ensaios Experimentais sobre Entidades de Mana**
+
+### **Experimento I — Persistência de Manifestação sob Supressão Manafórica**
+
+##### **Objetivo:**
+
+Investigar a dependência estrutural da manifestação de entidades em relação à densidade manafórica local, avaliando se a supressão do meio implica em extinção ou apenas em perda de detectabilidade.
+
+##### **Metodologia:**
+
+Uma entidade de baixo grau foi mantida em ambiente de contenção com fluxo arcano progressivamente reduzido por meio de dissipadores sintropes calibrados. Durante o processo, foram utilizados sensores de atividade espectral e registros indiretos de interferência ambiental, considerando a possibilidade de deslocamento para estados não observáveis. Após a supressão, o fluxo foi parcialmente restaurado para avaliar reemergência da manifestação.
+
+##### **Resultados:**
+
+A redução da mana resultou em instabilidade progressiva da forma percebida, seguida por desaparecimento abrupto sem evidência de colapso energético. A reintrodução de mana levou ao reaparecimento parcial da entidade, porém com divergências estruturais significativas em relação ao estado anterior. Os dados sugerem que a manifestação observada não representa a totalidade da entidade, mas apenas uma interseção condicional com o ambiente.
+
+---
+
+### **Experimento II — Vinculação Humana e Assimetria de Contrato**
+
+##### **Objetivo:**
+
+Analisar a estrutura inicial de vínculos entre entidades e humanos, com foco na identificação de assimetrias funcionais no processo de “contrato”.
+
+##### **Metodologia:**
+
+Um indivíduo humano previamente avaliado foi exposto a um foco arcano contendo resíduos de atividade de entidade catalogada. A interação foi conduzida em ambiente controlado, com monitoramento contínuo de parâmetros cognitivos, fisiológicos e de fluxo manafórico, incluindo registros de linguagem espontânea e alterações comportamentais durante o processo de vinculação.
+
+##### **Resultados:**
+
+O indivíduo apresentou aquisição imediata de capacidades anômalas de baixa intensidade, acompanhada por alterações sutis de comportamento e padrões de linguagem não previamente observados. Registros indicam interferência externa na formulação de pensamento, sugerindo ausência de controle unilateral por parte do sujeito. A estrutura do vínculo demonstrou caráter assimétrico, com indícios de que a percepção de “acordo” é construída apenas no referencial humano.
+
+---
+
+### **Experimento III — Influência de Entidades na Estrutura Temporal Local**
+
+##### **Objetivo:**
+
+Verificar a correlação entre presença de entidades de alta densidade manafórica e distorções na estrutura temporal do ambiente.
+
+##### **Metodologia:**
+
+Sensores temporais e de fluxo arcano foram distribuídos ao redor de uma entidade mantida sob contenção parcial. As medições foram realizadas em estado passivo e durante picos de atividade da entidade, incluindo movimentação e resposta a estímulos externos controlados.
+
+##### **Resultados:**
+
+Foi registrada distorção temporal constante no entorno da entidade, com intensificação durante momentos de atividade elevada. A distorção apresentou comportamento irregular, não uniforme e sem padrão previsível, sugerindo que o fenômeno não é controlado diretamente, mas emerge como consequência da própria existência da entidade. Não foram observados efeitos adversos na entidade, indicando possível adaptação ou alinhamento estrutural ao fenômeno.
+
+---
+
+## **9. Registros de Caso — Entidades de Mana**
+
+| Casos                                          | Registro                                                                                                                                                                                                                                                                                                                                       |
+| ---------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Caso 191A — Incidente de Aldeia Isolada**    | Relatos indicam manifestação recorrente de entidade não identificada associada a desaparecimentos progressivos da população local. Testemunhas sobreviventes descrevem períodos de lacuna temporal e comportamento alterado entre indivíduos afetados. A área foi posteriormente classificada como zona de risco elevado, com acesso restrito. |
+| **Caso 442C — Operador de Campo Comprometido** | Um agente da Divisão de Contenção apresentou alterações cognitivas após interação direta com entidade durante operação. O indivíduo manteve funcionalidade operacional por aproximadamente 72 horas antes de demonstrar perda completa de autonomia decisória. Foi removido e classificado como vetor de risco interno.                        |
+| **Caso 778F — Manifestação Biológica Anômala** | Um organismo animal foi encontrado com alterações estruturais extremas após possível contato com entidade do tipo corruptor. A criatura apresentava comportamento agressivo e ausência de padrões biológicos reconhecíveis. A análise indicou sobreposição entre matéria orgânica e fluxo manafórico instável. O espécime foi neutralizado.    |
+
+| Casos           | Registro        |
+| --------------- | --------------- |
+| Nome e registro | Descriçao breve |

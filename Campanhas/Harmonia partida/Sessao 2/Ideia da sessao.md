@@ -29,7 +29,7 @@ Para além disso, eles devem encontrar um papel dando segmento a linha da máfia
 
 Planejo fazer os corpos levarem uma pista para alguma parte que traga novamente a origem da Sophia em questão. Isso e, explicar como ela deixou de ser uma magiarca normal, e passou a ser um ser extremamente poderoso, utilizando poderes feéricos
 
-Eu estou pensando em fazer uma entidade feerica ter sido um tipo de mestre pra ela. Entidades feericas sao menos "Uma força da natureza" e mais um ser com muita capacidade de mana, dessa forma, seria mais plausivel.
+Eu estou pensando em fazer uma entidade feerica ter sido um tipo de mestre pra ela. Entidades feéricas sao menos "Uma força da natureza" e mais um ser com muita capacidade de mana, dessa forma, seria mais plausivel.
 
 Criar um gancho bom para isso, e fazer a sessao durar 4 horas
 
@@ -42,3 +42,8 @@ O corpo de mana, basicamente significa que, uma entidade de mana foi morta, e de
 Sophia, de alguma forma, matou (Ou fez ser morta) uma entidade de mana dentro de sua casa, para poder abrir o portal para o feywild.
 
 Essa autoridade, pode ser capturada por outros magiarcas e entidades, dessa forma, fazendo o descobrimento do lugar, uma ameaça para a existencia do corpo, e da humanidade se esse poder cair na mao errada
+
+**Fechamento**
+A ideia e:
+SOPHIA TINHA UM MESTRE FEERICO, esse mestre foi morto de alguma forma, e ela selou dentro da casa dela pra poder abrir um portal para o feywild em busca de magia arcaica.
+

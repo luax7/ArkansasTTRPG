@@ -117,7 +117,3 @@ Foi registrada distorção temporal constante no entorno da entidade, com intens
 | **Caso 191A — Incidente de Aldeia Isolada**    | Relatos indicam manifestação recorrente de entidade não identificada associada a desaparecimentos progressivos da população local. Testemunhas sobreviventes descrevem períodos de lacuna temporal e comportamento alterado entre indivíduos afetados. A área foi posteriormente classificada como zona de risco elevado, com acesso restrito. |
 | **Caso 442C — Operador de Campo Comprometido** | Um agente da Divisão de Contenção apresentou alterações cognitivas após interação direta com entidade durante operação. O indivíduo manteve funcionalidade operacional por aproximadamente 72 horas antes de demonstrar perda completa de autonomia decisória. Foi removido e classificado como vetor de risco interno.                        |
 | **Caso 778F — Manifestação Biológica Anômala** | Um organismo animal foi encontrado com alterações estruturais extremas após possível contato com entidade do tipo corruptor. A criatura apresentava comportamento agressivo e ausência de padrões biológicos reconhecíveis. A análise indicou sobreposição entre matéria orgânica e fluxo manafórico instável. O espécime foi neutralizado.    |
-
-| Casos           | Registro        |
-| --------------- | --------------- |
-| Nome e registro | Descriçao breve |

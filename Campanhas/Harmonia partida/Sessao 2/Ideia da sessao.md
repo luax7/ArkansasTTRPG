@@ -21,5 +21,5 @@ Comando, quero que entende que o projeto harmonita nao deve ser tratado como qua
 
 Para além disso, eles devem encontrar um papel dando segmento a linha da máfia russa. Imagino uma carta da sophia orlov em algo como:
 
-"Achei que nosso contrato valeria de algo, achei que a honra dos voronov valia de algo. Para tudo que nosso contrato valia, ele esta encerrado. Espero que voces continuem com suas acoes demoniacas longe de los angeles e longe de mim. Seus dois agentes, eu descartei na saddle road 327, boa sorte os reconhecendo. Me encontre "
+"Achei que nosso contrato valeria de algo, achei que a honra dos voronov valia de algo. Para tudo que nosso contrato valia, ele esta encerrado. Espero que voces continuem com suas acoes nojentas longe de los angeles e longe de mim. Seus dois agentes, eu descartei na saddle road 327, boa sorte os reconhecendo. "
 

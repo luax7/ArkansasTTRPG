@@ -7,9 +7,11 @@ Como para destravar as partituras eles tem que esperar, eles tem que ir para o h
 **O HOTEL**
 O objetivo do hotel e mover RPG em direção a quebrar a logica de produção do SAS e apreender [[Armano Petrov]] um dos lideres da máfia russa.
 
-No hotel, o plano e fazer um lugar hostil. todas as pessoas devem estar olhando. E mais ainda se eles falarem que eles são da CCS.
+No hotel, o plano e fazer um lugar hostil. todas as pessoas devem estar olhando. E mais ainda se eles falarem que eles são da CCS
 
-Bem, no quarto 1102, quarto registrado no nome de Dmitri Lavoisier, eles encontram um quarto assombroso, parecido com algo de um cientista maluco. Corpos estendidos em ganchos de carne pendurados (esses corpos vão ser armadilhas, quando algo importante acontecer eles vão ativar, se tornando ghouls formados.
+Bem, no quarto 1102, quarto registrado no nome de Dmitri Lavoisier, eles encontram um quarto assombroso, parecido com algo de um cientista maluco. Corpos estendidos em ganchos de carne pendurados. FORMAR Cenas
+
+
 
 Lá, eles vão encontrar um artefato que parece um orbe de vidro semiopaco azul, porém com o centro fraturado, como se uma força negra estivesse tentando sair. Ao tocar 1d12 de pontos de mana são sugados, porém, o centro negro se ativa, brilhando verde.
 
@@ -25,13 +27,8 @@ Abaixo dele, deve ter uma carta explicandoo mínimo sobre o projeto Harmonita, j
 Para além disso, eles devem encontrar um papel dando segmento a linha da máfia russa. Imagino uma carta da sophia orlov em algo como:
 
 > [!NOTE]
-> "Achei que nosso contrato valeria de algo, achei que a honra dos voronov valia de algo. Para tudo que nosso contrato valia, ele esta encerrado. Espero que voces continuem com suas acoes nojentas longe de los angeles e longe de mim. Seus dois agentes, eu descartei na saddle road 327, boa sorte os reconhecendo. "
+> "Achei que nosso contrato valeria de algo, achei que a honra dos Voronov valia de algo. Para tudo que nosso contrato valia, ele esta encerrado. Espero que vocês continuem com suas ações nojentas longe de los angeles e longe de mim. E mesmo assim, eu duvido que aquele instalação inútil que vocês fizeram para produzir SAS no museu não tem metade da capacidade que eu teria sozinha.
 
-Planejo fazer os corpos levarem uma pista para alguma parte que traga novamente a origem da Sophia em questão. Isso e, explicar como ela deixou de ser uma magiarca normal, e passou a ser um ser extremamente poderoso, utilizando poderes feéricos
-
-Eu estou pensando em fazer uma entidade feerica ter sido um tipo de mestre pra ela. Entidades feéricas sao menos "Uma força da natureza" e mais um ser com muita capacidade de mana, dessa forma, seria mais plausivel.
-
-Criar um gancho bom para isso, e fazer a sessao durar 4 horas
 
 **Projeto  harmonita**
 O projeto harmonita se trata de criar um portal dentro do "corpo de mana" de uma entidade de mana feerica, para assim ligar o portal ao feywild e alcançar o ambiente primitivamente arcano, isso e, a mana nao apenas muda o mundo, mas a mana compoe o mundo. ela nao e algo externo a realidade, mas define a realidade

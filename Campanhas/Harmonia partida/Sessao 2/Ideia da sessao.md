@@ -11,8 +11,6 @@ No hotel, o plano e fazer um lugar hostil. todas as pessoas devem estar olhando.
 
 Bem, no quarto 1102, quarto registrado no nome de Dmitri Lavoisier, eles encontram um quarto assombroso, parecido com algo de um cientista maluco. Corpos estendidos em ganchos de carne pendurados. FORMAR Cenas
 
-
-
 Lá, eles vão encontrar um artefato que parece um orbe de vidro semiopaco azul, porém com o centro fraturado, como se uma força negra estivesse tentando sair. Ao tocar 1d12 de pontos de mana são sugados, porém, o centro negro se ativa, brilhando verde.
 
 Esse cubo ira servir para conduzir a exploração no feywild, talvez por impedir as mudanças selvagens do terreno ao redor de um raio do orbe.

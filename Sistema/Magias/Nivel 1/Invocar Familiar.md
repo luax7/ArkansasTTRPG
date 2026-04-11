@@ -5,7 +5,7 @@ Componentes Somaticos:
   - G
   - V
   - M
-Duração: Indefinida
+Duração: Instantâneo
 alcance: 1,5 metros
 Alvo: Pessoal
 Dificuldade: Normal, 7

@@ -1,9 +1,6 @@
 ---
 custo: 0
 Tipo: Conjuraçao
-Componentes Somaticos:
-  - G
-  - V
 Duração: 4 turnos, Concentração
 alcance: Pessoal
 Alvo: Pessoal

@@ -1,9 +1,6 @@
 ---
 custo: 3
 Tipo: Transmutação
-Componentes Somaticos:
-  - G
-  - V
 Duração: 2 turnos, Instantâneo
 alcance: 6 metros
 Alvo: Uma criatura
@@ -11,7 +8,6 @@ Dificuldade: Fácil, 6
 Caracteristicas:
   - Conjuraçao pesada
 Açao: Uma ação
-Círculo: "1"
 Componentes:
   - G
   - V

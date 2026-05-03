@@ -12,7 +12,7 @@ Caracteristicas:
   - Conjuraçao pesada
 Açao: Uma ação
 ---
-**Componentes** : Saco de polvora
+**Componentes** : Saco de pólvora
 ### Descrição
 Utiliza magia para registrar feitiços de fortalecimento em uma arma marcial concedendo +1 dado de efeito para qualquer arma (ou objeto)
 

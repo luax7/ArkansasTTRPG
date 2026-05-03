@@ -1,10 +1,6 @@
 ---
 custo: 4
 Tipo: Conjuração
-Componentes Somaticos:
-  - G
-  - V
-  - M
 Duração: Instantâneo, Ação
 alcance: 12 metros
 Alvo: Uma criatura ou objeto
@@ -12,7 +8,6 @@ Dificuldade: Normal, 7
 Caracteristicas:
   - Conjuraçao pesada
 Açao: Uma ação
-Círculo: "2"
 Componentes:
   - G
   - M

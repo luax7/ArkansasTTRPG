@@ -1,10 +1,6 @@
 ---
 custo: 5
 Tipo: Evocação
-Componentes Somaticos:
-  - G
-  - V
-  - M
 Duração: Instantâneo
 alcance: 6 metros
 Alvo: Uma área
@@ -17,6 +13,7 @@ Açao: Uma ação
 Componentes:
   - G
   - M
+  - V
 Círculo: 1
 ---
 **Componentes**: Uma lamina (Faca, espada ou similar) não consumido

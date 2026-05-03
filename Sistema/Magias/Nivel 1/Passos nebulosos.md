@@ -1,13 +1,10 @@
 ---
 custo: 4
 Tipo: Abjuração
-Componentes Somaticos:
-  - M
 Duração: Instantâneo
 alcance: 3 Metros
 Alvo: Uma localização
 Dificuldade: Fácil, 6
-Caracteristicas:
 Açao: Uma ação
 Componentes:
   - M

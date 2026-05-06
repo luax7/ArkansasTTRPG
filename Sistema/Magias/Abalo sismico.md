@@ -12,6 +12,8 @@ Açao: Uma ação
 Componentes:
   - G
   - V
+nivel: 1
+materiais: coiso
 ---
 
 ## Descrição

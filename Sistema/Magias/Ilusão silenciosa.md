@@ -1,16 +1,19 @@
 ---
 custo: 5
-Tipo: Evocação
+Tipo: Conjuraçao
+Duração: Instantâneo
+alcance: 1,5 metros
+Alvo: Pessoal
+Dificuldade: Indiferente, 4
+Caracteristicas:
+  - Conjuraçao pesada
+  - circulo
+Açao: Uma ação
 Componentes:
   - G
   - V
-  - M
-Duração: 1D4 turnos, Instantâneo
-alcance: 5 metros
-Alvo: Uma área
-Dificuldade: Fácil, 4
-Caracteristicas:
-Açao: Uma ação
+nivel: 1
+materiais: coiso
 ---
 ## Descrição
 

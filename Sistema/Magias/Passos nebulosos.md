@@ -1,15 +1,19 @@
 ---
-custo: 4
-Tipo: Abjuração
+custo: 5
+Tipo: Conjuraçao
 Duração: Instantâneo
-alcance: 3 Metros
-Alvo: Uma localização
-Dificuldade: Fácil, 6
+alcance: 1,5 metros
+Alvo: Pessoal
+Dificuldade: Indiferente, 4
+Caracteristicas:
+  - Conjuraçao pesada
+  - circulo
 Açao: Uma ação
 Componentes:
-  - M
   - G
-Círculo: 1
+  - V
+nivel: 1
+materiais: coiso
 ---
 **Componentes**: 20 Gramas de nitra (10$) consumido
 ## Descrição

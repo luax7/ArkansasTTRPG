@@ -4,13 +4,16 @@ Tipo: Conjuraçao
 Duração: Instantâneo
 alcance: 1,5 metros
 Alvo: Pessoal
-Dificuldade: Normal, 7
+Dificuldade: Indiferente, 4
+Caracteristicas:
+  - Conjuraçao pesada
+  - circulo
 Açao: Uma ação
-Círculo: 1
 Componentes:
   - G
-  - M
   - V
+nivel: 1
+materiais: coiso
 ---
 **Componentes** Incenso ritualístico *Consumido* ( 5$ ), caule de eltex ( 15$ ) *Consumido*
 

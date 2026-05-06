@@ -2,20 +2,19 @@
 custo: 5
 Tipo: Conjuraçao
 Duração: Instantâneo
-alcance: 9 metros
+alcance: 1,5 metros
 Alvo: Pessoal
-Dificuldade: Fácil, 6
+Dificuldade: Indiferente, 4
 Caracteristicas:
   - Conjuraçao pesada
   - circulo
 Açao: Uma ação
-Círculo: "1"
 Componentes:
   - G
   - V
-  - M
+nivel: 1
+materiais: coiso
 ---
-
 
 A carne do conjurador se contorce por um instante, respondendo ao chamado de Nythra. Ossos rangem, músculos se deformam e algo novo  e errado emerge temporariamente. Essas mudanças não são estáveis… mas são poderosas enquanto duram.
 

@@ -1,18 +1,19 @@
 ---
-custo: 4
-Tipo: Abjuração
-Duração: 1D4 + 2 turnos, Instantâneo
-alcance: Pessoal
+custo: 5
+Tipo: Conjuraçao
+Duração: Instantâneo
+alcance: 1,5 metros
 Alvo: Pessoal
-Dificuldade: Fácil, 6
+Dificuldade: Indiferente, 4
 Caracteristicas:
   - Conjuraçao pesada
+  - circulo
 Açao: Uma ação
 Componentes:
   - G
-  - M
   - V
-Círculo: 1
+nivel: 1
+materiais: coiso
 ---
 **Componentes**: Pó de rocha (10$) consumido
 ## Descrição

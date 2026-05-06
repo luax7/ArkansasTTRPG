@@ -1,16 +1,19 @@
 ---
-custo: 4
-Tipo: Evocação
+custo: 5
+Tipo: Conjuraçao
+Duração: Instantâneo
+alcance: 1,5 metros
+Alvo: Pessoal
+Dificuldade: Indiferente, 4
+Caracteristicas:
+  - Conjuraçao pesada
+  - circulo
+Açao: Uma ação
 Componentes:
   - G
   - V
-Duração: Instantâneo
-alcance: 15 metros
-Alvo: Uma criatura ou objeto
-Dificuldade: Fácil, 4
-Caracteristicas:
-  - Feitiço leve
-Açao: Uma ação
+nivel: 1
+materiais: coiso
 ---
 ## Descrição
 Conjura chamas vermelhas no corpo de um inimigo, causando 2D8 de dano de fogo

@@ -1,16 +1,19 @@
 ---
-custo: 3
-Tipo: Transmutação
-Duração: 2 turnos, Instantâneo
-alcance: 6 metros
-Alvo: Uma criatura
-Dificuldade: Fácil, 6
+custo: 5
+Tipo: Conjuraçao
+Duração: Instantâneo
+alcance: 1,5 metros
+Alvo: Pessoal
+Dificuldade: Indiferente, 4
 Caracteristicas:
   - Conjuraçao pesada
+  - circulo
 Açao: Uma ação
 Componentes:
   - G
   - V
+nivel: 1
+materiais: coiso
 ---
 Utiliza a mana ao redor para criar um casco cristalizado ao redor dos membros inferiores de um alvo. 
 

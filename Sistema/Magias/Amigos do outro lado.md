@@ -1,14 +1,18 @@
 ---
-custo: 4
-Tipo: Evocação
-Duração: Instantâneo, 4 Minutos
-alcance: Pessoal
+custo: 5
+Tipo: Conjuraçao
+Duração: Instantâneo
+alcance: 1,5 metros
 Alvo: Pessoal
-Dificuldade: Fácil, 10
+Dificuldade: Indiferente, 4
+Caracteristicas:
+  - Conjuraçao pesada
+  - circulo
 Açao: Uma ação
 Componentes:
   - G
-  - M
   - V
+nivel: 1
+materiais: coiso
 ---
 Você compreende ecos de possibilidades esquecidas para receber vantagem em um teste de investigação.

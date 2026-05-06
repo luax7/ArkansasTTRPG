@@ -1,10 +1,6 @@
 ---
 custo: 4
 Tipo: Abjuração
-Componentes Somaticos:
-  - G
-  - M
-  - V
 Duração: 1D4 + 2 turnos, Instantâneo
 alcance: Pessoal
 Alvo: Pessoal

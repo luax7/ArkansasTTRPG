@@ -11,7 +11,6 @@ Alvo: Uma área
 Dificuldade: Fácil, 4
 Caracteristicas:
 Açao: Uma ação
-Círculo: "1"
 ---
 ## Descrição
 

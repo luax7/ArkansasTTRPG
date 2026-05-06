@@ -11,7 +11,6 @@ Dificuldade: Fácil, 4
 Caracteristicas:
   - Feitiço leve
 Açao: Uma ação
-Círculo: "1"
 ---
 ## Descrição
 Conjura chamas vermelhas no corpo de um inimigo, causando 2D8 de dano de fogo

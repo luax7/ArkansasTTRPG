@@ -1,7 +1,6 @@
 ---
 custo: 5
 Tipo: Conjuraçao
-Componentes Somaticos:
 Duração: Instantâneo
 alcance: 9 metros
 Alvo: Pessoal

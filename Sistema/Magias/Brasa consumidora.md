@@ -17,7 +17,7 @@ materiais: coiso
 ---
 ## Descrição
 Conjura chamas vermelhas no corpo de um inimigo, causando 2D8 de dano de fogo
-
+\n
 ### Conjuração leve
 Custo : 2
 Conjura pequenas chamas no inimigo, causando 1D8 de dano de fogo

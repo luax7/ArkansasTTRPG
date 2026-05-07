@@ -1,14 +1,7 @@
 <div class="MainContainer">
     
         {#each FilteredSpells.values() as Spells}
-            <Spell 
-            components={Spells.Props.componentes}
-            level={Spells.Level}
-            name={Spells.Name}
-            shortdesc={Spells.Description.slice(0,60)+"..."}
-            custo={Spells.Props.custo}>
-
-            </Spell>
+            <Spell info={Spells}></Spell>
         {/each}
     
 </div>
@@ -18,48 +11,48 @@
         <li id="SearchInput"><input bind:value={TextField} type="text"></li>
     </ul>
     <ul class="selectedButton">
-        <li><button>Selected</button></li>
+        <li><button onclick={() => {SelectedOnly = !SelectedOnly}}>Selected</button></li>
     </ul>
 </div>
 <script lang="ts">
-    import Spell from "../../spell.svelte";
 
-let FetchedSpellsAPI : FetchSpellResult[] = []; 
+    import Spell from "../../components/spell.svelte";
+
 let DownloadedSpells : SpellClass[] = $state([]);
 let Filters: ((spell: SpellClass) => boolean)[] = 
 [
 ((spell) => {
     if(TextField != "") return spell.Name.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, "").includes(TextField.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, ""))
     return true
+}),
+((spell) => {
+    if(SelectedOnly == true){
+        const selectedList = JSON.parse(localStorage.getItem("spellList") || "") as string[]
+        return selectedList.includes(spell.Name)
+    }
+    return true
 })
 ];
-
-
 let FilteredSpells : SpellClass[] = $derived(DownloadedSpells.filter(spell => Filters.every(fn => fn(spell))))
-
-
-
-
 let TextField : string = $state("");
-
+let SelectedOnly = $state(false)
 
     import yaml from 'js-yaml'
     import { onMount } from "svelte";
 
     onMount(async() => {
-        FetchedSpellsAPI.push(...(await GetSpellsInfoFromLevel(1)))
-        FetchedSpellsAPI.push(...(await GetSpellsInfoFromLevel(2)))
-
+        if(!sessionStorage.getItem("SessionStorage"))
+    {
+        sessionStorage.setItem("RegisteredSpells",JSON.stringify(await GetRegisteredSpells()))
+    }
         LoadFilteredSpells()
-        .then(() => {console.log(DownloadedSpells)})
     })
-
-    async function GetSpellsInfoFromLevel(level : number) : Promise<FetchSpellResult[]>
+    async function GetRegisteredSpells() : Promise<FetchSpellResult[]>
     {
         return new Promise(async(res,rej) => {
             let rest : string;
         
-            rest = (await (await fetch("https://api.github.com/repos/luax7/ArkansasTTRPG/contents/Sistema/Magias/Nivel%20"+level.toString())).text())
+            rest = (await (await fetch("https://api.github.com/repos/luax7/ArkansasTTRPG/contents/Sistema/Magias/")).text())
             const response = JSON.parse(rest) as FetchSpellResult[]
         
             res(response)
@@ -67,7 +60,6 @@ let TextField : string = $state("");
 
         
     }
-
     async function GetSpell(url:string) : Promise<SpellClass> 
     {
         return new Promise<SpellClass>(async(resolve,reject) => {
@@ -98,11 +90,13 @@ let TextField : string = $state("");
     }
     async function LoadFilteredSpells()
     {
-        FetchedSpellsAPI.forEach(async(value) => {
+        const registeredSpells = JSON.parse(sessionStorage.getItem("RegisteredSpells")!) as FetchSpellResult[]
+        
+        registeredSpells.forEach(async(value) => {
             (await GetSpell(value.download_url)).Save()
         })
 
-        DownloadedSpells.sort((a,b) => {return Number(a.Level)-Number(b.Level)})
+        DownloadedSpells.sort((a,b) => {return Number(a.Props.nivel)-Number(b.Props.nivel)})
     }
 
     type FetchSpellResult ={
@@ -126,10 +120,12 @@ let TextField : string = $state("");
         "Tipo":string
         "duração":string
         "alcance":string
-        "dlvo":string
+        "alvo":string
         "dificuldade":string
         "açao":string
         "componentes":string
+        "materiais":string
+        "nivel":string
     }
     class SpellClass {
         constructor(desc:string,props:SpellProperties,Name : string,Url:string,Level:string)
@@ -138,13 +134,12 @@ let TextField : string = $state("");
             this.Props = props
             this.Name = Name
             this.Url = Url
-            this.Level=Level
+
         }
         Props:SpellProperties = new SpellProperties
         Description:string = ""
         Name:string
         Url:string
-        Level:string
 
         public Update() : Promise<boolean>{
             return new Promise<boolean>((resolve,reject) => {
@@ -166,12 +161,13 @@ let TextField : string = $state("");
         public Save()
         {
             const index = DownloadedSpells.findIndex((Query,index) => {return Query.Name == this.Name})
-            console.log(this)
+            
             if(index == -1) DownloadedSpells.push(this)
             else DownloadedSpells.at(index) == this
         }
     }
 
+    
 </script>
 <style>
 
@@ -187,6 +183,7 @@ let TextField : string = $state("");
         gap:10px 0px;
         align-content: start;
         max-width: 1240px;
+        justify-content: center;
     }
     .BottomBar{
         width: 100vw;
@@ -209,6 +206,13 @@ let TextField : string = $state("");
         align-self:center;
         justify-self: flex-end;
         list-style: none;
+    }
+
+    @media (max-width:500px)
+    {
+        .MainContainer{
+            grid-template-columns: 1fr;
+        }
     }
 
 </style>

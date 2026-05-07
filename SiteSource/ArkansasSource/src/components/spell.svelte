@@ -1,22 +1,33 @@
 <script>
+    import { goto } from "$app/navigation";
+    import { onMount } from "svelte";
+   
+
+ 
     let {
-        name,
-        level,
-        components,
-        shortdesc,
-        custo
-    } = $props();
+        info
+    }= $props();
+
+    let width = $state(0);
+
+    function OpenSpell()
+    {
+        goto("/spells/"+info.Name)
+    }
+
 </script>
 
-<div class="SpellContainer">
-    <h1 class="MainInfo"><spam class="SpammedName">{name}</spam>, level {level}</h1>
-    <p class="shortdesc">{shortdesc}</p>
+<button class="SpellContainer" bind:clientWidth={width} onclick={OpenSpell}>
+    <h1 class="MainInfo"><spam class="SpammedName">{info.Name}</spam>, level {info.level}</h1>
+    {#if  width > 355}
+        <p class="shortdesc">{info.Description.slice(0,60)+"..."}</p>
+    {/if}
 
     <div class="flexend">
-            <p>Custo: <span class="bold">{custo}</span></p>
-            <p>Components: <span class="bold">{components}</span></p>
+            <p>Custo: <span class="bold">{info.custo}</span></p>
+            <p>Components: <span class="bold">{info.components}</span></p>
     </div>
-</div>
+</button>
 
 <style>
     .bold{
@@ -47,6 +58,7 @@
         font-family: 'Courier New', Courier, monospace;
         max-width: 580px;
         padding: 0px;
+        background-color: white;
     }
     .SpellContainer * {
         margin: 0px;
@@ -66,5 +78,9 @@
     }
     .SpellContainer:hover{
         cursor: pointer;
+    }
+    @media (max-width:500px)
+    {
+
     }
 </style>

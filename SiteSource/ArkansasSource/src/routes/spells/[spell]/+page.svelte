@@ -163,7 +163,9 @@
         background-color: rgb(233, 233, 233);
         position: absolute;
         top: 0px;
-        
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
     }
     .Selector::after{
         content: "";
@@ -173,6 +175,21 @@
         position: absolute;
         top: 10vh;
         left: 0px;
+    }
+    .Selector button{
+        font-size: 3rem;
+        background-color: transparent;
+        width: fit-content;
+        height: fit-content;
+        border: 0px;
+    }
+    .Selector button:hover{
+        cursor: pointer;
+        color: rgb(116, 116, 116);
+    }
+    button p{
+        margin: 0px;
+        
     }
     .Header{
         width:90vw;
@@ -203,5 +220,6 @@
         margin-top: 20px;
         margin-bottom: 0px;
     }
+    
 
 </style>

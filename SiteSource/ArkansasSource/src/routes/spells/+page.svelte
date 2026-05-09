@@ -41,7 +41,7 @@ let SelectedOnly = $state(false)
     import { onMount } from "svelte";
 
     onMount(async() => {
-        if(!sessionStorage.getItem("SessionStorage"))
+    if(!sessionStorage.getItem("RegisteredSpells"))
     {
         sessionStorage.setItem("RegisteredSpells",JSON.stringify(await GetRegisteredSpells()))
     }
@@ -90,11 +90,16 @@ let SelectedOnly = $state(false)
     }
     async function LoadFilteredSpells()
     {
-        const registeredSpells = JSON.parse(sessionStorage.getItem("RegisteredSpells")!) as FetchSpellResult[]
         
+        const registeredSpells = JSON.parse(sessionStorage.getItem("RegisteredSpells")!) as FetchSpellResult[]
+        const DownloadedSpells = JSON.parse(sessionStorage.getItem("DownloadedSpells")!) as SpellClass[]
+        
+        if(registeredSpells.length != DownloadedSpells.length)
+        {
         registeredSpells.forEach(async(value) => {
             (await GetSpell(value.download_url)).Save()
         })
+        }
 
         DownloadedSpells.sort((a,b) => {return Number(a.Props.nivel)-Number(b.Props.nivel)})
     }

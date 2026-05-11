@@ -11,11 +11,11 @@ Alvo: Pessoal
 Dificuldade: Normal, 7
 Caracteristicas:
 Açao: Uma ação
-Círculo: 1
 Componentes:
   - G
-  - M
   - V
+nivel: 1
+materiais: coiso
 ---
 **Componentes** Incenso ritualístico *Consumido* ( 5$ ), caule de eltex ( 15$ ) *Consumido*
 

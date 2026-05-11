@@ -12,8 +12,10 @@ Açao: Uma ação
 Componentes:
   - G
   - V
+nivel: 1
+materiais: coiso
 ---
-
+**Componentes**: 20 Gramas de nitra (10$) consumido
 ## Descrição
-Inimigos na área fazem teste físico (DT padrão).  
-Falha: ficam derrubados.
+Move-se rapidamente até 3m sem provocar reações.  
+Se estiver escondido, mantém o estado.

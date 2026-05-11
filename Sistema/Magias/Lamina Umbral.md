@@ -1,20 +1,19 @@
 ---
 custo: 5
-Tipo: Evocação
+Tipo: Conjuraçao
 Duração: Instantâneo
-alcance: 6 metros
-Alvo: Uma área
-Dificuldade: Fácil, 7
+alcance: 1,5 metros
+Alvo: Pessoal
+Dificuldade: Indiferente, 4
 Caracteristicas:
-  - Area
-  - Linha 5 metros
   - Conjuraçao pesada
+  - circulo
 Açao: Uma ação
 Componentes:
   - G
-  - M
   - V
-Círculo: 1
+nivel: 1
+materiais: coiso
 ---
 **Componentes**: Uma lamina (Faca, espada ou similar) não consumido
 ## Descrição

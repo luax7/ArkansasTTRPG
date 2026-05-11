@@ -1,17 +1,19 @@
 ---
-custo: 4
-Tipo: Conjuração
-Duração: Instantâneo, Ação
-alcance: 12 metros
-Alvo: Uma criatura ou objeto
-Dificuldade: Normal, 7
+custo: 5
+Tipo: Conjuraçao
+Duração: Instantâneo
+alcance: 1,5 metros
+Alvo: Pessoal
+Dificuldade: Indiferente, 4
 Caracteristicas:
   - Conjuraçao pesada
+  - circulo
 Açao: Uma ação
 Componentes:
   - G
-  - M
   - V
+nivel: 1
+materiais: coiso
 ---
 **Componentes**: Pó de arvore anciã (5$) *consumido*
 

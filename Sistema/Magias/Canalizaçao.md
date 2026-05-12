@@ -1,17 +1,19 @@
 ---
-custo: 0
+custo: 5
 Tipo: Conjuraçao
-Duração: 4 turnos, Concentração
-alcance: Pessoal
+Duração: Instantâneo
+alcance: 1,5 metros
 Alvo: Pessoal
-Dificuldade: Fácil, 6
+Dificuldade: Indiferente, 4
 Caracteristicas:
   - Conjuraçao pesada
+  - circulo
 Açao: Uma ação
 Componentes:
   - G
   - V
-Círculo: "1"
+nivel: 1
+materiais: coiso
 ---
 ## Descrição
 O Conjurador recupera 2 de mana por turno 

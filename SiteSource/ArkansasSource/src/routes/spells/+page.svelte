@@ -3,11 +3,17 @@
         {#each FilteredSpells.values() as Spells}
             <Spell info={Spells}></Spell>
         {/each}
-    
+        {#if FilterMenuOpen}
+            <div class="FilterMenuContainer">
+                
+            </div>
+            <div class="Backdrop"></div>
+        {/if}
+
 </div>
 <div class="BottomBar">
     <ul class="QueryButtons">
-        <li id="FilterButton"><button>filter</button></li>
+        <li id="FilterButton" ><button onclick={(() => {FilterMenuOpen = !FilterMenuOpen})}>filter</button></li>
         <li id="SearchInput"><input bind:value={TextField} type="text"></li>
     </ul>
     <ul class="selectedButton">
@@ -16,7 +22,62 @@
 </div>
 <script lang="ts">
 
-    import Spell from "../../components/spell.svelte";
+import yaml from 'js-yaml'
+import { onMount } from "svelte";
+import Spell from "../../components/spell.svelte";
+
+    class SpellProperties {
+        "custo":number
+        "Tipo":string
+        "duração":string
+        "alcance":string
+        "alvo":string
+        "dificuldade":string
+        "açao":string
+        "componentes":string
+        "materiais":string
+        "nivel":string
+    }
+    class SpellClass {
+        constructor(desc:string,props:SpellProperties,Name : string,Url:string,Level:string)
+        {
+            this.Description = desc;
+            this.Props = props
+            this.Name = Name
+            this.Url = Url
+
+        }
+        Props:SpellProperties = new SpellProperties
+        Description:string = ""
+        Name:string
+        Url:string
+
+        public Update() : Promise<boolean>{
+            return new Promise<boolean>((resolve,reject) => {
+                GetSpell(this.Url)
+                .then((newValue) => {
+
+                    this.Description = newValue.Description;
+                    this.Name = newValue.Name;
+                    this.Props = newValue.Props;
+                    this.Save()
+                    
+                    resolve(true)
+                })
+                .catch((err) => {
+                    reject(err)
+                })
+            })
+        }
+        public Save()
+        {
+            const index = DownloadedSpells.findIndex((Query,index) => {return Query.Name == this.Name})
+            
+            if(index == -1) DownloadedSpells.push(this)
+            else DownloadedSpells[index] = this
+            sessionStorage.setItem("DownloadedSpells", JSON.stringify(DownloadedSpells))
+        }
+    }
 
 let DownloadedSpells : SpellClass[] = $state([]);
 let Filters: ((spell: SpellClass) => boolean)[] = 
@@ -33,12 +94,12 @@ let Filters: ((spell: SpellClass) => boolean)[] =
     return true
 })
 ];
+
 let FilteredSpells : SpellClass[] = $derived(DownloadedSpells.filter(spell => Filters.every(fn => fn(spell))))
 let TextField : string = $state("");
 let SelectedOnly = $state(false)
-
-    import yaml from 'js-yaml'
-    import { onMount } from "svelte";
+let FilterMenuOpen = $state(false)
+let FilterProperties = $inspect(0)
 
     onMount(async() => {
     if(!sessionStorage.getItem("RegisteredSpells"))
@@ -90,18 +151,29 @@ let SelectedOnly = $state(false)
     }
     async function LoadFilteredSpells()
     {
-        
         const registeredSpells = JSON.parse(sessionStorage.getItem("RegisteredSpells")!) as FetchSpellResult[]
-        const DownloadedSpells = JSON.parse(sessionStorage.getItem("DownloadedSpells")!) as SpellClass[]
-        
-        if(registeredSpells.length != DownloadedSpells.length)
+        const storedDownloadedSpells = JSON.parse(sessionStorage.getItem("DownloadedSpells") || "[]") as SpellClass[]
+
+        if(storedDownloadedSpells.length > 0)
         {
-        registeredSpells.forEach(async(value) => {
-            (await GetSpell(value.download_url)).Save()
-        })
+            DownloadedSpells.splice(0, DownloadedSpells.length, ...storedDownloadedSpells)
+        }
+
+        if(registeredSpells.length != storedDownloadedSpells.length)
+        {
+            for (const value of registeredSpells)
+            {
+                const spell = await GetSpell(value.download_url)
+                spell.Save()
+            }
         }
 
         DownloadedSpells.sort((a,b) => {return Number(a.Props.nivel)-Number(b.Props.nivel)})
+        sessionStorage.setItem("DownloadedSpells", JSON.stringify(DownloadedSpells))
+    }
+    function OpenFilterMenu()
+    {
+
     }
 
     type FetchSpellResult ={
@@ -120,62 +192,30 @@ let SelectedOnly = $state(false)
           "html": string
         }
     }
-    class SpellProperties {
-        "custo":number
-        "Tipo":string
-        "duração":string
-        "alcance":string
-        "alvo":string
-        "dificuldade":string
-        "açao":string
-        "componentes":string
-        "materiais":string
-        "nivel":string
-    }
-    class SpellClass {
-        constructor(desc:string,props:SpellProperties,Name : string,Url:string,Level:string)
-        {
-            this.Description = desc;
-            this.Props = props
-            this.Name = Name
-            this.Url = Url
-
-        }
-        Props:SpellProperties = new SpellProperties
-        Description:string = ""
-        Name:string
-        Url:string
-
-        public Update() : Promise<boolean>{
-            return new Promise<boolean>((resolve,reject) => {
-                GetSpell(this.Url)
-                .then((newValue) => {
-
-                    this.Description = newValue.Description;
-                    this.Name = newValue.Name;
-                    this.Props = newValue.Props;
-                    this.Save()
-                    
-                    resolve(true)
-                })
-                .catch((err) => {
-                    reject(err)
-                })
-            })
-        }
-        public Save()
-        {
-            const index = DownloadedSpells.findIndex((Query,index) => {return Query.Name == this.Name})
-            
-            if(index == -1) DownloadedSpells.push(this)
-            else DownloadedSpells.at(index) == this
-        }
-    }
 
     
 </script>
 <style>
-
+    .FilterMenuContainer{
+        position: absolute;
+        width: 80vw;
+        height: 80vh;
+        background-color: rgb(233, 233, 233);;
+        border-radius: 10px;
+        top: 10vh;
+        left: 10vw;
+        z-index: 10;
+        box-shadow: 1rem 1rem 1rem rgba(0, 0, 0, 0.3);
+    }
+    .Backdrop{
+        position: absolute;
+        width: 100vw;
+        height: 100vh;
+        background-color: rgba(0,0,0,0.5);
+        top: 0px;
+        left: 0px;
+        z-index: 5;
+    }
     .MainContainer{
         width: 100%;
         height: 90vh;

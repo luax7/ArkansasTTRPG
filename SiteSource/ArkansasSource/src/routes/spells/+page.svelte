@@ -71,7 +71,6 @@
     let TextField: string = $state("");
     let SelectedOnly = $state(false);
     let FilterMenuOpen = $state(false);
-    let FilterProperties = $inspect(0);
 
     let Filters: ((spell: SpellClass) => boolean)[] = [
         (spell) => {

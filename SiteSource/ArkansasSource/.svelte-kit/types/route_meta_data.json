@@ -1,0 +1,7 @@
+{
+	"/": [],
+	"/spells": [],
+	"/spells/[spell]": [
+		"src/routes/spells/[spell]/+page.server.ts"
+	]
+}

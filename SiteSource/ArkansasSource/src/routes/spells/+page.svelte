@@ -69,9 +69,7 @@
         DownloadedSpells.filter((spell) => Filters.every((fn) => fn(spell))),
     );
     let TextField: string = $state("");
-    let SelectedOnly = $state(
-        sessionStorage.getItem("SelectedOnly") === "true",
-    );
+    let SelectedOnly = $state(false);
     let FilterMenuOpen = $state(false);
     let FilterProperties = $inspect(0);
 
@@ -108,6 +106,7 @@
                 JSON.stringify(await GetRegisteredSpells()),
             );
         }
+        SelectedOnly = sessionStorage.getItem("SelectedOnly") == "true";
         LoadFilteredSpells();
     });
     async function GetRegisteredSpells(): Promise<FetchSpellResult[]> {
